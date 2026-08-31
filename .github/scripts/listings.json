@@ -312866,7 +312866,7 @@
         "company_name": "Base Power",
         "id": "55f6de1b-c6ba-4ae1-a357-c089a2c549ac",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312887,7 +312887,7 @@
         "company_name": "Amazon",
         "id": "c44d58c3-05e3-470a-9f21-4722f9d8522d",
         "title": "Software Development Engineer Internship - Fall 2026 - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
