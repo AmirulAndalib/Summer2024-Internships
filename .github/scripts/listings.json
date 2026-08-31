@@ -344078,7 +344078,7 @@
         "company_name": "RTX",
         "id": "b909918b-5b16-4503-b656-a6ecd440233a",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349223,7 +349223,7 @@
         "company_name": "BP",
         "id": "0abea717-8d4b-42a0-af61-e7931e27c5bb",
         "title": "Summer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
