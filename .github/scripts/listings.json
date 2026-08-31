@@ -260390,7 +260390,7 @@
         "company_name": "Keysight Technologies",
         "id": "d2e6b4e9-d706-4c25-9b2c-c8d4a9eda75b",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -301117,7 +301117,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335615,7 +335615,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ee239b53-fb7d-46b7-b98b-900f2b504f38",
         "title": "Transportation Logistics & Analytics Intern - Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
