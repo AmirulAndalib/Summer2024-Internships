@@ -291318,7 +291318,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298920,7 +298920,7 @@
         "company_name": "TikTok",
         "id": "d91645a0-c83d-4a09-bb25-c45044295c83",
         "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -299309,7 +299309,7 @@
         "company_name": "First Bank & Trust",
         "id": "2bac3eef-7c9a-432b-9261-87bd7c6669d4",
         "title": "SharePoint/Power Platform Intern - SharePoint - Power Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311128,7 +311128,7 @@
         "company_name": "Eridu AI",
         "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
         "title": "Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352634,5 +352634,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Brunswick",
+        "id": "85b3e408-7ae2-4096-98fa-2eac99fa020a",
+        "title": "Software Controls Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788217877,
+        "date_posted": 1788134400,
+        "url": "https://brunswick.wd1.myworkdayjobs.com/en-US/search/job/Fond-du-Lac-WI/Mercury-Marine--Software-Controls-Engineering-Intern_JR-051436",
+        "locations": [
+            "Fond du Lac, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Brunswick",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
