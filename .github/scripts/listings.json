@@ -267745,7 +267745,7 @@
         "company_name": "BP",
         "id": "4d40b569-cf87-4b1f-a4ef-eae54c1efc94",
         "title": "Finance & Risk Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292813,7 +292813,7 @@
         "company_name": "Oligo Space",
         "id": "117a3118-d1e6-4371-9a45-113fe44281f4",
         "title": "ML/AI/CS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344103,7 +344103,7 @@
         "company_name": "RTX",
         "id": "992a2117-4cf1-47d8-bb15-9770955da023",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
