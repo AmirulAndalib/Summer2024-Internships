@@ -36581,7 +36581,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -216824,7 +216824,7 @@
         "company_name": "Astranis",
         "id": "358237a9-7866-40f8-98fc-affcbbc15651",
         "title": "Flight Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -257979,7 +257979,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -291727,7 +291727,7 @@
         "company_name": "SpreeAI ",
         "id": "0b289d87-b4b1-4056-8003-0a76181dcb52",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -292093,7 +292093,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -302522,7 +302522,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -321925,7 +321925,7 @@
         "company_name": "Motorola",
         "id": "ab4dacc0-3b0f-4a64-8351-f7ee4198e2ab",
         "title": "Android Platform Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345320,7 +345320,7 @@
         "company_name": "American University",
         "id": "e11e5194-bb9a-4c4d-b11d-dc670a511c17",
         "title": "Research Assistant - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349200,7 +349200,7 @@
         "company_name": "BP",
         "id": "983f63dc-0908-47bb-85eb-e4bcb5c17386",
         "title": "Finance & Risk Intern - Supply, Trading, & Shipping - Finance & Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
