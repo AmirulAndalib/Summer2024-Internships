@@ -215376,7 +215376,7 @@
         "company_name": "Integra FEC",
         "id": "b9a99f84-c011-4f16-806a-8ad02e98b530",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -283386,7 +283386,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319104,7 +319104,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "acf117a3-c0c1-472f-ad4c-e68012e06ab4",
         "title": "Software Engineer Intern - AI Focus",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
