@@ -220346,7 +220346,7 @@
         "company_name": "Geisinger",
         "id": "a5ea04af-7e0c-4b40-92d4-ed0f73096c6c",
         "title": "GME Analytics & Dashboard Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -265558,7 +265558,7 @@
         "company_name": "Synchrony Financial",
         "id": "0de94479-9581-45a1-9e9b-1d63a3842ebb",
         "title": "Emerging Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -312522,7 +312522,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "d521d54d-6211-43d4-9d48-c874c592067d",
         "title": "Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314344,7 +314344,7 @@
         "company_name": "HyperLight",
         "id": "c6c209fe-1929-49b7-bc1b-acc754aa5793",
         "title": "Integrated Photonics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Fall 2026"
@@ -334428,7 +334428,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345158,7 +345158,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -345182,7 +345182,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -349871,7 +349871,7 @@
         "company_name": "Synchrony Financial",
         "id": "bd9d0095-41b0-4c24-80b4-bd9e878f2e43",
         "title": "Emerging Technology Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349934,7 +349934,7 @@
         "company_name": "Centific",
         "id": "c213b582-3232-47e0-9de1-aec552f605c1",
         "title": "Technical Intern - Masters or PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -357197,7 +357197,7 @@
         "company_name": "L3Harris Technologies",
         "id": "20010a10-012c-43d3-ad8a-06a00c259822",
         "title": "Integration and Test Engineering Intern - Test Engineering Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -359248,5 +359248,508 @@
         "degrees": [
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "c82530ca-dbef-4fab-9d6f-c3146e43aeb8",
+        "title": "Data Science Co-op - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788290860,
+        "date_posted": 1788220800,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "635bf0d1-e3cb-4d15-98d1-86f3a5f11691",
+        "title": "Software Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788290859,
+        "date_posted": 1788220800,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "ffd397b2-8311-43d4-b913-acf01647f231",
+        "title": "Technical Publications Technical Developer Intern - Artificial Intelligence/Machine Learning",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788290505,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-CT-EAST-HARTFORD-ETC--400-Main-St--BLDG-ETC/Technical-Publications-AI-ML-Technical-Developer-Intern--Summer-2027---Onsite-_01866027",
+        "locations": [
+            "East Hartford, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "e959e730-a359-41c5-86c2-438b58644550",
+        "title": "Systems Exploitation Intern - Reverse Engineer - Systems Exploitation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788290500,
+        "date_posted": 1788290307,
+        "url": "https://careers.jhuapl.edu/jobs/59798?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Google",
+        "id": "1fa0cf6c-b41d-4a3e-bd89-e3efc8a41a1f",
+        "title": "Data Analytics Apprentice - February 2027 Start",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788290336,
+        "date_posted": 1788290149,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/132315893450318534",
+        "locations": [
+            "LA",
+            "Chicago, IL",
+            "NYC",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Verisk",
+        "id": "1920c9e2-0339-4167-aa3a-3a0e8dd29095",
+        "title": "Technology Intern - Summer Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788290189,
+        "date_posted": 1788290038,
+        "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4722",
+        "locations": [
+            "Holmdel, NJ",
+            "Jersey City, NJ",
+            "Lehi, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/Verisk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Bootcamp"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "58e0fc45-0a62-48e7-b095-d62d3cfbca39",
+        "title": "Software Developer Intern - Address Intelligence Platform",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788290281,
+        "date_posted": 1788220800,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Software-Development-Intern---Address-Intelligence-Platform_JR111611",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Dynamics Information Technology",
+        "id": "2ae8fb51-3da1-4159-8ea7-1458e29aedc6",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788290159,
+        "date_posted": 1788220800,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-LA-Bossier-City/Data---Analytics-Associate--Intern-_RQ225507",
+        "locations": [
+            "Bossier City, LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Post Holdings",
+        "id": "aecf9a61-0e55-4e17-873b-d56a92f353a8",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788289939,
+        "date_posted": 1788289628,
+        "url": "https://jobs.postholdings.com/jobs/31960?icims=1",
+        "locations": [
+            "Lakeville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Post-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Riverside Natural Foods",
+        "id": "cd370010-ba2c-4a69-901c-5d7c5cb882d7",
+        "title": "Junior Data Analyst Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788289922,
+        "date_posted": 1788289853,
+        "url": "https://job-boards.greenhouse.io/riversidenaturalfoodsltd/jobs/5409377008",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Riverside-Natural-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Post Holdings",
+        "id": "b366c04d-a45d-4b79-a577-682f0b05ade0",
+        "title": "Business Intelligence Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788289742,
+        "date_posted": 1788289626,
+        "url": "https://jobs.postholdings.com/jobs/31924?icims=1",
+        "locations": [
+            "Lakeville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Post-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Post Holdings",
+        "id": "7a7db20b-8452-490d-9750-51cb663773d6",
+        "title": "Product R&D Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788289742,
+        "date_posted": 1788289629,
+        "url": "https://jobs.postholdings.com/jobs/31925?icims=1",
+        "locations": [
+            "Lakeville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Post-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Post Holdings",
+        "id": "6de536a3-1aec-4953-91d2-43e21e6062ef",
+        "title": "Data Science Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788289742,
+        "date_posted": 1788289629,
+        "url": "https://jobs.postholdings.com/jobs/31961?icims=1",
+        "locations": [
+            "Lakeville, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Post-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Perpay",
+        "id": "2d992297-70f1-4f62-852b-75acf2b9ef3b",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788289764,
+        "date_posted": 1788289611,
+        "url": "https://job-boards.greenhouse.io/perpay/jobs/4076934007",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Perpay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "a7a21277-7af0-4b06-894f-af2ce1530e21",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788289742,
+        "date_posted": 1788289304,
+        "url": "https://jobs.l3harris.com/job/Herndon-Software-Engineer-Intern-VA-20171/1413343400/?ats=successfactors",
+        "locations": [
+            "Herndon, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "70637f48-372f-47ac-9ea0-d8cc4f9c42b0",
+        "title": "Software Engineer Intern - Digital Signal Processing",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788289521,
+        "date_posted": 1788289307,
+        "url": "https://jobs.l3harris.com/job/Wilmington-Intern,-Software-Engineer-MA-01887/1425515000/?ats=successfactors",
+        "locations": [
+            "Wilmington, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "L3Harris Technologies",
+        "id": "cbe43bb3-21d6-4108-aab0-ab1d06246c86",
+        "title": "IT Business Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788289523,
+        "date_posted": 1788289309,
+        "url": "https://jobs.l3harris.com/job/Rochester-IT-Business-Analysis-Intern-NY-14606/1425549200/?ats=successfactors",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "US Foods",
+        "id": "ff540679-724e-400d-914e-3be5549b0166",
+        "title": "Data Advisory Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788289353,
+        "date_posted": 1788220800,
+        "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Advisory-Analyst--Hybrid--Onsite---Remote-_R282115",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "US Foods",
+        "id": "6058a81f-b551-4b1c-af0f-255daffabc0f",
+        "title": "AI Automation Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788289347,
+        "date_posted": 1788220800,
+        "url": "https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---AI-Automation--Hybrid--Onsite---Remote-_R282109",
+        "locations": [
+            "Rosemont, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/US-Foods",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Newrez",
+        "id": "df045001-6540-4f6a-989a-92d2042973dd",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788289327,
+        "date_posted": 1788220800,
+        "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
+        "locations": [
+            "Coppell, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Newrez",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Figure",
+        "id": "404baf49-0fa6-44f4-927d-2bbe7d993a06",
+        "title": "Robot Service Technician Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788290134,
+        "date_posted": 1784597413,
+        "url": "https://job-boards.greenhouse.io/figureai/jobs/4698535006",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Figure-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
