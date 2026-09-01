@@ -297264,7 +297264,7 @@
         "company_name": "Magna",
         "id": "d1b5909b-5773-4d89-92a7-604b04556e03",
         "title": "R&D-Computer Vision Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304336,7 +304336,7 @@
         "company_name": "Garmin",
         "id": "7584349f-872b-4e52-aa51-ce708d9c25e5",
         "title": "Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314155,7 +314155,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2115234d-be28-4c20-b435-cbb15464dda9",
         "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343338,7 +343338,7 @@
         "company_name": "GlossGenius",
         "id": "bbe17ffe-5f99-4420-9206-e1671d6b0c3f",
         "title": "Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360201,5 +360201,76 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southern Star Central Gas Pipeline",
+        "id": "a4396e82-b740-45d4-b2ae-a3818521c84a",
+        "title": "GIS Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788299327,
+        "date_posted": 1788299249,
+        "url": "https://careers-sscgp.icims.com/jobs/3036/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Owensboro, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Star-Central-Gas-Pipeline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Southern Star Central Gas Pipeline",
+        "id": "2140f739-fe4c-473b-bc1e-5a68a403cd50",
+        "title": "Enterprise Excellence Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788299324,
+        "date_posted": 1788299250,
+        "url": "https://careers-sscgp.icims.com/jobs/3037/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Owensboro, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/Southern-Star-Central-Gas-Pipeline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "159e3829-6dbd-478d-b1af-8842b64ef1c2",
+        "title": "Financial Crime Insights and Analytics Intern - Group Risk Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788298599,
+        "date_posted": 1788220800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--FC-Insights-and-Analytics-Intern--4-Months-_R-0000185601-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
