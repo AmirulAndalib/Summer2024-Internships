@@ -274390,7 +274390,7 @@
         "company_name": "Copart",
         "id": "dc2f3a9e-bfd2-4ade-a19a-e77dfdcd2301",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -279369,7 +279369,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327238,7 +327238,7 @@
         "company_name": "L3Harris Technologies",
         "id": "54727d6b-91fe-4a6f-a0d1-fad49ce8303a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -351472,7 +351472,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357603,5 +357603,304 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "b35a22ca-c906-472e-9f0f-31755153c96a",
+        "title": "Operations Research Scholar",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788279736,
+        "date_posted": 1788279627,
+        "url": "https://careers.united.com/us/en/job/WHQ00026468",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
+        "title": "Research Scholar Intern - Statistics",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788279714,
+        "date_posted": 1788279628,
+        "url": "https://careers.united.com/us/en/job/WHQ00026460",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "8af38e26-5b08-4441-a30d-65c007c9a21a",
+        "title": "Digital Technology Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788279718,
+        "date_posted": 1788279628,
+        "url": "https://careers.united.com/us/en/job/WHQ00026602",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "ebcdd35f-d9de-4094-8255-60b37bc7155f",
+        "title": "Digital Technology Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788279351,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-AZ-TUCSON-801--1151-E-Hermans-Rd--BLDG-801-External-Site/Digital-Technology-Intern--Summer-2027-_01871049",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "0cdea190-0e16-482f-922c-0679d5db6bcd",
+        "title": "Digital Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788279355,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-MCKINNEY-513WC--2501-W-University-Dr--WING-C-BLDG/Digital-Technology-Intern--Summer-2027-_01871045",
+        "locations": [
+            "McKinney, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "e9f9050a-780c-47dd-b98a-17dda2af0453",
+        "title": "Compiler Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788278810,
+        "date_posted": 1788278728,
+        "url": "https://careers.amd.com/jobs/91864?icims=1",
+        "locations": [
+            "Austin, TX",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Fort Collins, CO",
+            "Boxborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Deutsche Bank",
+        "id": "d12e0bed-e602-4c89-a2a8-e19d90755070",
+        "title": "Quantitative FIC Intern - Quantitative Trading",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788278807,
+        "date_posted": 1788278718,
+        "url": "https://db.recsolu.com/external/requisitions/Zrl8co_aF_BXP1FpXI6ODA",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "c00cea89-6203-42a3-af35-f98efd65e78a",
+        "title": "Compiler Engineer Intern/Co-op - Masters",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788278811,
+        "date_posted": 1788278728,
+        "url": "https://careers.amd.com/jobs/91867?icims=1",
+        "locations": [
+            "Austin, TX",
+            "Longmont, CO",
+            "Fishkill, NY",
+            "Fort Collins, CO",
+            "Boxborough, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Deutsche Bank",
+        "id": "ba998649-60fe-4182-b874-a218bea7dbce",
+        "title": "Quantitative Analyst Intern - GSA",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788278815,
+        "date_posted": 1788278722,
+        "url": "https://db.recsolu.com/external/requisitions/7YdoahPnz0FeSk6E58AGDw",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "f0736d54-fe0a-4d54-ad35-f1085b1bd50c",
+        "title": "Compiler Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1788278810,
+        "date_posted": 1788278728,
+        "url": "https://careers.amd.com/jobs/91866?icims=1",
+        "locations": [
+            "San Jose, CA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "b96c7c0a-e52d-479c-8c01-d4e54118328f",
+        "title": "Compiler Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788278810,
+        "date_posted": 1788278729,
+        "url": "https://careers.amd.com/jobs/91865?icims=1",
+        "locations": [
+            "San Jose, CA",
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Deutsche Bank",
+        "id": "ae872991-273f-487c-a956-d7c6b98f691a",
+        "title": "Quantitative Research and Development Labs Sales and Trading Intern - Quantitative Research and Development Labs",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788278815,
+        "date_posted": 1788278722,
+        "url": "https://db.recsolu.com/external/requisitions/9V2pZHlm1P6sUhv7XWogog",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Deutsche-Bank",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
     }
 ]
