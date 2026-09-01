@@ -307666,7 +307666,7 @@
         "company_name": "Incident IQ",
         "id": "8b2a46d9-a5b0-4325-976b-4c70e9da4077",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310825,7 +310825,7 @@
         "company_name": "Maven Securities",
         "id": "76d0cd65-7277-4783-9523-cf9608d9d9b0",
         "title": "Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343832,7 +343832,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1f1c1fff-7634-4750-9468-b5b805ceb862",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -360136,5 +360136,70 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "HP IQ",
+        "id": "3553803a-56d9-4ad7-8751-531339bd2644",
+        "title": "Software Engineer Intern - Connectivity",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788298079,
+        "date_posted": 1788298013,
+        "url": "https://job-boards.greenhouse.io/hpiq/jobs/6176783004",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/HP-IQ",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Kinder Morgan",
+        "id": "111932e9-ef61-4e10-af00-fdf06cb493c7",
+        "title": "Information Technology Intern - Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788298072,
+        "date_posted": 1788297954,
+        "url": "https://careers.kindermorgan.com/jobs/6032?icims=1",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Kinder-Morgan",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Eulerity",
+        "id": "7ae95eff-55e0-4665-83d8-efac629ebe48",
+        "title": "Backend Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788297865,
+        "date_posted": 1788297765,
+        "url": "https://job-boards.greenhouse.io/eulerity/jobs/4709040006",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Eulerity",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
