@@ -235975,7 +235975,7 @@
         "company_name": "Facility Solutions Group",
         "id": "991a8f63-65fa-4790-8de1-d09deeed8643",
         "title": "AI Automation Intern - Electrical Construction Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323029,7 +323029,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343175,7 +343175,7 @@
         "company_name": "RTX",
         "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
         "title": "Customer Data Management and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349018,7 +349018,7 @@
         "company_name": "BP",
         "id": "41cbf8c9-8671-4c27-9e23-4d2a6f578a5a",
         "title": "Commercial Intern - Supply, Trading, & Shipping",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -356241,6 +356241,149 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TC Energy",
+        "id": "9482cef9-a466-4071-a482-6b9206236e32",
+        "title": "Engineering Intern - Engineering",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788257428,
+        "date_posted": 1788220800,
+        "url": "https://tcenergy.wd3.myworkdayjobs.com/CAREER_SITE_TC/job/Houston-Office-TC-Energy-Cente/Student-Intern--Engineering_JR-10742",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/TC-Energy",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "d6e09034-f1b8-496a-9b1c-ad916001fc4c",
+        "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1788257238,
+        "date_posted": 1788256999,
+        "url": "https://www.tesla.com/careers/search/job/281462",
+        "locations": [
+            "Fremont, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Vermeer",
+        "id": "1e725c82-1935-4693-9438-52143ad5e19b",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788257049,
+        "date_posted": 1788220800,
+        "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165",
+        "locations": [
+            "Pella, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vermeer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "640797fc-5abf-4222-9bdb-16b62d09607e",
+        "title": "Graphics Software Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788256870,
+        "date_posted": 1788256545,
+        "url": "https://careers.amd.com/jobs/91359?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "AMD",
+        "id": "874ab97b-4128-4172-bb03-7699b5dbb328",
+        "title": "Firmware Engineer Intern/Co-op - Long Term",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788256873,
+        "date_posted": 1788256547,
+        "url": "https://careers.amd.com/jobs/90297?icims=1",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AMD",
+        "id": "93957738-d6d4-434f-bafe-6286a5b454d8",
+        "title": "Software Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788256801,
+        "date_posted": 1788256546,
+        "url": "https://careers.amd.com/jobs/91367?icims=1",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AMD",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
