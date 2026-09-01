@@ -169285,7 +169285,7 @@
         "company_name": "University of Arkansas",
         "id": "ad639ce0-562f-40b2-8d29-ea4c866cea6e",
         "title": "Cosmos Graduate Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -309281,7 +309281,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -325730,7 +325730,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333377,7 +333377,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "ad17e33e-a964-417b-b1e2-d91d4c0f6146",
         "title": "Investments Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353298,7 +353298,7 @@
         "company_name": "RTX",
         "id": "8d941b39-68a9-40d7-9ff0-fa89b2fe8b34",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
