@@ -123800,7 +123800,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -326607,7 +326607,7 @@
         "company_name": "RTX",
         "id": "f5319b1a-b6a0-42cb-9d68-43dc3a0e2b14",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328991,7 +328991,7 @@
         "company_name": "NVIDIA",
         "id": "79fa5677-0cf7-4393-b826-2aa0806bbcd9",
         "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330792,7 +330792,7 @@
         "company_name": "SOCOTEC UK & Ireland",
         "id": "02476878-55a1-477c-94ee-6d818bddf0af",
         "title": "Summer Intern - Innovations Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346474,7 +346474,7 @@
         "company_name": "RTX",
         "id": "f62aa9c5-1fb9-4d0e-b1b4-f58818fbf4e1",
         "title": "PLM Business Analyst Intern - PLM Transformation and Governance",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -347170,7 +347170,7 @@
         "company_name": "Jabil",
         "id": "44e26efc-e077-4e32-953f-bb89c4e8b21b",
         "title": "Supply Chain Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350237,7 +350237,7 @@
         "company_name": "Medline",
         "id": "f71509d5-e6a6-4016-a57d-e56cd20c0298",
         "title": "RPA & Agentic AI Software Technologies Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
