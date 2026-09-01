@@ -77804,7 +77804,7 @@
         "company_name": "Grant Thornton",
         "id": "5ce66ca1-bdc4-4872-82cf-4966b1f7d9a3",
         "title": "Tax Technology Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270781,7 +270781,7 @@
         "company_name": "Core & Main",
         "id": "cf783ed0-c7de-4051-813a-018e1ba6e7fc",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277630,7 +277630,7 @@
         "company_name": "Magna",
         "id": "3ddc1130-8b7c-449d-ae26-330f7dd9334b",
         "title": "Computer Vision Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291729,7 +291729,7 @@
         "company_name": "SpreeAI ",
         "id": "b307b311-8a8c-4096-bd3b-0d244f3423f0",
         "title": "Machine Learning Engineer Intern - Computer Vision/Multimodal/Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291917,7 +291917,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -351959,7 +351959,7 @@
         "company_name": "Panasonic Holdings",
         "id": "c1ffdb1d-0434-4753-afe0-ba4de1249538",
         "title": "Back-End Cloud Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
