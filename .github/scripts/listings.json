@@ -301440,7 +301440,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "cdaa541b-91c1-4d8e-9532-02dc579cfa22",
         "title": "Application Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -355230,6 +355230,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "K2 Space",
+        "id": "c40c41e2-e8b4-43fe-96af-aa16d504b5e4",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788243202,
+        "date_posted": 1788242694,
+        "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/K2-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "K2 Space",
+        "id": "74497c38-1c21-4544-9540-07b52273f13b",
+        "title": "Radio Frequency Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788243215,
+        "date_posted": 1788242690,
+        "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411919008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/K2-Space",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
