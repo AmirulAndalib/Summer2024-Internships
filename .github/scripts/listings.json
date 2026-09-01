@@ -1,27 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "IDEXX",
-        "id": "f26ea3fb-4283-40bc-98cf-e895f5052f3e",
-        "title": "Embedded Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767512081,
-        "date_posted": 1767512081,
-        "url": "https://idexx.wd1.myworkdayjobs.com/IDEXX/job/Westbrook-ME/Embedded-Software-Engineer-Internship_J-050850",
-        "locations": [
-            "Portland, ME"
-        ],
-        "company_url": "https://simplify.jobs/c/IDEXX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
@@ -229013,7 +228992,7 @@
         "company_name": "Advanced Energy",
         "id": "729f884e-638b-4dcb-aac8-3d44f316cac9",
         "title": "Electronics Service Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -316183,7 +316162,7 @@
         "company_name": "PSP Investments",
         "id": "f545abf5-18c8-42fa-9bc9-37d9184a61a1",
         "title": "AI Solutions Intern - External Manager Selection & Monitoring",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
