@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 291 Inactive Internship Roles by Category
+### Browse 292 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (105)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (106)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (13)
 
@@ -106,7 +106,7 @@
 <td>Software Engineering Intern - Technology</td>
 <td><details><summary><strong>6 locations</strong></summary>Austin, TX<br>Westlake, TX<br>Ann Arbor, MI<br>Southlake, TX<br>Omaha, NE<br>Phoenix, AZ</details></td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -683,6 +683,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Pylon?utm_source=GHList&utm_medium=company">Pylon</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>SF</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Melbourne, FL</td>
@@ -960,7 +967,7 @@
 <td>Data Engineering Intern - Data Engineering</td>
 <td>Austin, TX<br>Westlake, TX<br>Southlake, TX</td>
 <td>🔒</td>
-<td>2d</td>
+<td>3d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Centene?utm_source=GHList&utm_medium=company">Centene</a></strong></td>
