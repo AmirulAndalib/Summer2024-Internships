@@ -262027,7 +262027,7 @@
         "company_name": "Mach Industries",
         "id": "a4780b03-762a-4790-bd5e-2d0cc0c66f12",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -279369,7 +279369,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -327263,7 +327263,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f19cac09-be15-4c34-8da9-93a79ae5b710",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327288,7 +327288,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8bff08a6-1934-4635-b59a-b1deb676d479",
         "title": "Software Engineer Intern 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -333954,7 +333954,7 @@
         "company_name": "General Motors",
         "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
         "title": "Lighting Software Development & Test Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -351472,7 +351472,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -357901,6 +357901,120 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "616f31e5-f760-4f12-ab94-7cfe7c256b54",
+        "title": "Meteorology Support Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788281283,
+        "date_posted": 1788280972,
+        "url": "https://careers.united.com/us/en/job/WHQ00026594",
+        "locations": [
+            "Arlington Heights, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "98ba4abf-1726-45e5-a03c-c711dfb81c84",
+        "title": "Software Engineer Intern - Relational Database",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788281101,
+        "date_posted": 1788281002,
+        "url": "https://jobs.bytedance.com/en/position/7678449088065997109/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "HNTB",
+        "id": "019b7cbc-d688-40c6-9cfb-a31a7dbfa872",
+        "title": "Strategic Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788281101,
+        "date_posted": 1788220800,
+        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Tampa-FL/Strategic-Technology-Intern---Summer-2027_R-31411-1",
+        "locations": [
+            "Tampa, FL",
+            "Tallahassee, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/HNTB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TRUMPF",
+        "id": "1d07b89c-c4c6-4af6-8986-c31a4a7d36c7",
+        "title": "Application Engineer Intern/Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788280318,
+        "date_posted": 1788220800,
+        "url": "https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Application-Engineering-Intern-Co-op_R00042681",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/TRUMPF",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "General Motors",
+        "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
+        "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788280302,
+        "date_posted": 1788220800,
+        "url": "https://generalmotors.wd5.myworkdayjobs.com/en-CA/Careers_GM/job/Markham-Ontario-Canada/XMLNAME-2027-Winter-Co-op-Mechatronic-Infrastructure-Diagnostic-Systems_JR-202618915",
+        "locations": [
+            "Markham, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Motors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
