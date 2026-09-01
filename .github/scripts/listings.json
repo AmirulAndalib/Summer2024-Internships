@@ -34516,7 +34516,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -283048,7 +283048,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -299853,7 +299853,7 @@
         "company_name": "TikTok",
         "id": "2522e64f-6b7b-4896-8fec-6536ad4ea335",
         "title": "Efficiency Analyst/Methodologist Project Intern - Content Operations - Tiktok-Operations-Operations Efficiency",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328821,7 +328821,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329441,7 +329441,7 @@
         "company_name": "Copart",
         "id": "1e0b5f98-bf0a-433e-9dda-74853a116f53",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343106,7 +343106,7 @@
         "company_name": "Microchip Technology",
         "id": "eb709646-3a9b-42fb-8559-6d5b0f0b074c",
         "title": "Design Intern - Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -349934,7 +349934,7 @@
         "company_name": "Centific",
         "id": "c213b582-3232-47e0-9de1-aec552f605c1",
         "title": "Technical Intern - Masters or PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -355329,6 +355329,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "BlueCross BlueShield of Nebraska",
+        "id": "081c3f7a-8349-45b9-a41b-8cf97ca466ba",
+        "title": "Digital Experience Information Systems Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788251807,
+        "date_posted": 1788134400,
+        "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101404",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-Nebraska",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
