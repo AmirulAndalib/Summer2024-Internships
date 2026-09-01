@@ -317702,7 +317702,7 @@
         "company_name": "Advanced Energy",
         "id": "34a18efe-cd13-4293-a683-2e44304e1154",
         "title": "Firmware Engineer Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -323029,7 +323029,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323050,7 +323050,7 @@
         "company_name": "Goldman Sachs",
         "id": "a81b0d30-e122-4b3c-9290-3e85c9f02707",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -323071,7 +323071,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323120,7 +323120,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323212,7 +323212,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323287,7 +323287,7 @@
         "company_name": "Goldman Sachs",
         "id": "1d850622-b67b-4965-a25c-f6872d8a1c79",
         "title": "Summer Analyst Intern - FICC & Equities - Sales & Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329441,7 +329441,7 @@
         "company_name": "Copart",
         "id": "1e0b5f98-bf0a-433e-9dda-74853a116f53",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -343881,7 +343881,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355348,6 +355348,259 @@
             "Omaha, NE"
         ],
         "company_url": "https://simplify.jobs/c/BlueCross-BlueShield-Of-Nebraska",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Hilton Worldwide",
+        "id": "44915251-05bb-4109-b902-abd6c8cf811e",
+        "title": "Data Management and Analysis Placement - Safety & Security",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788254411,
+        "date_posted": 1788254147,
+        "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/219176",
+        "locations": [
+            "Watford, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Hilton",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "7e914cf5-64bf-41bb-a680-71b7d7df80f6",
+        "title": "Software Engineer Intern - Summer or Winter",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1788254249,
+        "date_posted": 1788254097,
+        "url": "https://stripe.com/jobs/search?gh_jid=8128745",
+        "locations": [
+            "Seattle, WA",
+            "SF",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "7bce6045-fde1-44d3-b2cc-1f56ae0dec16",
+        "title": "Software Engineer Intern - Summer or Winter",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1788254244,
+        "date_posted": 1788254093,
+        "url": "https://stripe.com/jobs/search?gh_jid=8130805",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Stripe",
+        "id": "5bef05c2-8d0b-497e-9bfe-64ff4e8045d0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788254243,
+        "date_posted": 1788254096,
+        "url": "https://stripe.com/jobs/search?gh_jid=8130867",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Stripe",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edison International",
+        "id": "7a58365b-0d72-4b0c-8094-fa29ec18b560",
+        "title": "Data Analytics Intern - Data Science - Applied Math",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788254027,
+        "date_posted": 1788253876,
+        "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-CA-91770/1425207700/?ats=successfactors",
+        "locations": [
+            "Pomona, CA",
+            "Rosemead, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edison International",
+        "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
+        "title": "Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788254022,
+        "date_posted": 1788253875,
+        "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425178600/?ats=successfactors",
+        "locations": [
+            "Santa Ana, CA",
+            "Fullerton, CA",
+            "Irvine, CA",
+            "Westminster, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edison International",
+        "id": "23a5a6a6-47fc-41cf-8936-946b702be2cd",
+        "title": "Software/Data Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788254018,
+        "date_posted": 1788253881,
+        "url": "https://apply.edisoncareers.com/job/Chino-2027-Summer-Internship-SoftwareData-Engineering-(Chino)-CA-91710/1424663800/?ats=successfactors",
+        "locations": [
+            "Chino, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edison International",
+        "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
+        "title": "Summer Internship - Data Analytics/Science/Applied Math",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788254017,
+        "date_posted": 1788253876,
+        "url": "https://apply.edisoncareers.com/job/Westminster-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-Santa-AnaWestminsterIrvineFullerton-CA-92683-5240/1425175800/?ats=successfactors",
+        "locations": [
+            "Santa Ana, CA",
+            "Fullerton, CA",
+            "Irvine, CA",
+            "Westminster, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Edison International",
+        "id": "cf498cbc-375c-45ec-8f68-334ce9a2d7d0",
+        "title": "Data Analytics Intern - Data Science/Applied Math",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788254015,
+        "date_posted": 1788253877,
+        "url": "https://apply.edisoncareers.com/job/Rosemead-2027-Summer-Internship-Data-AnalyticsScienceApplied-Math-(PomonaRosemead)-1-CA-91770/1425208900/?ats=successfactors",
+        "locations": [
+            "Pomona, CA",
+            "Rosemead, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edison-International",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Edison International",
+        "id": "7db598e3-bc08-420a-a69f-e39447549d49",
+        "title": "Computer Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788254013,
+        "date_posted": 1788253877,
+        "url": "https://apply.edisoncareers.com/job/Santa-Ana-2027-Summer-Internship-Computer-Science-(Santa-Ana)-CA-92705/1425158700/?ats=successfactors",
+        "locations": [
+            "Santa Ana, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Edison-International",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
