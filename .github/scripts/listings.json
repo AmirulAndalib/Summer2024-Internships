@@ -328991,7 +328991,7 @@
         "company_name": "NVIDIA",
         "id": "79fa5677-0cf7-4393-b826-2aa0806bbcd9",
         "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -338001,7 +338001,7 @@
         "company_name": "CLEAResult",
         "id": "0cdb99d3-9690-4d7a-8727-bd690d7f51ff",
         "title": "Energy Efficiency Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -356431,5 +356431,117 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ZS",
+        "id": "bfd24658-9d27-4663-b02c-2b76b6042f78",
+        "title": "Decision Analytics Associate Intern - University Students",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788270898,
+        "date_posted": 1788270669,
+        "url": "https://jobs.zs.com/jobs/63439?icims=1",
+        "locations": [
+            "Boston, MA",
+            "South SF",
+            "Philadelphia, PA",
+            "Thousand Oaks, CA",
+            "Chicago, IL",
+            "Princeton, NJ",
+            "NYC",
+            "Bellevue, WA",
+            "Evanston, IL",
+            "San Diego, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ZS",
+        "id": "bec0bfec-8232-4a08-b412-7acf9ff7b4fc",
+        "title": "Business Technology Solutions Intern - North America - University Students",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788270903,
+        "date_posted": 1788270668,
+        "url": "https://jobs.zs.com/jobs/63472?icims=1",
+        "locations": [
+            "Boston, MA",
+            "South SF",
+            "Philadelphia, PA",
+            "Thousand Oaks, CA",
+            "Chicago, IL",
+            "Princeton, NJ",
+            "NYC",
+            "Bellevue, WA",
+            "Evanston, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ZS",
+        "id": "210ca429-111e-4cdd-a2e5-f00827fbb0e3",
+        "title": "Advanced Data Science Associate Intern - University Students",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788270892,
+        "date_posted": 1788270669,
+        "url": "https://jobs.zs.com/jobs/63368?icims=1",
+        "locations": [
+            "South SF",
+            "Chicago, IL",
+            "Princeton, NJ",
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ZS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "c0eb39b4-91b2-4cd4-bcf0-5306f695667a",
+        "title": "Graduate Intern - Markets Group",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788270356,
+        "date_posted": 1788220800,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/New-York-NY/XMLNAME-2027-Summer-Intern---Markets-Group---New-York---Graduate-Intern_R-0000033033",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
