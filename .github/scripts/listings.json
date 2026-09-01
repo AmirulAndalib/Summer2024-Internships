@@ -291752,7 +291752,7 @@
         "company_name": "SpreeAI ",
         "id": "4c54516c-986b-40c6-be23-fc11b0404861",
         "title": "Mobile Software Engineer Intern - Flagship Apps - iOS / Android / Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291917,7 +291917,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -336615,7 +336615,7 @@
         "company_name": "L3Harris Technologies",
         "id": "3761b187-d0d2-438d-9b56-f3853671880e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -343315,7 +343315,7 @@
         "company_name": "GlossGenius",
         "id": "19732e66-5a0d-4db2-a039-33e752197e70",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355102,7 +355102,7 @@
         "company_name": "ISN Software",
         "id": "ea13638b-ec59-42b9-8392-35986da2c5ac",
         "title": "Software Developer Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360082,6 +360082,59 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "John Deere",
+        "id": "7123e8fe-c2d7-4fff-b9c9-5e8f94b9c12b",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788293378,
+        "date_posted": 1788293313,
+        "url": "https://johndeere.eightfold.ai/careers/job/137482673640",
+        "locations": [
+            "Moline, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/John-Deere",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AIG",
+        "id": "79bdac78-fd53-48d8-a72e-ed29d100a963",
+        "title": "Summer Intern - Data Office",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788293036,
+        "date_posted": 1788220800,
+        "url": "https://aig.wd1.myworkdayjobs.com/en-US/early_careers/job/GA-Atlanta/XMLNAME-2027-Early-Careers--Summer-Intern--Data-Office---United-States--Atlanta--GA--Charlotte--NC--Parsippany--NJ--Jersey-City--NJ---New-York--NY_JR2603655",
+        "locations": [
+            "Charlotte, NC",
+            "Jersey City, NJ",
+            "NYC",
+            "Parsippany-Troy Hills, NJ",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/AIG",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
