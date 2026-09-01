@@ -335353,7 +335353,7 @@
         "company_name": "Mastercard",
         "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337466,7 +337466,7 @@
         "company_name": "Motorola",
         "id": "65e64ece-5971-4361-ac20-e6a4be68e2c5",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
