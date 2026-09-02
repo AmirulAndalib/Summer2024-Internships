@@ -132879,7 +132879,7 @@
         "company_name": "Techtronic Industries",
         "id": "03ab4d41-5cba-45c5-8db8-f4a6b4ccb687",
         "title": "Lab Power Platform Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310973,7 +310973,7 @@
         "company_name": "Eridu AI",
         "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
         "title": "Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -362916,6 +362916,75 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "3f7978bc-c83d-4088-abff-540cb9036839",
+        "title": "Ecosystem Analyst Intern - TikTok LIVE",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788335101,
+        "date_posted": 1788335017,
+        "url": "https://lifeattiktok.com/search/7678985103851407669",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "a35fbd54-2c09-4c0e-8677-4b9065708400",
+        "title": "Research Intern - AI-Native Databases",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788334399,
+        "date_posted": 1788334371,
+        "url": "https://jobs.bytedance.com/en/position/7678450462765254965/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "3b02c249-20be-43f2-8ef1-e09f6b887db6",
+        "title": "Research Intern - AI-Native Databases",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788334399,
+        "date_posted": 1788334369,
+        "url": "https://jobs.bytedance.com/en/position/7678451067500529925/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
