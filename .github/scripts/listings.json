@@ -345760,7 +345760,7 @@
         "company_name": "Motorola",
         "id": "4dc4645e-2c89-45a4-96ba-afcf66131bb7",
         "title": "Mission Critical Networks Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362627,7 +362627,7 @@
         "company_name": "Nokia",
         "id": "51e725b4-c103-46c1-8eea-0d03dbc29f66",
         "title": "Software Developer Co-op Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
