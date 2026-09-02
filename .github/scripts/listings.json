@@ -293879,7 +293879,7 @@
         "company_name": "Castleton Commodities International",
         "id": "d0dbf9a8-a0ca-45d2-b171-45c248cd72b6",
         "title": "Front Office Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343848,7 +343848,7 @@
         "company_name": "Leidos",
         "id": "083cfc54-1c27-4fc6-ab89-6606e06aca1f",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357766,7 +357766,7 @@
         "company_name": "Geotab",
         "id": "c000d17c-b16e-450d-839c-842ffd8be4b3",
         "title": "Embedded Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362700,7 +362700,7 @@
         "company_name": "Nokia",
         "id": "d9fc79d8-b0e0-4d5b-b3bd-dbc216e2909a",
         "title": "Web Developer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
