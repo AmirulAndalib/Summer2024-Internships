@@ -303006,7 +303006,7 @@
         "company_name": "McGill University",
         "id": "30350af5-a049-4298-aec4-64ca2095b85f",
         "title": "Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340366,7 +340366,7 @@
         "company_name": "RTX",
         "id": "a2ab2232-0294-4321-8831-a52bd5488178",
         "title": "Business Intelligence and Governance Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -344366,7 +344366,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -352944,7 +352944,7 @@
         "company_name": "RTX",
         "id": "8d941b39-68a9-40d7-9ff0-fa89b2fe8b34",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358832,7 +358832,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -363138,6 +363138,264 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "72d45ed0-78e5-4653-9c80-78400e0114db",
+        "title": "Software Designer Co-op Intern - Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788358604,
+        "date_posted": 1788358385,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39679",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "51e725b4-c103-46c1-8eea-0d03dbc29f66",
+        "title": "Software Developer Co-op Intern - Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788358612,
+        "date_posted": 1788358384,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39395",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "f5f6586c-d3d6-4eb3-8231-2a9f9cbd240d",
+        "title": "Web Developer Co-op Intern - Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788358601,
+        "date_posted": 1788358387,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39612",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "0d05245d-d165-4d42-a9fa-9d27e9fcaaed",
+        "title": "Software Developer Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788358599,
+        "date_posted": 1788358386,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39435",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "d9fc79d8-b0e0-4d5b-b3bd-dbc216e2909a",
+        "title": "Web Developer Co-op Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788358599,
+        "date_posted": 1788358385,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39821",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "87fa51f3-741b-402e-a1b4-f9d9b7d87222",
+        "title": "Software Developer Co-op - 16-Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788358401,
+        "date_posted": 1788358162,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000146985399",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Winsupply",
+        "id": "9478b30a-7606-4b7b-bc4b-69c90ce9d0ea",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788358143,
+        "date_posted": 1788358114,
+        "url": "https://jobs.smartrecruiters.com/Winsupply1/3743990015014717",
+        "locations": [
+            "Moraine, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Winsupply",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams Racing",
+        "id": "ba57c702-ea3a-42ec-99ce-9c8e2047202d",
+        "title": "Performance Optimisation Industrial Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788358143,
+        "date_posted": 1788358095,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146956879",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams Racing",
+        "id": "ec242b51-cf0d-4548-86d5-39fcee673b30",
+        "title": "Race Operations Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788358323,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146957409",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Williams Racing",
+        "id": "f4a9839d-7e82-43ad-a5fe-54f35eba58a1",
+        "title": "Data Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788358259,
+        "date_posted": 1788358094,
+        "url": "https://jobs.smartrecruiters.com/WilliamsRacing/744000146954769",
+        "locations": [
+            "Grove, Wantage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Williams-Racing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Flagship Pioneering",
+        "id": "bea449aa-d978-4884-a1d9-1703017cfb0b",
+        "title": "Agentic AI Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788358059,
+        "date_posted": 1788357959,
+        "url": "https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
