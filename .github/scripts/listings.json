@@ -304133,7 +304133,7 @@
         "company_name": "Ciena",
         "id": "1236f3af-608e-4177-93a8-42bf3dafd82f",
         "title": "WaveLogic Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341667,7 +341667,7 @@
         "company_name": "The Walt Disney Company",
         "id": "b7962d2f-67df-4058-bbd5-91dc4be202c4",
         "title": "Insights and Analytics Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -362985,6 +362985,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johnson & Johnson",
+        "id": "0a1a5e36-8dfc-4746-b8e3-c3db4d69a7b5",
+        "title": "Materials Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788337622,
+        "date_posted": 1787011200,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
