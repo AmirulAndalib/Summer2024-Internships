@@ -317229,7 +317229,7 @@
         "company_name": "McGill University",
         "id": "10b464ec-dba9-420a-a5cb-08a22c048ba5",
         "title": "Research Assistant - Gen AI Hackathon",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
