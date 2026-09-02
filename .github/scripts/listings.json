@@ -293951,7 +293951,7 @@
         "company_name": "Castleton Commodities International",
         "id": "2c656f83-6247-4e1c-a019-3126608b9e23",
         "title": "Data Science Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294076,7 +294076,7 @@
         "company_name": "Castleton Commodities International",
         "id": "41018f36-15af-46ed-8719-1fb8d0abe78e",
         "title": "Full-Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
