@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Asahi Kasei Corporation",
-        "id": "d02145bc-d81d-48f8-a046-9e6b17897d3d",
-        "title": "Automation Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767580402,
-        "date_posted": 1767580402,
-        "url": "https://akamerica.wd501.myworkdayjobs.com/aka/job/Glenview-IL/Automation-Co-op_R5253-1",
-        "locations": [
-            "Morton Grove, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Asahi-Kasei-Corporation",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "27aa2db4-cb3c-472e-8898-f19a13d66c7e",
@@ -18475,27 +18452,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Pfizer",
-        "id": "733d1bc9-d64c-481f-996e-29e499c535b8",
-        "title": "Undergraduate - International Performance Analytics & Reporting",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767580662,
-        "date_posted": 1767580662,
-        "url": "https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-Kingdom---Walton-Oaks/Undergraduate---International-Performance-Analytics---Reporting_4949234",
-        "locations": [
-            "Dorking, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Pfizer",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -362376,6 +362332,31 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Voltus",
+        "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
+        "title": "Energy Markets Intern - Miso",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1786005002,
+        "date_posted": 1785362819,
+        "url": "https://jobs.lever.co/voltus/b7833dd8-d742-44d8-aae2-2e7de7541ce4/apply",
+        "locations": [
+            "Remote in USA",
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Voltus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
         ]
     }
 ]
