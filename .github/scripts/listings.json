@@ -291637,7 +291637,7 @@
         "company_name": "SpreeAI ",
         "id": "0b289d87-b4b1-4056-8003-0a76181dcb52",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341755,7 +341755,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ce59423a-ece5-418f-bd39-14da130d9598",
         "title": "Insights and Analytics Intern - ABC News",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362881,6 +362881,101 @@
             "NYC"
         ],
         "company_url": "https://simplify.jobs/c/Fenwick-And-West",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "2a48e05f-f557-488e-876c-eafef0801099",
+        "title": "Mission Systems Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788331341,
+        "date_posted": 1788331171,
+        "url": "https://careers.jhuapl.edu/jobs/59883?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cheiron",
+        "id": "4c33b0d7-ab72-41f6-a429-46ce9f78dc99",
+        "title": "Agent Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788330835,
+        "date_posted": 1788330736,
+        "url": "https://jobs.ashbyhq.com/cheiron/36763c16-8996-4c66-b693-d48329413678/application?embed=true",
+        "locations": [
+            "Los Altos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Cheiron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Oppenheimer & Co. Inc.",
+        "id": "f698851c-ba0f-4e6e-86b2-a408a1ffa46a",
+        "title": "Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788330630,
+        "date_posted": 1788330481,
+        "url": "https://opco.hrmdirect.com/employment/job-opening.php?req=3799625",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Oppenheimer-And-Co",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Eight Sleep",
+        "id": "842ded34-df38-49e4-8d21-4a85f457c148",
+        "title": "Prototype & Test Engineer Intern - New Product Development",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788330630,
+        "date_posted": 1788330424,
+        "url": "https://jobs.ashbyhq.com/eightsleep/393ffe76-749e-4ec1-9975-a96b7fefe31f/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Eight-Sleep",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
