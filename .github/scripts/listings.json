@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Royal Bank of Canada",
-        "id": "7ef11510-85e1-49d9-932b-cc5464d6afbe",
-        "title": "2026 Summer \u2013 AI Innovation Developer Intern - Grm - 8 Months",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767632508,
-        "date_posted": 1767632508,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---GRM--AI-Innovation-Developer-Intern--8-Months-_R-0000150185",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Electronic Arts",
         "id": "de7967f6-3cbd-449a-9544-ff65c5f7a600",
         "title": "Business Intelligence Intern",
@@ -343259,7 +343234,7 @@
         "company_name": "RTX",
         "id": "2c7fefd0-1599-4004-ae55-65fa4f77f935",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
