@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Schweitzer Engineering Laboratories",
-        "id": "994898cd-3595-42f3-ab81-62024ecad932",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767614204,
-        "date_posted": 1767614204,
-        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Software-Engineer-Intern_2025-18699",
-        "locations": [
-            "Moscow, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/SEL",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Gilead Sciences",
         "id": "cc21a986-6434-426d-becb-b204b9718aa6",
@@ -292657,7 +292634,7 @@
         "company_name": "iHeartMedia",
         "id": "dc07a772-7098-4944-850d-dd912b2426e1",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328836,7 +328813,7 @@
         "company_name": "NVIDIA",
         "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -357405,7 +357382,7 @@
         "company_name": "United Airlines",
         "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
         "title": "Research Scholar Intern - Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -363051,6 +363028,29 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Applied Materials",
+        "id": "d6dec408-afe2-4aaf-9758-f14a058524f6",
+        "title": "Materials Engineering Co-op - TCAD Modeling",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788349701,
+        "date_posted": 1783158598,
+        "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
+        "locations": [
+            "Gloucester, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Applied-Materials",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
