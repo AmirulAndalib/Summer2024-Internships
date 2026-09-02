@@ -245840,7 +245840,7 @@
         "company_name": "American Enterprise Institute",
         "id": "8e36a779-899f-4b82-a1ef-0a881ba99667",
         "title": "Intern: Economic Policy",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -256059,7 +256059,7 @@
         "company_name": "University System of New Hampshire",
         "id": "17d853eb-3412-4b94-a962-815fd64e1b6c",
         "title": "Broadband Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
