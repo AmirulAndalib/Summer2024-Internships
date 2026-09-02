@@ -3,71 +3,6 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ontario Teachers' Pension Plan",
-        "id": "27aa2db4-cb3c-472e-8898-f19a13d66c7e",
-        "title": "Intern \u2013 Business Insights and Analytics - September 2026 - Months",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1767597983,
-        "date_posted": 1767597983,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Business-Insights-and-Analytics--September-2026---12-months-_6784",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "ea5afd68-62e9-4bb9-8e2b-3491e8ca51cf",
-        "title": "Intern Enterprise Architecture and Emerging Technologies",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767597977,
-        "date_posted": 1767597977,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Enterprise-Architecture-and-Emerging-Technologies--May-2026---16-months-_6789",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "835d6175-3718-48e2-8c5b-76b2363a0f21",
-        "title": "Intern \u2013 Investments - Total Fund Management - Global Trading",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1767597975,
-        "date_posted": 1767597975,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Investments--Total-Fund-Management--Global-Trading--September-2026---4-months-_6765",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ontario Teachers' Pension Plan",
         "id": "ff7618c4-09e1-49b6-ae69-cc8b287ede30",
         "title": "Intern \u2013 Product & Data Engineering - May 2026 - Months",
         "active": false,
@@ -311038,7 +310973,7 @@
         "company_name": "Eridu AI",
         "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
         "title": "Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326467,7 +326402,7 @@
         "company_name": "RTX",
         "id": "2a67cef3-5836-4452-832c-ec5b39cff69b",
         "title": "Software Engineer Intern - Intelligent Software & Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
