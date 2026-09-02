@@ -337670,7 +337670,7 @@
         "company_name": "RTX",
         "id": "7e7de539-7591-41e7-bf48-6e4aa966fed4",
         "title": "Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -338308,7 +338308,7 @@
         "company_name": "BP",
         "id": "7d27dfe1-c616-4155-8112-ca1cce62b768",
         "title": "Corporate Asset Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340366,7 +340366,7 @@
         "company_name": "RTX",
         "id": "a2ab2232-0294-4321-8831-a52bd5488178",
         "title": "Business Intelligence and Governance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -344366,7 +344366,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -358832,7 +358832,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363111,6 +363111,29 @@
             "Oakville, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Steel Dynamics",
+        "id": "afb93f48-440f-40ac-ad4c-0c537578cbff",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788356748,
+        "date_posted": 1788356571,
+        "url": "https://careers-steeldynamics.icims.com/jobs/7994/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Fort Wayne, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Steel-Dynamics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
