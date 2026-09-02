@@ -361263,7 +361263,7 @@
         "company_name": "Toast",
         "id": "bd129aa6-b03d-4d43-a933-5b02e8d6cc61",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
