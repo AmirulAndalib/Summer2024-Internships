@@ -2,79 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Velera",
-        "id": "b4e37980-b0ef-4636-8aa6-ee704afcb8d4",
-        "title": "Delinquency Management Reporting and Data Analysis Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767629986,
-        "date_posted": 1767629986,
-        "url": "https://velera.wd5.myworkdayjobs.com/VeleraCareers/job/Remote-USA/Delinquency-Management-Reporting-and-Data-Analysis-Intern_8895",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Velera",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "6a6bea1e-8163-487b-8731-c8ab3425d9aa",
-        "title": "Intern - Life Cycle Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767629829,
-        "date_posted": 1767629829,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MA133-Tewksbury-Ma-Bldg-3-Concord-50-Apple-Hill-Drive-Concord---Building-3-Tewksbury-MA-01876-USA/XMLNAME-2026-Summer-Intern---Life-Cycle-Engineer---Onsite_01813196",
-        "locations": [
-            "Concord, MA",
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "DRW",
-        "id": "d8b7b4bd-1cac-4f44-a996-e8c5b81cc302",
-        "title": "AI/ML Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1767629759,
-        "date_posted": 1767629759,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/7492214",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "OpenTable",
         "id": "b32e347e-eba1-4eb0-9cfa-0e67bf50fca6",
         "title": "AI Automation Intern - Toronto",
@@ -393,56 +320,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rivian",
-        "id": "4232b895-cae8-4fe1-b49d-d63717b6bfb5",
-        "title": "Research Park Intern - Embedded Software - Inverter Build System",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1767629919,
-        "date_posted": 1767629919,
-        "url": "https://careers.rivian.com/jobs/28470?lang=en-us&icims=1",
-        "locations": [
-            "Urbana, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rivian",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DRW Holdings",
-        "id": "72a26fd8-5367-4d6c-a472-6cfabcd1f7ed",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767629795,
-        "date_posted": 1767629795,
-        "url": "https://job-boards.greenhouse.io/drweng/jobs/7194245",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/DRW-Holdings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -18114,54 +17991,6 @@
             "Longueuil, QC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Emerson Electric",
-        "id": "2ad55938-ce77-470d-9f2d-8a5a30c720c4",
-        "title": "Software Solutions Development Program - Software Development Program",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767630439,
-        "date_posted": 1767630439,
-        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25030712",
-        "locations": [
-            "Elyria, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Emerson-Electric",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Franklin Templeton",
-        "id": "f177af55-e84e-41e5-8c9c-db4ae2fdf16b",
-        "title": "Investment Operations",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767630379,
-        "date_posted": 1767630379,
-        "url": "https://franklintempleton.wd5.myworkdayjobs.com/invitation-only/job/Ft-Lauderdale-Florida-United-States-of-America/FTT-Investment-Operations_866076",
-        "locations": [
-            "Fort Lauderdale, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Franklin-Templeton",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -302492,7 +302321,7 @@
         "company_name": "Super",
         "id": "249ebbb5-4252-4e41-9dbe-9539d0e8a355",
         "title": "Travel Supply Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
