@@ -282103,7 +282103,7 @@
         "company_name": "GE Healthcare",
         "id": "6fd5f184-953f-41e2-a220-0bc16b7bae48",
         "title": "Field Engineer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327313,7 +327313,7 @@
         "company_name": "L3Harris Technologies",
         "id": "99547ce9-5e06-4524-9de3-0bbd63ed6dd0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -361353,7 +361353,7 @@
         "company_name": "General Motors",
         "id": "9e83f980-81f3-4e7a-a301-9d7d3bcacd77",
         "title": "Electrical & SDV Intern - Global Manufacturing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
