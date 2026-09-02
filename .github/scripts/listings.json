@@ -360978,7 +360978,7 @@
         "company_name": "Toast",
         "id": "bd129aa6-b03d-4d43-a933-5b02e8d6cc61",
         "title": "Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -363396,6 +363396,144 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Universal Health Services",
+        "id": "af65cbd5-11f8-4a7d-a45a-939597dd3471",
+        "title": "Software Engineer Intern - Data Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788359941,
+        "date_posted": 1788359852,
+        "url": "https://jobs.uhsinc.com/jobs/367247?icims=1",
+        "locations": [
+            "King of Prussia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Universal Health Services",
+        "id": "5f21fab4-e6e4-4bb4-b6b2-8e45abddd71d",
+        "title": "Revenue Cycle Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788359941,
+        "date_posted": 1788359698,
+        "url": "https://jobs.uhsinc.com/jobs/367250?icims=1",
+        "locations": [
+            "Tredyffrin Township, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Universal-Health-Services",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "ea42316f-e909-4d3a-90fc-bb203789a6b6",
+        "title": "Test Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788359628,
+        "date_posted": 1787529600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-AZ-TUCSON-M10--3360-E-Hemisphere-Loop--BLDG-M10/Test-Systems-Engineer-Intern_01868700",
+        "locations": [
+            "Tucson, AZ"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genuine Parts Company",
+        "id": "d466fdad-f557-4135-b159-963583eb27df",
+        "title": "Web Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788359401,
+        "date_posted": 1788307200,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genuine Parts Company",
+        "id": "24be1234-8b24-44df-96ce-0a4c523f0edc",
+        "title": "Software Engineer QA Analyst Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788359489,
+        "date_posted": 1788307200,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genuine Parts Company",
+        "id": "3f3e20ab-b767-41af-925d-e652f7bd1e26",
+        "title": "Software Engineer Intern - Quality Assurance Analyst",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788359487,
+        "date_posted": 1788307200,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
