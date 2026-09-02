@@ -190598,7 +190598,7 @@
         "company_name": "Workato",
         "id": "9192d236-f16d-4cf9-8ba9-11e6e202a763",
         "title": "Intern AI Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -265651,7 +265651,7 @@
         "company_name": "Institute of Foundation Models",
         "id": "22d00642-f6f4-4b29-8f19-16686852eeb5",
         "title": "AI Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310902,7 +310902,7 @@
         "company_name": "Eridu AI",
         "id": "5adca2e4-56a2-4bc0-bdb1-761593b3df30",
         "title": "Lab Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322824,7 +322824,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322866,7 +322866,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341689,7 +341689,7 @@
         "company_name": "RTX",
         "id": "386e2728-ef0f-4332-86d8-df3f6627f509",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341738,7 +341738,7 @@
         "company_name": "RTX",
         "id": "5eecec55-6e05-4898-acb6-2869c78bf30b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359004,7 +359004,7 @@
         "company_name": "Tencent",
         "id": "571dc222-d134-45dd-8547-ba1ce9e2c5a4",
         "title": "CPaaS Product Management Intern - Cloud & Smart Industries Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -363006,6 +363006,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Nokia",
+        "id": "b9a67e9c-0015-4a4a-9f99-25b266976b64",
+        "title": "Tools and Automation Software Developer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788344040,
+        "date_posted": 1788343899,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39341",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
