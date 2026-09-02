@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 294 Inactive Internship Roles by Category
+### Browse 295 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (108)
 
@@ -14,7 +14,7 @@
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (61)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (73)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (74)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (39)
 
@@ -1526,6 +1526,13 @@
 <td><strong><a href="https://simplify.jobs/c/Readystate-Asset-Management?utm_source=GHList&utm_medium=company">Readystate Asset Management</a></strong></td>
 <td>Investment Intern - Summer 2027 & 2028</td>
 <td>Chicago, IL</td>
+<td>🔒</td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/aef9724c-a5e1-43bf-ab08-dfeae35aff9b?utm_source=GHList&utm_medium=company">RRS Group</a></strong></td>
+<td>Investment Analyst Intern</td>
+<td>SF</td>
 <td>🔒</td>
 <td>19d</td>
 </tr>
