@@ -1,77 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "ff7618c4-09e1-49b6-ae69-cc8b287ede30",
-        "title": "Intern \u2013 Product & Data Engineering - May 2026 - Months",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767607131,
-        "date_posted": 1767607131,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Product---Data-Engineering--May-2026---16-months-_6803",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "Ontario Teachers' Pension Plan",
-        "id": "4bad7b5f-c624-4d06-8338-9ad41e04a242",
-        "title": "Intern Capital Markets - Quantitative Strategies and Research",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1767607144,
-        "date_posted": 1767607144,
-        "url": "https://otppb.wd3.myworkdayjobs.com/OntarioTeachers_Careers/job/Toronto-Canada/Intern---Capital-Markets--Quantitative-Strategies-and-Research--May-2026---8-months-_6787",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Ontario-Teachers-Pension-Plan",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Roche",
-        "id": "8a6ead90-1dee-48e0-a480-0fe0f0dd82e5",
-        "title": "Intern - Technical Specialist",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767606106,
-        "date_posted": 1767606106,
-        "url": "https://roche.wd3.myworkdayjobs.com/roche-ext/job/Mississauga/XMLNAME-2026-Intern----Technical-Specialist_202512-131927",
-        "locations": [
-            "Mississauga, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Roche",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "994898cd-3595-42f3-ab81-62024ecad932",
@@ -190669,7 +190598,7 @@
         "company_name": "Workato",
         "id": "9192d236-f16d-4cf9-8ba9-11e6e202a763",
         "title": "Intern AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -257824,7 +257753,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -322895,7 +322824,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330180,7 +330109,7 @@
         "company_name": "StudyFetch",
         "id": "179e11a1-a541-4256-a6c3-e36544663802",
         "title": "AI Research Assistant - Machine Learning & AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -349800,7 +349729,7 @@
         "company_name": "Centific",
         "id": "c213b582-3232-47e0-9de1-aec552f605c1",
         "title": "Technical Intern - Masters or PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -356067,7 +355996,7 @@
         "company_name": "Sierra",
         "id": "1fc30c4a-d04e-419f-968c-083bb3fad9bb",
         "title": "APX New Grad",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359075,7 +359004,7 @@
         "company_name": "Tencent",
         "id": "571dc222-d134-45dd-8547-ba1ce9e2c5a4",
         "title": "CPaaS Product Management Intern - Cloud & Smart Industries Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363050,6 +362979,29 @@
             "Palo Alto, CA"
         ],
         "company_url": "https://simplify.jobs/c/Armadin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "78b93d81-ddbc-4b9f-847f-f352c09c5308",
+        "title": "Data Analyst and Business Projects Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788342121,
+        "date_posted": 1787264175,
+        "url": "https://lifeattiktok.com/search/7676124919956867333",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
