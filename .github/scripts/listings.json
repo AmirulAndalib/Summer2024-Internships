@@ -225781,7 +225781,7 @@
         "company_name": "Salesforce",
         "id": "452daa00-79b9-40ff-902b-6a5c3ddc4357",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -261945,7 +261945,7 @@
         "company_name": "Intel",
         "id": "438a49bd-1732-4815-b2b2-e048f205949f",
         "title": "AI Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -272667,7 +272667,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "8febf19c-cdf5-437d-bf7b-f5d9d35987ea",
         "title": "Quantitative Systematic Trading Intern - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -274341,7 +274341,7 @@
         "company_name": "IMC Trading",
         "id": "c604390d-1e7b-4ac6-906e-4946647383dd",
         "title": "Quantitative Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -274431,7 +274431,7 @@
         "company_name": "IMC Trading",
         "id": "74ebbab0-9a8d-4399-aec0-07e5ad5f7337",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -276751,7 +276751,7 @@
         "company_name": "CTGT",
         "id": "8c8a1f21-e711-48d0-8cec-601018138920",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282503,7 +282503,7 @@
         "company_name": "City of Aurora",
         "id": "6c19b14a-0f26-40c2-b7d0-f97d947d40f3",
         "title": "Water GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -282866,7 +282866,7 @@
         "company_name": "Hudson River Trading",
         "id": "87235779-9531-4bf2-b265-6cc448aa0f35",
         "title": "Software Engineer Intern - C++ or Python",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -288679,7 +288679,7 @@
         "company_name": "Odin Dynamics, Inc",
         "id": "7e9c41e0-72f6-4e65-8150-4a44cf26d415",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -289322,7 +289322,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -297352,7 +297352,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -301533,7 +301533,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -310597,7 +310597,7 @@
         "company_name": "RTX",
         "id": "5e274ea4-55e9-4ee0-8e93-82d466c18810",
         "title": "Systems Engineer 1 Intern - Intern Conversion",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317400,7 +317400,7 @@
         "company_name": "InfiniteQuant",
         "id": "d15c2dd4-7288-4110-bf59-550c753167ab",
         "title": "Quantitative Developer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321699,7 +321699,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326278,7 +326278,7 @@
         "company_name": "NVIDIA",
         "id": "790a9545-abe4-4bd0-af4b-55b368673465",
         "title": "Computer Architecture and Systems Intern - Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326373,7 +326373,7 @@
         "company_name": "NVIDIA",
         "id": "79fa5677-0cf7-4393-b826-2aa0806bbcd9",
         "title": "Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326472,7 +326472,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326592,7 +326592,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330898,7 +330898,7 @@
         "company_name": "JP Morgan Chase",
         "id": "7833a92d-102e-4ca4-9a8b-c14f36398bc0",
         "title": "Analytics Solutions Associate - Consumer and Community Banking - Focused Analytics Solutions Team",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331018,7 +331018,7 @@
         "company_name": "RTX",
         "id": "4c51462d-b2c3-4a43-8b72-30b1c98fdf33",
         "title": "Digital Support & Business Intelligence Intern - Computer Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -331453,7 +331453,7 @@
         "company_name": "Diamondback Energy",
         "id": "0bca8019-3405-491e-a05b-d99abfd7c3df",
         "title": "Geoscience Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331594,7 +331594,7 @@
         "company_name": "Interdigital",
         "id": "4542fdc9-ae91-4050-aa44-0ec742dd1dbe",
         "title": "Information Systems / Salesforce Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331834,7 +331834,7 @@
         "company_name": "Eudia",
         "id": "2533cf48-d1d8-4e5f-bed0-485c583da8a6",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331878,7 +331878,7 @@
         "company_name": "Eaton",
         "id": "faf1be1b-2e81-44f4-8523-a7ca9105f6f1",
         "title": "Application Engineer Co-op - Marketing",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -332279,7 +332279,7 @@
         "company_name": "Hitachi",
         "id": "7b812f43-6cd1-4741-8596-1eb209757615",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333923,7 +333923,7 @@
         "company_name": "InfiniteQuant",
         "id": "d55a832d-489f-468a-8688-f419fb8b1b38",
         "title": "Quantitative Developer Internship - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335573,7 +335573,7 @@
         "company_name": "Brunswick",
         "id": "7194b5a6-5ff2-4d30-8f27-55c669757b74",
         "title": "Computer Graphics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337006,7 +337006,7 @@
         "company_name": "InfiniteQuant",
         "id": "925fd340-08ca-444f-ab27-237fdfe56b27",
         "title": "Quantitative Researcher Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343693,7 +343693,7 @@
         "company_name": "Brunswick",
         "id": "596095d8-4722-4847-8780-041d4934008f",
         "title": "Engineering Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -343716,7 +343716,7 @@
         "company_name": "Emory University",
         "id": "e2ae47c8-3242-4ff9-87f1-e19745909137",
         "title": "Student Tester and Developer Intern - GPS Sample",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350353,7 +350353,7 @@
         "company_name": "Manulife Financial",
         "id": "78fab1c2-9f47-412d-8659-873843843c0a",
         "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350420,7 +350420,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "7e772e12-bb40-45ce-b4c8-b8905b2dada8",
         "title": "Business Technology Intern - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353957,7 +353957,7 @@
         "company_name": "RTX",
         "id": "5eec1982-b0e8-4ec2-b9c3-ee8ed6051a4b",
         "title": "Numerical Methods Intern - Advanced Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -361533,7 +361533,7 @@
         "company_name": "United Airlines",
         "id": "7afc8909-8e75-4217-afd4-e39a4c061462",
         "title": "Tech Ops Analytics & Business Intelligence Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361749,7 +361749,7 @@
         "company_name": "Omnicom Group",
         "id": "75e8f127-6508-489a-85af-6d0bb6299903",
         "title": "Experience Design Engineer Intern Consultant - Design Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -361823,7 +361823,7 @@
         "company_name": "Western & Southern Financial Group",
         "id": "b9b2b8a1-c174-460a-9af5-aaeec6fcac26",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367934,7 +367934,7 @@
         "company_name": "GE Appliances",
         "id": "31b163c5-2933-4708-b57f-40ac28e156d1",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369974,7 +369974,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -371632,7 +371632,7 @@
         "company_name": "Heron Power",
         "id": "8cb0b75e-58d5-4c0f-ae5b-1d8aeb0f2390",
         "title": "Power Electronics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371879,6 +371879,52 @@
             "Remote in USA"
         ],
         "company_url": "https://simplify.jobs/c/PsiQuantum",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Springs Window Fashions",
+        "id": "1c7c189b-83fd-4021-9d8d-baedf194d7e0",
+        "title": "Sustainability Data Specialist Intern - Commercial Marketing",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788430519,
+        "date_posted": 1787407577,
+        "url": "https://careers-springswindowfashions.icims.com/jobs/12896/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Long Island City, Queens, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Springs-Window-Fashions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bank of Montreal",
+        "id": "e0651f34-c8da-4f75-9860-a97bbc100220",
+        "title": "Business Analyst Co-op Intern - Data and Change Management",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788431589,
+        "date_posted": 1787270400,
+        "url": "https://bmo.wd3.myworkdayjobs.com/Privileged/job/Toronto-ON-CAN/Business-Analyst--Data-and-Change-Management---Winter-2027--Co-op-Internship----4-Months_R260024737",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/BMO",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
