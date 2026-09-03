@@ -1,74 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "T-Mobile",
-        "id": "358316ff-7815-4ef2-a8a6-dcad3f17310c",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767658926,
-        "date_posted": 1767658926,
-        "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Frisco-Texas/Summer-2026-Software-Development-Internship_REQ341231",
-        "locations": [
-            "Frisco, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/T-Mobile",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "BDO Canada",
-        "id": "6cc65e97-4141-4cd9-ae87-4111944b439d",
-        "title": "Co-op or Intern - Technology - Bizapps",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767658617,
-        "date_posted": 1767658617,
-        "url": "https://bdo.wd3.myworkdayjobs.com/BDO/job/Toronto---Bay-St/Co-op-or-Intern--Technology---BizApps--May-2026-_JR5599",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/BDO-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Plug Power",
-        "id": "48fdd862-9f0c-4935-8690-a3de3bd65667",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767657726,
-        "date_posted": 1767657726,
-        "url": "https://plugpower.wd5.myworkdayjobs.com/Plug_Power_Inc/job/Albany-NY/Software-Engineer-Intern_R6747",
-        "locations": [
-            "Albany, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/Plug-Power",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Kaiser Permanente",
         "id": "aff54360-938a-43e1-92c1-89fd656a0652",
@@ -159,52 +91,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Loft",
-        "id": "ebbf1bc8-d4b7-4566-8061-5a285e29d2da",
-        "title": "Commerce Platform Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767658986,
-        "date_posted": 1767658986,
-        "url": "https://knitwellgroup.wd1.myworkdayjobs.com/US_Corporate_Jobs/job/Corporate-ascena--Remote/Commerce-Platform-Intern---Summer-2026_R-2019957",
-        "locations": [
-            "Fort Myers, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Loft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Intact",
-        "id": "48f1110d-0c11-4767-b26e-05b7d315526d",
-        "title": "Software Developer \u2013 4 months Internship/Coop - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767658970,
-        "date_posted": 1767658970,
-        "url": "https://intactfc.wd3.myworkdayjobs.com/en-US/intactfc/job/Montral-Quebec-CAN/Software-Developer---4-months-Internship-Coop--Summer-2026--_R149984",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Intact",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
         ]
     },
     {
@@ -352947,7 +352833,7 @@
         "company_name": "TD Bank",
         "id": "258df7f9-ca20-4d7d-8f9b-97167f220db5",
         "title": "Direct Investing Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
