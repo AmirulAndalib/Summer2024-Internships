@@ -32014,7 +32014,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -204384,7 +204384,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "04690200-00da-4592-b697-fc3f8a39af9c",
         "title": "Quantitative Systematic Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -255363,7 +255363,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -270470,7 +270470,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "12c027ac-4d4e-436f-8165-633a717cc12a",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -272992,7 +272992,7 @@
         "company_name": "Copart",
         "id": "188c70e9-8a5c-445e-8bcf-9061fecdd0bb",
         "title": "Database Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -274431,7 +274431,7 @@
         "company_name": "IMC Trading",
         "id": "1d7827d1-14f5-4597-b49c-7b91bb07cb0c",
         "title": "Machine Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -287728,7 +287728,7 @@
         "company_name": "GE Healthcare",
         "id": "0b12884f-ce29-40d6-a184-ded1653ddc1b",
         "title": "Engineering Development Program Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -289477,7 +289477,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -299906,7 +299906,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -307034,7 +307034,7 @@
         "company_name": "The Federal Reserve System",
         "id": "1924d443-3b61-47d4-addf-d6db4308935b",
         "title": "Graduate Statistical Analysis Intern - Regional & Community Outreach",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319705,7 +319705,7 @@
         "company_name": "Epia Neuro",
         "id": "12e327b7-5cf4-4218-a9c8-d367012a7526",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326226,7 +326226,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326349,7 +326349,7 @@
         "company_name": "NVIDIA",
         "id": "156eeaae-e8ce-4c0c-a47f-6027e39a664c",
         "title": "Large Language Models Intern - Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326372,7 +326372,7 @@
         "company_name": "NVIDIA",
         "id": "02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
         "title": "Developer and Performance Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -326568,7 +326568,7 @@
         "company_name": "NVIDIA",
         "id": "194ec80b-618d-4a9c-a170-c88f9e6fb8ca",
         "title": "Ph.D. Research Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331524,7 +331524,7 @@
         "company_name": "Capacity",
         "id": "16d31201-b650-445a-bd1c-acf6b02d80b7",
         "title": "Speech Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -334492,7 +334492,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "16070704-db3b-4142-9663-e56f9a828bbb",
         "title": "Service Transformation & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335453,7 +335453,7 @@
         "company_name": "RTX",
         "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
         "title": "Customer First Centre Intern - Customer First Centre - Technical Helpdesk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338313,7 +338313,7 @@
         "company_name": "Smiths Detection Group",
         "id": "a978ff38-52c5-44c8-b7ca-fc5bba5a02a7",
         "title": "Technical Service Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338383,7 +338383,7 @@
         "company_name": "GE Appliances",
         "id": "5bb48378-660a-44d5-a1ac-f953c8cbb9e8",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -338621,7 +338621,7 @@
         "company_name": "Sun Life",
         "id": "7edd67b4-cc14-4d47-95d6-2062fac62309",
         "title": "Management Insights Analyst Student - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -339139,7 +339139,7 @@
         "company_name": "Repsol",
         "id": "c874f359-c317-4bb9-8bf9-f4c699848017",
         "title": "Reservoir Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340419,7 +340419,7 @@
         "company_name": "Netflix",
         "id": "17482259-9e95-4558-adef-daf45ff85e78",
         "title": "Machine Learning Scientist Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341381,7 +341381,7 @@
         "company_name": "RTX",
         "id": "64c5aa15-2dd1-4d0d-be20-b9c30978e996",
         "title": "Product Integrity Tools and Process Improvement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -343087,7 +343087,7 @@
         "company_name": "Leidos",
         "id": "13c82543-49b6-4293-ac18-052fd0889c76",
         "title": "Data Engineering & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344111,7 +344111,7 @@
         "company_name": "CSX",
         "id": "180c2b69-a897-4c36-9460-0eac1066b869",
         "title": "Engineering Intern - Positive Train Control - Paid",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344434,7 +344434,7 @@
         "company_name": "Brunswick",
         "id": "1a7cd887-6c00-45f3-bf3d-87fa5aebe90f",
         "title": "Reinforcement Learning Intern - Boating Intelligence Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027",
@@ -349719,7 +349719,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "0db4db4a-cd56-42f2-aa9f-4de76e4fc79c",
         "title": "Tax Innovation Delivery Experience Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354003,7 +354003,7 @@
         "company_name": "RTX",
         "id": "0ab3de69-35a5-4ba9-b025-ae19ea039751",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356757,7 +356757,7 @@
         "company_name": "Google",
         "id": "1fa0cf6c-b41d-4a3e-bd89-e3efc8a41a1f",
         "title": "Data Analytics Apprentice - February 2027 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357637,7 +357637,7 @@
         "company_name": "Southern Star Central Gas Pipeline",
         "id": "2140f739-fe4c-473b-bc1e-5a68a403cd50",
         "title": "Enterprise Excellence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358130,7 +358130,7 @@
         "company_name": "Zurich Insurance",
         "id": "17b7544f-c3be-49f8-838a-a79a4ed854e0",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -359423,7 +359423,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -367762,6 +367762,76 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Philips",
+        "id": "bfe0c2ae-dc39-4beb-8df2-b553f4303194",
+        "title": "Robotics Mechatronics Co-op - Surgical Robotics",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788424568,
+        "date_posted": 1787616000,
+        "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Philips",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "DTCC",
+        "id": "d6a23635-30c7-46eb-b86c-354647994436",
+        "title": "Model Risk Management Intern - 2027 Internship Program",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788424568,
+        "date_posted": 1787701823,
+        "url": "https://ebxr.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/214401",
+        "locations": [
+            "Jersey City, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/DTCC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Appliances",
+        "id": "259c0c7d-c60b-40ad-936e-d5aef95bbb9f",
+        "title": "Electrical Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2027"
+        ],
+        "date_updated": 1788424568,
+        "date_posted": 1787616000,
+        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Electrical-Engineering-Co-op-Fall-2027_REQ-26594",
+        "locations": [
+            "Louisville, KY"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Appliances",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
