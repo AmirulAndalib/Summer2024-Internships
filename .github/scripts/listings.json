@@ -347756,7 +347756,7 @@
         "company_name": "GE Vernova",
         "id": "92c38a17-10a1-470d-bfa5-e2936e6d797b",
         "title": "Operations Intern - Customer Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347875,7 +347875,7 @@
         "company_name": "Integra FEC",
         "id": "c00c7a53-a8ed-4d95-8007-8ee208d626b7",
         "title": "Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -347896,7 +347896,7 @@
         "company_name": "Integra FEC",
         "id": "8f6b5101-7230-49bf-9bef-dae65201c706",
         "title": "Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -348267,7 +348267,7 @@
         "company_name": "Blackhawk Network Holdings",
         "id": "e8c8733f-5d15-4d1a-b6c1-1689dda28ffe",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348362,7 +348362,7 @@
         "company_name": "Dow Chemical Company",
         "id": "407e58f0-17f2-4ba7-af47-08c874886f9e",
         "title": "Analytical Science Co-op - Analytical Science R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348411,7 +348411,7 @@
         "company_name": "Bosch Home Comfort",
         "id": "7b255ec8-ddcb-45a5-a965-9e0de28fa4b6",
         "title": "Calibration Process Optimization Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -348715,7 +348715,7 @@
         "company_name": "GE Vernova",
         "id": "a27c9577-e56c-4eb7-b845-f58892d3c223",
         "title": "Operations Intern - Customer Data Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -348761,7 +348761,7 @@
         "company_name": "BP",
         "id": "81e02f54-1f22-46e1-8ff3-ff6dc0f5c5eb",
         "title": "Finance & Risk Intern - Supply, Trading, & Shipping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348808,7 +348808,7 @@
         "company_name": "BP",
         "id": "3f24f348-8a17-4cd3-81df-d1f6d21f400e",
         "title": "Finance & Risk Intern - Supply, Trading, & Shipping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348831,7 +348831,7 @@
         "company_name": "BP",
         "id": "a152507c-7695-43b3-b5bf-bc1fe768542d",
         "title": "Finance & Risk Intern - Supply, Trading, & Shipping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348854,7 +348854,7 @@
         "company_name": "BP",
         "id": "2e904e9f-2d4c-4f10-b02e-5e7084f3cdd7",
         "title": "Finance & Risk Intern - Supply, Trading, & Shipping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348969,7 +348969,7 @@
         "company_name": "GE Aerospace",
         "id": "38da8e8a-29be-4812-86cc-ccb6e3f40b09",
         "title": "Product Definition Engineer Intern - Designer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349131,7 +349131,7 @@
         "company_name": "Mackenzie Investments",
         "id": "04d722b3-d48b-46c8-88b7-9bcc61a0d2b2",
         "title": "Technology Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349367,7 +349367,7 @@
         "company_name": "United Parcel Service",
         "id": "26b43fcb-cddd-4373-8bf4-87f591f866ee",
         "title": "Information Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349388,7 +349388,7 @@
         "company_name": "United Parcel Service",
         "id": "5cd6ee01-b5b8-4b44-9502-4862d2799c5e",
         "title": "Information Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349628,7 +349628,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "b376a3bd-1dcf-47ea-8417-7d3be2e79c8b",
         "title": "Geographic Information Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -349953,7 +349953,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "c2ec6a4a-824b-4ec8-886d-3d47b4993e24",
         "title": "Business Analytics Intern - Mida",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360413,7 +360413,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "2a48e05f-f557-488e-876c-eafef0801099",
         "title": "Mission Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360461,7 +360461,7 @@
         "company_name": "Oppenheimer & Co. Inc.",
         "id": "f698851c-ba0f-4e6e-86b2-a408a1ffa46a",
         "title": "Equities Sales & Trading Intern - Business Segments and Corporate Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360484,7 +360484,7 @@
         "company_name": "Eight Sleep",
         "id": "842ded34-df38-49e4-8d21-4a85f457c148",
         "title": "Prototype & Test Engineer Intern - New Product Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -360998,7 +360998,7 @@
         "company_name": "Nokia",
         "id": "f5f6586c-d3d6-4eb3-8231-2a9f9cbd240d",
         "title": "Web Developer Co-op Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362682,6 +362682,145 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Manulife-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Eaton",
+        "id": "6fe5b9a0-740d-433d-888e-92478b141496",
+        "title": "Operations Analyst Co-op - Manufacturing",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788409626,
+        "date_posted": 1788358202,
+        "url": "https://eaton.eightfold.ai/careers/job/687238965477",
+        "locations": [
+            "Glenolden, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Eaton-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Draper",
+        "id": "b23545b3-7e52-47da-adc5-d2a085e0b26e",
+        "title": "Sensor Electrical Engineering Co-op - Spring 2027",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1788409626,
+        "date_posted": 1788134400,
+        "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Sensor-Electrical-Engineering-Co-op--Spring-2027-_JR002885",
+        "locations": [
+            "Cambridge, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Draper",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Walt Disney Company",
+        "id": "606cd5a4-db87-46fd-b5a0-a7afc6a4c06a",
+        "title": "Figure Programming Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788409626,
+        "date_posted": 1788134400,
+        "url": "https://disney.wd5.myworkdayjobs.com/disneycareerdc/job/Glendale-CA-USA/WDI-Figure-Programming-Intern--Spring-2027_10159712-1",
+        "locations": [
+            "Celebration, FL",
+            "Glendale, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Disney",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "1b9ab46e-dd9c-4d05-a4b6-2cc191e8e616",
+        "title": "Dry Etch Equipment Development Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788409626,
+        "date_posted": 1788134400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Dry-Etch-Equipment-Development-Engineering_JR109987",
+        "locations": [
+            "Boise, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oshkosh",
+        "id": "c30bd5ad-aa4e-49e5-9d77-90ebd7322fd1",
+        "title": "Supply Chain Data Analytics Intern - Year Round",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788410704,
+        "date_posted": 1788134400,
+        "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Greenville-Wisconsin-United-States/Intelligent-Supply-Chain-Intern--Year-Round-_R49907",
+        "locations": [
+            "Greenville, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Oshkosh",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "0b2a9c96-185a-485d-bfc8-3ea3fbb8101b",
+        "title": "ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788410704,
+        "date_posted": 1788134400,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2027-Winter---GRM--ALM-Risk-Data---Automation-Analyst-Intern--4-Months-_R-0000186330-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
