@@ -267465,7 +267465,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "b53e8084-3f0d-4925-a01f-c1787a740570",
         "title": "Sys & Development Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -268209,7 +268209,7 @@
         "company_name": "University of Texas at Austin",
         "id": "bd7d64d7-d4c4-4163-8a9a-6520478b52c1",
         "title": "DSR Lab Data Student Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -271696,7 +271696,7 @@
         "company_name": "RFCUNY",
         "id": "4d6d9d8d-ef9c-4af6-98d5-d441afd6ea36",
         "title": "Fullstack Web Development Peer Tutor",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -271970,7 +271970,7 @@
         "company_name": "Palantir",
         "id": "6f48a60c-c53f-4258-9d61-02f627a6072a",
         "title": "Palantir Software Engineer Intern - Forward Deployed Software Engineer - Commercial",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -273289,7 +273289,7 @@
         "company_name": "Blue Cross Blue Shield of Michigan",
         "id": "e0d4f452-a4bf-4b10-9618-15d2cfe12f9e",
         "title": "IT Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -274490,7 +274490,7 @@
         "company_name": "TikTok",
         "id": "bdac1050-d452-49f0-95e7-93ed2722fd24",
         "title": "Product Solutions and Operations Project Intern - Commerce Ads",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -274585,7 +274585,7 @@
         "company_name": "Blackstone",
         "id": "25b9a125-ee47-46ff-852e-22fb108b21d6",
         "title": "Blackstone Credit and Insurance \u2013 Quant and Portfolio Analytics Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -275074,7 +275074,7 @@
         "company_name": "TikTok",
         "id": "b1f8c920-8d06-4fde-b5a2-23db753f0379",
         "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -275561,7 +275561,7 @@
         "company_name": "Arlington County VA",
         "id": "098a3e59-47c8-468f-bd4d-7a3c9ad2786c",
         "title": "Utility Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -276366,7 +276366,7 @@
         "company_name": "Citadel Securities",
         "id": "88d4320b-8cb5-44fc-b2ec-b7601a389436",
         "title": "Quantitative Trader Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -279180,7 +279180,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "aede4467-5907-43aa-850b-9d6349575538",
         "title": "Associate/Undergraduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -279407,7 +279407,7 @@
         "company_name": "Jump Trading",
         "id": "807f7a33-061f-4c85-9cf4-1d8edfa19135",
         "title": "Campus Quantitative Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -290399,7 +290399,7 @@
         "company_name": "The Boeing Company",
         "id": "b7a7213e-4e27-48ac-82d9-593ced5ab46d",
         "title": "Intern to Entry Level Conversion Intern Program - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -299344,7 +299344,7 @@
         "company_name": "Nexstar",
         "id": "163d8d37-6db8-403a-8471-eea9e23a4d43",
         "title": "Media Archivist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300146,7 +300146,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "ab3e2fc9-d8f5-463f-9361-ab5f63b1984d",
         "title": "3-5 Processing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300171,7 +300171,7 @@
         "company_name": "Hendrick Motorsports",
         "id": "3da38c8c-84b4-4241-baac-86f895a2bc4f",
         "title": "Project and Race Support Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -300194,7 +300194,7 @@
         "company_name": "Ancestry",
         "id": "7ff2bfdc-c0f7-4d3b-9cc7-c2eae7f22986",
         "title": "Postdoctoral Fellow - Applied AI Document Understanding",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -300217,7 +300217,7 @@
         "company_name": "Howard University",
         "id": "9b43bcfd-4d66-4e0e-b178-992f8aace366",
         "title": "Student Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -300241,7 +300241,7 @@
         "company_name": "Baseten",
         "id": "1fefa123-5f4a-45e9-b0eb-c51de18773df",
         "title": "Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369551,7 +369551,7 @@
         "company_name": "Micron Technology",
         "id": "af2b0b13-dc87-4661-a911-d4268d51ec80",
         "title": "Device Engineer New Grad - DRAM",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369599,7 +369599,7 @@
         "company_name": "Jones Lang LaSalle",
         "id": "4d12734c-481e-421e-9432-927297fb6f83",
         "title": "Mechatronics and Robotics Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370609,7 +370609,7 @@
         "company_name": "Vital Lyfe",
         "id": "defc3fc5-011a-46dc-999c-e6b5746ec857",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370653,7 +370653,7 @@
         "company_name": "Pennsylvania State University",
         "id": "8cada1df-d393-48bc-9c6e-cff19323f020",
         "title": "Electrical Engineering Lab Assistant/Grader",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372842,7 +372842,7 @@
         "company_name": "Vistra",
         "id": "12fe37a6-9f3c-462a-971b-81d0d1fc591f",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -373225,5 +373225,98 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "ad25a8b7-5d28-43f7-97f6-96d0bb99ad40",
+        "title": "SMB Operations Specialist Project Intern - Product Led Growth - 2026 Start - BS/MS",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788463466,
+        "date_posted": 1783578398,
+        "url": "https://lifeattiktok.com/search/7657540410859948341",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Parkdepot",
+        "id": "f8a9b90a-fde6-46cf-9272-e8ae8b5f9bac",
+        "title": "Marketing Analyst Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788463101,
+        "date_posted": 1783415171,
+        "url": "https://jobs.lever.co/salesdemo-jr/a5070161-0ed6-4872-b34a-28f90f7fc8c3/apply",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Parkdepot",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "649ce601-1cf3-41a7-bc57-2ff4727b54be",
+        "title": "Product Manager Vertical Search Ads Mandarin Speaking Project intern - Content and Service Ads - 2026 Start - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788462742,
+        "date_posted": 1782956217,
+        "url": "https://lifeattiktok.com/search/7655410730217048373",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Enterprise Holdings",
+        "id": "cb9172b5-836c-481a-9635-e6fafea32b62",
+        "title": "Management Trainee Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788462383,
+        "date_posted": 1782915113,
+        "url": "https://us-erac.icims.com/jobs/553479/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Tomball, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Enterprise-Holdings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "MBA"
+        ]
     }
 ]
