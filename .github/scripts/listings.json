@@ -32014,7 +32014,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -204384,7 +204384,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "04690200-00da-4592-b697-fc3f8a39af9c",
         "title": "Quantitative Systematic Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255363,7 +255363,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -280453,7 +280453,7 @@
         "company_name": "GE Healthcare",
         "id": "037d7693-e6be-486d-b4bd-d7dff6960ce4",
         "title": "Field Service Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2025",
             "Spring 2025",
@@ -289477,7 +289477,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326226,7 +326226,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326372,7 +326372,7 @@
         "company_name": "NVIDIA",
         "id": "02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
         "title": "Developer and Performance Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339534,7 +339534,7 @@
         "company_name": "WhiteWater Midstream",
         "id": "0e885dce-37ca-4760-9073-ee759cf89860",
         "title": "Trading Operations Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339720,7 +339720,7 @@
         "company_name": "The Federal Reserve System",
         "id": "7a778302-889f-406c-9cbe-8ac4860bf89c",
         "title": "Technical Intern - Federal Reserve - National IT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339835,7 +339835,7 @@
         "company_name": "Canadian Tire",
         "id": "ad3eb914-96f2-4845-9f67-f265f2fde8ec",
         "title": "Fraud Strategy Student - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340324,7 +340324,7 @@
         "company_name": "Ameren",
         "id": "5022bef0-ef20-4549-8823-95bd6b2141f5",
         "title": "Crisis Management Meteorology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -340442,7 +340442,7 @@
         "company_name": "Netflix",
         "id": "5a9ddf5e-7efd-444f-9eb2-f4e5c80da75c",
         "title": "Machine Learning/AI Infrastructure Engineering Intern - AI Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -367595,6 +367595,171 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Arena Investors I Quaestor Advisors",
+        "id": "53cee592-5a1d-4506-9ee0-b5a4fa38065d",
+        "title": "Investment Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2028"
+        ],
+        "date_updated": 1788423809,
+        "date_posted": 1788416906,
+        "url": "https://apply.workable.com/arena-investors-lp/j/134D6A3454/apply",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Arena-Investors-I-Quaestor-Advisors",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RSM",
+        "id": "b5182f38-b3dc-49ad-afae-0f3dbf43000b",
+        "title": "Enterprise Data Integration and Migration Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788423753,
+        "date_posted": 1788393600,
+        "url": "https://rsm.wd1.myworkdayjobs.com/RSMCareers/job/USA-TX-Dallas-13155-Noel-Road/Enterprise-Data-Integration-and-Migration-Consulting-Intern---Summer-2027_JR116784",
+        "locations": [
+            "Dallas, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/RSM",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ruekert & Mielke",
+        "id": "79b33019-6e5d-4257-b727-82b8bae260f0",
+        "title": "GIS Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788423063,
+        "date_posted": 1788407723,
+        "url": "https://ruekertmielke.bamboohr.com/careers/300/",
+        "locations": [
+            "Waukesha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Ruekert-And-Mielke",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oceanus Marine Technologies",
+        "id": "7c176f66-e486-46f0-b9c9-5b651e4cf7cc",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788422980,
+        "date_posted": 1788407702,
+        "url": "https://jobs.ashbyhq.com/oceanus/c16078ab-131c-461e-9049-b094633ae41b/application?embed=true",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oceanus-Marine-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Cisco",
+        "id": "cc47ac63-57a2-4592-ad46-338af068e454",
+        "title": "Machine Learning Engineer 2 Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788422959,
+        "date_posted": 1788407670,
+        "url": "https://careers.cisco.com/global/en/job/2024683",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Cisco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Bosch Home Comfort",
+        "id": "2efe5ad7-560f-41b4-a4d2-891dd7a1587b",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788421867,
+        "date_posted": 1787782131,
+        "url": "https://jobs.smartrecruiters.com/BoschGroup/744000145785190",
+        "locations": [
+            "Plymouth, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Bosch-Home-Comfort",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GlobalFoundries",
+        "id": "db477b31-3358-44a9-85b7-9c1740e035fe",
+        "title": "SiGe HBT Device Modelling Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788422948,
+        "date_posted": 1787702400,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/SiGe-HBT-Device-Modelling-Intern--Summer-2027-_JR-2604271",
+        "locations": [
+            "Essex Junction, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's",
             "PhD"
         ]
