@@ -290886,7 +290886,7 @@
         "company_name": "AQR Capital Management",
         "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
         "title": "Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291390,7 +291390,7 @@
         "company_name": "Castleton Commodities International",
         "id": "6c60c226-bf8b-45f1-b610-d9835abb7ce2",
         "title": "Commodities Trading Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291539,7 +291539,7 @@
         "company_name": "Castleton Commodities International",
         "id": "cab3486c-17b7-4cac-ad2b-49f4007f98e4",
         "title": "Commodities Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292341,7 +292341,7 @@
         "company_name": "CloudFit Software",
         "id": "52bbfd3d-d9c3-4963-9367-97c721bcced4",
         "title": "CloudFit Software Internship - Company name withheld",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -292667,7 +292667,7 @@
         "company_name": "Brandeis University",
         "id": "a3cd9446-cca0-47a9-9291-5dc3acdb2622",
         "title": "Research Assistant - School of Business and Economics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -293717,7 +293717,7 @@
         "company_name": "University of Virginia",
         "id": "08205941-f240-469b-8e68-33e220e58b33",
         "title": "Data & Analytics Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -294405,7 +294405,7 @@
         "company_name": "L3Harris Technologies",
         "id": "d378c42b-5e79-40b8-91ea-020a28e4bc43",
         "title": "Associate Integration and Test Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -294936,7 +294936,7 @@
         "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Later",
-        "id": "230714a7-6047-4f24-882a-5616896d2794",
+        "id": "1cbb5b37-ad0e-460b-8c1a-ed4441db8c04",
         "title": "Data/Analytics Co-op",
         "active": true,
         "terms": [
@@ -295464,7 +295464,7 @@
         "company_name": "Deloitte",
         "id": "4b79443f-64b0-4381-aa54-5febee12149d",
         "title": "Consultative Offerings Intern - Government & Public Services - Cyber Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -295976,7 +295976,7 @@
         "company_name": "FTI Consulting",
         "id": "5efbd1de-4e9a-48b1-82f2-9d2d0c6f3914",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -297409,7 +297409,7 @@
         "company_name": "Tesla",
         "id": "0fe46774-0c06-4ab5-94e3-f5f8af293290",
         "title": "Software Engineer Intern - Software Engineer - AI Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300402,7 +300402,7 @@
         "company_name": "Gumloop",
         "id": "ccd36192-6d5e-4378-901a-27d267a0c497",
         "title": "Design Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -344648,7 +344648,7 @@
         "company_name": "Qorvo",
         "id": "e50cfb4e-c4b2-47dc-b594-f28655f5499c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -356328,7 +356328,7 @@
         "company_name": "Figure",
         "id": "404baf49-0fa6-44f4-927d-2bbe7d993a06",
         "title": "Robot Service Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370000,7 +370000,7 @@
         "company_name": "Human Computer Lab",
         "id": "2542bb4a-bc5b-418a-91ae-3403cad4c802",
         "title": "Mechanical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370024,7 +370024,7 @@
         "company_name": "Techtronic Industries (TTI)",
         "id": "6ffcb913-4dca-406f-9329-89136a7e9c1e",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370070,7 +370070,7 @@
         "company_name": "Draper",
         "id": "d87a7fba-7feb-47e5-b43d-c4f0967ec250",
         "title": "Acoustic and Vibration Technologies Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -373446,7 +373446,7 @@
         "company_name": "Inspiration Commerce Group",
         "id": "18da595d-c842-4de0-aded-a6608fed77f1",
         "title": "Ecommerce Operations Intern - Ecommerce Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -373505,5 +373505,98 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mercer University",
+        "id": "dbef2550-13ed-4579-95c4-df33ba85e6f1",
+        "title": "Digital Image Asset Management",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788466887,
+        "date_posted": 1785369600,
+        "url": "https://merceruniversity.wd1.myworkdayjobs.com/student/job/Macon-Campus/Digital-Image-Asset-Management_JR104087",
+        "locations": [
+            "Macon, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Mercer-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "497d74b1-baa5-412b-ba3d-76ffc87e197d",
+        "title": "Global Product Strategy & Operation Project Intern - Ads Interface and Platform Product",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788465800,
+        "date_posted": 1784855684,
+        "url": "https://lifeattiktok.com/search/7663478489194612997",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "8956fcef-9bc0-4e93-bbc2-2f9165ddc136",
+        "title": "Product Solutions and Operations Project Intern - Ads Interface and Platform Product",
+        "active": true,
+        "terms": [
+            "Summer 2026",
+            "Fall 2026"
+        ],
+        "date_updated": 1788465800,
+        "date_posted": 1784855679,
+        "url": "https://lifeattiktok.com/search/7665080709191108917",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "TechInsights",
+        "id": "52b170ce-7bb1-4b1d-a3a4-522f883dff61",
+        "title": "Teardown Lab Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788466522,
+        "date_posted": 1784844798,
+        "url": "https://techinsights.applytojob.com/apply/BMs0TSJYAc/Teardown-Lab-Coop-Student-Fall-2026",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/TechInsights",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
