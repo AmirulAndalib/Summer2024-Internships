@@ -283469,7 +283469,7 @@
         "company_name": "NewsBreak",
         "id": "8975659b-0873-4463-9888-45451e2e150b",
         "title": "Growth Engineer Intern - Growth Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -287119,7 +287119,7 @@
         "company_name": "Chevron Corporation",
         "id": "25a61501-a552-4f3c-b147-5d1ba74548f5",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -297919,7 +297919,7 @@
         "company_name": "Formlabs",
         "id": "fbc2121f-6452-434e-a732-904dabe11cd7",
         "title": "Hardware R&D Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -298723,7 +298723,7 @@
         "company_name": "Genworth Financial",
         "id": "8e984444-bc04-494b-b26d-4f4a8cd5d1e7",
         "title": "IT Development Program Intern - IT Development Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298820,7 +298820,7 @@
         "company_name": "Lawrence Livermore National Laboratory (LLNL)",
         "id": "f8b9e37f-3c7e-4e07-b7ca-ac75b69f8c7d",
         "title": "Solid State Magnetic Resonance Spectroscopist - Postdoctoral Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -328244,7 +328244,7 @@
         "company_name": "Catalist",
         "id": "1a4140d0-87ba-4fbf-817d-274fb62e70a7",
         "title": "Data Services Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -367457,7 +367457,7 @@
         "company_name": "Cummins",
         "id": "fdd21bf1-b2d0-489c-8f36-595c3ef90875",
         "title": "Apprenticeship - Engineering Design Level 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -373597,6 +373597,74 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "University of Rochester",
+        "id": "3278eb15-e3f1-4dee-960d-7e1481d6b4a5",
+        "title": "Student Researcher Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788467962,
+        "date_posted": 1785456000,
+        "url": "https://rochester.wd5.myworkdayjobs.com/UR_Staff/job/Laboratory-for-Laser-Energetics/Co-op-Student-Researcher-I_R273459",
+        "locations": [
+            "Rochester, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Rochester",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Red Bull",
+        "id": "6c1b495d-c993-4a1e-80fc-bb8b295e7c8b",
+        "title": "Academy Scouting Intern - Academy Scout",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788467602,
+        "date_posted": 1785460019,
+        "url": "https://jobs.smartrecruiters.com/RedBull/744000140784792",
+        "locations": [
+            "Morristown, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Red-Bull",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Marquee Brands",
+        "id": "cc58fac9-b0fa-47d6-8d76-5a9b5e373147",
+        "title": "Consumer Insights Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788467602,
+        "date_posted": 1785450253,
+        "url": "https://marqueebrands.bamboohr.com/careers/132/",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Marquee-Brands",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
