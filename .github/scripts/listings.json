@@ -343529,7 +343529,7 @@
         "company_name": "Emerson Electric",
         "id": "a6026254-bdf4-49e3-82e7-94a39fd78c7d",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344437,7 +344437,7 @@
         "company_name": "Apple",
         "id": "afe892b4-c1f7-4900-a870-e2defcbe7c3e",
         "title": "Camera Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358971,7 +358971,7 @@
         "company_name": "Toast",
         "id": "bd129aa6-b03d-4d43-a933-5b02e8d6cc61",
         "title": "Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
