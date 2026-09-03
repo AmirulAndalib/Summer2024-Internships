@@ -323089,7 +323089,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -325205,7 +325205,7 @@
         "company_name": "RTX",
         "id": "9591653b-a693-4b79-853f-dcd9a85971fd",
         "title": "Manufacturing & Quality Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -327107,7 +327107,7 @@
         "company_name": "Citadel Securities",
         "id": "7c6161a2-8ffc-443d-96ee-276bd5edf320",
         "title": "Fundamental Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327128,7 +327128,7 @@
         "company_name": "University of Pikeville",
         "id": "930e491c-42f6-4293-99d8-389cc8248951",
         "title": "Policy Analyst Intern - Center for Public Service",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -327261,7 +327261,7 @@
         "company_name": "Zipline",
         "id": "d22319c5-1c28-4f5e-80d4-ba370e9bb328",
         "title": "Computational Physics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327397,7 +327397,7 @@
         "company_name": "TMEIC Corporation Americas",
         "id": "fa9b8b4c-326b-46f7-8979-43e65256db21",
         "title": "Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -327421,7 +327421,7 @@
         "company_name": "Verition Fund Management",
         "id": "1e070356-7637-458b-b016-143243ecf95e",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -327696,7 +327696,7 @@
         "company_name": "Miami University",
         "id": "f49f2253-11f4-4f56-bf6b-3ed2334cb2bc",
         "title": "Undergraduate Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327953,7 +327953,7 @@
         "company_name": "Zipline",
         "id": "d1c5d435-bda6-4975-b5d2-7a1c93170a05",
         "title": "Applications Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -328105,7 +328105,7 @@
         "company_name": "TikTok",
         "id": "a908b011-3049-4c5c-831e-b0a4e17ddebf",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328128,7 +328128,7 @@
         "company_name": "TikTok",
         "id": "79ddabd2-cd14-4fd6-8aec-f82858b2190e",
         "title": "Machine Learning Engineer Intern - E-Commerce Supply Chain & Logistics-LLM/Agent - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340016,7 +340016,7 @@
         "company_name": "Customers Bank",
         "id": "9e3ed4d7-5a77-4dde-b720-f3ff80ee7d95",
         "title": "AI Innovation Risk Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -341358,7 +341358,7 @@
         "company_name": "Blue Origin",
         "id": "e586d565-9a03-414c-881e-bb1e51ee22b7",
         "title": "Electronics/Electrical Systems Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350587,7 +350587,7 @@
         "company_name": "Verdantas",
         "id": "f74fb3ef-bca3-4691-a613-461eb1434a82",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359135,7 +359135,7 @@
         "company_name": "Ameriprise Financial",
         "id": "644de92f-0d89-42f9-815f-13f968c25c57",
         "title": "Asset Management Technology Intern - Data Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360669,7 +360669,7 @@
         "company_name": "Andersen Corporation",
         "id": "c9ff9182-9268-4f02-a005-5706911147d0",
         "title": "Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -368730,7 +368730,7 @@
         "company_name": "General Matter",
         "id": "62c4bfa9-7472-4120-b629-71f72efe63bd",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368753,7 +368753,7 @@
         "company_name": "IMEG",
         "id": "3f1abdd8-6e7d-4f52-9ecb-46185b14fff3",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368776,7 +368776,7 @@
         "company_name": "IMEG",
         "id": "16fe3e8d-a462-4191-9184-e994e14a2226",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368799,7 +368799,7 @@
         "company_name": "IMEG",
         "id": "af1fd859-8235-4232-b5a7-fe3468919323",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -368868,7 +368868,7 @@
         "company_name": "Zipline",
         "id": "fcadbd4d-3c62-41ae-a226-8a9aecddd6fa",
         "title": "Controls Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -372191,6 +372191,79 @@
             "Van Horn, TX"
         ],
         "company_url": "https://simplify.jobs/c/Blue-Origin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "4b982322-5cf7-44e2-bedc-ef603ee2bcd2",
+        "title": "GridOS Project Engineer Intern Co-op - GridOS",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788442752,
+        "date_posted": 1787097600,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-2",
+        "locations": [
+            "Bellevue, WA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GE Vernova",
+        "id": "7caf712d-6377-4f92-ae37-3a18b2ea14c6",
+        "title": "GridOS Project Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788442752,
+        "date_posted": 1787097600,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Bellevue/GE-Vernova-GridOS--Project-Engineer---Co-Op-Intern---January-2027-June-2027_R5050087-1",
+        "locations": [
+            "Bellevue, WA",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Regions Bank",
+        "id": "3fbde271-db0b-4f32-a74c-aa1682b44994",
+        "title": "Technology Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788442752,
+        "date_posted": 1787097600,
+        "url": "https://regions.wd5.myworkdayjobs.com/regions_careers/job/Hoover-AL---Riverchase-Operations-Center-Birmingham-AL/XMLNAME-2027-ETP-Intern---Technology--Operations--Digital--and-Data---Technology_R105425",
+        "locations": [
+            "Hoover, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Regions-Bank",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
