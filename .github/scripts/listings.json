@@ -111226,7 +111226,7 @@
         "company_name": "AXQ Capital",
         "id": "50b74e7f-6fd6-4664-990a-0cf32bb4f58f",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -307972,7 +307972,7 @@
         "company_name": "John Deere",
         "id": "bbf51c12-4cdc-4285-9e8b-a0411363137c",
         "title": "Sensor Software Design Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -309442,7 +309442,7 @@
         "company_name": "ByteDance",
         "id": "83e8dcee-3e30-49d2-97e2-42937bcfe4fa",
         "title": "Applied Machine Learning Production Engineer Intern - AML Production Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320688,7 +320688,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320780,7 +320780,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328431,7 +328431,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -331522,7 +331522,7 @@
         "company_name": "General Motors",
         "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
         "title": "Lighting Software Development & Test Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -341449,7 +341449,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342726,7 +342726,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342750,7 +342750,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -349040,7 +349040,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -355568,7 +355568,7 @@
         "company_name": "General Motors",
         "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
         "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -355591,7 +355591,7 @@
         "company_name": "Boeing",
         "id": "635ee51b-52a4-4a02-bfeb-3485f2ebc40b",
         "title": "Circuit Card Assembly Specialist Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -356013,7 +356013,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "9c5c433f-5094-4a1d-815a-eba5c353c9a5",
         "title": "Human-Machine Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356060,7 +356060,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "d3d10ab7-d5dc-4708-9b54-6176ea96d7f0",
         "title": "Cyber Software Engineer Intern - Capabilities Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356085,7 +356085,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "a1aae81f-fce9-4607-961b-cc32f2b45dbd",
         "title": "Modeling, Simulation & Analysis Intern - Engagement Optimization Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356329,7 +356329,7 @@
         "company_name": "Blue Origin",
         "id": "aa96e7b4-06b4-4740-bd79-7ecbf5b4f625",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356589,7 +356589,7 @@
         "company_name": "Philips",
         "id": "f6cf148f-6b09-4ec3-89f4-9dcda559b492",
         "title": "Design Release Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -357399,7 +357399,7 @@
         "company_name": "Hermeus",
         "id": "768502d1-3bb6-48fe-8605-2c02c23d8e9e",
         "title": "Software Engineer Intern - Modeling & Simulation - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -357491,7 +357491,7 @@
         "company_name": "Corning",
         "id": "1a7da7c1-9598-4404-83f2-332f74fe5544",
         "title": "Raw Material Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357587,7 +357587,7 @@
         "company_name": "Nike",
         "id": "d83bbe53-fd2f-4fdb-b01c-d7fafd7f1f40",
         "title": "Global Apparel Materials Developer Intern - Apparel Development - Global Apparel Materials",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2028",
@@ -357847,7 +357847,7 @@
         "company_name": "Corning",
         "id": "b81ddbe9-9786-4f69-b30e-ac3d31e65673",
         "title": "Optical Fiber and Cable Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358061,7 +358061,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "7f79df65-6704-4993-b3c8-5fc229cc233b",
         "title": "Advanced Driver Assistance Systems Calibration Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358665,7 +358665,7 @@
         "company_name": "Medline",
         "id": "06382def-71d9-4ad3-92bd-48498ad6d717",
         "title": "Business Systems Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358781,7 +358781,7 @@
         "company_name": "US Foods",
         "id": "7e3901fd-05cd-4661-ae40-da887b489ca8",
         "title": "Product Analyst Intern - Digital Commerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358805,7 +358805,7 @@
         "company_name": "POET",
         "id": "0c808f39-f82e-4f40-9bf5-05a6bf0e9704",
         "title": "Process Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358852,7 +358852,7 @@
         "company_name": "US Foods",
         "id": "95096cf8-0105-4f89-ba06-d02cd8927d59",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361809,6 +361809,221 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Baird",
+        "id": "8c416546-f532-484d-92fd-9dd055fb19d8",
+        "title": "Capital Markets Compliance Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788220800,
+        "url": "https://baird.wd1.myworkdayjobs.com/careers/job/WI-Milwaukee/Internship---Capital-Markets-Compliance-Data---Analytics--Year-Round-_R2026962-2",
+        "locations": [
+            "Milwaukee, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Baird",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Berkshire Grey",
+        "id": "8f1fa8ec-4211-47c4-979a-817136da7e97",
+        "title": "Hardware Quality Co-op - Verification & Validation",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788301585,
+        "url": "https://berkshiregrey.bamboohr.com/careers/771/",
+        "locations": [
+            "Bedford, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/BerkshireGrey",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University Health Network",
+        "id": "0c22eace-033a-461d-8d35-efddba759631",
+        "title": "Research Technical Assistant - AI and Multimodal Foundation Models",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788300563,
+        "url": "https://jobs.smartrecruiters.com/UniversityHealthNetwork/744000146744019",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Health-Network",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Acumatica",
+        "id": "5a875ca9-f702-430e-95ef-602f35afa359",
+        "title": "AI & Automation Intern - Office of the CFO",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788300509,
+        "url": "https://jobs.smartrecruiters.com/Acumatica/744000146749696",
+        "locations": [
+            "Bellevue, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Acumatica",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Genuine Parts Company",
+        "id": "1334781b-b931-4148-9da0-2ac010e63209",
+        "title": "Cloud Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788220800,
+        "url": "https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133",
+        "locations": [
+            "Birmingham, AL"
+        ],
+        "company_url": "https://simplify.jobs/c/Genuine-Parts-Company",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Omnicom Group",
+        "id": "75e8f127-6508-489a-85af-6d0bb6299903",
+        "title": "Experience Design Engineer Intern Consultant - Design Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788401529,
+        "date_posted": 1788220800,
+        "url": "https://interpublic.wd5.myworkdayjobs.com/omc/job/Addison-Texas-United-States-of-America/Experience-Design-Intern-Consultant--Design-Engineering-_R14053",
+        "locations": [
+            "Houston, TX",
+            "Chicago, IL",
+            "NYC",
+            "Denver, CO",
+            "Atlanta, GA",
+            "Addison, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Omnicom-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Geotab",
+        "id": "271b8fea-6d1f-4318-aaa7-aa9a13159d72",
+        "title": "Vehicle Systems Engineering Intern - Winter/January 2027 - 4, 8 Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788287844,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5381043008",
+        "locations": [
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Booz Allen",
+        "id": "3da73fff-cf02-46b3-b53a-85633a4986ec",
+        "title": "Systems Engineer Intern - Summer Games",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788220800,
+        "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Systems-Engineer-Intern---Ft-Walton-Beach--FL_R0248388",
+        "locations": [
+            "Fort Walton Beach, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/Booz-Allen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Western & Southern Financial Group",
+        "id": "b9b2b8a1-c174-460a-9af5-aaeec6fcac26",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788404421,
+        "date_posted": 1788287292,
+        "url": "https://careers-westernsouthern.icims.com/jobs/25245/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Western-Southern-Financial-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
