@@ -342170,7 +342170,7 @@
         "company_name": "Leidos",
         "id": "49e6ace2-42ca-46a7-81f9-59a39844f75f",
         "title": "Computer Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -342974,7 +342974,7 @@
         "company_name": "Jane Street",
         "id": "148e3318-5e31-4e70-a0a0-6b779ec4accf",
         "title": "Windows Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -343363,7 +343363,7 @@
         "company_name": "Repsol",
         "id": "9da7c688-402f-4666-9f23-7ab1a3ed0fc4",
         "title": "Geology & Geophysics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343641,7 +343641,7 @@
         "company_name": "The Walt Disney Company",
         "id": "e4a8c172-1382-48cd-b069-f093740284d7",
         "title": "Park Yield Optimization Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -343708,7 +343708,7 @@
         "company_name": "Iberdrola Group",
         "id": "b4b176c2-3de6-42d7-9ce9-7b3be3f49398",
         "title": "Technology \u2013 Cyber & Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343924,7 +343924,7 @@
         "company_name": "RTX",
         "id": "f62aa9c5-1fb9-4d0e-b1b4-f58818fbf4e1",
         "title": "PLM Business Analyst Intern - PLM Transformation and Governance",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -344273,7 +344273,7 @@
         "company_name": "Tesla",
         "id": "4132a5dd-ff75-427d-90b2-c4ea6238574f",
         "title": "Optimus Technician Intern - Tesla AI",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -348922,7 +348922,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -355450,7 +355450,7 @@
         "company_name": "General Motors",
         "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
         "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -365867,6 +365867,194 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Sensata",
+        "id": "820195d1-965f-496e-8386-73082f4f9b42",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788417006,
+        "date_posted": 1788307200,
+        "url": "https://sensata.wd1.myworkdayjobs.com/en-US/Sensata-Careers/job/Dynapower-South-Burlington-VT/Electrical-Engineer-Intern--Dynapower----Summer-2027_IRC98423",
+        "locations": [
+            "South Burlington, VT"
+        ],
+        "company_url": "https://simplify.jobs/c/sensata-tech",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard",
+        "id": "185284ab-d314-416c-8a28-44c6b1938920",
+        "title": "Quality Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788418055,
+        "date_posted": 1788307200,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Spring-Texas-United-States-of-America/Quality-Engineering-Intern_UNI4756-1",
+        "locations": [
+            "Spring, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Hewlett Packard",
+        "id": "01120085-8f92-416b-9a1d-d797219a2165",
+        "title": "Personal Systems Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788417006,
+        "date_posted": 1788307200,
+        "url": "https://hp.wd5.myworkdayjobs.com/externalcareersite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Hewlett-Packard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Microsoft",
+        "id": "aaa4dbfe-e609-475c-a90f-8f7f5e42a589",
+        "title": "Optical Communications Resident",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788417006,
+        "date_posted": 1787921191,
+        "url": "https://apply.careers.microsoft.com/careers/job/1970393556981744",
+        "locations": [
+            "Cambridge, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Microsoft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Alberta Investment Management Corporation",
+        "id": "a0690963-ad5c-4710-92b1-ce2cab817542",
+        "title": "Fixed Income Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788417906,
+        "date_posted": 1787788800,
+        "url": "https://aimco.wd10.myworkdayjobs.com/AIMCoCareers/job/Calgary/Co-op--Fixed-Income--May-2027-_JR100898",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Alberta-Investment-Management-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ABB",
+        "id": "357af7eb-b58a-4328-a47c-e28bb93ccd43",
+        "title": "AI Robotics UI/UX Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788417906,
+        "date_posted": 1787788800,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABB",
+        "id": "8e55e1d9-a6ba-4cf3-b2bd-186d0907c738",
+        "title": "Physical AI Robotics Simulation Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788417906,
+        "date_posted": 1787788800,
+        "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1",
+        "locations": [
+            "Milpitas, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ABB",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Micron Technology",
+        "id": "8a987894-dc4b-4761-8202-798f94b57890",
+        "title": "Marketing Analytics Intern - Global Communications & Marketing",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788417906,
+        "date_posted": 1787788800,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Meridian-ID/Intern---Marketing-Analytics_JR109458",
+        "locations": [
+            "Meridian, ID"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
         ]
     }
 ]
