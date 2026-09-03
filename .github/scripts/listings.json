@@ -227104,7 +227104,7 @@
         "company_name": "Tenstorrent",
         "id": "2c1b5956-4d83-4409-b595-31acfc1544f4",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Summer 2026",
@@ -304565,7 +304565,7 @@
         "company_name": "Uline",
         "id": "40cf0d07-e3e9-4d84-a352-1b71ad2e6ce2",
         "title": "Database Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304593,7 +304593,7 @@
         "company_name": "Uline",
         "id": "10b00647-cc01-4146-acfa-c52dfa57619f",
         "title": "Operations Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304836,7 +304836,7 @@
         "company_name": "e-Careers",
         "id": "072800b9-3b80-4a6e-8cb3-e41ea30d9a45",
         "title": "Software Developer Trainee",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304928,7 +304928,7 @@
         "company_name": "Nidec",
         "id": "6be04bf5-9fb6-4262-ac8a-d45baf82286c",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -304973,7 +304973,7 @@
         "company_name": "Microsoft",
         "id": "b412b084-36e9-45e2-b3a0-561c4336e62e",
         "title": "Software Engineer Security & Identity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -306472,7 +306472,7 @@
         "company_name": "ITT",
         "id": "594a0242-930a-47a8-8341-f94d47034b4c",
         "title": "Trade & Supply Chain Data Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -330545,7 +330545,7 @@
         "company_name": "General Motors",
         "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
         "title": "Lighting Software Development & Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -333083,7 +333083,7 @@
         "company_name": "Audax Group",
         "id": "451d266b-c459-492a-b5c3-df553f98d6d5",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -333107,7 +333107,7 @@
         "company_name": "Audax Group",
         "id": "2b1cb4ad-439e-499f-95a2-d30ea699fb24",
         "title": "AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -341749,7 +341749,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341773,7 +341773,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348063,7 +348063,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354591,7 +354591,7 @@
         "company_name": "General Motors",
         "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
         "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363390,7 +363390,7 @@
         "company_name": "Geotab",
         "id": "d98ef6ba-ad9f-401e-bb05-30075fdf7a98",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -369645,7 +369645,7 @@
         "company_name": "Cushman & Wakefield",
         "id": "560eea2f-2313-4c49-af13-30b093ef834e",
         "title": "Mechatronics & Robotics Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369666,7 +369666,7 @@
         "company_name": "Daktronics",
         "id": "383ff9e3-5934-474f-973a-d963e059800f",
         "title": "Electrical Design Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369689,7 +369689,7 @@
         "company_name": "Tesla",
         "id": "12247a72-6063-4576-b5d2-843c6d5139c0",
         "title": "Electrical Design Engineer Intern - Vehicle Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -369714,7 +369714,7 @@
         "company_name": "Tesla",
         "id": "148781a2-fffa-4ca8-a9d3-ff94f8574162",
         "title": "Automation Development & Tooling Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -373735,5 +373735,152 @@
             "Bachelor's",
             "Master's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "14e4b536-7764-4b98-b518-83d0feea8ec0",
+        "title": "Research Intern - AI Compute Efficiency & Scheduling",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788473001,
+        "date_posted": 1785834876,
+        "url": "https://jobs.bytedance.com/en/position/7668804309487749429/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "208a259f-86eb-4abe-9157-64f5a84a17ca",
+        "title": "Research Intern - AI Compute Efficiency & Scheduling",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788473001,
+        "date_posted": 1785834864,
+        "url": "https://jobs.bytedance.com/en/position/7668802153418475829/detail",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "20754e5e-e165-40e6-b859-c1dca81f7bdf",
+        "title": "Machine Learning Infrastructure Engineer Intern - Ads Infrastructure",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788473001,
+        "date_posted": 1785824409,
+        "url": "https://lifeattiktok.com/search/7668881813744191749",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "a0b929ab-383a-46c3-a540-391a25d6dbae",
+        "title": "International Operations Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788472641,
+        "date_posted": 1785715200,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/International-Operations-Analyst-Internship---Summer-2027_R265918",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Glenview, IL",
+            "Pleasant Prairie, WI",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Uline",
+        "id": "96d99494-69a2-4bcf-b4b5-b88b9abb3c85",
+        "title": "Sales Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788472641,
+        "date_posted": 1785715200,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Sales-Analyst-Internship---Summer-2027_R265911",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Glenview, IL",
+            "Pleasant Prairie, WI",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Uline",
+        "id": "6e078f21-cd89-48b1-8782-532d1868bc93",
+        "title": "Marketing Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788472641,
+        "date_posted": 1785715200,
+        "url": "https://uline.wd1.myworkdayjobs.com/en-US/Uline_Careers/job/Pleasant-Prairie-WI/Marketing-Internship---Summer-2027_R265940",
+        "locations": [
+            "Waukegan, IL",
+            "Milwaukee, WI",
+            "Glenview, IL",
+            "Pleasant Prairie, WI",
+            "Kenosha, WI"
+        ],
+        "company_url": "https://simplify.jobs/c/Uline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
