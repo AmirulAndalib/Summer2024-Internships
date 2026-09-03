@@ -207956,7 +207956,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -307104,7 +307104,7 @@
         "company_name": "Magna",
         "id": "867db835-a4f8-43bf-85e3-5a7430b868f7",
         "title": "Warranty Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -308089,7 +308089,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320388,7 +320388,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320430,7 +320430,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320456,7 +320456,7 @@
         "company_name": "Goldman Sachs",
         "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
         "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -320479,7 +320479,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320571,7 +320571,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320597,7 +320597,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323598,7 +323598,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f5caa061-d2b7-4386-84d3-c0621e03aa18",
         "title": "Technical Systems Analyst Co-op - Technology & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -324408,7 +324408,7 @@
         "company_name": "TikTok",
         "id": "cf6b0d27-3846-4140-9653-2b514487fa4b",
         "title": "Category Management Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -324787,7 +324787,7 @@
         "company_name": "Dimensional Fund Advisors",
         "id": "74282cc0-52b6-4b3b-a60c-fccf13ee82b6",
         "title": "Global Client Group Operations Insights Intern - Undergraduate & Master's",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324835,7 +324835,7 @@
         "company_name": "Filtration Group",
         "id": "f6d7fcba-9ae2-4e1c-bcfc-f6c3d6dd4f74",
         "title": "Product Development Intern - Material Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -324976,7 +324976,7 @@
         "company_name": "Wabtec",
         "id": "322089aa-4fda-40e6-a5e4-53f699d99830",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326134,7 +326134,7 @@
         "company_name": "NVIDIA",
         "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
         "title": "Ph.D. Research Autonomous Vehicles Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326230,7 +326230,7 @@
         "company_name": "NVIDIA",
         "id": "832f302a-8bc2-45f2-8ada-37a23bf080a7",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328222,7 +328222,7 @@
         "company_name": "Goldman Sachs",
         "id": "de048c9f-8cf0-45fe-b307-40b9a04a9416",
         "title": "Summer Analyst Intern - Americas - AWM Product Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328246,7 +328246,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330463,7 +330463,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "563165c9-79ea-427e-a9f7-ac43878f12f6",
         "title": "Portfolio Engineer Intern - Capital Markets - CMIA",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -337607,7 +337607,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338526,7 +338526,7 @@
         "company_name": "Brunswick",
         "id": "87b11195-7636-4d15-98ef-a30cea2dff16",
         "title": "Systems Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -341240,7 +341240,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341537,7 +341537,7 @@
         "company_name": "Goldman Sachs",
         "id": "3197c0fa-efa1-4efc-9c3a-37fd84829e4a",
         "title": "Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350634,7 +350634,7 @@
         "company_name": "RTX",
         "id": "b6296fe8-f9f1-44dd-94f1-590c275ba224",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353352,7 +353352,7 @@
         "company_name": "The Federal Reserve System",
         "id": "5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354329,7 +354329,7 @@
         "company_name": "Magna",
         "id": "aa975266-5fe4-4030-a4d9-2b7f6ba7f717",
         "title": "ADAS Feature Owner Intern - Systems Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -358783,7 +358783,7 @@
         "company_name": "Ingredion",
         "id": "c2e6377c-2c49-47ed-a0e6-12520a2d17a4",
         "title": "Digital Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360486,7 +360486,7 @@
         "company_name": "Johnson & Johnson",
         "id": "0a1a5e36-8dfc-4746-b8e3-c3db4d69a7b5",
         "title": "Materials Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364043,7 +364043,7 @@
         "company_name": "Intel",
         "id": "ac297577-f4f9-4b73-ab38-00c094342140",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -369060,7 +369060,7 @@
         "company_name": "L3Harris Technologies",
         "id": "526fc075-90bd-435a-af4b-6fe84dcb0909",
         "title": "Electrical Engineering Intern - EGSE Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369085,7 +369085,7 @@
         "company_name": "L3Harris Technologies",
         "id": "43cd8e34-6c41-4cae-ae06-2f9b0053820f",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369133,7 +369133,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "421ddce7-f44f-4299-a495-a38b73633eae",
         "title": "Automotive Advanced Driver Assistance Systems Calibration Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369178,7 +369178,7 @@
         "company_name": "IMEG",
         "id": "ddace39c-51e5-40bd-ad87-7e6239c499da",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369201,7 +369201,7 @@
         "company_name": "IMEG",
         "id": "a2a53f38-f1c6-463c-9ddf-c6f994c87951",
         "title": "Electrical Engineer Intern - Education",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369224,7 +369224,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "308d4a68-efb5-4663-9141-de22f7b0b70d",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369245,7 +369245,7 @@
         "company_name": "L3Harris Technologies",
         "id": "6107ae78-05e2-4849-8903-9b9943f2ee07",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369270,7 +369270,7 @@
         "company_name": "L3Harris Technologies",
         "id": "9253c518-1215-4707-8781-6a5099ce2dbf",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369295,7 +369295,7 @@
         "company_name": "L3Harris Technologies",
         "id": "75cbbf85-ccea-4af1-bc7e-1e3b6c08378e",
         "title": "Electrical Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -372404,6 +372404,73 @@
             "Menlo Park, CA"
         ],
         "company_url": "https://simplify.jobs/c/Meta",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nidec",
+        "id": "baa8b8d6-449c-418e-a848-559939c61d8f",
+        "title": "Engineering Technician Co-op",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788445274,
+        "date_posted": 1787011200,
+        "url": "https://nidec.wd1.myworkdayjobs.com/nidec/job/North-AmericaUSAMissouriSt-Louis---WPE-MO/Engineering-Technician-Co-op_R0017053",
+        "locations": [
+            "St. Louis, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/Nidec",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "L3Harris Technologies",
+        "id": "0526ff10-b2e6-441a-931a-3013f9f82a67",
+        "title": "Integration and Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788446175,
+        "date_posted": 1787041249,
+        "url": "https://jobs.l3harris.com/job/Palm-Bay-Intern,-Integration-and-Test-Engineer-FL-32905/1420320700/?ats=successfactors",
+        "locations": [
+            "Palm Bay, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/L3Harris-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "1e00cd9c-b8ce-439d-a207-03c14e2ac528",
+        "title": "Financial Crimes Quality Assurance Intern - Grm",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788447253,
+        "date_posted": 1786924800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--Financial-Crimes-Quality-Assurance-Intern--4-months-_R-0000184566-1",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
