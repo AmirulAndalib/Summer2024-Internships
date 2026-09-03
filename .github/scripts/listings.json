@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Hardware",
-        "company_name": "RTX",
-        "id": "31182ac1-ef76-42e9-8e81-cc0c14233206",
-        "title": "2026 Intern \u2013 Software Engineer Intern - AZ",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767692297,
-        "date_posted": 1767692297,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/AZ805-RMS-AP-Bldg-805-1151-East-Hermans-Road-Building-805-Tucson-AZ-85756-USA/XMLNAME-2026-Intern---Software-Engineer-Intern---Onsite--AZ-_01813329",
-        "locations": [
-            "Tucson, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
         "company_name": "Thales",
         "id": "21b22ffc-3d34-47f9-acf2-5d414d4f9a10",
         "title": "Intern role IVVQ",
@@ -204407,7 +204384,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "4f46a01a-d152-4a18-9cf9-ff106eede269",
         "title": "Quantitative Research Intern - PhD: Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269372,7 +269349,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -271566,7 +271543,7 @@
         "company_name": "Susquehanna International Group (SIG)",
         "id": "55723c85-bd8c-4d95-be54-2a6851a48b6c",
         "title": "Quantitative Systematic Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -274477,7 +274454,7 @@
         "company_name": "IMC Trading",
         "id": "4aa719b5-d2a2-4379-950b-53301335fcac",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -274500,7 +274477,7 @@
         "company_name": "IMC Trading",
         "id": "302d7a14-d6ef-4887-b2e6-ece00d5ae71a",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -282746,7 +282723,7 @@
         "company_name": "Hudson River Trading",
         "id": "3be23f9f-b730-4b41-90d4-adf9e07a393a",
         "title": "Algorithm Development Intern - Quant Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -284787,7 +284764,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -287777,7 +287754,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -326203,7 +326180,7 @@
         "company_name": "NVIDIA",
         "id": "31523bd0-3228-448d-b0ce-f99812c17fca",
         "title": "Generative AI Ph.D. Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -331359,7 +331336,7 @@
         "company_name": "General Motors",
         "id": "e31170bc-ea00-45b7-bce9-7b1c8ecbe643",
         "title": "Lighting Software Development & Test Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335619,7 +335596,7 @@
         "company_name": "Brunswick",
         "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
         "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -336067,7 +336044,7 @@
         "company_name": "BP",
         "id": "7d27dfe1-c616-4155-8112-ca1cce62b768",
         "title": "Corporate Asset Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342563,7 +342540,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342587,7 +342564,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343409,7 +343386,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -348877,7 +348854,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -355405,7 +355382,7 @@
         "company_name": "General Motors",
         "id": "3c4d2405-fb79-4cb1-9bfa-63018d8026b3",
         "title": "Mechatronic Infrastructure Diagnostic Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358996,7 +358973,7 @@
         "company_name": "University of Arkansas",
         "id": "34461010-b2f4-4a9d-abcc-e9efbabeb7d9",
         "title": "Razorback Analytic Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362626,7 +362603,7 @@
         "company_name": "Manulife Financial",
         "id": "2fc117c6-a5e8-431c-a872-5d5445afc539",
         "title": "Reporting Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367877,6 +367854,53 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "BP",
+        "id": "d1d0ddff-40b7-4db7-889a-74c91d882b09",
+        "title": "Reservoir Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788426909,
+        "date_posted": 1787529600,
+        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpPrivateExternalCareersSite/job/United-States-of-America---Colorado---Denver/Reservoir-Engineer-Intern--bpx-energy-_RQ115142",
+        "locations": [
+            "Denver, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/BP",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Gritt",
+        "id": "d319cd0c-739e-41d2-a649-8a8111842b96",
+        "title": "Robotics Planning & Controls Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788426909,
+        "date_posted": 1787616821,
+        "url": "https://jobs.ashbyhq.com/gritt/df9254b5-e323-411a-a36f-57bd24a3de56/application?embed=true",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Gritt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
