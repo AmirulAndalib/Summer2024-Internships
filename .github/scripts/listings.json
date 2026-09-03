@@ -17150,7 +17150,7 @@
         "company_name": "TikTok",
         "id": "89f594f1-36b8-4da1-a6b7-4c345fc51e0b",
         "title": "Frontend Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -28691,7 +28691,7 @@
         "company_name": "PennState University",
         "id": "a0ac07b2-42d3-4e54-9325-aaa9caf4438a",
         "title": "Undergraduate Cartographer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -35090,7 +35090,7 @@
         "company_name": "TikTok",
         "id": "fd2aa27a-d775-4452-8bfc-318d2021b364",
         "title": "Product Manager Project Intern - Tiktok LIVE-Ecosystem Governance - 2026 Start",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Summer 2026"
@@ -39593,7 +39593,7 @@
         "company_name": "ByteDance",
         "id": "9736b037-9a12-4587-8cf7-4a4cdde4054f",
         "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -67011,7 +67011,7 @@
         "company_name": "TikTok",
         "id": "e7edc8a3-8756-4127-82d1-45ef3ff3cee4",
         "title": "Security Software Engineer Project Intern - Product Security - 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -74931,7 +74931,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "92e9dd79-e2da-43cf-ac8b-c99c97cde9d8",
         "title": "Graduate Student ISR Department Lead Systems Engineer - Task",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -90549,7 +90549,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "4adda786-ba0c-4479-9bfd-b9799f03d6ff",
         "title": "Graduate Web Developer - 1 year Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -91535,7 +91535,7 @@
         "company_name": "PennState University",
         "id": "8824740b-a32e-404b-842c-660710e68dab",
         "title": "Maps and Geospatial Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -98326,7 +98326,7 @@
         "company_name": "Infojini",
         "id": "ba7781d0-c294-42f8-8255-596388700098",
         "title": "GIS Intern Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289966,7 +289966,7 @@
         "company_name": "Brookfield",
         "id": "e16445aa-a601-4964-a80d-75f71f10cd6d",
         "title": "AI Value Creation Office Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369555,7 +369555,7 @@
         "company_name": "KIHOMAC",
         "id": "8f253a59-2306-481b-b2f6-d1b63649f29a",
         "title": "Wire Harness Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370283,7 +370283,7 @@
         "company_name": "Motorola",
         "id": "6e136f7b-d21d-46b4-9020-2c24cdf5ba0f",
         "title": "Wireless Systems Engineer Intern - Wireless Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -370331,7 +370331,7 @@
         "company_name": "Interdigital",
         "id": "a86a471a-fb1a-4005-abc9-b9028764a77f",
         "title": "Wifi Intern - Wireless Researcher",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371034,7 +371034,7 @@
         "company_name": "Marvell",
         "id": "75d446b9-0a4e-41b3-8a99-e57824008ca6",
         "title": "Design/DSP/Verification Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372721,6 +372721,125 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "853f43c9-8095-4fb8-880b-20c796875015",
+        "title": "Analog Engineer Intern - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788456622,
+        "date_posted": 1782562336,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Toronto-Canada/Analog-Engineer-Intern---PhD_2502426",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Motorola",
+        "id": "e1457499-6257-4e3b-9b1d-2a8dfac950fe",
+        "title": "Embedded Software Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788457523,
+        "date_posted": 1783165252,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
+        "locations": [
+            "Irvine, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Marvell",
+        "id": "368e9143-7848-4e5c-83b0-7a6542b4af11",
+        "title": "Silicon Photonics Intern - PhD - Fall 2026 Start Date",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788456622,
+        "date_posted": 1781360036,
+        "url": "https://marvell.wd1.myworkdayjobs.com/MarvellCareers2/job/Ottawa-Canada/Silicon-Photonics-Intern---PhD_2502469",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Marvell",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apogee Engineering",
+        "id": "b3c94f66-b140-4d23-8b5c-d5a2eda4bdf6",
+        "title": "Systems Engineer Apprentice",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788456622,
+        "date_posted": 1780005941,
+        "url": "https://careers-apogeeusa.icims.com/jobs/1438/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Wright-Patterson AFB, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Apogee-Engineering",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "e34e7cea-b5c8-41ba-9958-74adca386738",
+        "title": "Product Management Project Intern - TikTok Shop-Operations",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788456261,
+        "date_posted": 1781503947,
+        "url": "https://lifeattiktok.com/search/7584522934515714357",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
