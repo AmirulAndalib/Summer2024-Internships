@@ -258396,7 +258396,7 @@
         "company_name": "Four Hands",
         "id": "86bafca9-f202-4817-8184-32aabc6ac975",
         "title": "Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312054,7 +312054,7 @@
         "company_name": "Turabify",
         "id": "bf2f6a21-e220-45d3-a0b5-847a2cb769f8",
         "title": "AI Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -361139,7 +361139,7 @@
         "company_name": "Nokia",
         "id": "72d45ed0-78e5-4653-9c80-78400e0114db",
         "title": "Software Designer Co-op Intern - Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
