@@ -25,54 +25,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Lucid Motors",
-        "id": "67aa1997-ff1b-4c7a-ba19-278028e4692d",
-        "title": "Intern \u2013 Machine Learning Engineer - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767668244,
-        "date_posted": 1767668244,
-        "url": "https://job-boards.greenhouse.io/lucidmotors/jobs/4964060007",
-        "locations": [
-            "Newark, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Lucid-Motors",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "TikTok",
-        "id": "743af097-2c5f-4816-8d67-f3d1c2565278",
-        "title": "Platform Campaign Project Intern - Tiktok-Operations - 2026 Start",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767667061,
-        "date_posted": 1767667061,
-        "url": "https://lifeattiktok.com/search/7592014594232142085",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Together AI",
         "id": "a5815333-a9ff-42b5-b387-f83930210776",
         "title": "Research Intern RL & Post-Training Systems - Turbo - Summer 2026",
@@ -102356,7 +102308,7 @@
         "company_name": "Truveta",
         "id": "9d21429a-ec03-4ab5-8c5f-dccc28783311",
         "title": "Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -111274,7 +111226,7 @@
         "company_name": "AXQ Capital",
         "id": "50b74e7f-6fd6-4664-990a-0cf32bb4f58f",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -257713,7 +257665,7 @@
         "company_name": "Tesla",
         "id": "3f099127-5e46-4a19-bbda-3e62875498eb",
         "title": "Systems Integration Engineer Intern - Body Controls",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -261134,7 +261086,7 @@
         "company_name": "Anduril",
         "id": "c1623229-faaa-4f1d-bdd8-fc0b46bc74a0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -266739,7 +266691,7 @@
         "company_name": "Definity Financial",
         "id": "63846327-9ed5-4b7e-a245-260bc3a42998",
         "title": "Data Specialist Co-op Intern - Claim Operations Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320687,7 +320639,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320713,7 +320665,7 @@
         "company_name": "Goldman Sachs",
         "id": "1c9f2e98-f998-4541-bd39-aec405d39f11",
         "title": "Summer Analyst Intern - Wealth Management - Product Management and Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320854,7 +320806,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320926,7 +320878,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323232,7 +323184,7 @@
         "company_name": "Intel",
         "id": "2d8fe16e-0d23-496c-9f2a-a5a1dd0f386a",
         "title": "Software Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332044,7 +331996,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336400,7 +336352,7 @@
         "company_name": "Meridian Partners",
         "id": "c27d16b6-b660-4fb5-b2f8-825ddf9072f7",
         "title": "Cloud Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342774,7 +342726,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342798,7 +342750,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350914,7 +350866,7 @@
         "company_name": "RTX",
         "id": "8d941b39-68a9-40d7-9ff0-fa89b2fe8b34",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -357137,7 +357089,7 @@
         "company_name": "Post Holdings",
         "id": "7a7db20b-8452-490d-9750-51cb663773d6",
         "title": "Product R&D Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357259,7 +357211,7 @@
         "company_name": "L3Harris Technologies",
         "id": "cbe43bb3-21d6-4108-aab0-ab1d06246c86",
         "title": "IT Business Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357397,7 +357349,7 @@
         "company_name": "Hermeus",
         "id": "f512dec5-b0ee-47f8-81e9-9104b2690937",
         "title": "Software Engineer Intern - Hardware in the Loop",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -357563,7 +357515,7 @@
         "company_name": "Corning",
         "id": "12404041-b2ea-4c6c-b0b9-89cdc8012ab5",
         "title": "Digital & IT Intern - Analyst - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357612,7 +357564,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357683,7 +357635,7 @@
         "company_name": "Clearwater Analytics",
         "id": "111b83dd-f4af-48ed-995c-983a822f6d4a",
         "title": "Salesforce Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360096,7 +360048,7 @@
         "company_name": "Boston Scientific",
         "id": "e70a1d3f-de57-4ecd-8e8b-810c43a7f615",
         "title": "Research Data Science Intern - Active Implantable Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361704,7 +361656,7 @@
         "company_name": "McMaster-Carr",
         "id": "5b93ba3a-0a6e-49d2-97c0-71cb997784ab",
         "title": "MBA Summer Internship - Strategy - Products & Publishing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361781,5 +361733,82 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Anduril",
+        "id": "fa9fe56f-b359-4990-84d8-bf75393d78e5",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788403809,
+        "date_posted": 1781216095,
+        "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148101007",
+        "locations": [
+            "Boston, MA",
+            "Seattle, WA",
+            "Irvine, CA",
+            "Colorado Springs, CO",
+            "Reston, VA",
+            "Fort Collins, CO",
+            "Broomfield, CO",
+            "Atlanta, GA",
+            "Costa Mesa, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Anduril",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Engenious Design",
+        "id": "326afca3-11cb-46ab-a5fe-998817071661",
+        "title": "Systems Architecture Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788401529,
+        "date_posted": 1788297299,
+        "url": "http://engeniousdesign.applytojob.com/apply/U4TbKXcygp/Internship-2027-SystemsArchitecture",
+        "locations": [
+            "Prairie Village, KS"
+        ],
+        "company_url": "https://simplify.jobs/c/Engenious-Design",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Johnson & Johnson",
+        "id": "318f1739-5d28-4330-afd4-1427be4f950e",
+        "title": "Electrical Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788401529,
+        "date_posted": 1788220800,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Electrical-Engineering-Co-Op--Summer-2027_R-096736",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
