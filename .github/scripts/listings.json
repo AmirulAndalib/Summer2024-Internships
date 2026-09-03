@@ -117231,7 +117231,7 @@
         "company_name": "Marmon Holdings",
         "id": "09806186-6904-490c-b577-2c0b53e167a9",
         "title": "Digital Production Engineering Intern OR Student Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -119931,7 +119931,7 @@
         "company_name": "PennState University",
         "id": "2d73b434-02a8-4393-858d-cfdf9db63bd2",
         "title": "Undergraduate Research Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -121934,7 +121934,7 @@
         "company_name": "Meta",
         "id": "ce2b8a69-f8a4-41dc-8b62-0a5987028ce6",
         "title": "Research Scientist Intern - AI/ML - Core Ads Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -131781,7 +131781,7 @@
         "company_name": "Monolithic Power Systems",
         "id": "a2f342be-ccae-44b7-8563-6589e27bd20c",
         "title": "Application Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -134617,7 +134617,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "99a441f3-fc77-4bb4-aa62-b29a90124484",
         "title": "Browser Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -142866,7 +142866,7 @@
         "company_name": "Hewlett Packard (HP)",
         "id": "f2003bcd-3a85-486f-ab57-496ec1a066b8",
         "title": "Graduate Web Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -150101,7 +150101,7 @@
         "company_name": "ByteDance",
         "id": "1c46b945-3a24-4c37-b029-66008dc23b63",
         "title": "Software Engineer Intern - Security-Data - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -150195,7 +150195,7 @@
         "company_name": "ByteDance",
         "id": "1d1aaa5f-b30b-4532-a9ae-e76b54b9fead",
         "title": "Security Software Engineer Project Intern - Network Security - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -157185,7 +157185,7 @@
         "company_name": "TikTok",
         "id": "d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
         "title": "Product Manager Project Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -162657,7 +162657,7 @@
         "company_name": "TikTok",
         "id": "799037f7-5af0-47ab-9dc8-b77d7a0fa096",
         "title": "Software Engineer Project Intern - Content AI Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -171372,7 +171372,7 @@
         "company_name": "ByteDance",
         "id": "77ff658e-cabb-48be-9248-a271f5f898ff",
         "title": "Student Researcher - AI Foundation Model Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -177234,7 +177234,7 @@
         "company_name": "TikTok",
         "id": "73b43840-d6dc-4026-acc9-485fffbb96dd",
         "title": "Software Engineer Project Intern - Model Infrastructure",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -183251,7 +183251,7 @@
         "company_name": "ByteDance",
         "id": "00b962ad-7300-4a69-b5ea-dc0b7bad5669",
         "title": "Security Engineering Project - Watermark",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -183971,7 +183971,7 @@
         "company_name": "Pennsylvania State University",
         "id": "0686e450-dd2f-4979-8eb8-bc8e2cb78c13",
         "title": "Arts and Architecture Sustainability Project Support",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -193115,7 +193115,7 @@
         "company_name": "Centific",
         "id": "96ffbc65-720f-4b45-965f-6ddc2b4a4207",
         "title": "Speech Intern 4",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -196018,7 +196018,7 @@
         "company_name": "ByteDance",
         "id": "1ec0a2b6-2cc9-4667-b452-854d4f0c6865",
         "title": "AI Vision Research Scientist Intern - Global Tech Research Program - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -196041,7 +196041,7 @@
         "company_name": "ByteDance",
         "id": "1b59e09e-ab8d-40f0-ab29-f6a0a5ad3ade",
         "title": "Research Scientist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -196959,7 +196959,7 @@
         "company_name": "Amazon",
         "id": "683c26d5-8306-435d-9738-d85e030935f5",
         "title": "Applied Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -197447,7 +197447,7 @@
         "company_name": "Amazon",
         "id": "d2d779ba-bdb3-4801-889e-f3c0da9be4ee",
         "title": "Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -197940,7 +197940,7 @@
         "company_name": "ByteDance",
         "id": "88cb681d-481d-4dfd-b2b1-e0f3f2cc4b48",
         "title": "AI Vision Research Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -198650,7 +198650,7 @@
         "company_name": "ASM Global",
         "id": "5cd59edf-b58d-4908-b0f7-77448a2242ec",
         "title": "Automation & AI Technology Experience Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -200074,7 +200074,7 @@
         "company_name": "University of Texas at Austin",
         "id": "3cbd0996-9f90-44ba-b932-c25874203727",
         "title": "Broadcast Engineer Senior Student Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -204973,7 +204973,7 @@
         "company_name": "TikTok",
         "id": "80da4b08-dbef-443a-8cb9-63547e51becf",
         "title": "Data Analyst Project Intern - TikTok Shop - Data Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -206593,7 +206593,7 @@
         "company_name": "TikTok",
         "id": "1ed2eb99-0aad-44c5-a7ec-2987bd71cfc3",
         "title": "Data Product Manager Project Intern - Monetization",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -289989,7 +289989,7 @@
         "company_name": "Carnegie Mellon University",
         "id": "67a5f775-5448-46b2-9dad-a17c4c4584be",
         "title": "Research Assistant - College of Engineering - Department of Chemical Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290010,7 +290010,7 @@
         "company_name": "Pennsylvania State University",
         "id": "bb2a6ad0-6c5b-4465-8000-4860902ca8ed",
         "title": "Graduate Student Researcher - Mohney Group - Materials Science and Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -290055,7 +290055,7 @@
         "company_name": "International Rescue Committee (IRC)",
         "id": "f7acfe22-a7e9-419e-85db-b6ead678d5e8",
         "title": "Development Data and Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -290102,7 +290102,7 @@
         "company_name": "UMB",
         "id": "6c78eb68-253a-4844-99c0-49678769df20",
         "title": "IT Blockchain Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -293558,7 +293558,7 @@
         "company_name": "Trillium",
         "id": "5b1d76c6-a7ec-4033-afed-6f676bf2129a",
         "title": "Equity Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -293582,7 +293582,7 @@
         "company_name": "Trillium",
         "id": "311ec440-4ace-4b64-9b10-5400f36e62ac",
         "title": "Equity Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299623,7 +299623,7 @@
         "company_name": "University System of New Hampshire",
         "id": "345420e4-2381-481f-aca5-052fb38b61d3",
         "title": "Research Assistant - Space Science Center - 410 Research Laboratory",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -299825,7 +299825,7 @@
         "company_name": "ASM Global",
         "id": "57d990ea-3cc9-46f8-acd6-48a13083e943",
         "title": "Digital Workplace Experience Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -326825,7 +326825,7 @@
         "company_name": "Copart",
         "id": "4fa1b683-fa30-44b0-a279-ea52a60e6a84",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -363150,7 +363150,7 @@
         "company_name": "Xcel Energy",
         "id": "4e0b2f0b-7f11-43bb-97e6-dc33f22b1799",
         "title": "Damage Prevention Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370168,7 +370168,7 @@
         "company_name": "KION Group",
         "id": "57b62c67-d2a2-46e3-852b-94620a949a7d",
         "title": "Controls Engineer \u2013 Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -370262,7 +370262,7 @@
         "company_name": "University of Texas at Austin",
         "id": "48678581-59ed-4640-abc3-3a654ebabe5c",
         "title": "Technical Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -372840,6 +372840,331 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "beacf34f-a20f-4c68-b975-4d59ef73cdb6",
+        "title": "Applied Scientist Intern - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1781503898,
+        "url": "https://lifeattiktok.com/search/7631062649025857797",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "959910b0-58e2-40fa-be1a-bb91cbb1a2e9",
+        "title": "Applied Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1781503957,
+        "url": "https://lifeattiktok.com/search/7633668456744503557",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Texas at Austin",
+        "id": "e6eac4a6-e535-4248-90e7-96e51454beb4",
+        "title": "Digital Archive Student Assistant - Creative Development",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788458959,
+        "date_posted": 1783164103,
+        "url": "https://utaustin.wd1.myworkdayjobs.com/utstudent/job/UT-MAIN-CAMPUS/Digital-Archive-Student-Assistant--Creative-Development_R_00034073",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Texas-Austin",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vistra",
+        "id": "12fe37a6-9f3c-462a-971b-81d0d1fc591f",
+        "title": "Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788459329,
+        "date_posted": 1782558015,
+        "url": "https://vst.wd5.myworkdayjobs.com/vistra_careers/job/Davis-Besse/Intern-Undergrad---Engineering_40014794",
+        "locations": [
+            "Oak Harbor, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Vistra",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Pennsylvania State University",
+        "id": "569d3b77-2d99-419b-ad74-18a7b14190e6",
+        "title": "Uncrewed Systems Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788458598,
+        "date_posted": 1781361019,
+        "url": "https://psu.wd1.myworkdayjobs.com/PSU_Staff/job/Penn-State-University-Park/Uncrewed-Systems-Intern_REQ_0000076298-1",
+        "locations": [
+            "University Park, State College, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Pennsylvania-State-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "e005d131-f00a-4669-a7e7-1c5f705a7a91",
+        "title": "Applied Scientist Intern - Monetization Technology - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1781503898,
+        "url": "https://lifeattiktok.com/search/7629248119245261061",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "de007634-b2f3-4545-b253-5c6127f8cb92",
+        "title": "Intelligent Sensing Intern - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1780610906,
+        "url": "https://jobs.bytedance.com/en/position/7629161683395889413/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "ByteDance",
+        "id": "c1a54af5-b3ee-4cc0-875e-1ac1cb6f9fcc",
+        "title": "Intelligent Sensing Intern - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027",
+            "Fall 2027"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1780610906,
+        "url": "https://jobs.bytedance.com/en/position/7629210458173556997/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "aceb262a-5ebb-4f68-92f5-9b786cdb7fe1",
+        "title": "Research Scientist Intern - Multimodal Sensing & On-Device Perception - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1780391172,
+        "url": "https://jobs.bytedance.com/en/position/7629209876845398277/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Leggett & Platt",
+        "id": "92e67392-a875-429d-8520-a8a60034ae9a",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1778922224,
+        "url": "https://careers.leggett.com/job/Detroit-Systems-Engineer-Intern-MI/1385085600/?ats=successfactors",
+        "locations": [
+            "Detroit, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Leggett-And-Platt",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "03b14945-e476-4afb-92ea-e05ca0993e9a",
+        "title": "Applied Scientist Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1777425028,
+        "url": "https://lifeattiktok.com/search/7633670871815670069",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "4d6f0e26-8466-48bb-bb61-829dede5babb",
+        "title": "Applied Scientist Intern - Business Integrity - Global Frontier Tech Recruitment Program",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788459682,
+        "date_posted": 1776849038,
+        "url": "https://lifeattiktok.com/search/7631063087262419205",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hermeus",
+        "id": "3f4c33b9-c619-4c6d-8035-99923055054e",
+        "title": "Flight Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788458598,
+        "date_posted": 1772677539,
+        "url": "https://jobs.lever.co/hermeus/51378fa0-0327-45fd-9420-b6e7d8b56440/apply",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Hermeus",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ernst & Young",
+        "id": "96a269a3-eddc-4e42-bf43-69cbf7355110",
+        "title": "Intern/Co-op - Assurance Technology Risk - Gestion des risques technologiques",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1788458598,
+        "date_posted": 1772676701,
+        "url": "https://eyglobal.yello.co/jobs/Z5l1IcAarbkthLOcBeIpRQ?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Edmonton, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
