@@ -319382,7 +319382,7 @@
         "company_name": "BerryDunn",
         "id": "7b0e7a72-a5b1-4bc3-b011-3eecb0cf3b6b",
         "title": "Consulting Intern - Healthcare Data Management and Strategy",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319520,7 +319520,7 @@
         "company_name": "onsemi",
         "id": "043a4279-be5b-4d83-b42a-52de482eb7c0",
         "title": "Tax AI and Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319732,7 +319732,7 @@
         "company_name": "ONEOK",
         "id": "73987f6f-78f6-41ff-aea1-97efe9717cf6",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319824,7 +319824,7 @@
         "company_name": "ByteDance",
         "id": "80991915-38ed-48d7-b67d-20f3f7a7b84c",
         "title": "Software Engineer Intern - Traffic Infrastructure",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -319870,7 +319870,7 @@
         "company_name": "ONEOK",
         "id": "55e151de-89b7-4f40-803a-d31708f68861",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -319975,7 +319975,7 @@
         "company_name": "Crowe",
         "id": "c8baf20f-0c80-4834-b6ee-95c9c1ddcb08",
         "title": "Data Consultant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -319999,7 +319999,7 @@
         "company_name": "Crowe",
         "id": "f519e8b4-d882-47ae-9e82-f3d6f5b73a20",
         "title": "D365 ERP Technical Intern - Consulting Practice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320022,7 +320022,7 @@
         "company_name": "Crowe",
         "id": "c2fd6af7-2f86-4ff8-9034-27a47809d608",
         "title": "ServiceNow Implementation Intern - ServiceNow Cloud Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320739,7 +320739,7 @@
         "company_name": "Occidental Petroleum Corporation (Oxy)",
         "id": "e882005d-6926-4aae-9b36-8bf690f5c53d",
         "title": "Geophysics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -320853,7 +320853,7 @@
         "company_name": "W.W. Grainger",
         "id": "c101d2aa-a5df-4f4b-b719-e88358c1f874",
         "title": "Business Systems Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321414,7 +321414,7 @@
         "company_name": "GE Aerospace",
         "id": "bc4a9aef-6e3a-4f04-b875-8a018e3091a3",
         "title": "Digital Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321483,7 +321483,7 @@
         "company_name": "GE Aerospace",
         "id": "04bfd73d-5fde-4957-ac3d-fe42504abc58",
         "title": "Digital Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321508,7 +321508,7 @@
         "company_name": "GE Aerospace",
         "id": "99180876-aa59-4945-8c98-69851d3d4fe5",
         "title": "Digital Technology Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321835,7 +321835,7 @@
         "company_name": "Argonne National Laboratory",
         "id": "0ffaa21c-d319-41eb-b21e-77a8c3a84f35",
         "title": "Python Developer Predoctoral Appointee - Vehicle and Mobility Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322093,7 +322093,7 @@
         "company_name": "Suncor",
         "id": "e11d6b76-ac03-48af-b34e-a9c1933babfc",
         "title": "Data Science Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322326,7 +322326,7 @@
         "company_name": "CACI",
         "id": "565376c9-9f43-421c-aee2-1c09b5461f85",
         "title": "GMU Scholar Program Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -322600,7 +322600,7 @@
         "company_name": "University of Texas at Austin",
         "id": "581f5af8-7fed-4e27-ae5c-5068ec83d4a6",
         "title": "Graduate Research Assistant - Quantitative and Systems Health Services",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322740,7 +322740,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "8343602f-f696-44fe-b18f-25f47c9130b7",
         "title": "Technical Systems Analyst Co-op - Technology & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -322999,7 +322999,7 @@
         "company_name": "DV Trading",
         "id": "b5a51123-5f95-4578-b058-795e2b7e4ecb",
         "title": "Trading Intern - Summer 2027 - DV Commodities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323294,7 +323294,7 @@
         "company_name": "iFLIP4",
         "id": "188a7730-e0e6-4d6b-b1fb-5550f2812d43",
         "title": "PHP Programmer Intern - Social Enterprise",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -330546,7 +330546,7 @@
         "company_name": "Crowe",
         "id": "6c0e9a46-463c-43dc-8bb1-7b4c40a5ab14",
         "title": "Power Platform Business Solutions Intern - Consulting Practice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -335097,7 +335097,7 @@
         "company_name": "Canadian Tire",
         "id": "7ff20f5f-1e5b-4803-a75f-3292787e7e19",
         "title": "Credit Risk Data Scientist Student - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -335383,7 +335383,7 @@
         "company_name": "RTX",
         "id": "7e7de539-7591-41e7-bf48-6e4aa966fed4",
         "title": "Data Science and Advanced Analytics Intern - Data Science and Advanced Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -340488,7 +340488,7 @@
         "company_name": "RTX",
         "id": "bdb07e32-29e8-4fe6-bfc8-854f3a4ce18b",
         "title": "Automation Solutions Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -360692,7 +360692,7 @@
         "company_name": "GE Aerospace",
         "id": "8e6be177-663c-4c02-91c5-66e4aa4313b5",
         "title": "Digital Technology Co-op - US - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -369318,7 +369318,7 @@
         "company_name": "L3Harris Technologies",
         "id": "ea333cfe-b3e4-4baf-9b70-0d94b1249430",
         "title": "Electrical Engineer Intern - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369343,7 +369343,7 @@
         "company_name": "L3Harris Technologies",
         "id": "29037d4e-4e1f-4b7a-a84f-651983c071ba",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369366,7 +369366,7 @@
         "company_name": "L3Harris Technologies",
         "id": "a33e531c-8bfb-4f76-8e45-80f11a583763",
         "title": "Electrical Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -369412,7 +369412,7 @@
         "company_name": "GlobalFoundries",
         "id": "1319f6fd-aca1-4f3e-935c-417a9f3a2dc4",
         "title": "Robotics and Automation Engineering Intern - Junior",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369435,7 +369435,7 @@
         "company_name": "GE Vernova",
         "id": "f3d4d0bd-459a-448d-aa8f-e981a249e2a4",
         "title": "Power Conversion & Storage Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -369458,7 +369458,7 @@
         "company_name": "GE Aerospace",
         "id": "684644af-48c7-4e64-9910-ecf2c61c0b56",
         "title": "Systems Engineer Co-op - Electrical Engineering & Computer Engineering/Science - Avionics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -369483,7 +369483,7 @@
         "company_name": "GE Aerospace",
         "id": "62e154cf-eb02-4e51-916a-c4eeeae0953c",
         "title": "Systems Engineer Intern - Electrical Engineering & Computer Engineering/Science - Avionics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369508,7 +369508,7 @@
         "company_name": "GE Aerospace",
         "id": "f7218e45-fc0c-48fe-942b-9d0e8daca6b2",
         "title": "Systems Engineer Co-op - Electrical Engineering & Computer Engineering/Science - Avionics",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -369558,7 +369558,7 @@
         "company_name": "IMEG",
         "id": "8a592814-3d84-446f-989d-3d2cb0580fe6",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369581,7 +369581,7 @@
         "company_name": "IMEG",
         "id": "092d2278-9c8c-4a7a-953d-05852cea09a8",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369627,7 +369627,7 @@
         "company_name": "GE Vernova",
         "id": "cf0e755f-70a9-4c87-90a1-f91d3bf5dd96",
         "title": "Power Conversion & Storage Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -369650,7 +369650,7 @@
         "company_name": "Protech Automotive Solutions",
         "id": "deba165d-16ee-4eb1-996b-238652e5445a",
         "title": "Automotive ADAS Calibration Technician Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372536,6 +372536,165 @@
             "Corning, IA"
         ],
         "company_url": "https://simplify.jobs/c/POET",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Saint Leo University",
+        "id": "fb3520c9-bb59-4db2-8a7d-2a2a0333929f",
+        "title": "Graduate Assistant",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788449773,
+        "date_posted": 1786924800,
+        "url": "https://saintleo.wd503.myworkdayjobs.com/SLU/job/University-Campus/Graduate-Assistant--AI-Solutions---Business-Process-Innovation_R5175",
+        "locations": [
+            "Seattle, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/Saint-Leo-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "7b97c3c1-8a37-4885-9340-6466cd4b0416",
+        "title": "Financial Crimes Quality Assurance Intern - Grm",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788449773,
+        "date_posted": 1786924800,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/TORONTO-Ontario-Canada/Winter-2027---GRM--Financial-Crimes-Quality-Assurance-Intern--4-months-_R-0000184566-2",
+        "locations": [
+            "Toronto, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "W.W. Grainger",
+        "id": "84cd06d1-bc65-40e9-8d18-19df425f903a",
+        "title": "Online Experience and Assortment Intern - Brand",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788449773,
+        "date_posted": 1787005408,
+        "url": "https://jobs.grainger.com/job/LAKE-FOREST-Brand,-Online-Experience-and-Assortment-Intern-IL-60045-5202/1420163900/?ats=successfactors",
+        "locations": [
+            "Lake Forest, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/WW-Grainger",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Nucor",
+        "id": "61d8432d-5d66-44d0-8b65-b4da6cd371ab",
+        "title": "Commodity Markets Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788449954,
+        "date_posted": 1787004507,
+        "url": "https://jobs.nucor.com/job/Cincinnati-Commodity-Markets-Analyst-Intern-(Summer-2027)-OH-45202/1420210100/?ats=successfactors",
+        "locations": [
+            "Cincinnati, OH"
+        ],
+        "company_url": "https://simplify.jobs/c/Nucor",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Google",
+        "id": "98b66b52-3f02-4bcb-8687-eca76f3ecd9f",
+        "title": "Software Engineering or Site Reliability Engineering PhD Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788449954,
+        "date_posted": 1786973531,
+        "url": "https://www.google.com/about/careers/applications/jobs/results/80037545080955590",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Google",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "714db6c7-2c31-4e99-a0b1-4968cf3e0c58",
+        "title": "Multi-Cloud CDN Scheduling Platform Engineer Intern - CDN Platform",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788450855,
+        "date_posted": 1786699864,
+        "url": "https://jobs.bytedance.com/en/position/7673636205233490181/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "TikTok",
+        "id": "2240b40f-8b1b-4e97-a0b0-83f5e7a65019",
+        "title": "Product Solutions and Operations Project Intern - Scaled Growth",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788450855,
+        "date_posted": 1786698515,
+        "url": "https://lifeattiktok.com/search/7673547028387793205",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
