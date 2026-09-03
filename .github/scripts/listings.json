@@ -1,98 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Saab",
-        "id": "71a83748-0ed8-4acf-9f8f-02682747d55c",
-        "title": "Co-Op \u2013 Systems Engineering Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716943,
-        "date_posted": 1767716943,
-        "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Systems-Engineering-Summer-2026_R-02571-2",
-        "locations": [
-            "East Syracuse, NY"
-        ],
-        "company_url": "https://simplify.jobs/c/c6634ce7-015f-461e-9e4b-9fc7b6a78ab3",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "24505d7e-dc54-49ee-99ac-2f61a1bb1d91",
-        "title": "AI R&D Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716961,
-        "date_posted": 1767716961,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29825",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Definity Financial",
-        "id": "0c570bf3-7746-4f18-abb8-86eef28d0fce",
-        "title": "Technology Solutions \u2013 Intern/Co-op - Data Platform & Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716211,
-        "date_posted": 1767716211,
-        "url": "https://hdks.fa.ca2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/8801",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Definity-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "0c018d90-e273-44f4-bdd5-6701367f80c9",
-        "title": "Autonomous Network Fabric Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767716169,
-        "date_posted": 1767716169,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29834",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Ankura Consulting Group",
         "id": "a86f2f3e-230b-44b6-8275-768d31abb906",
@@ -160,407 +68,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "b43baee0-37a2-4ee1-b729-8263a4b944f0",
-        "title": "Software Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716151,
-        "date_posted": 1767716151,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29484",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "f50fe614-8255-4c50-8b8e-115c74d9f2a1",
-        "title": "Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767716150,
-        "date_posted": 1767716150,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29405",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "e71ed725-b3f0-4286-8935-11cf461a9bcc",
-        "title": "Security Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716178,
-        "date_posted": 1767716178,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29678",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "7c2ac4ba-e03b-403c-8444-8a711ed6af39",
-        "title": "R&D Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716150,
-        "date_posted": 1767716150,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29510",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "44b32d06-8f45-43fd-96c9-25d046e3364e",
-        "title": "Software Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767716148,
-        "date_posted": 1767716148,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29556",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "41e72175-cbc1-49f0-831f-b1027e8a7515",
-        "title": "Intern - CMG DDA - Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716067,
-        "date_posted": 1767716067,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---CMG-DDA---Data-Science_202601-100141-1",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "22c47f0e-e85e-4dfb-9efd-e9b03207ffdf",
-        "title": "Database Software Developer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716163,
-        "date_posted": 1767716163,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29849",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cisco",
-        "id": "1691735a-6cc0-4419-8fca-3e3d9f3b1d04",
-        "title": "Software Engineer 1 \u2013 Co-op - United States",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767716302,
-        "date_posted": 1767716302,
-        "url": "https://careers.cisco.com/global/en/job/2004856",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Cisco",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "03aad435-7d35-4fbe-bf67-913a1a88bddf",
-        "title": "Research and Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716139,
-        "date_posted": 1767716139,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29323",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veeam Software",
-        "id": "e90b3162-3544-452f-bebe-0a04ac3a3547",
-        "title": "AI Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716231,
-        "date_posted": 1767716231,
-        "url": "https://job-boards.eu.greenhouse.io/veeamsoftware/jobs/4736372101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Veeam-Software",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "d9957029-b1b8-4ed7-b55b-aa54c694a64a",
-        "title": "Data fabric and network automation Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716159,
-        "date_posted": 1767716159,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29680",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "a7579b57-241d-433b-9e00-249d85679f89",
-        "title": "AI R&D Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716141,
-        "date_posted": 1767716141,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29670",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "9c06f560-976c-4843-be4d-8aae5c688739",
-        "title": "Full Stack Dev Cloud and ML Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716154,
-        "date_posted": 1767716154,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29857",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "3962fc80-7cc0-4a9a-95d4-30fe54553e90",
-        "title": "AI/ML Architect Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716158,
-        "date_posted": 1767716158,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29761",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "1fc12a80-0c8e-4d0d-9128-909a3e2f62e6",
-        "title": "Software Developer AI/ML Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767716154,
-        "date_posted": 1767716154,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29741",
-        "locations": [
-            "Naperville, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Nokia",
-        "id": "07fbfa12-146f-44d8-b2a4-0b9cbc242672",
-        "title": "Security Software Developer Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716146,
-        "date_posted": 1767716146,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/29545",
-        "locations": [
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Avery Dennison",
-        "id": "5891fda0-058d-4702-8adc-8c9241be4ba9",
-        "title": "RFID Applications Engineer Co-op - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767715971,
-        "date_posted": 1767715971,
-        "url": "https://jobs.smartrecruiters.com/AveryDennison/744000101862805",
-        "locations": [
-            "Miamisburg, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Avery-Dennison",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Graphcore",
         "id": "0caf5691-ebe5-4b8a-99d9-9776c120dd61",
@@ -576,29 +83,6 @@
             "Cambridge, UK"
         ],
         "company_url": "https://simplify.jobs/c/Graphcore",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Veolia",
-        "id": "08121802-cc19-46e6-a4ea-695a94c2cee7",
-        "title": "Procurement Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767716513,
-        "date_posted": 1767716513,
-        "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000099238915",
-        "locations": [
-            "Milwaukee, WI"
-        ],
-        "company_url": "https://simplify.jobs/c/Veolia",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -15952,27 +15436,6 @@
         "degrees": [
             "Bachelor's"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "JP Morgan Chase",
-        "id": "486f7b1a-cb12-49c0-b677-1aeb91aa4f50",
-        "title": "2026 Military & Athlete Technical Programme - Glasgow",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767868704,
-        "date_posted": 1767716409,
-        "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/210697952",
-        "locations": [
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/JP-Morgan-Chase",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -47220,29 +46683,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "United Wholesale Mortgage",
-        "id": "c4e192a1-1beb-4dfb-804c-9b79af44e129",
-        "title": "Client Experience Intern Program",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769768101,
-        "date_posted": 1767716056,
-        "url": "https://careers-uwmcareers.icims.com/jobs/14946/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Pontiac, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/United-Wholesale-Mortgage",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
     },
     {
         "source": "Simplify",
@@ -318398,7 +317838,7 @@
         "company_name": "MPR Associates",
         "id": "3cef95cf-9ef2-4c94-9300-e032d2b20baa",
         "title": "Engineer Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Summer 2026",
@@ -342517,7 +341957,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342541,7 +341981,7 @@
         "company_name": "Marsh",
         "id": "30f88aa1-c8c9-4587-808f-a3954162cf45",
         "title": "Summer Analyst Intern - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -348831,7 +348271,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -353584,7 +353024,7 @@
         "company_name": "Maven Securities",
         "id": "8b07563a-a076-4b83-b485-3f36db4ae47a",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -363822,7 +363262,7 @@
         "company_name": "Xcel Energy",
         "id": "02c345c2-b292-434b-ac59-b96cfe54a8ca",
         "title": "Gas & Electric Design Analytics and Process Improvement Intern - MN",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369673,7 +369113,7 @@
         "company_name": "Strattec",
         "id": "fc21ef62-86d7-463d-a70b-080d39fb84c2",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372700,5 +372140,96 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "American Express",
+        "id": "bb78f0cb-d806-4ae3-8996-ed333399cb6b",
+        "title": "Data Science Intern - Global Decision Science - Credit & Fraud Risk",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788452637,
+        "date_posted": 1788452075,
+        "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013265",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/American-Express",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "M.C. Dean",
+        "id": "34a00f8f-132d-47cf-959b-4c8051106160",
+        "title": "Engineering Intern - CIM",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788451574,
+        "date_posted": 1786687083,
+        "url": "https://careers.mcdean.com/jobs/32343?icims=1",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "M.C. Dean",
+        "id": "39637140-eedf-4bd5-91c2-6f46c8287bd6",
+        "title": "Engineering Intern - I2Cs",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788451574,
+        "date_posted": 1786687083,
+        "url": "https://careers.mcdean.com/jobs/32346?icims=1",
+        "locations": [
+            "Tysons, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/MC-Dean",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Composio",
+        "id": "2aabd5c0-f81b-4d9c-9139-941364641e32",
+        "title": "Forward Deployed Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026",
+            "Winter 2027"
+        ],
+        "date_updated": 1788451574,
+        "date_posted": 1786687013,
+        "url": "https://jobs.ashbyhq.com/composio/6b742321-a1e6-46d7-88d1-103bae44df23/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Composio",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
