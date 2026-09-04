@@ -305105,7 +305105,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315531,7 +315531,7 @@
         "company_name": "John Deere",
         "id": "a8b0ed57-9bd2-44a9-9bdc-cd861f297bdb",
         "title": "Product Engineering Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -323439,7 +323439,7 @@
         "company_name": "NVIDIA",
         "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323561,7 +323561,7 @@
         "company_name": "NVIDIA",
         "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
         "title": "Hardware Design for Test Intern - DFT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335095,7 +335095,7 @@
         "company_name": "RTX",
         "id": "a2ab2232-0294-4321-8831-a52bd5488178",
         "title": "Business Intelligence and Governance Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -339337,7 +339337,7 @@
         "company_name": "Medtronic",
         "id": "bc8cef80-2478-4abe-8166-7f6a226c4edd",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350647,7 +350647,7 @@
         "company_name": "Tesla",
         "id": "d6e09034-f1b8-496a-9b1c-ad916001fc4c",
         "title": "Software Engineer Intern - Fullstack Engineer - Infrastructure Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -352284,7 +352284,7 @@
         "company_name": "United Airlines",
         "id": "616f31e5-f760-4f12-ab94-7cfe7c256b54",
         "title": "Meteorology Support Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -358526,7 +358526,7 @@
         "company_name": "United Airlines",
         "id": "7afc8909-8e75-4217-afd4-e39a4c061462",
         "title": "Tech Ops Analytics & Business Intelligence Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -359477,7 +359477,7 @@
         "company_name": "Eaton",
         "id": "bb18db16-00f5-47bf-bcc1-72fa233f144d",
         "title": "Engineering Technology Intern - Embedded Systems - Research & Development Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -361006,7 +361006,7 @@
         "company_name": "Intel",
         "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
         "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -361145,7 +361145,7 @@
         "company_name": "Intel",
         "id": "a4415818-9dfc-4624-8235-e94c953af5e4",
         "title": "Platform Hardware and Systems Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -365977,7 +365977,7 @@
         "company_name": "NVIDIA",
         "id": "a26a9ad9-27d4-4902-827c-2c0a5e75a365",
         "title": "Robotics Intern - Ph.D. Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372324,7 +372324,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -373217,7 +373217,7 @@
         "company_name": "Walmart",
         "id": "926d0b7b-a700-40fb-a9c0-6d9f5095bf8d",
         "title": "Software Engineer 2 Intern - Bellevue",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -376059,5 +376059,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "United Airlines",
+        "id": "5e16fdb9-dd97-429a-9b2a-9c7ebfd49735",
+        "title": "Operations Strategy & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788521716,
+        "date_posted": 1788291829,
+        "url": "https://careers.united.com/us/en/job/WHQ00026618",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
