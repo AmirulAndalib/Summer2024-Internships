@@ -29125,7 +29125,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -252406,7 +252406,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -265462,7 +265462,7 @@
         "company_name": "Astranis",
         "id": "04d272dd-0cea-48e3-ab73-31d3f0c7bf44",
         "title": "Reliability Design Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -267271,7 +267271,7 @@
         "company_name": "National Laboratory of the Rockies",
         "id": "c40fd9e2-3295-4cb4-a082-0102aefe562b",
         "title": "Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268978,7 +268978,7 @@
         "company_name": "Xsolla",
         "id": "a1b64928-21d1-47fc-923f-979402c77e23",
         "title": "Xsolla School - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -286520,7 +286520,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323392,7 +323392,7 @@
         "company_name": "NVIDIA",
         "id": "156eeaae-e8ce-4c0c-a47f-6027e39a664c",
         "title": "Large Language Models Intern - Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323415,7 +323415,7 @@
         "company_name": "NVIDIA",
         "id": "02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
         "title": "Developer and Performance Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324586,7 +324586,7 @@
         "company_name": "Specialisterne",
         "id": "01f94977-fc40-414b-bd6d-f44693eacceb",
         "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -332496,7 +332496,7 @@
         "company_name": "RTX",
         "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
         "title": "Customer First Centre Intern - Customer First Centre - Technical Helpdesk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -336041,7 +336041,7 @@
         "company_name": "Brunswick",
         "id": "0bb11c52-e4bf-4eb0-b1e8-68d76b7aefe1",
         "title": "Transducer Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -340130,7 +340130,7 @@
         "company_name": "Leidos",
         "id": "13c82543-49b6-4293-ac18-052fd0889c76",
         "title": "Data Engineering & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346430,7 +346430,7 @@
         "company_name": "Resonetics",
         "id": "2f832a49-a1f2-418c-b4ec-5a640c599665",
         "title": "AI Automation Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -354751,7 +354751,7 @@
         "company_name": "Corning",
         "id": "1dbe18fc-509e-4b10-b1b9-61c1a3ef5c04",
         "title": "Artificial Intelligence and Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356466,7 +356466,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -369003,7 +369003,7 @@
         "company_name": "Magna",
         "id": "0eeebf48-28fc-4b4f-99b6-aae802696f60",
         "title": "Optics Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369591,7 +369591,7 @@
         "company_name": "Kinaxis",
         "id": "249847ab-d7a0-4993-a3ae-0dd0e2e831ed",
         "title": "Developer Intern Co-op - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375644,6 +375644,52 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Textron",
+        "id": "c39efb21-4101-4d94-85ce-fa5a6d78cf0e",
+        "title": "Stage automne 2026 \u2013 Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788510421,
+        "date_posted": 1781820631,
+        "url": "https://textron.taleo.net/careersection/textron/jobdetail.ftl?job=343165",
+        "locations": [
+            "Mirabel, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Textron",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "da858cff-a5e2-4d14-802a-be39fa5cf5c0",
+        "title": "Portfolio Solutions Group Summer Analyst Intern - Portfolio Solutions Group",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788511329,
+        "date_posted": 1782914909,
+        "url": "https://careers.aqr.com/jobs?gh_jid=8041362&gh_jid=8041362",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
