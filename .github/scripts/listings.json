@@ -266777,7 +266777,7 @@
         "company_name": "Astera Labs",
         "id": "5b9e82eb-e170-450f-9dfe-62e7281dc8ae",
         "title": "Platform Applications Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -269460,7 +269460,7 @@
         "company_name": "Xsolla",
         "id": "a1b64928-21d1-47fc-923f-979402c77e23",
         "title": "Xsolla School - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308168,7 +308168,7 @@
         "company_name": "Amcor",
         "id": "1aeed220-bf37-4565-a0cb-fa72dae2456d",
         "title": "Product Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308191,7 +308191,7 @@
         "company_name": "Ameren",
         "id": "cd083629-4e4e-44cb-bb63-7fdd44841b74",
         "title": "DERMS Co-op/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -308217,7 +308217,7 @@
         "company_name": "Ameren",
         "id": "51b0d062-6f05-4d98-afb7-8dc7523b4758",
         "title": "Digital Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -308326,7 +308326,7 @@
         "company_name": "Varda Space",
         "id": "b85eddaf-16be-4f29-9179-6de363f4299b",
         "title": "Applications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -308393,7 +308393,7 @@
         "company_name": "University of Texas at Austin",
         "id": "688685f6-3e2b-48ae-b097-6e9a5fea7143",
         "title": "Technology Intern - Texas Immersive Institute - Moody College of Communication",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367800,7 +367800,7 @@
         "company_name": "Cushman & Wakefield",
         "id": "6ee38a3b-8f5b-454e-adc3-a073f112ddea",
         "title": "Mechatronics & Robotics Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372407,6 +372407,53 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Motorola",
+        "id": "0326fee7-b91f-444e-8aab-b0b621d7b02a",
+        "title": "Supply Chain Applied AI Engineering Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788483801,
+        "date_posted": 1786060800,
+        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Supply-Chain-Applied-AI-Engineering-Intern_R67461",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "TikTok",
+        "id": "d18679b9-d87f-4ffd-a1c2-72c408274aba",
+        "title": "AI/ML Infrastructure Engineer Intern - Data-Arch-Tiktok Live",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788483801,
+        "date_posted": 1786112667,
+        "url": "https://lifeattiktok.com/search/7670876223732762933",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/TikTok",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
