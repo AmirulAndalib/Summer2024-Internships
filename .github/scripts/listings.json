@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Investment Management Corporation of Ontario",
-        "id": "9eb88375-1d28-4125-b0b8-5606f95ea3b2",
-        "title": "Intern Data Enablement",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767779080,
-        "date_posted": 1767779080,
-        "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Data-Enablement_R25-222",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Fermilab",
         "id": "5ee1cf5f-0045-463c-9178-01a7ea251afd",
@@ -12101,32 +12078,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "The Bank of New York Mellon",
-        "id": "ccdb761c-6659-4a19-9765-01a27be5fdec",
-        "title": "BNY Analyst Program-Engineering - Developer - Early Talent and University Programs",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767779637,
-        "date_posted": 1767779637,
-        "url": "https://bnymellon.eightfold.ai/careers/job/37999987",
-        "locations": [
-            "Pittsburgh, PA",
-            "NYC",
-            "Lake Mary, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/BNY-Mellon",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
         ]
     },
     {
@@ -211685,7 +211636,7 @@
         "company_name": "Intel",
         "id": "e18b5659-3658-49dd-a554-9ba2b49123a9",
         "title": "AI Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -222396,7 +222347,7 @@
         "company_name": "Salesforce",
         "id": "3cb45823-f475-44c7-aaca-4a1335faf6ff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -266391,7 +266342,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281806,7 +281757,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -282889,7 +282840,7 @@
         "company_name": "Solar Turbines",
         "id": "f35a104f-8aa2-4e17-9c25-aec1fe42185e",
         "title": "Gas Turbine Products Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -284313,7 +284264,7 @@
         "company_name": "BlackRock",
         "id": "b892cd72-a393-48b4-8104-0d2f30989e9b",
         "title": "Global Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -284796,7 +284747,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -286317,7 +286268,7 @@
         "company_name": "k-ID",
         "id": "a00e4b08-8ddd-417a-8de5-07d284def8c3",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -288719,7 +288670,7 @@
         "company_name": "AQR Capital Management",
         "id": "92ec25b9-67cb-4a92-87d3-379a0012eb5d",
         "title": "Trading Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -303281,7 +303232,7 @@
         "company_name": "TikTok",
         "id": "6dabe551-58cb-4dd5-9ba4-5656067dd84a",
         "title": "Machine Learning Engineer Intern - Brand Ads",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323222,7 +323173,7 @@
         "company_name": "NVIDIA",
         "id": "31523bd0-3228-448d-b0ce-f99812c17fca",
         "title": "Generative AI Ph.D. Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323438,7 +323389,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328852,7 +328803,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332638,7 +332589,7 @@
         "company_name": "Brunswick",
         "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
         "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -335165,7 +335116,7 @@
         "company_name": "Copart",
         "id": "2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340428,7 +340379,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -349911,7 +349862,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356015,7 +355966,7 @@
         "company_name": "University of Arkansas",
         "id": "34461010-b2f4-4a9d-abcc-e9efbabeb7d9",
         "title": "Razorback Analytic Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357310,7 +357261,7 @@
         "company_name": "Michelin",
         "id": "23d6cc2e-855b-4458-a689-002cda7f4705",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358554,7 +358505,7 @@
         "company_name": "Major League Baseball",
         "id": "6baf79c0-1bd1-4ef7-b360-b5f149641e81",
         "title": "Player Development Associate - Player Development",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359645,7 +359596,7 @@
         "company_name": "Manulife Financial",
         "id": "2fc117c6-a5e8-431c-a872-5d5445afc539",
         "title": "Reporting Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361530,7 +361481,7 @@
         "company_name": "RTX",
         "id": "3d0e1910-9334-4bac-8624-3ab24c74aee6",
         "title": "Software Engineer Co-op - Summer/Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -364836,7 +364787,7 @@
         "company_name": "GE Appliances",
         "id": "259c0c7d-c60b-40ad-936e-d5aef95bbb9f",
         "title": "Electrical Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2027"
         ],
@@ -364976,7 +364927,7 @@
         "company_name": "GE Appliances",
         "id": "31b163c5-2933-4708-b57f-40ac28e156d1",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373074,7 +373025,7 @@
         "company_name": "Walmart",
         "id": "279c7714-2b16-47cd-b89f-80ea6beee9fa",
         "title": "Data Scientist 3 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -375666,6 +375617,102 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Symphony",
+        "id": "8f70e2c4-d1cf-4511-96be-48f94355b4ff",
+        "title": "Business Intelligence and Solutions",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788514746,
+        "date_posted": 1788513599,
+        "url": "https://symphony.com/company/apply?gh_jid=8130042",
+        "locations": [
+            "Belfast, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Symphony-Comm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chevron",
+        "id": "c93524dd-bc17-42ae-b9d8-3c665ba1d8ca",
+        "title": "Information Technology Intern - Information Technology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788514201,
+        "date_posted": 1783641600,
+        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Information-Technology-Intern--Previous-Intern-_R000072343",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Chevron",
+        "id": "31a02f62-8caa-47fa-ba96-68effe953759",
+        "title": "Previous Intern - Information Technology - Information and Analytics",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788514201,
+        "date_posted": 1783641600,
+        "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027--Information-Technology---Information-and-Analytics---Full-Time--Previous-Intern-_R000072348",
+        "locations": [
+            "Houston, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Chevron-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DRW",
+        "id": "800d88a6-9478-48b0-a57a-3ee1a1c93228",
+        "title": "Trade Support Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788514201,
+        "date_posted": 1783980959,
+        "url": "https://job-boards.greenhouse.io/drweng/jobs/7993565",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/DRW",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
