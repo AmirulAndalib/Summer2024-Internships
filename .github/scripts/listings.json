@@ -12406,30 +12406,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Walmart",
-        "id": "ad996392-c77b-454b-846d-853ae6b710eb",
-        "title": "2026 Sophomore Summit: Software Engineer",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767776876,
-        "date_posted": 1767776876,
-        "url": "https://walmart.wd5.myworkdayjobs.com/WalmartExternal/job/Bentonville-AR/XMLNAME-2026-Sophomore-Summit--Software-Engineer_R-2374409",
-        "locations": [
-            "Bentonville, AR",
-            "Sunnyvale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Walmart",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
         "title": "Enterprise Solutions Software Engineer Intern/Co-op",
@@ -266415,7 +266391,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -272323,7 +272299,7 @@
         "company_name": "Palantir",
         "id": "fa7fbaf4-50b2-4148-af69-22df652b6fd5",
         "title": "Forward Deployed Software Engineer Intern - Intel",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2028"
@@ -272931,7 +272907,7 @@
         "company_name": "TikTok",
         "id": "b1f8c920-8d06-4fde-b5a2-23db753f0379",
         "title": "Copyright Solution Product Manager Intern - Tiktok-Music",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -281830,7 +281806,7 @@
         "company_name": "Copart",
         "id": "27bc7565-972b-4dff-a2b6-d86296a62c88",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -284820,7 +284796,7 @@
         "company_name": "Copart",
         "id": "2852d53d-1e2d-4026-9f6f-90758dc79f0a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323392,7 +323368,7 @@
         "company_name": "NVIDIA",
         "id": "156eeaae-e8ce-4c0c-a47f-6027e39a664c",
         "title": "Large Language Models Intern - Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323462,7 +323438,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332496,7 +332472,7 @@
         "company_name": "RTX",
         "id": "156e5e79-8f49-4e7b-bea1-7c52e9b98f85",
         "title": "Customer First Centre Intern - Customer First Centre - Technical Helpdesk",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -332662,7 +332638,7 @@
         "company_name": "Brunswick",
         "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
         "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -340130,7 +340106,7 @@
         "company_name": "Leidos",
         "id": "13c82543-49b6-4293-ac18-052fd0889c76",
         "title": "Data Engineering & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -340452,7 +340428,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346013,7 +345989,7 @@
         "company_name": "Amentum",
         "id": "b370b3ca-e8e9-4e2e-a20a-1b94dd207e75",
         "title": "Software Engineer Intern - Space Force Range Contract",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -346430,7 +346406,7 @@
         "company_name": "Resonetics",
         "id": "2f832a49-a1f2-418c-b4ec-5a640c599665",
         "title": "AI Automation Engineer Intern Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -354751,7 +354727,7 @@
         "company_name": "Corning",
         "id": "1dbe18fc-509e-4b10-b1b9-61c1a3ef5c04",
         "title": "Artificial Intelligence and Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -356466,7 +356442,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -357334,7 +357310,7 @@
         "company_name": "Michelin",
         "id": "23d6cc2e-855b-4458-a689-002cda7f4705",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364860,7 +364836,7 @@
         "company_name": "GE Appliances",
         "id": "259c0c7d-c60b-40ad-936e-d5aef95bbb9f",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -369003,7 +368979,7 @@
         "company_name": "Magna",
         "id": "0eeebf48-28fc-4b4f-99b6-aae802696f60",
         "title": "Optics Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369591,7 +369567,7 @@
         "company_name": "Kinaxis",
         "id": "249847ab-d7a0-4993-a3ae-0dd0e2e831ed",
         "title": "Developer Intern Co-op - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -373098,7 +373074,7 @@
         "company_name": "Walmart",
         "id": "279c7714-2b16-47cd-b89f-80ea6beee9fa",
         "title": "Data Scientist 3 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
