@@ -222774,7 +222774,7 @@
         "company_name": "Salesforce",
         "id": "452daa00-79b9-40ff-902b-6a5c3ddc4357",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -259324,7 +259324,7 @@
         "company_name": "Pennsylvania State University",
         "id": "df9cfb0a-2665-4639-bfb4-b6b6872f0f82",
         "title": "Research and Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -277740,7 +277740,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305105,7 +305105,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315919,7 +315919,7 @@
         "company_name": "PGIM",
         "id": "9cc8a439-1e3e-458b-86ca-a66d29624c35",
         "title": "Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -316304,7 +316304,7 @@
         "company_name": "Prudential Financial",
         "id": "65197f8f-da14-4232-bf6e-d1107a25b6b7",
         "title": "Public Credit Summer Investment Analyst Intern - Portfolio Analysis Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321120,7 +321120,7 @@
         "company_name": "John Deere",
         "id": "cc182431-1899-4ccb-8933-d71659e7c501",
         "title": "Product Engineering Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322409,7 +322409,7 @@
         "company_name": "Zuckerman Investment Group",
         "id": "f85f7117-84b9-438b-9f08-795e4061600a",
         "title": "Investment Analyst Intern - MBA",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322433,7 +322433,7 @@
         "company_name": "Brookhaven Lab",
         "id": "595763a8-6791-4ed3-8b17-52f614a6318b",
         "title": "Student Assistant - Machine Learning for ASIC Design",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322551,7 +322551,7 @@
         "company_name": "Zipline",
         "id": "a1cb0fe2-664f-4b1e-910d-9ec9f155faa1",
         "title": "Long Range Platform Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323439,7 +323439,7 @@
         "company_name": "NVIDIA",
         "id": "be628885-fde3-4b73-bb0a-58e11856e97b",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323561,7 +323561,7 @@
         "company_name": "NVIDIA",
         "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
         "title": "Hardware Design for Test Intern - DFT",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -327633,7 +327633,7 @@
         "company_name": "University of Texas at Austin",
         "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
         "title": "Graduate Assistant - AI-Powered Career Success Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -327729,7 +327729,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "c1775867-86d6-48b1-aa40-07fe33e377e1",
         "title": "Investments Intern - Total Fund Management - Global Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -359477,7 +359477,7 @@
         "company_name": "Eaton",
         "id": "bb18db16-00f5-47bf-bcc1-72fa233f144d",
         "title": "Engineering Technology Intern - Embedded Systems - Research & Development Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -361006,7 +361006,7 @@
         "company_name": "Intel",
         "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
         "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -363485,7 +363485,7 @@
         "company_name": "Fab2",
         "id": "813ce4a3-f0d2-4422-8bc6-baa8f9cf613a",
         "title": "Electrical Engineer Intern - Winter",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364855,7 +364855,7 @@
         "company_name": "BP",
         "id": "d1d0ddff-40b7-4db7-889a-74c91d882b09",
         "title": "Reservoir Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369541,7 +369541,7 @@
         "company_name": "POET",
         "id": "d3f06903-5efd-4a54-afac-c96ba15dccab",
         "title": "Plant Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372324,7 +372324,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -376077,6 +376077,98 @@
             "Chicago, IL"
         ],
         "company_url": "https://simplify.jobs/c/United-Airlines",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "PIMCO",
+        "id": "ef154dc9-5e75-41c5-956c-ecda1d5b4e07",
+        "title": "Product Strategy Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788523201,
+        "date_posted": 1786924800,
+        "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Newport-Beach-CA-USA/XMLNAME-2027-Summer-Intern---Product-Strategy-Analyst--US_R106626",
+        "locations": [
+            "Newport Beach, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/PIMCO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "ded31667-1c68-4b4a-b251-dc42367c84a8",
+        "title": "IT Intern - Application Development",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788523201,
+        "date_posted": 1786924800,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Charlotte-NC/College-to-Corporate-IT-Internship---Application-Development--NC-_177681-1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vanguard",
+        "id": "93d115bb-b27e-478d-9f6e-d757992a8ffe",
+        "title": "IT Intern - Investment Systems",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788523201,
+        "date_posted": 1786924800,
+        "url": "https://vanguard.wd5.myworkdayjobs.com/en-US/vanguard_external/job/Malvern-PA/College-to-Corporate-IT-Internship---Investment-Systems--PA-_177685-1",
+        "locations": [
+            "Malvern, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vanguard",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Barclays",
+        "id": "db7ca646-e2f6-4a10-bc6b-1d67f5ffcddf",
+        "title": "Quantitative Finance Associate Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788523201,
+        "date_posted": 1786665600,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/New-York-745-7th-Avenue/Quantitative-Finance-Associate-Summer-Internship-Program-2027-New-York_JR-0000128099",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
