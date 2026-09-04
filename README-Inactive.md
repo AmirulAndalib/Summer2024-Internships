@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 553 Inactive Internship Roles by Category
+### Browse 555 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (166)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (169)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (25)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (175)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (173)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (114)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (73)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (74)
 
 ---
 
@@ -333,6 +333,13 @@
 <td>8d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/Medtronic?utm_source=GHList&utm_medium=company">Medtronic</a></strong></td>
+<td>Engineering Intern</td>
+<td><details><summary><strong>20 locations</strong></summary>Boston, MA<br>Santa Ana, CA<br>Santa Rosa, CA<br>Irvine, CA<br>Mansfield, MA<br>Mounds View, MN<br>Tempe, AZ<br>Memphis, TN<br>Brooklyn Center, MN<br>Plymouth, MN<br>Brooklyn Park, MN<br>Fort Worth, TX<br>Dexter, MI<br>North Haven, CT<br>Lafayette, CO<br>Minneapolis, MN<br>Newton, MA<br>Jacksonville, FL<br>Eatontown, NJ<br>Boulder, CO</details></td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Capital-One?utm_source=GHList&utm_medium=company">Capital One</a></strong></td>
 <td>Technology Intern</td>
 <td>Nottingham, UK</td>
@@ -497,6 +504,13 @@
 <td>↳</td>
 <td>Software Engineer Intern - Summer 2027</td>
 <td>Aurora, CO</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>Software Engineering Intern</td>
+<td>Canada<br>Santa Clara, CA</td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
@@ -917,6 +931,13 @@
 <td><strong><a href="https://simplify.jobs/c/GE-Appliances?utm_source=GHList&utm_medium=company">GE Appliances</a></strong></td>
 <td>Engineering Co-op</td>
 <td>LaFayette, GA</td>
+<td>🔒</td>
+<td>30d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineer Co-op - Software Engineering</td>
+<td>Louisville, KY</td>
 <td>🔒</td>
 <td>30d</td>
 </tr>
@@ -1565,13 +1586,6 @@
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/United-Airlines?utm_source=GHList&utm_medium=company">United Airlines</a></strong></td>
-<td>Tech Ops Analytics & Business Intelligence Intern - Summer 2027</td>
-<td>Chicago, IL</td>
-<td>🔒</td>
-<td>2d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory?utm_source=GHList&utm_medium=company">Johns Hopkins Applied Physics Laboratory</a></strong></td>
 <td>Modeling, Simulation & Analysis Intern - Engagement Optimization Group</td>
 <td>Laurel, MD</td>
@@ -2067,13 +2081,6 @@
 <td>San Jose, CA</td>
 <td>🔒</td>
 <td>15d</td>
-</tr>
-<tr>
-<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
-<td>Robotics Intern - Ph.D. Research 🎓</td>
-<td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Deloitte?utm_source=GHList&utm_medium=company">Deloitte</a></strong></td>
@@ -2850,7 +2857,7 @@
 <td>Quantitative Developer Internship - Summer 2027</td>
 <td>Dubai - United Arab Emirates<br>NYC</td>
 <td>🔒</td>
-<td>15d</td>
+<td>16d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company">DV Trading</a></strong></td>
@@ -3547,7 +3554,7 @@
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
-<td>Platform Hardware and Systems Engineering Intern 🎓</td>
+<td>Platform Hardware and Systems Engineering Intern - Bachelor's</td>
 <td><details><summary><strong>5 locations</strong></summary>Austin, TX<br>Santa Clara, CA<br>Hillsboro, OR<br>Folsom, CA<br>Phoenix, AZ</details></td>
 <td>🔒</td>
 <td>2d</td>
@@ -3681,6 +3688,13 @@
 <tr>
 <td>↳</td>
 <td>Ph.D. Engineering Intern 🎓</td>
+<td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Hardware Design for Test Intern - DFT 🎓</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>16d</td>
