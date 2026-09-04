@@ -203004,7 +203004,7 @@
         "company_name": "Berkshire Hathaway Energy",
         "id": "a94fc300-8fc2-4984-9a37-b49c6a6daa9c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -230424,7 +230424,7 @@
         "company_name": "Palantir",
         "id": "7107711b-0874-460d-932c-0c0d7b729f42",
         "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -231158,7 +231158,7 @@
         "company_name": "Palantir",
         "id": "441050ea-b57f-4448-ae69-2a4a8646229f",
         "title": "Year at Palantir Intern - Forward Deployed Software Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -369066,7 +369066,7 @@
         "company_name": "Stantec",
         "id": "60f42611-e1f2-4748-acd7-000f3b3a1cf6",
         "title": "Electrical Engineer in Training Intern - Water",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
