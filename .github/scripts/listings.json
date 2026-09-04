@@ -125,97 +125,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Masimo",
-        "id": "2a836a00-2833-4de1-a093-67b96c7c06dc",
-        "title": "Failure Analysis Engineer Intern - Failure Analysis",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767752261,
-        "date_posted": 1767752261,
-        "url": "https://egcu.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3589",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Masimo",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CACI",
-        "id": "474fe6cc-2599-476b-9498-ec9e8dd934be",
-        "title": "Software Development Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767751812,
-        "date_posted": 1767751812,
-        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Remote-Any-State/Software-Development-Intern---Summer-2026_320833",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/CACI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "APL Logistics",
-        "id": "bc04d91c-4f22-4517-aea7-c78bff4d6dab",
-        "title": "Apprentice/Intern  Product Management Specialist Intern - Scottsdale AZ",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767751714,
-        "date_posted": 1767751714,
-        "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3716",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/APL-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "APL Logistics",
-        "id": "b5cde1ad-3532-49d0-89e9-0495ddcc43da",
-        "title": "Apprentice/Intern \u2013 Data Science and BI Intern - 1st Shift - Scottsdale",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767751749,
-        "date_posted": 1767751749,
-        "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3715",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/APL-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "TD Bank",
         "id": "e67d4067-bbb0-461a-9ead-022de0fba6b5",
@@ -158983,28 +158892,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "OpenAI",
-        "id": "b522993e-8dbe-4f12-a486-e92174ac0fda",
-        "title": "Software Engineer - Cooperative AI",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1774254514,
-        "date_posted": 1767751980,
-        "url": "https://jobs.ashbyhq.com/openai/7613aca3-9dd8-41cd-b114-06ef4de967a9/application",
-        "locations": [
-            "Seattle, WA",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/OpenAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Al Warren Oil Company",
         "id": "c7f2e562-9c39-4b5a-9d95-89b86d3e4a4b",
         "title": "Software Developer Intern",
@@ -281716,7 +281603,7 @@
         "company_name": "Rivian",
         "id": "3d06c27f-be5d-4769-a58b-6bf05b60a50a",
         "title": "Machine Learning Compiler Intern - Machine Learning Compiler",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312752,7 +312639,7 @@
         "company_name": "Booz Allen",
         "id": "4928dfb2-7a20-4da6-8405-a591089e515c",
         "title": "AI RAN Telecommunications Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -313061,7 +312948,7 @@
         "company_name": "Felix Magazine",
         "id": "8037d2f8-3be0-4762-96a6-6111a83eabae",
         "title": "Database Coordinator Volunteer/Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313551,7 +313438,7 @@
         "company_name": "TMEIC Corporation Americas",
         "id": "b09599dd-d189-40a2-acad-f4fe1006ed76",
         "title": "Engineer Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313647,7 +313534,7 @@
         "company_name": "Howmet Aerospace",
         "id": "eb7734a8-6013-401d-bd6f-679ef214a05e",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -313693,7 +313580,7 @@
         "company_name": "Navy Federal",
         "id": "fa3d0acb-1673-42d8-a648-f36557989a20",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314170,7 +314057,7 @@
         "company_name": "Mapjects",
         "id": "8ee66953-a13e-4b26-89fb-1e17b87d31ad",
         "title": "PHP or Drupal Web Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314191,7 +314078,7 @@
         "company_name": "Mapjects",
         "id": "cefd640c-a0aa-43c8-8f45-1b6754492f1d",
         "title": "Oracle Database Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314212,7 +314099,7 @@
         "company_name": "Mapjects",
         "id": "7237aac6-07c6-44da-8d1b-f031ee48fcd5",
         "title": "Java Developer Intern - Salary",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314235,7 +314122,7 @@
         "company_name": "Mapjects",
         "id": "be903e86-7c58-4c0b-bec4-97d427883ebc",
         "title": "PHP Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314256,7 +314143,7 @@
         "company_name": "Mapjects",
         "id": "04378827-0725-43e5-b38f-7b12ca4660a4",
         "title": "Java Developer Intern - Web Application Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314277,7 +314164,7 @@
         "company_name": "Mapjects",
         "id": "0a501bc8-1c64-467d-8c3e-ec34107b884b",
         "title": "C# ASP.NET C Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -314298,7 +314185,7 @@
         "company_name": "Mapjects",
         "id": "f2350e1c-6721-41fa-a87c-2880eaf10676",
         "title": "Java Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -341381,7 +341268,7 @@
         "company_name": "Deloitte",
         "id": "6ce7a09d-190c-4b5b-8cb2-5b01795d2664",
         "title": "Engineering and Capital Projects Summer Scholar Intern - Government & Public Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -367498,7 +367385,7 @@
         "company_name": "Tesla",
         "id": "d914d646-8eb8-4dc2-baea-35e8be6ae845",
         "title": "Electronic Design Engineer Intern - Radio Frequency",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -367547,7 +367434,7 @@
         "company_name": "Hendrick Motorsports",
         "id": "5a969ae3-53f6-48c3-ba1f-8fc9778bdcfc",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -367570,7 +367457,7 @@
         "company_name": "Western Aircraft",
         "id": "52568e0b-46c9-4e1a-85a3-dea0634e6886",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -367615,7 +367502,7 @@
         "company_name": "Vertiv",
         "id": "62630745-1d8f-423f-974c-e33d7f279000",
         "title": "Electrical Engineer Intern - Energy Storage",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367638,7 +367525,7 @@
         "company_name": "Eaton",
         "id": "ee4dbd24-7b99-467e-be4c-13203988637a",
         "title": "Electrical Engineer Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372498,6 +372385,102 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Emerson Electric",
+        "id": "8e33e85a-9875-440c-9d9c-9944a3368a68",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788488120,
+        "date_posted": 1786572705,
+        "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009065",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Emerson-Electric",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Axle",
+        "id": "931940fd-e1e0-4458-972c-32b65b30507e",
+        "title": "Computer Science/Bioinformatics Intern - Internship Program",
+        "active": true,
+        "terms": [
+            "Spring 2016"
+        ],
+        "date_updated": 1788487041,
+        "date_posted": 1786497188,
+        "url": "https://jobs.smartrecruiters.com/AxleInformaticsLLC/87331012",
+        "locations": [
+            "Rockville, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Axle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Schweitzer Engineering Laboratories",
+        "id": "757dc2f7-3e8d-4e4f-bba1-a5c378ea6ca9",
+        "title": "Test Engineer Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788487041,
+        "date_posted": 1786406400,
+        "url": "https://selinc.wd1.myworkdayjobs.com/SEL/job/Washington---Pullman/Test-Engineering-Intern_2026-22409",
+        "locations": [
+            "Pullman, WA"
+        ],
+        "company_url": "https://simplify.jobs/c/SEL",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "45430dd6-d10c-488f-9e97-caa01db1f0b0",
+        "title": "Quantitative Prediction Markets Research Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788487041,
+        "date_posted": 1786487256,
+        "url": "https://careers.aqr.com/jobs?gh_jid=8122378&gh_jid=8122378",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
