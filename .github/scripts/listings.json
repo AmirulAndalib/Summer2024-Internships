@@ -29125,7 +29125,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -242372,7 +242372,7 @@
         "company_name": "AQR Capital Management",
         "id": "d342e8d5-0959-45a5-a4b6-df3b930c83fd",
         "title": "Portfolio Implementation \u2013 Trading and Portfolio Finance Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -246056,7 +246056,7 @@
         "company_name": "Magna",
         "id": "14d33eac-9588-4ef2-aad6-4f65465e5bc0",
         "title": "Product Engineering Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249739,7 +249739,7 @@
         "company_name": "ByteDance",
         "id": "6cf0985b-9f4b-4fbb-9dee-114a376730a2",
         "title": "Applied Research Intern - AI Safety Security - Global Tech Research Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -252406,7 +252406,7 @@
         "company_name": "Rippling",
         "id": "0271dfee-afcf-4a95-ad39-156710edc8ce",
         "title": "Machine Learning Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -253138,7 +253138,7 @@
         "company_name": "Tesla",
         "id": "899430e7-72cd-4e65-9394-58fd69b316ad",
         "title": "Failure Analysis Engineer Intern - Failure Analysis Engineer - Energy Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -261480,7 +261480,7 @@
         "company_name": "Tesla",
         "id": "b9c6dd2c-d8ff-44fb-aa4e-65ae4d4f6e4f",
         "title": "Radio Frequency Engineer Intern - Radio Frequency Engineer - Energy Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -262263,7 +262263,7 @@
         "company_name": "Periodic Labs",
         "id": "4284c1a9-1025-463f-97ee-3b175776e726",
         "title": "Nanofabrication Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286520,7 +286520,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323415,7 +323415,7 @@
         "company_name": "NVIDIA",
         "id": "02243e49-7e4c-44aa-9dd1-0ba4a235d93d",
         "title": "Developer and Performance Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324586,7 +324586,7 @@
         "company_name": "Specialisterne",
         "id": "01f94977-fc40-414b-bd6d-f44693eacceb",
         "title": "Software Engineer Intern - Neurodiversity Hiring Initiative",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -367809,7 +367809,7 @@
         "company_name": "Zipline",
         "id": "4febf1d3-3eab-474a-adb9-775181f85872",
         "title": "Quality & Manufacturing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368723,7 +368723,7 @@
         "company_name": "Etched",
         "id": "06415fd2-4ba4-404c-994b-e4a1e06156fb",
         "title": "Signal Integrity / Power Integrity Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375430,6 +375430,220 @@
         "degrees": [
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Texas A&M International University",
+        "id": "75acc9bd-029d-44b4-b076-68197a7c1735",
+        "title": "Information Technology Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788508261,
+        "date_posted": 1782554794,
+        "url": "https://tamus.wd1.myworkdayjobs.com/TAMIU_Student_Employment/job/Laredo-TX/Intern--Information-Technology--OIT-SIS-_R-093087",
+        "locations": [
+            "Laredo, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Texas-AM-International-University",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "TripleRing",
+        "id": "49123f42-29f8-4419-a712-42d5a9d05153",
+        "title": "AI & People Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788509701,
+        "date_posted": 1781215637,
+        "url": "https://www.tripleringtech.com/careers?gh_jid=4705074005",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/TripleRing",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "d4160e5e-8dc5-4f23-bbb5-73742e02e435",
+        "title": "Actuator Test Engineer Intern - Optimus",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788509701,
+        "date_posted": 1780823364,
+        "url": "https://www.tesla.com/careers/search/job/259950",
+        "locations": [
+            "Langley, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "8537fef1-0a19-4a76-a781-bbcd5baf1995",
+        "title": "Research and Portfolio Management Engineering Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788508981,
+        "date_posted": 1779833436,
+        "url": "https://careers.aqr.com/jobs?gh_jid=7957728&gh_jid=7957728",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Oracle",
+        "id": "df021870-bc1b-408c-ac28-255a67469798",
+        "title": "Data Strategy Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788508981,
+        "date_posted": 1779325603,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334396",
+        "locations": [
+            "Seattle, WA",
+            "Santa Monica, CA",
+            "San Carlos, CA",
+            "Santa Clara, CA",
+            "Rocklin, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Oracle",
+        "id": "01b8795d-7b11-42d2-8ab9-9bc0f46bd425",
+        "title": "AI Agent Intern - Logistics Focus",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788508981,
+        "date_posted": 1779325606,
+        "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_45001/job/334345",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Oracle",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "a9556b44-6c39-4804-ac5f-23fcacd9520b",
+        "title": "Risk Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788508261,
+        "date_posted": 1778854415,
+        "url": "https://careers.aqr.com/jobs?gh_jid=7926692&gh_jid=7926692",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AQR Capital Management",
+        "id": "33d87281-2914-4356-ad13-441114284934",
+        "title": "Engineering Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788508261,
+        "date_posted": 1778854413,
+        "url": "https://careers.aqr.com/jobs?gh_jid=7926647&gh_jid=7926647",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "AQR Capital Management",
+        "id": "7b12d8f8-2ad7-4945-a1e6-7e63d7a113c1",
+        "title": "Research Summer Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788508261,
+        "date_posted": 1778854415,
+        "url": "https://careers.aqr.com/jobs?gh_jid=7895583&gh_jid=7895583",
+        "locations": [
+            "Greenwich, CT"
+        ],
+        "company_url": "https://simplify.jobs/c/AQR-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
