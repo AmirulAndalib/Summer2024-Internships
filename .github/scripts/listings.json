@@ -256881,7 +256881,7 @@
         "company_name": "SHEIN",
         "id": "1e24ca64-daad-4e93-b51b-88f86f72518a",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -289174,7 +289174,7 @@
         "company_name": "Castleton Commodities International",
         "id": "6c60c226-bf8b-45f1-b610-d9835abb7ce2",
         "title": "Commodities Trading Analyst Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317404,7 +317404,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317446,7 +317446,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317495,7 +317495,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317685,7 +317685,7 @@
         "company_name": "Goldman Sachs",
         "id": "1560332f-3e4c-4d15-819d-df9bf4889deb",
         "title": "Summer Analyst Intern - FICC and Equities - Sales and Trading",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -319506,7 +319506,7 @@
         "company_name": "American Fidelity",
         "id": "d10a9d0d-62b5-4eb6-8218-d01baa84b887",
         "title": "Agentic AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -338256,7 +338256,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -359101,7 +359101,7 @@
         "company_name": "TD Bank",
         "id": "c3a1a72b-b2eb-407a-840f-68f1479c5386",
         "title": "Direct Investing Analytics & Insights Intern Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363416,7 +363416,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -364902,7 +364902,7 @@
         "company_name": "RTX",
         "id": "7a7c26ec-56dc-4c0d-be78-baba4b04caeb",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366000,7 +366000,7 @@
         "company_name": "NVIDIA",
         "id": "a0cb4ae7-f3b0-46e6-837b-2e442908bf9b",
         "title": "Autonomous Vehicles and Robotics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373309,7 +373309,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373355,7 +373355,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373378,7 +373378,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373420,7 +373420,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373441,7 +373441,7 @@
         "company_name": "Goldman Sachs",
         "id": "5a49d74c-fa9f-4dd4-a66b-24fc3d9c1def",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373462,7 +373462,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373578,7 +373578,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373696,7 +373696,7 @@
         "company_name": "Goldman Sachs",
         "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373719,7 +373719,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -376020,7 +376020,7 @@
         "company_name": "Rockefeller Capital Management",
         "id": "fc428819-fa67-4635-beea-612c5eec041c",
         "title": "Analyst Intern - Core Platforms",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376934,6 +376934,291 @@
         "degrees": [
             "Bachelor's",
             "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "c32cbbd3-747f-429e-9658-bd8464e5e370",
+        "title": "Global Investment Banking Analyst",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788533617,
+        "date_posted": 1788480000,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Global-Investment-Banking--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186588",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Royal Bank of Canada",
+        "id": "6c668749-9b77-4c73-a3c7-e202655f53ab",
+        "title": "Capital Markets Analyst Intern - AidenEdge",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788533615,
+        "date_posted": 1788480000,
+        "url": "https://rbc.wd3.myworkdayjobs.com/RBCEARLYTALENT1/job/BROOKFIELD-PLACE-FKA-3-WORLD-FINANCIAL-CENTER-200-VESEY-STREETNEW-YORK/XMLNAME-2027-Capital-Markets--AidenEdge-Program-Winter-Analyst--4-Months-_R-0000186586",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GE Vernova",
+        "id": "67f739d1-47a4-421e-9fa1-0976b7342bc5",
+        "title": "AI Digitization Co-op - HDNU Global Operations",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1788533614,
+        "date_posted": 1788480000,
+        "url": "https://gevernova.wd5.myworkdayjobs.com/vernova_externalsite/job/Atlanta/GE-Vernova-HDNU-Global-Operations---AI-Digitization-Co-op---Spring-Summer-2027_R5049275-2",
+        "locations": [
+            "Schenectady, NY",
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Vernova",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
+        "title": "Digital Transformation of Aeronautic Manufacturing Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788533597,
+        "date_posted": 1788480000,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/CA-QC-LONGUEUIL-J01--1000-Blvd-Marie-Victorin--J01-BLDG/Stage---hiver-2027---Transformation-numerique-de-la-fabrication-aeronautique---Internship---Winter-2027---Digital-Transformation-of-Aeronautic-Manufacturing_01865735",
+        "locations": [
+            "Longueuil, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "DIRECTV",
+        "id": "6d7ae4ff-faad-43e5-8a8c-e621e27b715a",
+        "title": "Product Development Intern - DIRECTV for Business",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788533578,
+        "date_posted": 1788480000,
+        "url": "https://directv.wd1.myworkdayjobs.com/careers/job/Clarksburg-MD/DIRECTV-for-Business-Product-Development-Intern_R260276",
+        "locations": [
+            "Clarksburg, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/DIRECTV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "DIRECTV",
+        "id": "809879bf-fd34-4b58-a336-c5a92afb393c",
+        "title": "Customer Operations Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788533464,
+        "date_posted": 1788480000,
+        "url": "https://directv.wd1.myworkdayjobs.com/careers/job/El-Segundo-CA/Customer-Operations-Intern_R260273",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/DIRECTV",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Barclays",
+        "id": "31217f4f-f656-4fcc-aab4-f5ce406f94e6",
+        "title": "Quantitative Finance Associate Intern - Off Cycle Internship Programme",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788533568,
+        "date_posted": 1788480000,
+        "url": "https://barclays.wd3.myworkdayjobs.com/External_Career_Site_Barclays/job/Canary-Wharf-1-Churchill-Place/Quantitative-Finance-Associate-Off-Cycle-Internship-Programme-2027-London_JR-0000124685",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Barclays",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "eae009a7-0f9d-4fa2-8fa2-debb270b409e",
+        "title": "I3X Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788533464,
+        "date_posted": 1788480000,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/I3X-Intern_R0143620",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Hitachi",
+        "id": "6c196363-fae8-4e72-a67f-eb0699a0dfc5",
+        "title": "Embedded Systems Engineer Intern - IoT",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788533547,
+        "date_posted": 1788480000,
+        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Remote---Texas-United-States/I3X-Intern_R0143621",
+        "locations": [
+            "Texas"
+        ],
+        "company_url": "https://simplify.jobs/c/Hitachi",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Simon Property Group",
+        "id": "b20f7f1d-5dc9-4764-b2d0-e4782096ccb3",
+        "title": "Front End Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788533531,
+        "date_posted": 1788480000,
+        "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Simon-Property-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Simon Property Group",
+        "id": "dc41208b-cfd9-4775-90bc-0df9e9ce96c2",
+        "title": "Data Engineering Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788533535,
+        "date_posted": 1788480000,
+        "url": "https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976",
+        "locations": [
+            "Indianapolis, IN"
+        ],
+        "company_url": "https://simplify.jobs/c/Simon-Property-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Amgen",
+        "id": "7df7a63a-e924-45cf-8b99-67789ffbadac",
+        "title": "Operations Graduate Program Intern - Operations",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788533146,
+        "date_posted": 1788307200,
+        "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Operations-Graduate-Program---Summer-2027-Internship_R-254659",
+        "locations": [
+            "Cambridge, MA",
+            "Remote in USA",
+            "Thousand Oaks, CA",
+            "Holly Springs, NC",
+            "New Albany, OH",
+            "West Greenwich, RI"
+        ],
+        "company_url": "https://simplify.jobs/c/Amgen",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "MBA",
+            "PharmD",
             "PhD"
         ]
     }
