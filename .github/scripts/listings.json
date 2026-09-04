@@ -198415,7 +198415,7 @@
         "company_name": "Tencent",
         "id": "708843fa-cd23-4f58-8f6b-9d646ec6460d",
         "title": "Software Engineering Intern - PC Game Client Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371366,7 +371366,7 @@
         "company_name": "TechInsights",
         "id": "52b170ce-7bb1-4b1d-a3a4-522f883dff61",
         "title": "Teardown Lab Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
