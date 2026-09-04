@@ -351447,7 +351447,7 @@
         "company_name": "Booz Allen",
         "id": "b8511dba-1f6c-40d2-b3b7-e50e87163026",
         "title": "Systems Engineer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375734,7 +375734,7 @@
         "company_name": "Rockefeller Capital Management",
         "id": "9f1a3d4b-e719-4a8d-8675-c400a470b458",
         "title": "Summer Analyst Intern - Distribution",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
