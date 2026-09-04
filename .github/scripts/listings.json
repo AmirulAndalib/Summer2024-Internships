@@ -1,184 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "TD Bank",
-        "id": "e67d4067-bbb0-461a-9ead-022de0fba6b5",
-        "title": "Global Markets Intern/Co-op - Foreign Exchange",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767770984,
-        "date_posted": 1767770984,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Global-Markets-Intern-Co-op--Summer-2026----FX--FI---Precious-Metals-Distribution_R_1465265",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Investment Management Corporation of Ontario",
-        "id": "f2d58eee-e111-43a9-b340-b66cf398a5ac",
-        "title": "Intern Investment Applications",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767770681,
-        "date_posted": 1767770681,
-        "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Investment-Applications_R25-227",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Investment Management Corporation of Ontario",
-        "id": "f0ded948-5224-4ddc-881f-d228bd0e77f9",
-        "title": "Intern \u2013 Data Technology",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767770672,
-        "date_posted": 1767770672,
-        "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Data-Technology_R25-224",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Vertiv",
-        "id": "c1d070e0-60dc-49f4-b1b9-9f09d7d535ac",
-        "title": "Computer Engineering",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767770059,
-        "date_posted": 1767770059,
-        "url": "https://egup.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/20264864",
-        "locations": [
-            "New Albany, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/Vertiv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Southwest Airlines",
-        "id": "468fa2c5-7e26-4db2-9f3a-3c6e180bca78",
-        "title": "Technical Data Management Summer 2026 Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767770103,
-        "date_posted": 1767770103,
-        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Technical-Data-Management-Summer-2026-Intern_R-2025-61976",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Investment Management Corporation of Ontario",
-        "id": "27d7331f-ca72-4502-81ef-1f3be26a72e4",
-        "title": "Intern Data Management",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767770673,
-        "date_posted": 1767770673,
-        "url": "https://imcoinvest.wd3.myworkdayjobs.com/IMCO/job/Toronto---16-York-St/Intern--Data-Management_R25-221",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Investment-Management-Corporation-Of-Ontario",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Southwest Airlines",
-        "id": "a8f82d0b-6822-472c-b6dc-0885e9908619",
-        "title": "Data Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767770096,
-        "date_posted": 1767770096,
-        "url": "https://swa.wd1.myworkdayjobs.com/external/job/TX-Dallas/Data-Engineering-Summer-2026-Intern_R-2025-61975",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Southwest-Airlines",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fermilab",
-        "id": "7f7804b1-6046-43f9-8b84-21e175ed6eed",
-        "title": "Beam Instrumentation Software Engineering Co-op Position",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767770139,
-        "date_posted": 1767770139,
-        "url": "https://fermilab.wd5.myworkdayjobs.com/FermilabCareers/job/Batavia/Beam-Instrumentation-Software-Engineering-Co-op-Position_R_008485",
-        "locations": [
-            "Batavia, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/Fermilab",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Investment Management Corporation of Ontario",
         "id": "9eb88375-1d28-4125-b0b8-5606f95ea3b2",
@@ -12309,29 +12131,6 @@
     },
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "John Deere",
-        "id": "f0d0eda5-3f93-4874-80dc-ca0a69d4bd61",
-        "title": "Part Time Student - Data & Analytics",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767769894,
-        "date_posted": 1767769894,
-        "url": "https://johndeere.eightfold.ai/careers/job/137477706337",
-        "locations": [
-            "Davenport, IA"
-        ],
-        "company_url": "https://simplify.jobs/c/John-Deere",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Zurn Elkay Water Solutions",
         "id": "aab8689a-a04b-4dbb-88a3-94575f49bdce",
@@ -13389,29 +13188,6 @@
             "Columbus, OH"
         ],
         "company_url": "https://simplify.jobs/c/Ohio-State-University",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "RTX",
-        "id": "7da4c101-afb5-4cfc-b949-49592dafd51c",
-        "title": "Stage \u2013 \u00c9t\u00e9 2026",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767769880,
-        "date_posted": 1767769880,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/LOC13052-1000-Boul-Marie-VictorinLongueuilQuebecJ4G-1A1Canada/Stage---t-2026---Analyses-avances-du-data-pour-la-prvision-et-l-optimisation-de-la-chaine-d-approvisionnement---Internship---Summer-2026---Advanced-Data-Analytics-for-Supply-Chain-prediction-and-optimization_01811518",
-        "locations": [
-            "Longueuil, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -70463,7 +70239,7 @@
         "company_name": "Grant Thornton",
         "id": "45e6cd12-c55d-47f0-b650-b2c4b472ce45",
         "title": "Tax Technology Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -273853,7 +273629,7 @@
         "company_name": "Sezzle",
         "id": "136bc4e8-f085-4b75-989c-c73b7f7de779",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -328236,7 +328012,7 @@
         "company_name": "GE Vernova",
         "id": "cda123ef-2e15-45a0-8ef1-f1983b6bf58b",
         "title": "Energy Optimization Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328376,7 +328152,7 @@
         "company_name": "GE Vernova",
         "id": "7d67654b-4933-41a8-b796-81003c0d2c31",
         "title": "Project Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370482,7 +370258,7 @@
         "company_name": "AssetWorks",
         "id": "1e449c60-50e8-490d-a348-bd0711768a24",
         "title": "Business Development \u2013 Intern - Data Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -375558,5 +375334,52 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "FGS Global",
+        "id": "e09597c5-1594-408f-9c00-37fcfaed3f8a",
+        "title": "Research & Insights Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788505021,
+        "date_posted": 1788202319,
+        "url": "https://job-boards.greenhouse.io/fgsglobal/jobs/4805006007",
+        "locations": [
+            "Washington, DC"
+        ],
+        "company_url": "https://simplify.jobs/c/FGS-Global",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "66d624a4-bf98-4f02-b127-38342b345cff",
+        "title": "Data Platform Engineer Intern - Global Engineering CDN",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788505021,
+        "date_posted": 1786468732,
+        "url": "https://jobs.bytedance.com/en/position/7538139519473092882/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
