@@ -269460,7 +269460,7 @@
         "company_name": "Xsolla",
         "id": "a1b64928-21d1-47fc-923f-979402c77e23",
         "title": "Xsolla School - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -309486,7 +309486,7 @@
         "company_name": "HNTB",
         "id": "ecf9f185-f2d1-4cc0-b34b-c49855781ce2",
         "title": "Strategic Technology Intern - SED Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309510,7 +309510,7 @@
         "company_name": "HNTB",
         "id": "19e8cd86-cd45-45f4-a5f1-a82b1077c564",
         "title": "Strategic Technology Intern - SED Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310060,7 +310060,7 @@
         "company_name": "ByteDance",
         "id": "343e0c01-b847-4c69-97bb-7015f723432d",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310152,7 +310152,7 @@
         "company_name": "Montenson",
         "id": "def431d1-9130-4304-b4ad-37f66f6af0cd",
         "title": "Sustainability Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310175,7 +310175,7 @@
         "company_name": "Montenson",
         "id": "8a89846a-5645-4d15-901d-2f607ff0b8c9",
         "title": "Investment Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310198,7 +310198,7 @@
         "company_name": "Montenson",
         "id": "e287d223-2fcc-400e-a395-136441cb0e1b",
         "title": "System Administrator Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310290,7 +310290,7 @@
         "company_name": "ExxonMobil",
         "id": "241a43cd-dad1-4859-a5e3-071488f9dd2f",
         "title": "Trading Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310839,7 +310839,7 @@
         "company_name": "Deloitte",
         "id": "1782c7ab-120f-498c-b0af-430d269e5bf4",
         "title": "Data Management Solutions Summer Scholar Intern - Government & Public Services - Data Management Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -310909,7 +310909,7 @@
         "company_name": "ByteDance",
         "id": "7bbcfe14-7ce8-4103-b65b-a360fd4a2fa3",
         "title": "Software Engineer Intern - AML-Engine-Orchestration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310980,7 +310980,7 @@
         "company_name": "Mujin",
         "id": "64520db5-19f9-4d78-80a3-c0baa9feff7e",
         "title": "Product Development Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -311262,7 +311262,7 @@
         "company_name": "OceanComm",
         "id": "5aceb7eb-24ef-4a7a-abef-73e17a771b6f",
         "title": "Electronics Technician Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311353,7 +311353,7 @@
         "company_name": "Thingtrax",
         "id": "36e8bcb9-72d6-4a77-9c62-1a92759cce36",
         "title": "Vision AI Intern - Vision AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -311374,7 +311374,7 @@
         "company_name": "Generation West Virginia",
         "id": "561a306f-fda6-4ae9-a6a5-bab849a7227d",
         "title": "Insights - Project Extension Team - Cohort",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311633,7 +311633,7 @@
         "company_name": "ATCO",
         "id": "152f0dd1-e6c5-4072-8a15-e122312fc5c7",
         "title": "Engineering Co-op - Electric Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -311991,7 +311991,7 @@
         "company_name": "City of Manhattan Kansas",
         "id": "0f22ab43-33eb-42ff-90dc-0388e1cb73ea",
         "title": "GIS Planning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -312177,7 +312177,7 @@
         "company_name": "ByteDance",
         "id": "7b75fe14-a899-4b20-9785-85fc95da69b3",
         "title": "Machine Learning Engineer Intern - AML-Engine-Orchestration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312296,7 +312296,7 @@
         "company_name": "ByteDance",
         "id": "2ee02d7e-4063-4151-98e1-ea687a3902e6",
         "title": "Software Engineer Intern - AML-Engine-Orchestration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312561,7 +312561,7 @@
         "company_name": "Motorola",
         "id": "15b4ef61-9a66-40f9-b13e-594b7470650f",
         "title": "Supply Chain Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314879,7 +314879,7 @@
         "company_name": "General Dynamics",
         "id": "fcd17b4c-48db-46a4-8f82-aab4e940189e",
         "title": "Tester Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -356792,7 +356792,7 @@
         "company_name": "AeroVironment",
         "id": "e78cc589-6b09-4c98-ad24-f470dbf6e9fc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367689,7 +367689,7 @@
         "company_name": "Red Rabbit Robotics",
         "id": "7eff9698-571b-40ca-9bf2-60dd1a68e0a8",
         "title": "Mechatronics Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -367754,7 +367754,7 @@
         "company_name": "Luxium Solutions",
         "id": "3ea80f51-7a12-4e36-a606-1982683d67a7",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372454,6 +372454,50 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "University of Virginia",
+        "id": "1b00d603-1ed3-41f2-975a-fd9493bff34a",
+        "title": "Health Sciences Library Text and Data Mining Assistant - Student Wage",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788486501,
+        "date_posted": 1786406400,
+        "url": "https://uva.wd1.myworkdayjobs.com/uvastudentjobs/job/Charlottesville-VA/Health-Sciences-Library-Text-and-Data-Mining-Assistant--Student-Wage-_R0086123",
+        "locations": [
+            "Charlottesville, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/University-Of-Virginia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Commercial Metals",
+        "id": "ab180358-ad65-425d-9b01-35710f1fa510",
+        "title": "AI Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788485421,
+        "date_posted": 1786388332,
+        "url": "https://jobs.cmc.com/job/Irving-AI-Intern-SIOP-TX-75039/1417644400/?ats=successfactors",
+        "locations": [
+            "Irving, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Commercial-Metals",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
