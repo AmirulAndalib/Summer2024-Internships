@@ -268525,7 +268525,7 @@
         "company_name": "Lila Sciences",
         "id": "2e18112f-57a1-49b7-875b-0cdd6cd55e8d",
         "title": "Next Gen Engineering Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288865,7 +288865,7 @@
         "company_name": "Castleton Commodities International",
         "id": "6c60c226-bf8b-45f1-b610-d9835abb7ce2",
         "title": "Commodities Trading Analyst Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
