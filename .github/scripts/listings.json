@@ -326277,7 +326277,7 @@
         "company_name": "Eversource Energy",
         "id": "76075e31-0449-4ccd-80a7-1613d0ed6bcb",
         "title": "Asset Management Technology Engineer Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375536,5 +375536,27 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Primer",
+        "id": "a5f886cf-d5b6-41ac-9bfc-98833aff9bb6",
+        "title": "Software Engineer Intern - Full Stack",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1788503552,
+        "date_posted": 1788503281,
+        "url": "https://jobs.ashbyhq.com/primer/edd1667b-6323-444a-adc1-40bae5b9a3b0/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Primer",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
