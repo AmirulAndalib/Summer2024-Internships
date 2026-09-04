@@ -39039,7 +39039,7 @@
         "company_name": "ByteDance",
         "id": "03f837a0-bf51-4384-b5fe-ecc29b02eb9b",
         "title": "Security Software Engineer Project Intern - Network Security - 2026 Start",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -109266,7 +109266,7 @@
         "company_name": "Fundwell",
         "id": "543db09f-0743-4f5f-a18a-ae6f1eb3bdbc",
         "title": "AI Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -163446,7 +163446,7 @@
         "company_name": "Pennsylvania State University",
         "id": "5e4dccbf-7520-40d3-b547-7a2f044e4417",
         "title": "Part-Time Research Assistant - Farooque/Saha - AI in Education Project",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -185325,7 +185325,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -202624,7 +202624,7 @@
         "company_name": "Fortinet",
         "id": "717f0806-c8b3-4053-9457-9e172707e5fa",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -267857,7 +267857,7 @@
         "company_name": "Worcester Polytechnic Institute",
         "id": "d3d4026f-7692-4702-b165-7ab30790335c",
         "title": "Graduate Research Assistant - Fire Protection Engineering - JM",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -271206,7 +271206,7 @@
         "company_name": "Palo Alto Networks",
         "id": "c038aac0-6db1-415c-a34c-0eadd28627fb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -271230,7 +271230,7 @@
         "company_name": "Palo Alto Networks",
         "id": "b7d021aa-5607-4809-a3f2-fec2242c4ac8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -271277,7 +271277,7 @@
         "company_name": "Palo Alto Networks",
         "id": "81ba1e38-8f0f-46fc-9ea3-58930bd9d5b1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -284023,7 +284023,7 @@
         "company_name": "Pennsylvania State University",
         "id": "e3832dea-fb21-489b-b1cb-1dd91cd40a1e",
         "title": "Nittany AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -300396,7 +300396,7 @@
         "company_name": "TikTok",
         "id": "4e30bd9b-ebf0-4353-86db-38408f6b37c3",
         "title": "Software Engineer Intern - ML Infra",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311405,7 +311405,7 @@
         "company_name": "Leland",
         "id": "4e0d8be2-4c96-42c3-96c6-17850b196a60",
         "title": "AI Education Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315875,7 +315875,7 @@
         "company_name": "KeyBank",
         "id": "093ca891-a330-4763-aeb5-b6195cb0df79",
         "title": "Analytics and Quantitative Modeling Intern - Analytics & Quantitative Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324090,7 +324090,7 @@
         "company_name": "TikTok",
         "id": "af0078da-4418-4e04-afb5-17ec87e8381a",
         "title": "Machine Learning MLOps Intern - Global Site Reliability Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340515,7 +340515,7 @@
         "company_name": "Deloitte",
         "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
         "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340884,7 +340884,7 @@
         "company_name": "The Walt Disney Company",
         "id": "86d6bcf1-09b8-4ac2-af55-2b1ed17cee48",
         "title": "Pricing & Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -342226,7 +342226,7 @@
         "company_name": "Philips",
         "id": "bcea96d4-d109-4a9e-84e7-1f444b1f2e7b",
         "title": "Data AI/ML Engineer Intern - Image Guided Therapy Devices - Software R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360293,7 +360293,7 @@
         "company_name": "Microsoft",
         "id": "549cf0cc-9150-4b08-9120-b87fc4510590",
         "title": "Applied Science Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364614,7 +364614,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "00a52ad4-067c-472b-a535-cacfc706483d",
         "title": "Acoustic Algorithm Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370298,7 +370298,7 @@
         "company_name": "Rockefeller Capital Management",
         "id": "245c76fc-baf1-4d95-b184-148545bd81d4",
         "title": "Private Advisor Team Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
