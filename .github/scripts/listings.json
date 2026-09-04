@@ -110612,7 +110612,7 @@
         "company_name": "GE Aerospace",
         "id": "ea8a7a43-d2ba-4e7f-b5e9-a8a86b8e1946",
         "title": "Engines Engineering Intern/Co-op - Computer or Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -133098,7 +133098,7 @@
         "company_name": "Nightwing Intelligence Solutions",
         "id": "e9569c77-dc0a-48e3-a280-aab0544afe8e",
         "title": "Radio Frequency Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -194743,7 +194743,7 @@
         "company_name": "Amazon",
         "id": "683c26d5-8306-435d-9738-d85e030935f5",
         "title": "Applied Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -195231,7 +195231,7 @@
         "company_name": "Amazon",
         "id": "d2d779ba-bdb3-4801-889e-f3c0da9be4ee",
         "title": "Applied Science Intern - Reinforcement Learning & Optimization - Machine Learning",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -313326,7 +313326,7 @@
         "company_name": "Business Insider",
         "id": "cc0575ec-4150-4e85-9ce6-7b15f68f2b7c",
         "title": "Data Graphics Fellow - August 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -315882,7 +315882,7 @@
         "company_name": "SciTec",
         "id": "8cc2b117-a376-460c-9c26-471a354baad2",
         "title": "Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -344111,7 +344111,7 @@
         "company_name": "Protiviti",
         "id": "2ff6ff81-d003-4d95-bc6e-de5332c793ad",
         "title": "Technology Consulting Intern - 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344272,7 +344272,7 @@
         "company_name": "Protiviti",
         "id": "db526278-271d-4453-82d7-b11c7af64876",
         "title": "Technology Consulting Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357735,7 +357735,7 @@
         "company_name": "Applied Materials",
         "id": "d6dec408-afe2-4aaf-9758-f14a058524f6",
         "title": "Materials Engineering Co-op - TCAD Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368865,7 +368865,7 @@
         "company_name": "Astranis",
         "id": "a37b189d-f2d1-403c-b1b0-77d0006ca415",
         "title": "Power Electronics Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368888,7 +368888,7 @@
         "company_name": "Shield AI",
         "id": "cb7e6796-dfe5-4b78-aca6-9dce64107ce4",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375380,6 +375380,56 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Amazon",
+        "id": "16763ef8-e382-4bed-9bf1-aade7161fb68",
+        "title": "Applied Science Intern - Science Recruiting",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788507361,
+        "date_posted": 1776377476,
+        "url": "https://amazon.jobs/en/jobs/10394248/fall-2026-applied-science-internship-canada-phd-student-science-recruiting",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Burnaby, BC, Canada",
+            "Pitt Meadows, BC, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Amazon",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Vaxcyte",
+        "id": "61953270-c6b4-4f92-91af-e17b940e3337",
+        "title": "AI Implementation Consultant - Legal",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788506642,
+        "date_posted": 1772678110,
+        "url": "https://boards.greenhouse.io/vaxcyte/jobs/5017289008",
+        "locations": [
+            "San Carlos, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Vaxcyte",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
