@@ -285862,7 +285862,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -286315,7 +286315,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2025"
         ],
@@ -314604,7 +314604,7 @@
         "company_name": "SchoolMint",
         "id": "3635c5ce-e586-43b2-8ef0-643f97cd223d",
         "title": "Marketing Technology & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -322221,7 +322221,7 @@
         "company_name": "RTX",
         "id": "9591653b-a693-4b79-853f-dcd9a85971fd",
         "title": "Manufacturing & Quality Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -323246,7 +323246,7 @@
         "company_name": "NVIDIA",
         "id": "832f302a-8bc2-45f2-8ada-37a23bf080a7",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -330679,7 +330679,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335095,7 +335095,7 @@
         "company_name": "RTX",
         "id": "a2ab2232-0294-4321-8831-a52bd5488178",
         "title": "Business Intelligence and Governance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335542,7 +335542,7 @@
         "company_name": "Brunswick",
         "id": "87b11195-7636-4d15-98ef-a30cea2dff16",
         "title": "Systems Engineer Co-op - Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -341381,7 +341381,7 @@
         "company_name": "Brunswick",
         "id": "7fd82049-4a30-48f9-ab6c-519e8c2b11fd",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -351345,7 +351345,7 @@
         "company_name": "Magna",
         "id": "aa975266-5fe4-4030-a4d9-2b7f6ba7f717",
         "title": "ADAS Feature Owner Intern - Systems Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352284,7 +352284,7 @@
         "company_name": "United Airlines",
         "id": "616f31e5-f760-4f12-ab94-7cfe7c256b54",
         "title": "Meteorology Support Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -358526,7 +358526,7 @@
         "company_name": "United Airlines",
         "id": "7afc8909-8e75-4217-afd4-e39a4c061462",
         "title": "Tech Ops Analytics & Business Intelligence Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361145,7 +361145,7 @@
         "company_name": "Intel",
         "id": "a4415818-9dfc-4624-8235-e94c953af5e4",
         "title": "Platform Hardware and Systems Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -365085,7 +365085,7 @@
         "company_name": "Brunswick",
         "id": "aac4d1eb-c398-4462-92a6-b6c581457ff9",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365977,7 +365977,7 @@
         "company_name": "NVIDIA",
         "id": "a26a9ad9-27d4-4902-827c-2c0a5e75a365",
         "title": "Robotics Intern - Ph.D. Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366025,7 +366025,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372278,7 +372278,7 @@
         "company_name": "RTX",
         "id": "7e9c7b98-067d-40e0-9691-2aa31d3e7464",
         "title": "Data Analyst Intern - Spare Parts Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -372371,7 +372371,7 @@
         "company_name": "RTX",
         "id": "7fb6b9a8-1a76-446c-992a-bd6c708a533a",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373217,7 +373217,7 @@
         "company_name": "Walmart",
         "id": "926d0b7b-a700-40fb-a9c0-6d9f5095bf8d",
         "title": "Software Engineer 2 Intern - Bellevue",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -375989,5 +375989,75 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Corning",
+        "id": "c7f3e77f-a1eb-4ac3-b212-87e4289565f9",
+        "title": "Digital and Information Technology Intern - Analyst",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788520682,
+        "date_posted": 1788291378,
+        "url": "https://corningjobs.corning.com/job/Concord-Digital-&-IT-Intern,-Analyst,-Concord-Manufacturing-Summer-2027-NC-28026/1425549000/?ats=successfactors",
+        "locations": [
+            "Concord, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Corning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Rockefeller Capital Management",
+        "id": "fc428819-fa67-4635-beea-612c5eec041c",
+        "title": "Analyst Intern - Core Platforms",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788519241,
+        "date_posted": 1786680017,
+        "url": "https://careers-rcm.icims.com/jobs/5354/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "Hamilton Township, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockefeller-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Rockefeller Capital Management",
+        "id": "9f1a3d4b-e719-4a8d-8675-c400a470b458",
+        "title": "Summer Analyst Intern - Distribution",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788519241,
+        "date_posted": 1786680016,
+        "url": "https://careers-rcm.icims.com/jobs/5406/job?mobile=true&needsRedirect=false",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Rockefeller-Capital-Management",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
