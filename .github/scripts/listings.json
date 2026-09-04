@@ -319506,7 +319506,7 @@
         "company_name": "American Fidelity",
         "id": "d10a9d0d-62b5-4eb6-8218-d01baa84b887",
         "title": "Agentic AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -327361,7 +327361,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "705aa0dc-9caf-4a10-8196-9c201a884e84",
         "title": "Finance Intern - Risk Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363416,7 +363416,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366000,7 +366000,7 @@
         "company_name": "NVIDIA",
         "id": "a0cb4ae7-f3b0-46e6-837b-2e442908bf9b",
         "title": "Autonomous Vehicles and Robotics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376711,6 +376711,224 @@
             "Malta, NY"
         ],
         "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Geotab",
+        "id": "dc3499d4-1da1-47d7-abd8-1851bee1e727",
+        "title": "Software Developer Intern - Mygeotab",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788532021,
+        "date_posted": 1788531935,
+        "url": "https://job-boards.greenhouse.io/internshiplist2000/jobs/5383412008",
+        "locations": [
+            "Toronto, ON, Canada",
+            "Oakville, ON, Canada",
+            "Waterloo, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Geotab",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Tesla",
+        "id": "bdc2e5e0-9ec7-4480-af9b-d02e6fb8dbfd",
+        "title": "Fleet Management Algorithms Intern - Vehicle Software",
+        "active": true,
+        "terms": [
+            "Spring 2027"
+        ],
+        "date_updated": 1788531547,
+        "date_posted": 1788531296,
+        "url": "https://www.tesla.com/careers/search/job/282483",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Tesla",
+        "id": "8c58bc92-e90a-4ee3-9ef4-9d72c536abde",
+        "title": "Audio & Sensor Software Engineer Intern - Vehicle Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1788531710,
+        "date_posted": 1788531288,
+        "url": "https://www.tesla.com/careers/search/job/282301",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CSX",
+        "id": "490a007b-6b18-4f66-bf74-6060c4fe706a",
+        "title": "Sales & Marketing Analytics Intern - Paid",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788531484,
+        "date_posted": 1788531262,
+        "url": "https://fa-eowa-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CSXCareers/job/54839",
+        "locations": [
+            "Jacksonville, FL"
+        ],
+        "company_url": "https://simplify.jobs/c/CSX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics UK",
+        "id": "f6c5ebc4-d026-40ec-a28c-ba2c0d6c0cfb",
+        "title": "Software Engineering Co-op - 4 - 8 months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788531481,
+        "date_posted": 1788530937,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000147511629",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ernst & Young",
+        "id": "72a4e3a7-dbd3-4740-8a39-4b1bfbd63ec6",
+        "title": "Data and Technology Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788531217,
+        "date_posted": 1788530862,
+        "url": "https://eyglobal.yello.co/jobs/gqy0pJfAkXrlECgDBjqcIw?job_board_id=c1riT--B2O-KySgYWsZO1Q",
+        "locations": [
+            "Miami, FL",
+            "Dallas, TX",
+            "Chicago, IL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Ernst-And-Young",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Apple",
+        "id": "b9be901f-af0f-44d1-ad38-c58e3e251f77",
+        "title": "Formal Verification Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1788530941,
+        "date_posted": 1788530858,
+        "url": "https://jobs.apple.com/en-us/details/200681934",
+        "locations": [
+            "St Albans, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Apple",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Principal Financial Group",
+        "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788531169,
+        "date_posted": 1788530882,
+        "url": "https://careers.principal.com/jobs/52513?icims=1",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Principal-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corteva",
+        "id": "2d629336-614a-4768-9834-301c2be61b10",
+        "title": "Automation for In-Vitro Mammalian Toxicology Intern - Genetic and Molecular Toxicology",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788530680,
+        "date_posted": 1788393600,
+        "url": "https://corteva.wd5.myworkdayjobs.com/corteva/job/Newark-Delaware-United-States/R-D-Intern--Automation-for-I-n-Vitro-Mammalian-Toxicology--_248127W",
+        "locations": [
+            "Newark, DE"
+        ],
+        "company_url": "https://simplify.jobs/c/Corteva",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
