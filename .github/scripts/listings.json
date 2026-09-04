@@ -163193,7 +163193,7 @@
         "company_name": "10a Labs",
         "id": "a1bc5739-2d47-4f6c-8627-5b11e873e160",
         "title": "Engineering Fellow",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -271401,7 +271401,7 @@
         "company_name": "IMC Trading",
         "id": "1d7827d1-14f5-4597-b49c-7b91bb07cb0c",
         "title": "Machine Learning Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -271424,7 +271424,7 @@
         "company_name": "IMC Trading",
         "id": "74ebbab0-9a8d-4399-aec0-07e5ad5f7337",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -271447,7 +271447,7 @@
         "company_name": "IMC Trading",
         "id": "4aa719b5-d2a2-4379-950b-53301335fcac",
         "title": "Hardware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -295471,7 +295471,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -296560,7 +296560,7 @@
         "company_name": "PSECU",
         "id": "c798be75-f002-4735-ae90-3a77727b897e",
         "title": "Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331038,7 +331038,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -332842,7 +332842,7 @@
         "company_name": "John Deere",
         "id": "b36d77b3-8f2d-43d7-bf82-ad49189efa02",
         "title": "Robotics Engineer Part-Time Student - Product Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -351160,7 +351160,7 @@
         "company_name": "The Federal Reserve System",
         "id": "835913f7-c141-4e6c-8735-f42dba88ac18",
         "title": "Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353584,7 +353584,7 @@
         "company_name": "Tencent",
         "id": "571dc222-d134-45dd-8547-ba1ce9e2c5a4",
         "title": "CPaaS Product Management Intern - Cloud & Smart Industries Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -359224,7 +359224,7 @@
         "company_name": "RTX",
         "id": "eaf4c7cf-4e64-4286-8d4e-01db86f66220",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360066,7 +360066,7 @@
         "company_name": "RTX",
         "id": "86109c63-191c-484b-838b-4448f2812c98",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -368297,7 +368297,7 @@
         "company_name": "Magna",
         "id": "a7beff09-b326-4679-a544-c614e04aa701",
         "title": "Robotics AI Algorithm Intern - Research and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -369292,7 +369292,7 @@
         "company_name": "Crum & Forster Insurance",
         "id": "fab8f803-ffef-4464-a672-22c36e3ededa",
         "title": "Actuarial, Data Science or Product Services Intern - Commercial Lines",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369885,7 +369885,7 @@
         "company_name": "Emerson Electric",
         "id": "746a9e37-017b-4a99-82c3-09350f8d06fa",
         "title": "RF Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -373146,7 +373146,7 @@
         "company_name": "Walmart",
         "id": "9a65a8df-82be-4934-8e8f-0308d4a7686a",
         "title": "Software Engineer 2 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -376692,6 +376692,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "GlobalFoundries",
+        "id": "e83c500f-6896-4414-b9b7-bc22069038ed",
+        "title": "RF Technology Development Automation Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788527881,
+        "date_posted": 1788393600,
+        "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/RF-Technology-Development-Automation-Engineering-Intern--Summer-2027-_JR-2604272",
+        "locations": [
+            "Malta, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/GlobalFoundries",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
