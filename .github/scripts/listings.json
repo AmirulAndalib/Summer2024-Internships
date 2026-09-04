@@ -338778,7 +338778,7 @@
         "company_name": "RTX",
         "id": "96a2bb42-3d8d-415b-ad67-993931ebeac4",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365875,7 +365875,7 @@
         "company_name": "Ambi Robotics",
         "id": "2c04e1d0-a2ad-4310-9cdb-1ff838362501",
         "title": "Robotics QA Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
