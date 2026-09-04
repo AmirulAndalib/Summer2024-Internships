@@ -285862,7 +285862,7 @@
         "company_name": "Denari",
         "id": "509af5ea-e34a-4b4c-bace-1d7ffbefc797",
         "title": "Product & Software Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -286315,7 +286315,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -299155,7 +299155,7 @@
         "company_name": "Carbon Engineering Ltd.",
         "id": "33f9602c-ec01-43af-b2fb-d7c33e5dd4cb",
         "title": "Process Systems Engineering Co-op - Automation & Data Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323246,7 +323246,7 @@
         "company_name": "NVIDIA",
         "id": "832f302a-8bc2-45f2-8ada-37a23bf080a7",
         "title": "Hardware Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323414,7 +323414,7 @@
         "company_name": "NVIDIA",
         "id": "60fd19b0-17cd-4cb7-8cf0-99bd3743c1c9",
         "title": "Hardware Verification Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -329524,7 +329524,7 @@
         "company_name": "RTX",
         "id": "740d3c67-d925-48d7-995a-410073f010e8",
         "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -330679,7 +330679,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335542,7 +335542,7 @@
         "company_name": "Brunswick",
         "id": "87b11195-7636-4d15-98ef-a30cea2dff16",
         "title": "Systems Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -340686,7 +340686,7 @@
         "company_name": "Brunswick",
         "id": "596095d8-4722-4847-8780-041d4934008f",
         "title": "Engineering Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -341381,7 +341381,7 @@
         "company_name": "Brunswick",
         "id": "7fd82049-4a30-48f9-ab6c-519e8c2b11fd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -345123,7 +345123,7 @@
         "company_name": "Astrion",
         "id": "ab6635d0-534f-41f5-83c5-c9b1fae53dd4",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350368,7 +350368,7 @@
         "company_name": "The Federal Reserve System",
         "id": "5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00",
         "title": "Statistics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350950,7 +350950,7 @@
         "company_name": "RTX",
         "id": "5eec1982-b0e8-4ec2-b9c3-ee8ed6051a4b",
         "title": "Numerical Methods Intern - Advanced Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -351369,7 +351369,7 @@
         "company_name": "Magna",
         "id": "47d95f89-f763-477d-a29f-ec7b46b0f160",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -359501,7 +359501,7 @@
         "company_name": "RTX",
         "id": "787372a9-a46b-425a-8364-2f2a60a900e2",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -359525,7 +359525,7 @@
         "company_name": "RTX",
         "id": "7360bbd8-123b-4461-a904-6a2a491df73c",
         "title": "Methods Intern - Hot Section Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362310,7 +362310,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -372278,7 +372278,7 @@
         "company_name": "RTX",
         "id": "7e9c7b98-067d-40e0-9691-2aa31d3e7464",
         "title": "Data Analyst Intern - Spare Parts Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -372371,7 +372371,7 @@
         "company_name": "RTX",
         "id": "7fb6b9a8-1a76-446c-992a-bd6c708a533a",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373074,7 +373074,7 @@
         "company_name": "Walmart",
         "id": "20632827-008e-4260-aec0-fd4d5db58b42",
         "title": "Software Engineer 2 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -375941,6 +375941,51 @@
             "London, UK"
         ],
         "company_url": "https://simplify.jobs/c/Aptura",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Corning",
+        "id": "966f0e61-e253-4b56-ba21-34cdff18547e",
+        "title": "Digital & IT Intern - Manufacturing AI/ML",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1788517802,
+        "date_posted": 1788311309,
+        "url": "https://corningjobs.corning.com/job/Charlotte-Digital-&-IT-Intern,-Analyst,-Manufacturing-AIML-Summer-2027-NC-28216/1425708000/?ats=successfactors",
+        "locations": [
+            "Charlotte, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Corning",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Mary Free Bed Rehabilitation Hospital",
+        "id": "741ed461-9ad1-40aa-913b-eb7c319f0df1",
+        "title": "IT Intern - Project Management",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788518521,
+        "date_posted": 1783900800,
+        "url": "https://maryfreebed.wd12.myworkdayjobs.com/mfb/job/Grand-Rapids-MI/IT-Intern---Project-Management_JB102944",
+        "locations": [
+            "Grand Rapids, MI"
+        ],
+        "company_url": "https://simplify.jobs/c/Mary-Free-Bed-Rehabilitation-Hospital",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
