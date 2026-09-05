@@ -292293,7 +292293,7 @@
         "company_name": "Magna",
         "id": "75ba4d37-69a8-4034-b556-d8837ef4a500",
         "title": "IoT Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315352,7 +315352,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -343519,7 +343519,7 @@
         "company_name": "Manulife Financial",
         "id": "5debe91f-f195-4bd0-a1c3-50c5bef17c2d",
         "title": "Quantitative Analyst Co-op - Derivative and Asset Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -356690,7 +356690,7 @@
         "company_name": "Omnicom Group",
         "id": "75e8f127-6508-489a-85af-6d0bb6299903",
         "title": "Experience Design Engineer Intern Consultant - Design Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378457,7 +378457,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
