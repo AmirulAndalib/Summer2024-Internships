@@ -315492,7 +315492,7 @@
         "company_name": "Hypercubic",
         "id": "ee23b508-8622-4e85-a48c-712f76a6db3b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378738,6 +378738,31 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Replit",
+        "id": "211d1319-7021-4fda-abc6-6b2d24ffb794",
+        "title": "Cohort 0",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1788571621,
+        "date_posted": 1788571616,
+        "url": "https://jobs.ashbyhq.com/replit/2c147ccb-2557-40f8-aab9-64422cef220c/application?embed=true",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Replit",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
