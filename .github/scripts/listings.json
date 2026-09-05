@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sanofi",
-        "id": "b97ec948-6d09-4987-ba6a-e1e7ad64a671",
-        "title": "Digital Patient Experience Analytics Summer-Fall 2026 Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1767831754,
-        "date_posted": 1767831754,
-        "url": "https://sanofi.wd3.myworkdayjobs.com/SanofiCareers/job/Cambridge-MA/Digital-Patient-Experience-Analytics-Summer-Fall-2026-Co-op_R2833319",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Sanofi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Alston & Bird Law Firm",
-        "id": "e5079f17-abaa-4ea4-ad12-74f4c1cd363c",
-        "title": "Developer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767831018,
-        "date_posted": 1767831018,
-        "url": "https://alston.wd1.myworkdayjobs.com/ExternalCareer/job/Atlanta/Developer-Intern_JR100783",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Alston-And-Bird-Law-Firm",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "fbdfd985-a325-484c-87c0-d40a09c2db0f",
