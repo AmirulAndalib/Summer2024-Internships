@@ -327678,7 +327678,7 @@
         "company_name": "Mastercard",
         "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -358037,7 +358037,7 @@
         "company_name": "RTX",
         "id": "86109c63-191c-484b-838b-4448f2812c98",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
