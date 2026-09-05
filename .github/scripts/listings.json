@@ -339561,7 +339561,7 @@
         "company_name": "The Walt Disney Company",
         "id": "2947ab18-7630-43b2-ac82-07b28508a561",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
