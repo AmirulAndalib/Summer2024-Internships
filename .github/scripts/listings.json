@@ -151328,7 +151328,7 @@
         "company_name": "Rivian",
         "id": "cd885e02-d0aa-4f5f-a119-3f60710cc44c",
         "title": "UIUC Research Park Intern - Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339306,7 +339306,7 @@
         "company_name": "The Walt Disney Company",
         "id": "b12c41ea-1e48-4da2-94c5-dd6437b77911",
         "title": "Systems Application Development and Sustainment Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -373644,7 +373644,7 @@
         "company_name": "Chevron",
         "id": "31a02f62-8caa-47fa-ba96-68effe953759",
         "title": "Previous Intern - Information Technology - Information and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
