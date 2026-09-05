@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "A Thinking Ape",
-        "id": "ae679862-5a2f-47ae-80d4-6c2e722d931c",
-        "title": "Software Engineer Co-op/Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1767861798,
-        "date_posted": 1767861798,
-        "url": "https://job-boards.greenhouse.io/athinkingape/jobs/7436071",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/A-Thinking-Ape",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Unity",
         "id": "8386a979-b004-4216-98e2-c7dfe93b8a00",
         "title": "Software Engineer - Engine Support",
@@ -29090,7 +29067,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -192741,7 +192718,7 @@
         "company_name": "Kognitos",
         "id": "58077951-984f-4310-b0ce-55853074ed6e",
         "title": "Software Engineer Intern - AI-Native",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -330560,7 +330537,7 @@
         "company_name": "Brunswick",
         "id": "23283fde-40f1-42d9-bf10-9b7362a6c553",
         "title": "Software Engineer Intern - Boating Intelligence Design Lab",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -336060,7 +336037,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "89458fa4-671a-4f16-80d0-b17bfb3af74d",
         "title": "Software Developer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -339493,7 +339470,7 @@
         "company_name": "Booz Allen",
         "id": "0b789ff7-5e0b-41ba-98b2-35370afdd223",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351252,7 +351229,7 @@
         "company_name": "Booz Allen",
         "id": "21c2dbb5-58dc-42ce-b2f5-f7a3eed6a47f",
         "title": "Data Scientist Intern - University - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353071,7 +353048,7 @@
         "company_name": "Zurich Insurance",
         "id": "17b7544f-c3be-49f8-838a-a79a4ed854e0",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365193,7 +365170,7 @@
         "company_name": "Sorting Robotics",
         "id": "64519e07-9f32-4cb2-b293-18460d912c83",
         "title": "Robotics Engineer Co-op Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -369970,7 +369947,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "757dc2f7-3e8d-4e4f-bba1-a5c378ea6ca9",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378290,7 +378267,7 @@
         "company_name": "Marvell",
         "id": "09fd06f3-ffee-4273-adf4-17b10e35aa2f",
         "title": "Design Verification Intern - BS - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
