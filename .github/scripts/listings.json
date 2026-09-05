@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Keysight Technologies",
-        "id": "f2c7e90f-1642-4ace-92ce-3be03a8547c0",
-        "title": "Software Development Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1767890221,
-        "date_posted": 1767890221,
-        "url": "https://jobs.keysight.com/jobs/51216?lang=en-us&icims=1",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Keysight-Technologies-Inc",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "FactSet",
         "id": "e0398d7c-c0c4-4bed-b7ee-10c9734f242f",
