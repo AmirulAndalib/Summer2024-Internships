@@ -110740,7 +110740,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -230835,7 +230835,7 @@
         "company_name": "SiFive",
         "id": "ec5e83b4-1cb5-4b81-9056-28110a076c6e",
         "title": "Platform Technologies Language Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321098,7 +321098,7 @@
         "company_name": "NVIDIA",
         "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
         "title": "Ph.D. Research Autonomous Vehicles Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325581,7 +325581,7 @@
         "company_name": "University of Texas at Austin",
         "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
         "title": "Graduate Assistant - AI-Powered Career Success Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -355633,7 +355633,7 @@
         "company_name": "Andersen Corporation",
         "id": "c9ff9182-9268-4f02-a005-5706911147d0",
         "title": "Sustainability Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -359036,7 +359036,7 @@
         "company_name": "Intel",
         "id": "4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
         "title": "Silicon Hardware Engineering Intern - Bachelor's",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -378642,6 +378642,30 @@
             "Calgary, AB, Canada"
         ],
         "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Greenheck Group",
+        "id": "bd094d2e-e3dd-4cb1-a4d5-cdd8021d5ea8",
+        "title": "Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1788614678,
+        "date_posted": 1788220800,
+        "url": "https://greenheckgroup.wd5.myworkdayjobs.com/external/job/Tulsa-OK/Engineering-Co-op-Opportunities--OK-_JR104348",
+        "locations": [
+            "Tulsa, OK"
+        ],
+        "company_url": "https://simplify.jobs/c/Greenheck-Group",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
