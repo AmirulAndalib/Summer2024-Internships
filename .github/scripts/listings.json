@@ -29090,7 +29090,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -182999,7 +182999,7 @@
         "company_name": "Anthropic",
         "id": "0d633297-0371-40a5-bcfe-d66992c2ba79",
         "title": "Anthropic Fellows Program - ML Systems & Performance",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -192741,7 +192741,7 @@
         "company_name": "Kognitos",
         "id": "58077951-984f-4310-b0ce-55853074ed6e",
         "title": "Software Engineer Intern - AI-Native",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336060,7 +336060,7 @@
         "company_name": "Auto-Owners Insurance",
         "id": "89458fa4-671a-4f16-80d0-b17bfb3af74d",
         "title": "Software Developer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365193,7 +365193,7 @@
         "company_name": "Sorting Robotics",
         "id": "64519e07-9f32-4cb2-b293-18460d912c83",
         "title": "Robotics Engineer Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378290,7 +378290,7 @@
         "company_name": "Marvell",
         "id": "09fd06f3-ffee-4273-adf4-17b10e35aa2f",
         "title": "Design Verification Intern - BS - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378600,6 +378600,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "General Dynamics UK",
+        "id": "0d504ec1-4c20-45c1-95c9-bd8e7239a5b8",
+        "title": "Software Engineering Co-op - Months",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1788596901,
+        "date_posted": 1788473329,
+        "url": "https://jobs.smartrecruiters.com/GDMSI/744000147563929",
+        "locations": [
+            "Calgary, AB, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
