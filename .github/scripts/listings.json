@@ -321098,7 +321098,7 @@
         "company_name": "NVIDIA",
         "id": "4ef3c3eb-baad-42c0-8e30-0a1ff84931c0",
         "title": "Ph.D. Research Autonomous Vehicles Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351275,7 +351275,7 @@
         "company_name": "Booz Allen",
         "id": "6cba10bd-bcb9-4b0c-834b-31c33c3e5125",
         "title": "Data Scientist Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
