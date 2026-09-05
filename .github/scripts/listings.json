@@ -10695,30 +10695,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "GAP",
-        "id": "9b0bae6a-bcfa-4ede-b051-5a10f5950b10",
-        "title": "Rotational Management Program - Rotational Management Program - Trainee",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1767832487,
-        "date_posted": 1767832487,
-        "url": "https://gapinc.wd1.myworkdayjobs.com/GAPINC/job/SF---2-Folsom/XMLNAME-2026-Rotational-Management-Program--RMP--Trainee_R205457",
-        "locations": [
-            "NYC",
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/GAP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "British Columbia Investment",
         "id": "efcf2bcd-b5e8-4c93-a2db-7d560e17f645",
@@ -70395,7 +70371,7 @@
         "company_name": "Amazon",
         "id": "8cfec360-0de7-4099-97df-66400369c836",
         "title": "Software Development Engineer Intern - Military Veteran",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
