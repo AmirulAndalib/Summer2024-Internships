@@ -6,7 +6,7 @@
 
 ---
 
-### Browse 673 Inactive Internship Roles by Category
+### Browse 672 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (225)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (121)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (96)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (95)
 
 ---
 
@@ -2237,13 +2237,6 @@
 <td>12d</td>
 </tr>
 <tr>
-<td>↳</td>
-<td>Data Engineering Intern</td>
-<td>Pittsburgh, PA<br>Hermitage, PA</td>
-<td>🔒</td>
-<td>12d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
 <td>Data Scientist Intern - University - Summer Games</td>
 <td>Fort Walton Beach, FL</td>
@@ -2821,6 +2814,13 @@
 <td><strong><a href="https://simplify.jobs/c/Royal-Bank-Of-Canada?utm_source=GHList&utm_medium=company">Royal Bank of Canada</a></strong></td>
 <td>Financial Crimes Quality Assurance Intern - Grm</td>
 <td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/KeyBank?utm_source=GHList&utm_medium=company">KeyBank</a></strong></td>
+<td>Data Intern - Key Technology & Services - Data Track</td>
+<td>Brooklyn, OH</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>
@@ -4242,13 +4242,6 @@
 <td><strong><a href="https://simplify.jobs/c/Entergy?utm_source=GHList&utm_medium=company">Entergy</a></strong></td>
 <td>Engineering Intern</td>
 <td>New Orleans, LA</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Functional Validation Intern - BS</td>
-<td>Santa Clara, CA<br>Boise, ID<br>Westborough, MA</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
