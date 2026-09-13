@@ -302948,7 +302948,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340383,7 +340383,7 @@
         "company_name": "First National Bank",
         "id": "680cb3c9-354c-4f44-9cff-8c903de42749",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362904,7 +362904,7 @@
         "company_name": "Marvell",
         "id": "e2983544-b2c7-4646-833d-b960d39cf290",
         "title": "Functional Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
