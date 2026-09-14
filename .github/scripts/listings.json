@@ -1,77 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "2909b23b-d049-4f31-9d5e-a71faacba4af",
-        "title": "2026 Intern - Computer Vision & ML - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768692260,
-        "date_posted": 1768692260,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8375384002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "c725d1b8-507f-448c-a81f-9c9d88a220fc",
-        "title": "2026 Intern - Agentic Browser Research Engineer - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768692266,
-        "date_posted": 1768692266,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8375569002",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Howmet Aerospace",
-        "id": "c453dda1-b373-42f1-b297-a5b34b805882",
-        "title": "Intern \u2013 Manufacturing Data Analyst - Whitehall - MI",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768691999,
-        "date_posted": 1768691999,
-        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115794",
-        "locations": [
-            "Muskegon, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "CLEAR",
         "id": "bba9c92d-cd80-4c5e-9319-2b2011974912",
@@ -96,29 +25,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Howmet Aerospace",
-        "id": "515447c5-9290-42f9-863b-a0d066c5e64d",
-        "title": "Product Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768691999,
-        "date_posted": 1768691999,
-        "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115776",
-        "locations": [
-            "Muskegon, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Howmet-Aerospace",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "CLEAR",
         "id": "0a4abbe0-ce60-46e7-afad-2b204215c28f",
@@ -139,29 +45,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Samsung Research America",
-        "id": "9ace5224-1908-4542-9515-5021df35a5ac",
-        "title": "Intern - Next-Gen Connectivity & Sensing Research",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768692254,
-        "date_posted": 1768692254,
-        "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8371416002",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Samsung-Research-America",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -337345,7 +337228,7 @@
         "company_name": "Parsons",
         "id": "a650b477-b0c4-4942-aa54-376017f3b6ef",
         "title": "Software Developer Intern - Fall 2026/Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -348105,7 +347988,7 @@
         "company_name": "Humanscale",
         "id": "9dce9636-d150-41d2-a291-c8259224c6e0",
         "title": "Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -357540,7 +357423,7 @@
         "company_name": "TripleRing",
         "id": "49123f42-29f8-4419-a712-42d5a9d05153",
         "title": "AI & People Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387157,7 +387040,7 @@
         "company_name": "Intel",
         "id": "46ac3778-73cf-49bb-b5b6-0a6209094b11",
         "title": "System Technology Research Engineer Intern - Foundry System Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
