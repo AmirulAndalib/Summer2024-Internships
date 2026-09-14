@@ -263710,7 +263710,7 @@
         "company_name": "Cloudflare",
         "id": "7d28754d-98f1-4b89-a78e-ecb4f103ce8b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314172,7 +314172,7 @@
         "company_name": "Bank of Montreal",
         "id": "7a9e914a-d298-4478-aded-ec4ee244be9b",
         "title": "Client Enablement Analyst Co-op Intern - Client Onboarding",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
