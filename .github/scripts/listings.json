@@ -318543,7 +318543,7 @@
         "company_name": "Bank of Montreal",
         "id": "d69b4378-d3d7-4270-8839-244fb787224d",
         "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -333497,7 +333497,7 @@
         "company_name": "Magna",
         "id": "aa975266-5fe4-4030-a4d9-2b7f6ba7f717",
         "title": "ADAS Feature Owner Intern - Systems Organization",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -337532,7 +337532,7 @@
         "company_name": "L3Harris Technologies",
         "id": "556a9f83-e9ef-4df2-af50-03818c084d87",
         "title": "Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -347007,7 +347007,7 @@
         "company_name": "BP",
         "id": "d1d0ddff-40b7-4db7-889a-74c91d882b09",
         "title": "Reservoir Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -360746,7 +360746,7 @@
         "company_name": "Marvell",
         "id": "ce92705c-8ef8-41b9-b977-84b925ad7137",
         "title": "Analog Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382453,7 +382453,7 @@
         "company_name": "RTX",
         "id": "d33add69-247a-45fe-877c-f6ba4d421782",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
