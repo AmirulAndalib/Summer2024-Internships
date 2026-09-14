@@ -305037,7 +305037,7 @@
         "company_name": "Space Dynamics Laboratory",
         "id": "9402b8bf-beb0-4608-8f7a-2ffde99dd0b2",
         "title": "Web Developer Assistant - Enterprise Application Support",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -310827,7 +310827,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "73b10260-156f-459b-b9f2-25385571ae99",
         "title": "Data Enablement Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374619,7 +374619,7 @@
         "company_name": "Barclays",
         "id": "e3d70ac5-dc1d-4c06-b733-8c76af99ef70",
         "title": "Technology Developer Apprentice",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387768,6 +387768,121 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "85d55295-0c76-4133-880c-055ce402b526",
+        "title": "Technology Intern - Multiple Teams",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789399424,
+        "date_posted": 1789344000,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-TN-Nashville/Technology-Intern---Nashville--TN--Summer-2027-_R39670",
+        "locations": [
+            "Nashville, TN"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Ciena",
+        "id": "7489238c-eadd-441d-adff-be9ecbdbd927",
+        "title": "Software Engineering Intern - Optical Transport and IP Networking",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789399402,
+        "date_posted": 1789344000,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Ottawa/Software-Engineering--Optical-Transport-and-IP-Networking-Intern_R031631",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "5e63a9e0-387b-437d-983c-017171f32eea",
+        "title": "Technology Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789399415,
+        "date_posted": 1789344000,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Richmond---CoStar-Tower/Technology-Intern---Richmond--VA--Summer-2027-_R39665",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CoStar Group",
+        "id": "54109f9e-2999-4211-9273-b6d34bc06e25",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789399420,
+        "date_posted": 1789344000,
+        "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Technology-Intern---Arlington--VA--Summer-2027-_R39666",
+        "locations": [
+            "Arlington County, Arlington, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CoStar",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Ameriprise Financial",
+        "id": "cdc90c92-a2b4-4524-be49-4c6676c48819",
+        "title": "Quantitative Investment Research Co-op - Equities",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789398361,
+        "date_posted": 1789344000,
+        "url": "https://ameriprise.wd5.myworkdayjobs.com/en-US/Ameriprise/job/Boston-Massachusetts/Quantitative-Investment-Research-Co-op--Equities-_R26_3532",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ameriprise-Financial",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
