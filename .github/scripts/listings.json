@@ -257415,7 +257415,7 @@
         "company_name": "Figure",
         "id": "84fa7902-5663-4610-8dbc-b43afd8c2691",
         "title": "Special Projects Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -257486,7 +257486,7 @@
         "company_name": "Hitachi",
         "id": "3274d779-e985-4d1a-a236-73e8fe32e66e",
         "title": "Software Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
@@ -265383,7 +265383,7 @@
         "company_name": "CuspAI",
         "id": "6b1b10ea-f6d5-4ef2-893e-11b5c623b352",
         "title": "Chemistry Intern - MLFF Distillation & GCMC Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -310934,7 +310934,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "150b6524-0509-433a-9344-1826d854cb92",
         "title": "Data Enablement Co-op - Data Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -342030,7 +342030,7 @@
         "company_name": "Cadence Design Systems",
         "id": "042166fa-4bd3-4f32-9bf6-42ef5943b1b9",
         "title": "Software Engineering Graduate Student Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354059,7 +354059,7 @@
         "company_name": "University of Virginia",
         "id": "1b00d603-1ed3-41f2-975a-fd9493bff34a",
         "title": "Health Sciences Library Text and Data Mining Assistant - Student Wage",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -390379,5 +390379,192 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "b3f0d1e5-bb8a-45fb-b329-f6f07432e449",
+        "title": "Weapon Systems Algorithms Engineer - Undergraduate Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Weapon-Systems-Algorithms-Engineer---Undergraduate-Placement-2027_R37726",
+        "locations": [
+            "Bristol, UK",
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "aa3c83d6-07d6-42b6-8f0d-a6922438b781",
+        "title": "Software Engineer - Undergraduate Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Undergraduate-Placement-2027_R37757",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "8c99415f-da68-4a3b-b2eb-ba83bc24e6dc",
+        "title": "Weapon System Simulation & Experimentation Engineer - Undergraduate Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Weapon-System-Simulation---Experimentation-Engineer---Undergraduate-Placement-2027_R37568",
+        "locations": [
+            "Bristol, UK",
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "4cf5c067-5cdb-4a42-9c07-f638e8cc4280",
+        "title": "Simulation and Modelling Engineer - Undergraduate Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Simulation-and-Modelling-Engineer---Undergraduate-Placement-2027_R38688",
+        "locations": [
+            "Bristol, UK",
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "MBDA",
+        "id": "12c894f9-f011-4d9e-8c47-838bcff731b5",
+        "title": "Computer Vision and Artificial Intelligence Engineer - Image Processing UK",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Computer-Vision-and-Artificial-Intelligence-Engineer---Summer-Placement-2027_R37483",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "ee68f394-118f-46e4-9fde-768b0ab09b67",
+        "title": "Software Engineer - Undergraduate Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Bristol/Software-Engineer---Undergraduate-Placement-2027_R37445",
+        "locations": [
+            "Bristol, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "MBDA",
+        "id": "210ce965-2ae0-4579-95fb-109ef15fa831",
+        "title": "Electronics Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Electronics-Engineer---Undergraduate-Placement-2027_R38678",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "MBDA",
+        "id": "5088fa08-1fde-498a-b509-50c003c17fa5",
+        "title": "Software Engineer",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789417981,
+        "date_posted": 1789344000,
+        "url": "https://mbda.wd3.myworkdayjobs.com/MBDA-UK/job/Stevenage/Software-Engineer---Summer-Placement-2027_R37759",
+        "locations": [
+            "Stevenage, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/MBDA",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
