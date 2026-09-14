@@ -318542,7 +318542,7 @@
         "company_name": "Bank of Montreal",
         "id": "97e495f1-2aae-4889-95a9-4b382506f276",
         "title": "Full Stack Engineer Intern Co-op - Data Cognition Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -370733,7 +370733,7 @@
         "company_name": "Interstates",
         "id": "a7affbd0-b700-4e3d-9af7-9bfcd32733a3",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
