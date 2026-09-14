@@ -1,53 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Boomi",
-        "id": "c6662ecf-d1c5-4f3c-a54f-a9815623535a",
-        "title": "Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768617338,
-        "date_posted": 1768617338,
-        "url": "https://boomi.com/boomi-jobs/?gh_jid=5764486004",
-        "locations": [
-            "Vancouver, BC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/609a3e94-5f2d-4faf-9efe-4746e842847b",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "10x Genomics",
-        "id": "ba3e7d87-3a4d-4a5f-bd4c-441131259650",
-        "title": "Intern \u2013 Instrument Hardware Engineering",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768617692,
-        "date_posted": 1768617692,
-        "url": "https://boards.greenhouse.io/10xgenomics/jobs/7525613",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/10x-Genomics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "City of Charlotte",
         "id": "36178f9a-083a-4e1a-b8c8-a0e478b3bde5",
@@ -368464,7 +368417,7 @@
         "company_name": "Apple",
         "id": "42e3297d-6260-4ddf-8992-9569b9a93db0",
         "title": "Design Verification Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
