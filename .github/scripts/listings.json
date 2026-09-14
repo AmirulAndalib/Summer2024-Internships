@@ -387884,5 +387884,75 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "AWE",
+        "id": "4daa1657-29ca-4573-a285-fd3c5bd338d4",
+        "title": "Computer Scientist Intern",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789402720,
+        "date_posted": 1789344000,
+        "url": "https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Reading-area/Year-in-Industry--Computer-Scientist_R30358",
+        "locations": [
+            "Aldermaston, Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AWE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "AWE",
+        "id": "37fad2a5-9f35-4f89-bc19-de6eadc464b7",
+        "title": "Data Scientist - Nuclear Threat Reduction",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789402714,
+        "date_posted": 1789344000,
+        "url": "https://awepeople.wd3.myworkdayjobs.com/Grad_Careers/job/Reading-area/Year-in-Industry--Data-Scientist_R30359",
+        "locations": [
+            "Aldermaston, Reading, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/AWE",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waymo",
+        "id": "1cc5a15c-471f-4ae7-8c32-bbed52f939f6",
+        "title": "Software Engineer Intern - BS/MS",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789402725,
+        "date_posted": 1789402528,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8193731",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
