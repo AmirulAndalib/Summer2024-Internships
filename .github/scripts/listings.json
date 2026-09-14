@@ -95108,7 +95108,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -300844,7 +300844,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337509,7 +337509,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5f51df85-f362-425b-811e-958c07266b8e",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -375885,7 +375885,7 @@
         "company_name": "RTX",
         "id": "477443e5-44fe-40b9-a621-9daa78a67a6a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
