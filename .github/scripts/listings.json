@@ -357375,7 +357375,7 @@
         "company_name": "Lumentum",
         "id": "9e533073-d6ca-479b-8d39-67504c94fea4",
         "title": "Reliability Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378726,7 +378726,7 @@
         "company_name": "Intel",
         "id": "708f11f6-e04e-4613-ab59-fb51bde3e253",
         "title": "AI Software Engineer Intern - Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
