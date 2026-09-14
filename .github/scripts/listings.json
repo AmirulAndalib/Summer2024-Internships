@@ -332611,7 +332611,7 @@
         "company_name": "Sierra",
         "id": "c16692b7-a8c0-4f9a-bbd6-6c08c1947ae6",
         "title": "Agent Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341316,7 +341316,7 @@
         "company_name": "North Atlantic Industries",
         "id": "ecd18833-b99e-4340-9bf0-35ed5048a44c",
         "title": "Electrical Engineer Intern - Test Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -369060,7 +369060,7 @@
         "company_name": "RTX",
         "id": "c57e2c6f-2938-4b78-bfba-117161231118",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -387953,6 +387953,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "FNBO",
+        "id": "ef6779b9-6706-4217-8b3a-09ef98f4faf4",
+        "title": "Technology Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789406346,
+        "date_posted": 1789344000,
+        "url": "https://firstnational.wd12.myworkdayjobs.com/fnbocareers/job/Omaha---FN-Tower/Summer-2027---Technology-Intern_R-20261653",
+        "locations": [
+            "Omaha, NE"
+        ],
+        "company_url": "https://simplify.jobs/c/FNBO",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
