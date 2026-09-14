@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "City of Charlotte",
-        "id": "36178f9a-083a-4e1a-b8c8-a0e478b3bde5",
-        "title": "4 Yr Undergrad Intern 1 - Emergency Management",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1768633924,
-        "date_posted": 1768633924,
-        "url": "https://charlottenc.wd12.myworkdayjobs.com/citgov/job/CLT-Center/XMLNAME-4-Yr-Undergrad-Intern-I---Emergency-Management_JR103078-1",
-        "locations": [
-            "Charlotte, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/City-Of-Charlotte",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Samsung Research America",
         "id": "2909b23b-d049-4f31-9d5e-a71faacba4af",
         "title": "2026 Intern - Computer Vision & ML - Summer",
@@ -325965,7 +325942,7 @@
         "company_name": "Johnson & Johnson",
         "id": "410fe293-036e-43d5-afdd-1139c15645f6",
         "title": "Quality Data Science Co-op - MD Q&C Digital Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
