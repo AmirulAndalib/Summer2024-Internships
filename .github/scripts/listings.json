@@ -305879,7 +305879,7 @@
         "company_name": "Microsoft",
         "id": "1b2916de-7e46-4f2e-b790-241b1fd38a82",
         "title": "AI for Science Resident - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -337532,7 +337532,7 @@
         "company_name": "L3Harris Technologies",
         "id": "556a9f83-e9ef-4df2-af50-03818c084d87",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -347007,7 +347007,7 @@
         "company_name": "BP",
         "id": "d1d0ddff-40b7-4db7-889a-74c91d882b09",
         "title": "Reservoir Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352711,7 +352711,7 @@
         "company_name": "TikTok",
         "id": "beacf34f-a20f-4c68-b975-4d59ef73cdb6",
         "title": "Applied Scientist Intern - Monetization GenAI - Global Frontier Tech Recruitment Program - 2027 Start - PhD",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -357352,7 +357352,7 @@
         "company_name": "Xcel Energy",
         "id": "d5fbb53e-5766-47f2-b39c-157d7184a35a",
         "title": "Corporate Impact Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360376,7 +360376,7 @@
         "company_name": "Kinaxis",
         "id": "d5e526d4-218c-453d-99d1-8fc6b59a6f06",
         "title": "Software Developer Co-op/Intern - Core Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -360643,7 +360643,7 @@
         "company_name": "Marvell",
         "id": "aeaa549f-9971-4a44-87a4-e897549cde00",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373845,7 +373845,7 @@
         "company_name": "Ovintiv",
         "id": "aefb70e4-21a0-4269-b8c0-5a30ccdfa355",
         "title": "Technology Intern - Data & Digital",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382453,7 +382453,7 @@
         "company_name": "RTX",
         "id": "d33add69-247a-45fe-877c-f6ba4d421782",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
