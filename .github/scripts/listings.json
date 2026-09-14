@@ -177449,7 +177449,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -305617,7 +305617,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337463,7 +337463,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5cdccc6d-3f48-476f-a0e7-576b4158a76b",
         "title": "Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -344601,7 +344601,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
