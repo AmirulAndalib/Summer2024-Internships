@@ -277647,7 +277647,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -310785,7 +310785,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "feab6170-0da2-4e27-b0ab-3fd9be40aef4",
         "title": "Data Enablement Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324104,7 +324104,7 @@
         "company_name": "Charles Schwab",
         "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375337,7 +375337,7 @@
         "company_name": "Smartly.io",
         "id": "0eae67de-ac0c-4f09-9e18-f53a762ea7e7",
         "title": "Business Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
