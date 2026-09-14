@@ -260340,7 +260340,7 @@
         "company_name": "Xsolla",
         "id": "cbc90c52-de35-4d7b-b7f2-bc0a30bb1d72",
         "title": "AI-First Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280338,7 +280338,7 @@
         "company_name": "Gumloop",
         "id": "ccd36192-6d5e-4378-901a-27d267a0c497",
         "title": "Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304325,7 +304325,7 @@
         "company_name": "Cole Engineering Services",
         "id": "7362efe9-2c7f-47d3-813c-cf6ae32377c0",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -388891,6 +388891,30 @@
             "Denver, CO"
         ],
         "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Constellation Energy",
+        "id": "fe0f0f3d-3ecc-46df-85f6-1122898c33f5",
+        "title": "PMO/Data Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789413723,
+        "date_posted": 1789413578,
+        "url": "https://jobs.constellationenergy.com/jobs/138735?icims=1",
+        "locations": [
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/Constellation-Energy",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
