@@ -194748,7 +194748,7 @@
         "company_name": "TikTok",
         "id": "ab243f13-7a16-4917-8e5c-23226aa7ad38",
         "title": "Product Manager Project Intern - Ads Interface and Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -305617,7 +305617,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314195,7 +314195,7 @@
         "company_name": "Bank of Montreal",
         "id": "b1a20c98-1a97-499e-b84e-8ba51e557640",
         "title": "Client Enablement Analyst Co-op Intern - Client Onboarding",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -337463,7 +337463,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5cdccc6d-3f48-476f-a0e7-576b4158a76b",
         "title": "Application Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -341131,7 +341131,7 @@
         "company_name": "RTX",
         "id": "d49edaed-a9b3-4cd6-84d0-0c0cccecba31",
         "title": "Spectrum Dominance Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344601,7 +344601,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -363250,7 +363250,7 @@
         "company_name": "Airbus",
         "id": "20329b11-456e-477a-84a1-caec288ed8fe",
         "title": "Optical and Satellite Communications Software Engineering Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -386695,5 +386695,26 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Sika",
+        "id": "7fd35988-e3ee-43a5-89c4-7a80a5730d35",
+        "title": "Product Management Apprentice",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789376761,
+        "date_posted": 1789376656,
+        "url": "https://jobs.smartrecruiters.com/SikaAG/744000149271019",
+        "locations": [
+            "Welwyn Garden City, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Sika",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
