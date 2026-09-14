@@ -292346,7 +292346,7 @@
         "company_name": "Sun Life",
         "id": "765f9438-c57a-4035-9229-8b41b835beeb",
         "title": "Digital Analytics Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -337509,7 +337509,7 @@
         "company_name": "L3Harris Technologies",
         "id": "5f51df85-f362-425b-811e-958c07266b8e",
         "title": "Application Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -337951,7 +337951,7 @@
         "company_name": "Ingredion",
         "id": "c2e6377c-2c49-47ed-a0e6-12520a2d17a4",
         "title": "Digital Innovation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375885,7 +375885,7 @@
         "company_name": "RTX",
         "id": "477443e5-44fe-40b9-a621-9daa78a67a6a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
