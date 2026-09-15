@@ -2,108 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Farmers Insurance",
-        "id": "45764e1c-a66c-40a8-86bb-7f58e87861da",
-        "title": "Analytics Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768778330,
-        "date_posted": 1768778330,
-        "url": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Analytics-Engineer-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481257/?ats=successfactors",
-        "locations": [
-            "Middleville, MI",
-            "Canoga Park, LA",
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Farmers-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "ConnectPrep",
-        "id": "33c0c71f-fc82-450a-a66d-66ea9f904583",
-        "title": "Data Analyst Internship",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768778229,
-        "date_posted": 1768778229,
-        "url": "https://apply.workable.com/connectprep/j/E7A5D4602F/apply",
-        "locations": [
-            "Remote in USA",
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/ConnectPrep",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Farmers Insurance",
-        "id": "8bdaa052-1ea6-49ea-bf5c-5125859418d6",
-        "title": "Data Scientist Summer Internship: Woodland Hills - CA/ Hartford - CT/ Caledonia",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768777701,
-        "date_posted": 1768777701,
-        "url": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Data-Scientist-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481457/?ats=successfactors",
-        "locations": [
-            "Middleville, MI",
-            "Canoga Park, LA",
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Farmers-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Farmers Insurance",
-        "id": "4995c817-ce72-4809-8253-5daf9257e117",
-        "title": "Decision Science Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768777691,
-        "date_posted": 1768777691,
-        "url": "https://jobs.farmersinsurance.com/job/Woodland-Hills-Decision-Science-Summer-Internship-Woodland-Hills,-CA-Hartford,-CT-Caledonia,-MI-CA-91367/1350481557/?ats=successfactors",
-        "locations": [
-            "Middleville, MI",
-            "Canoga Park, LA",
-            "Hartford, CT"
-        ],
-        "company_url": "https://simplify.jobs/c/Farmers-Insurance",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "SF Giants",
         "id": "ffe2b29d-b26f-4f1d-aa5b-f3e026056b73",
         "title": "Player Development Associate - San Jose",
@@ -392710,7 +392608,7 @@
         "company_name": "CAI",
         "id": "593f743d-dbf9-4e74-97a9-3e11236aaddd",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397081,6 +396979,317 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lunar Outpost",
+        "id": "ebbd5ceb-60c1-4b21-a374-b64d339e494a",
+        "title": "Electrical Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513393,
+        "date_posted": 1789510942,
+        "url": "https://lunaroutpost.bamboohr.com/careers/396/",
+        "locations": [
+            "Golden, CO"
+        ],
+        "company_url": "https://simplify.jobs/c/Lunar-Outpost",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Elire",
+        "id": "cb134c63-620d-4f0e-966c-ae3c7a03d34b",
+        "title": "AI Data Science Consulting Intern - Knowledge Graphs & Enterprise Data",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513402,
+        "date_posted": 1789510908,
+        "url": "https://jobs.jobvite.com/elire/job/oppLAfwT?nl=1&nl=1&fr=false",
+        "locations": [
+            "Remote in USA",
+            "Minneapolis, MN"
+        ],
+        "company_url": "https://simplify.jobs/c/Elire",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Duolingo",
+        "id": "99b19d5b-03dd-438a-91db-fbb3b10e7201",
+        "title": "Software Engineer Intern - Thrive",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513401,
+        "date_posted": 1789511923,
+        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806115002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Duolingo",
+        "id": "8a9edd16-81d0-4406-9c23-6a35909b252b",
+        "title": "Associate Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Spring 2028",
+            "Summer 2028"
+        ],
+        "date_updated": 1789513334,
+        "date_posted": 1789511923,
+        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806188002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Duolingo",
+        "id": "32b50162-20ab-42eb-9e0c-dcff21dd5c0c",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513352,
+        "date_posted": 1789511923,
+        "url": "https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002",
+        "locations": [
+            "Seattle, WA",
+            "Pittsburgh, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Duolingo",
+        "id": "9a01359d-4d56-45ec-a90a-9d2f1d40cf52",
+        "title": "Software Engineer Intern - Thrive",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513340,
+        "date_posted": 1789511923,
+        "url": "https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Duolingo",
+        "id": "54d89b96-1ff8-49ce-99e9-b03c8d093745",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513352,
+        "date_posted": 1789511923,
+        "url": "https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8806878002",
+        "locations": [
+            "Seattle, WA",
+            "Pittsburgh, PA",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Duolingo",
+        "id": "08cdf3fe-97c4-4894-9e77-fbd621e25b37",
+        "title": "Associate Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789513341,
+        "date_posted": 1789511923,
+        "url": "https://careers.duolingo.com/jobs/8806187002?gh_jid=8806187002",
+        "locations": [
+            "Pittsburgh, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Duolingo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Johnson & Johnson",
+        "id": "4c2e5fe2-a3e6-4d00-ac53-11343dc121dc",
+        "title": "Software Engineer Intern - Robotics R&D",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513295,
+        "date_posted": 1789430400,
+        "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919",
+        "locations": [
+            "Santa Clara, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Johnson-Johnson",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Q2",
+        "id": "da019f62-73d5-4a2c-8601-9b62b96f300c",
+        "title": "Data Science Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513233,
+        "date_posted": 1789430400,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "PanAgora",
+        "id": "786e5888-9047-438b-85dc-1303c4399ae9",
+        "title": "Equity Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789513223,
+        "date_posted": 1789430400,
+        "url": "https://empower.wd12.myworkdayjobs.com/PanAgora/job/MA-Boston---PanAgora/Intern--Equity_R0062387",
+        "locations": [
+            "Boston, MA"
+        ],
+        "company_url": "https://simplify.jobs/c/PanAgora",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Q2",
+        "id": "4746059c-ea14-45da-b685-80d31e68d2e2",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513231,
+        "date_posted": 1789430400,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Q2",
+        "id": "40089e3d-a032-4dd1-845c-110e7d0a7481",
+        "title": "Machine Learning Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789513228,
+        "date_posted": 1789430400,
+        "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Q2Software",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
