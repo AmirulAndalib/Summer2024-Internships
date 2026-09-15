@@ -310385,7 +310385,7 @@
         "company_name": "Fullbay",
         "id": "e4dd1ece-36bc-4785-88a7-beb7bdfb4414",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320146,7 +320146,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8ec2e0cc-9193-4d77-9021-5dd3029b637c",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
