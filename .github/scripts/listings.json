@@ -94897,7 +94897,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -179723,7 +179723,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -305330,7 +305330,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -344390,7 +344390,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -361949,7 +361949,7 @@
         "company_name": "Procter & Gamble",
         "id": "f991871e-3a03-45a8-bed8-6e0038e44af8",
         "title": "Analytics & Insights Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384718,7 +384718,7 @@
         "company_name": "Amgen",
         "id": "27460c05-e022-499c-bcc8-2783559d2639",
         "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389963,7 +389963,7 @@
         "company_name": "Marvell",
         "id": "f71cdae9-a282-43a7-a49d-7feca7c1b638",
         "title": "Architecture Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391907,7 +391907,7 @@
         "company_name": "Oshkosh",
         "id": "66842e6a-844a-444e-b6f7-7c6403506740",
         "title": "Advanced Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
