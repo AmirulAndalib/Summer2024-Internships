@@ -311533,7 +311533,7 @@
         "company_name": "Nomagic",
         "id": "6524ae1b-a5e8-4aa8-a413-98634f2b6a88",
         "title": "Engineering Intern - Software or Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -366990,7 +366990,7 @@
         "company_name": "Cambium Learning Group",
         "id": "ef148661-b9bb-4a68-a999-a27e6e8e2548",
         "title": "Software Engineer Intern - AI Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
