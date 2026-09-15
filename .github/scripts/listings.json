@@ -377167,7 +377167,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0230969e-43d6-46a0-8862-d4e08b788466",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388054,7 +388054,7 @@
         "company_name": "Reply",
         "id": "051dc2ee-b589-458a-8343-b0be78f0bc1d",
         "title": "AI/Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
