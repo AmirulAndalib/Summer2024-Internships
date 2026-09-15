@@ -219399,7 +219399,7 @@
         "company_name": "BorgWarner",
         "id": "a5e9c092-6cda-482a-967c-6c02b15a0fbd",
         "title": "Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -371498,7 +371498,7 @@
         "company_name": "Reflect Orbital",
         "id": "65d01a2b-3547-4a04-96ea-c5cc8fac13be",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
