@@ -253321,7 +253321,7 @@
         "company_name": "Cloudflare",
         "id": "a7ef9f52-96c8-4e0d-8788-af7650bc8e9b",
         "title": "Systems Engineer \u2013 Data Residency Intern - Global Resource Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -311281,7 +311281,7 @@
         "company_name": "Springs Window Fashions",
         "id": "fb4c05e4-dae7-48e3-b6d3-5e670ed8556d",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333949,7 +333949,7 @@
         "company_name": "United Airlines",
         "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
         "title": "Research Scholar Intern - Statistics",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -336195,7 +336195,7 @@
         "company_name": "United Airlines",
         "id": "b2910d1a-df08-4c5a-9ad6-88cf9a60ff6f",
         "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360560,7 +360560,7 @@
         "company_name": "Marvell",
         "id": "b187c223-0bc3-4f82-9be4-30a9212be7b4",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -360638,7 +360638,7 @@
         "company_name": "Marvell",
         "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
         "title": "Functional Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370662,7 +370662,7 @@
         "company_name": "General Motors",
         "id": "10dda9a8-fdca-4b2e-abf9-94844492a2ab",
         "title": "Global Customer Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381840,7 +381840,7 @@
         "company_name": "Citizens Financial Group",
         "id": "f80eca44-d898-4e0d-8399-e64e67e9e67d",
         "title": "Data Science Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382266,7 +382266,7 @@
         "company_name": "RTX",
         "id": "b0fd8336-e667-4187-901e-5e7d96cbd6bf",
         "title": "Manufacturing & Quality Analyst Intern - Stage 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -382360,7 +382360,7 @@
         "company_name": "Moog",
         "id": "47ede39b-99d8-4812-a001-6148ff88ca5d",
         "title": "Embedded Design Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382959,7 +382959,7 @@
         "company_name": "Fidelity Investments",
         "id": "440d6c3d-f1e6-4dcf-a975-bbe2cbe8aebf",
         "title": "Quantitative Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385339,7 +385339,7 @@
         "company_name": "Cozey",
         "id": "d7f0c23e-9959-43e2-8078-887a76fc2142",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -386629,7 +386629,7 @@
         "company_name": "URBN",
         "id": "f90f94d5-786f-4736-b98d-933eaa6987ef",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386827,7 +386827,7 @@
         "company_name": "Principal Financial Group",
         "id": "f6b42284-9795-4e37-9fa2-435b51880db7",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393155,5 +393155,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Autostore",
+        "id": "d81bc1c9-aee7-4814-8ab8-598008962e65",
+        "title": "Electronics Engineering Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789469874,
+        "date_posted": 1789257600,
+        "url": "https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Electronics-Engineering_JR102695",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Autostore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
