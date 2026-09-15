@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 679 Inactive Internship Roles by Category
+### Browse 680 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (225)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (33)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (203)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (204)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (121)
 
@@ -540,7 +540,7 @@
 <td>Software Engineering Intern - Technology</td>
 <td><details><summary><strong>6 locations</strong></summary>Austin, TX<br>Westlake, TX<br>Ann Arbor, MI<br>Southlake, TX<br>Omaha, NE<br>Phoenix, AZ</details></td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
@@ -2374,7 +2374,7 @@
 <td>Data Engineering Intern - Data Engineering</td>
 <td>Austin, TX<br>Westlake, TX<br>Southlake, TX</td>
 <td>🔒</td>
-<td>16d</td>
+<td>17d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CSX?utm_source=GHList&utm_medium=company">CSX</a></strong></td>
@@ -2457,6 +2457,13 @@
 <td><strong><a href="https://simplify.jobs/c/Marsh?utm_source=GHList&utm_medium=company">Marsh</a></strong></td>
 <td>Summer Analyst Intern - Data and Analytics</td>
 <td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>19d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>Data Engineering & Analytics Intern</td>
+<td>Shiloh, IL</td>
 <td>🔒</td>
 <td>19d</td>
 </tr>
