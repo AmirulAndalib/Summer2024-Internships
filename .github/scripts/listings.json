@@ -322044,7 +322044,7 @@
         "company_name": "Leidos",
         "id": "13c82543-49b6-4293-ac18-052fd0889c76",
         "title": "Data Engineering & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390194,7 +390194,7 @@
         "company_name": "BDO Canada",
         "id": "49121f69-8abd-4bf4-a1f0-3e903d810e64",
         "title": "Data & Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
