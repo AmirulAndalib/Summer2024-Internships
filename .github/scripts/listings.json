@@ -290471,7 +290471,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "2115234d-be28-4c20-b435-cbb15464dda9",
         "title": "Global Markets Quantitative Trading Summer Analyst - Capital Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321474,7 +321474,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -327788,7 +327788,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -361484,7 +361484,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364474,7 +364474,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -370662,7 +370662,7 @@
         "company_name": "General Motors",
         "id": "10dda9a8-fdca-4b2e-abf9-94844492a2ab",
         "title": "Global Customer Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373354,7 +373354,7 @@
         "company_name": "OneMain Financial",
         "id": "8d2eadc8-f9a1-417b-b0cd-2e84e5602521",
         "title": "Software Developer Intern - Document Shared Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380299,7 +380299,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391340,7 +391340,7 @@
         "company_name": "General Motors",
         "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
         "title": "Summer Intern - Performance Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391389,7 +391389,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391436,7 +391436,7 @@
         "company_name": "General Motors",
         "id": "c7669059-c3a1-48a3-b160-4cd69bf4882f",
         "title": "Motorsports Strategy Intern - Sportscar Motorsports Strategy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393901,6 +393901,168 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Five Rings Capital",
+        "id": "501aa792-9adc-45ac-b213-6e5af6627213",
+        "title": "Trading Operations Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789482892,
+        "date_posted": 1789482592,
+        "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5420708008",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Five-Rings",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Ekimetrics",
+        "id": "f9edd21f-f918-4ee8-a483-6533c49d8901",
+        "title": "Data Science & Marketing Effectiveness Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789482961,
+        "date_posted": 1789482065,
+        "url": "https://jobs.lever.co/ekimetrics/8df1a768-c6b0-4082-9c41-b3171c0fb548/apply",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Ekimetrics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Micron Technology",
+        "id": "732402ac-f881-41b0-ba07-73a97342ee5f",
+        "title": "Design Engineer Intern - HBM",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789482628,
+        "date_posted": 1789430400,
+        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Richardson-TX/Intern---Design-Engineer--HBM_JR110452",
+        "locations": [
+            "Richardson, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Micron-Technology",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intelcom | Dragonfly",
+        "id": "1d4cc953-544e-4872-9740-94020ef03904",
+        "title": "Back-end Developer Intern - Mobile Application",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789482421,
+        "date_posted": 1789430400,
+        "url": "https://intelcomgroup.wd3.myworkdayjobs.com/Intelcom/job/Canada-Quebec-Montreal/Back-end-Developer-Intern---Mobile-Application_JR111747",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intelcom-Dragonfly",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Nokia",
+        "id": "d94c84cc-d47a-4059-ba2f-57d2caabe29d",
+        "title": "Hardware Engineer Co-op Intern - IP Routing",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789482583,
+        "date_posted": 1789481922,
+        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39600",
+        "locations": [
+            "Ottawa, ON, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Nokia",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "8c988a2d-c958-4ab4-bca3-72276613b164",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789482578,
+        "date_posted": 1789430400,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "General Dynamics Information Technology",
+        "id": "2e987576-4a69-4fdb-8af3-9fabc32055c8",
+        "title": "Software Development Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789482582,
+        "date_posted": 1789430400,
+        "url": "https://gdit.wd5.myworkdayjobs.com/external_career_site/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405",
+        "locations": [
+            "Falls Church, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/GDIT",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
