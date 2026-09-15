@@ -284492,7 +284492,7 @@
         "company_name": "Microchip Technology",
         "id": "b42f1692-5275-4f0e-8d12-d63ea6464341",
         "title": "Engineering Intern - Software Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354312,7 +354312,7 @@
         "company_name": "RTX",
         "id": "7fb6b9a8-1a76-446c-992a-bd6c708a533a",
         "title": "Electrical Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
