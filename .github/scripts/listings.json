@@ -1,54 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "CLEAR",
-        "id": "bba9c92d-cd80-4c5e-9319-2b2011974912",
-        "title": "Product Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768693494,
-        "date_posted": 1768693494,
-        "url": "https://job-boards.greenhouse.io/clear/jobs/7545261",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CLEAR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "CLEAR",
-        "id": "0a4abbe0-ce60-46e7-afad-2b204215c28f",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768693497,
-        "date_posted": 1768693497,
-        "url": "https://job-boards.greenhouse.io/clear/jobs/7546221",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/CLEAR",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Abnormal Security",
         "id": "f0af330c-b2d8-4bc5-be0f-969d016719a9",
@@ -297542,7 +297494,7 @@
         "company_name": "Urban Science",
         "id": "bde0a523-c49d-4b1f-a46c-f2ff167b4f02",
         "title": "Data Driven Analysis Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -346471,7 +346423,7 @@
         "company_name": "University of Texas at Austin",
         "id": "f495845a-de46-490c-822f-ffecd73cc3bd",
         "title": "Graduate Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
