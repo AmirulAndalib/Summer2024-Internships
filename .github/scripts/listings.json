@@ -321520,7 +321520,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -346727,7 +346727,7 @@
         "company_name": "Philips",
         "id": "bfe0c2ae-dc39-4beb-8df2-b553f4303194",
         "title": "Robotics Mechatronics Co-op - Surgical Robotics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
