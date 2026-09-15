@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Abnormal Security",
-        "id": "f0af330c-b2d8-4bc5-be0f-969d016719a9",
-        "title": "Software Engineer - Back End",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768721004,
-        "date_posted": 1768721004,
-        "url": "https://abnormal.ai/careers/jobs/7588634003?gh_jid=7588634003",
-        "locations": [
-            "Remote in Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Abnormal-Security",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "USAA",
-        "id": "47d7037e-3946-4d90-a8f5-f1785d54b7c5",
-        "title": "Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768721040,
-        "date_posted": 1768721040,
-        "url": "https://usaa.wd1.myworkdayjobs.com/en-US/USAAJOBSWD/job/San-Antonio-Home-Office-I/Technology-Intern_R0114671",
-        "locations": [
-            "Phoenix, AZ",
-            "San Antonio, TX",
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/USAA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Farmers Insurance",
         "id": "45764e1c-a66c-40a8-86bb-7f58e87861da",
@@ -384097,7 +384051,7 @@
         "company_name": "RTX",
         "id": "b7bc1a65-8daf-4fc7-a288-60fbbd1d6662",
         "title": "Electrical Engineer Intern - Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386558,7 +386512,7 @@
         "company_name": "LSEG",
         "id": "574cf650-e6f4-42ae-a309-2bd87b5781da",
         "title": "Engineering Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
