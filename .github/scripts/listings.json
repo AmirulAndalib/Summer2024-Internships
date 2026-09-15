@@ -341353,7 +341353,7 @@
         "company_name": "City of Vancouver",
         "id": "b53f2a8c-6a89-4112-8768-894f4b11cb37",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -356709,7 +356709,7 @@
         "company_name": "Sun Life",
         "id": "a9482871-d257-4ca0-8f13-7420ba68250d",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
