@@ -256236,7 +256236,7 @@
         "company_name": "Ciena",
         "id": "e30dc557-ab6e-4220-8150-5bcb7dcc4598",
         "title": "Wavelogic Systems Design Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -391598,7 +391598,7 @@
         "company_name": "OpenGov",
         "id": "5bda221a-8620-420c-a38b-48bd4bdc58d3",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
