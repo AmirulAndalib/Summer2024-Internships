@@ -311043,7 +311043,7 @@
         "company_name": "Springs Window Fashions",
         "id": "fb4c05e4-dae7-48e3-b6d3-5e670ed8556d",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346965,7 +346965,7 @@
         "company_name": "Quantinuum",
         "id": "37b97258-63a4-45f5-adf3-0a84d16998bf",
         "title": "Quantum Error Correction Intern - Quantum Error Correction",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347728,7 +347728,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357282,7 +357282,7 @@
         "company_name": "Textron",
         "id": "c39efb21-4101-4d94-85ce-fa5a6d78cf0e",
         "title": "Stage automne 2026 \u2013 Technologie de l'information / 2026 fall Internship - Information Technology - Mirabel - Qc",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393579,7 +393579,7 @@
         "company_name": "Verizon Communications",
         "id": "51022cd5-814f-411e-991c-86b9d9441d02",
         "title": "Marketing Technology Intern - Consumer Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
