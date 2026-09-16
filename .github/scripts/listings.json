@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "SF Giants",
-        "id": "ffe2b29d-b26f-4f1d-aa5b-f3e026056b73",
-        "title": "Player Development Associate - San Jose",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1768789160,
-        "date_posted": 1768789160,
-        "url": "https://jobs.lever.co/sfgiants/96e7533d-c1be-4f87-8bf3-ed35e99ddeb6/apply",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SF-Giants",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "0460220e-f581-4817-917f-76ae1c560028",
         "title": "Walt Disney World Transportation Logistics & Analytics Intern",
@@ -387833,7 +387812,7 @@
         "company_name": "Enact Mortgage Insurance",
         "id": "92303512-b258-4650-9ae4-393106bd571b",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
