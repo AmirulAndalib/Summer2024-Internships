@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 730 Inactive Internship Roles by Category
+### Browse 728 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (237)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (238)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (36)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (214)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (213)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (139)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (104)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (102)
 
 ---
 
@@ -273,6 +273,13 @@
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Roy, UT</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/COUNTRY-Financial?utm_source=GHList&utm_medium=company">COUNTRY Financial</a></strong></td>
+<td>Automation Developer Intern</td>
+<td>Bloomington, IL</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
@@ -2041,13 +2048,6 @@
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/LexisNexis-Legal-And-Professional?utm_source=GHList&utm_medium=company">LexisNexis Legal & Professional</a></strong></td>
-<td>Data Science Intern</td>
-<td>Raleigh, NC</td>
-<td>🔒</td>
-<td>1d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Oshkosh?utm_source=GHList&utm_medium=company">Oshkosh</a></strong></td>
 <td>Advanced Analytics Intern</td>
 <td>Frederick, MD</td>
@@ -3788,7 +3788,7 @@
 <td>Quantitative Developer Internship - Summer 2027</td>
 <td>Dubai - United Arab Emirates<br>NYC</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/DV-Trading?utm_source=GHList&utm_medium=company">DV Trading</a></strong></td>
@@ -4620,20 +4620,6 @@
 <td><strong><a href="https://simplify.jobs/c/Entergy?utm_source=GHList&utm_medium=company">Entergy</a></strong></td>
 <td>Engineering Intern</td>
 <td>New Orleans, LA</td>
-<td>🔒</td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Functional Validation Intern - BS</td>
-<td>Santa Clara, CA<br>Boise, ID<br>Westborough, MA</td>
-<td>🔒</td>
-<td>12d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Functional Validation Intern - BS</td>
-<td>Santa Clara, CA<br>Boise, ID<br>Westborough, MA</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
