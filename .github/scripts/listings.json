@@ -334102,7 +334102,7 @@
         "company_name": "United Airlines",
         "id": "616f31e5-f760-4f12-ab94-7cfe7c256b54",
         "title": "Meteorology Support Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -336189,7 +336189,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365956,7 +365956,7 @@
         "company_name": "United Airlines",
         "id": "0b6231bf-1510-4b9c-b81b-7dbc9d578158",
         "title": "Operations Strategy Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371167,7 +371167,7 @@
         "company_name": "Wells Fargo",
         "id": "d8a35445-0290-4e38-8bf7-0956434a59df",
         "title": "Quantitative Analytics Intern - Applied Computational Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377806,7 +377806,7 @@
         "company_name": "AstraZeneca",
         "id": "d778c6d4-6ce5-40c6-8cb7-41d5b2f39824",
         "title": "AI Solutions & Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392448,7 +392448,7 @@
         "company_name": "Intel",
         "id": "726a288e-5e7a-40fd-ae58-e65668dd3a7e",
         "title": "AI Solutions Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397956,6 +397956,32 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Lightmatter",
+        "id": "92e0027e-a9c8-4956-82d7-791d98c9d21b",
+        "title": "Silicon Intern - Hardware & Photonics Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789541121,
+        "date_posted": 1789540928,
+        "url": "https://boards.greenhouse.io/lightmatter/jobs/5425407008",
+        "locations": [
+            "Boston, MA",
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Lightmatter",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
