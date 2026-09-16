@@ -355841,7 +355841,7 @@
         "company_name": "CesiumAstro",
         "id": "16443076-8053-4d92-afb8-aa45f5eb4907",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -388804,7 +388804,7 @@
         "company_name": "Chemours",
         "id": "32023baa-10fc-4ab0-b943-ff9337e3f641",
         "title": "Data Visualization Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
