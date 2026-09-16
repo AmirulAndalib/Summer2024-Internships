@@ -280087,7 +280087,7 @@
         "company_name": "Postman",
         "id": "cef7eb65-ef35-4d6e-961e-cd3c0afe1058",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322550,7 +322550,7 @@
         "company_name": "Schroders",
         "id": "ade53b06-3917-4447-9f7a-29db35b50253",
         "title": "Public Markets Quants Intern - Quants (Public Markets)",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
