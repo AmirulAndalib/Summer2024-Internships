@@ -311691,7 +311691,7 @@
         "company_name": "Analog Devices",
         "id": "13cc39f8-a256-4d21-866f-4cf8cb77d4ef",
         "title": "Product Engineer Intern - Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -387975,7 +387975,7 @@
         "company_name": "Genworth Financial",
         "id": "cc8394ac-91b2-4a1a-979d-bfb9f2271caf",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397697,5 +397697,51 @@
         "degrees": [
             "Bachelor's"
         ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Apera AI",
+        "id": "18d868f8-7386-496b-958c-2b060e136892",
+        "title": "Software Developer Co-op - C++",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1789522525,
+        "date_posted": 1789522259,
+        "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239394007",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Apera-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Apera AI",
+        "id": "5e0e308e-26af-4533-a5fa-4c9ddae82a6b",
+        "title": "Machine Learning Applied Scientist Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1789522450,
+        "date_posted": 1789522259,
+        "url": "https://job-boards.greenhouse.io/aperaaiinc/jobs/5239440007",
+        "locations": [
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Apera-AI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
     }
 ]
