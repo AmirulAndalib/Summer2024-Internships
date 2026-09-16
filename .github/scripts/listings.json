@@ -311222,7 +311222,7 @@
         "company_name": "Gulfstream",
         "id": "03055ce7-1d96-46c4-861e-8c19404e1767",
         "title": "Software Engineer Intern - IEF",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375439,7 +375439,7 @@
         "company_name": "Gulfstream",
         "id": "314b957c-1bac-46a5-95c7-131e3dbb9c34",
         "title": "Flight Sciences / SWAPP Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
