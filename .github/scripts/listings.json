@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "0460220e-f581-4817-917f-76ae1c560028",
-        "title": "Walt Disney World Transportation Logistics & Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1768807345,
-        "date_posted": 1768807345,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Transportation-Logistics---Analytics-Intern--Summer-Fall-2026_10140614",
-        "locations": [
-            "Celebration, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "APL Logistics",
         "id": "e22d9ce3-2852-4d63-b684-ea004964fb2c",
         "title": "Intern - Technology Solutions and Digital Products",
@@ -357229,7 +357205,7 @@
         "company_name": "Tesla",
         "id": "d4160e5e-8dc5-4f23-bbb5-73742e02e435",
         "title": "Actuator Test Engineer Intern - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -357997,7 +357973,7 @@
         "company_name": "United Airlines",
         "id": "0d11ca14-e855-45a7-adc5-2936dba95091",
         "title": "Pricing & Revenue Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
