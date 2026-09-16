@@ -311114,7 +311114,7 @@
         "company_name": "AMERICAN SYSTEMS",
         "id": "5835c74c-a626-4bf3-a9f9-08f40d691187",
         "title": "Field Service Technician Intern - Transitioning Military",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -317078,7 +317078,7 @@
         "company_name": "University Health Network",
         "id": "232c9773-c328-4d64-b2d0-eeaf1673e51d",
         "title": "Administrative Support - Research",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -340489,7 +340489,7 @@
         "company_name": "University Health Network",
         "id": "0c22eace-033a-461d-8d35-efddba759631",
         "title": "Research Technical Assistant - AI and Multimodal Foundation Models",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
