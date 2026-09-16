@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 717 Inactive Internship Roles by Category
+### Browse 719 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (237)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (238)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (35)
 
@@ -16,7 +16,7 @@
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (129)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (101)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (102)
 
 ---
 
@@ -91,6 +91,13 @@
 <td><strong><a href="https://simplify.jobs/c/CAI-Io?utm_source=GHList&utm_medium=company">CAI</a></strong></td>
 <td>Software Developer Intern</td>
 <td>Pennsylvania</td>
+<td>🔒</td>
+<td>1d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/OpenGov?utm_source=GHList&utm_medium=company">OpenGov</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Boston, MA</td>
 <td>🔒</td>
 <td>1d</td>
 </tr>
@@ -2283,21 +2290,21 @@
 <td>Operations Data & Analytics Intern - Summer 2027</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Operations Strategy & Analytics Intern - Summer 2027</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td>↳</td>
 <td>Digital Technology Intern - Summer 2027</td>
 <td>Chicago, IL</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
@@ -2591,7 +2598,7 @@
 <td>New Markets Intern</td>
 <td>Sun Prairie, WI<br>Naperville, IL<br>Prairie du Sac, WI</td>
 <td>🔒</td>
-<td>19d</td>
+<td>20d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Wells-Fargo?utm_source=GHList&utm_medium=company">Wells Fargo</a></strong></td>
@@ -3599,7 +3606,7 @@
 <td>Quantitative Analyst Intern - GSA 🎓</td>
 <td>London, UK</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/First-National-Bank?utm_source=GHList&utm_medium=company">First National Bank</a></strong></td>
@@ -4697,6 +4704,13 @@
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Leidos?utm_source=GHList&utm_medium=company">Leidos</a></strong></td>
+<td>Computer Engineering Co-op</td>
+<td>Bethesda, MD</td>
 <td>🔒</td>
 <td>20d</td>
 </tr>
