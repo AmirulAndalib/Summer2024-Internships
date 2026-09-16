@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "APL Logistics",
-        "id": "e22d9ce3-2852-4d63-b684-ea004964fb2c",
-        "title": "Intern - Technology Solutions and Digital Products",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768818708,
-        "date_posted": 1768818708,
-        "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3753",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/APL-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Ocean Optics",
         "id": "64546e1b-efb3-47dd-ab14-47d3044ccfa4",
@@ -284296,7 +284272,7 @@
         "company_name": "Tesla",
         "id": "dc98760f-d794-4d68-be4d-5639d2bcf3f3",
         "title": "Cell Engineering Intern - Cell Qualification",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -309427,7 +309403,7 @@
         "company_name": "University of Texas at Austin",
         "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
         "title": "Graduate Assistant - AI-Powered Career Success Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -322012,7 +321988,7 @@
         "company_name": "Deloitte",
         "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
         "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333802,7 +333778,7 @@
         "company_name": "United Airlines",
         "id": "dbd78176-bb77-49e4-9500-82a26610cfbb",
         "title": "Research Scholar Intern - Statistics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342800,7 +342776,7 @@
         "company_name": "Intel",
         "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
         "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -355103,7 +355079,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355126,7 +355102,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355172,7 +355148,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362938,7 +362914,7 @@
         "company_name": "Airbus",
         "id": "8a15fdc7-b6bd-4b91-8caa-888e24387090",
         "title": "Software Developer Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -375239,7 +375215,7 @@
         "company_name": "Navy Federal",
         "id": "e7e8e424-49fc-445f-8c93-bc790db57b9f",
         "title": "Business Intelligence Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385237,7 +385213,7 @@
         "company_name": "Cozey",
         "id": "ff16852d-9fff-4f7a-818e-26728a2ad542",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391902,7 +391878,7 @@
         "company_name": "Engenious Design",
         "id": "d5070939-efc6-4e4e-9d94-605bd818eb45",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392141,7 +392117,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
         "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392512,7 +392488,7 @@
         "company_name": "RTX",
         "id": "8e2ae72c-1197-4234-9ceb-9e8f692add91",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
