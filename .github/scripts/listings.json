@@ -268241,7 +268241,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304990,7 +304990,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362699,7 +362699,7 @@
         "company_name": "Walgreens",
         "id": "06bb9d4d-dab5-495e-ad36-24bc797defe0",
         "title": "Pharmacy Technician Apprenticeship",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369719,7 +369719,7 @@
         "company_name": "Neighbor",
         "id": "0d9faa74-3c88-4420-95ea-f5e99ae6d84f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376037,7 +376037,7 @@
         "company_name": "Intel",
         "id": "02b45672-64be-4bea-b971-2efafc958466",
         "title": "AI and Compiler Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -387393,7 +387393,7 @@
         "company_name": "Oshkosh",
         "id": "033fb8eb-961d-4cab-88a1-a78b101431ff",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389386,7 +389386,7 @@
         "company_name": "Google",
         "id": "0bd3b5e2-7522-4160-93d9-aa94c49da2cd",
         "title": "Hardware Engineer Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392678,7 +392678,7 @@
         "company_name": "BlackRock",
         "id": "013e195a-bff8-4c04-b4dc-7fc663b9a8c1",
         "title": "Quantitative Master\u2019s Intern - Investments - Global Capital Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
