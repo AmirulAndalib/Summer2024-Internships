@@ -186719,7 +186719,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246859,7 +246859,7 @@
         "company_name": "Core & Main",
         "id": "cf783ed0-c7de-4051-813a-018e1ba6e7fc",
         "title": "Data Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -270152,7 +270152,7 @@
         "company_name": "Tencent",
         "id": "6e34bef0-a1a7-4cef-9837-41f96c2b9ab0",
         "title": "Data Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286808,7 +286808,7 @@
         "company_name": "GE Appliances",
         "id": "bdefa1b8-76a9-4d2c-8b53-192783c6edd7",
         "title": "Software Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304657,7 +304657,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -317033,7 +317033,7 @@
         "company_name": "GE Appliances",
         "id": "88d4e38d-d6d5-4550-8ea8-651074023cd3",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -350678,7 +350678,7 @@
         "company_name": "Brunswick",
         "id": "84f60c1d-5d94-4e3b-a460-466cccf1d021",
         "title": "Engineering Test Lab Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -354027,7 +354027,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -369233,7 +369233,7 @@
         "company_name": "The Federal Reserve System",
         "id": "b18d2ee9-8e92-4db6-91d6-e4e35363850c",
         "title": "Payments Forum Intern - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -378148,7 +378148,7 @@
         "company_name": "Marvell",
         "id": "c19ad514-a4fd-4e47-a2ae-ab57347804ad",
         "title": "Advanced Packaging & Physical Integration Intern - Advanced Packaging & Physical Integration",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -394296,7 +394296,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "232751f3-952f-47d4-922c-fd11763f1d6a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397450,7 +397450,7 @@
         "company_name": "NVIDIA",
         "id": "ebdf452a-f6c6-46cb-beb0-fce7830344e4",
         "title": "Product Management MBA Intern - Data Center GPU",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
