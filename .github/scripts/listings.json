@@ -65127,7 +65127,7 @@
         "company_name": "Thomson Reuters",
         "id": "8f637d0b-eb09-4bfb-8875-fa6166bb6de2",
         "title": "Research Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2026",
@@ -322573,7 +322573,7 @@
         "company_name": "Schroders",
         "id": "5c89b93e-45af-48be-aee5-6beb4870aa82",
         "title": "Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380015,7 +380015,7 @@
         "company_name": "RTX",
         "id": "be27b5dd-685b-43e7-bac8-46a5a43d6f34",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
