@@ -300766,7 +300766,7 @@
         "company_name": "Capital One",
         "id": "bcf0ca2a-3b0d-408b-809c-b5ddf36b64e4",
         "title": "Full Stack Software Engineer Intern - Team Pickle",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -317391,7 +317391,7 @@
         "company_name": "The Browser Company",
         "id": "120b5dc5-005a-459d-848c-a05d3a0eba5e",
         "title": "AI Prototyper Resident",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
