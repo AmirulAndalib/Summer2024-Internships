@@ -299289,7 +299289,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299381,7 +299381,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -299938,7 +299938,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
         "title": "Analytics Intern - eCommerce",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -320050,7 +320050,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332162,7 +332162,7 @@
         "company_name": "The Federal Reserve System",
         "id": "5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00",
         "title": "Statistics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336048,7 +336048,7 @@
         "company_name": "United Airlines",
         "id": "b2910d1a-df08-4c5a-9ad6-88cf9a60ff6f",
         "title": "Air Traffic Strategy Data Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344104,7 +344104,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -348761,7 +348761,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -355149,7 +355149,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362938,7 +362938,7 @@
         "company_name": "Airbus",
         "id": "8a15fdc7-b6bd-4b91-8caa-888e24387090",
         "title": "Software Developer Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373982,7 +373982,7 @@
         "company_name": "Nova-Tech",
         "id": "844f8a1f-7749-49a6-8afe-6eaed5ef5d3b",
         "title": "Software Development Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -375239,7 +375239,7 @@
         "company_name": "Navy Federal",
         "id": "e7e8e424-49fc-445f-8c93-bc790db57b9f",
         "title": "Business Intelligence Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378416,7 +378416,7 @@
         "company_name": "Walmart",
         "id": "5f786704-9f4e-4137-8947-80614fba3b53",
         "title": "Data Science Intern 3",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386703,7 +386703,7 @@
         "company_name": "Principal Financial Group",
         "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -392512,7 +392512,7 @@
         "company_name": "RTX",
         "id": "8e2ae72c-1197-4234-9ceb-9e8f692add91",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -392722,7 +392722,7 @@
         "company_name": "BlackRock",
         "id": "5ffffd18-94d5-468e-b6dd-6a45307801fe",
         "title": "Quantitative Master's Intern - Investments - Global Capital Markets",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395213,7 +395213,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395776,7 +395776,7 @@
         "company_name": "Trane Technologies",
         "id": "781b4a1a-f2af-40b2-866b-03dcefc5245b",
         "title": "Software Development Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
