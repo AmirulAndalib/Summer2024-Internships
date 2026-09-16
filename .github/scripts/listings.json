@@ -277426,7 +277426,7 @@
         "company_name": "CALSTART",
         "id": "bca90a25-419e-46da-864d-1d8564cdf838",
         "title": "Data Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298398,7 +298398,7 @@
         "company_name": "Unify",
         "id": "d2981791-a95a-4770-939a-7234d38f079d",
         "title": "GTM Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304892,7 +304892,7 @@
         "company_name": "Microsoft",
         "id": "b5b15050-2287-4ebf-8a26-f0745c794fd3",
         "title": "AI Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -366286,7 +366286,7 @@
         "company_name": "Gilead Sciences",
         "id": "0ea9ee6b-8a64-41e9-9e76-9d388d3a54d5",
         "title": "Development Intern - Governance, Risk & Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -380292,7 +380292,7 @@
         "company_name": "RTX",
         "id": "a36edbdb-14d1-41b4-aa68-e48d46351e76",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -388377,7 +388377,7 @@
         "company_name": "RTX",
         "id": "3258a84b-63a0-45ec-b97b-ed31556297aa",
         "title": "Electrical Engineer Intern - RDP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
