@@ -385581,7 +385581,7 @@
         "company_name": "NewsBreak",
         "id": "6f1652fb-4396-40dc-bf65-0aaf4c8db667",
         "title": "AI Intern - Engineering Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
