@@ -299198,7 +299198,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -307056,7 +307056,7 @@
         "company_name": "Goldman Sachs",
         "id": "aea9cccf-4a27-4ca6-9c11-9664e8a1ac0a",
         "title": "AWM Product Management Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332162,7 +332162,7 @@
         "company_name": "The Federal Reserve System",
         "id": "5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344104,7 +344104,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -348761,7 +348761,7 @@
         "company_name": "WindBorne Systems",
         "id": "88ed3204-4d00-47e3-b41c-c62019949562",
         "title": "Embedded Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355256,7 +355256,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355279,7 +355279,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355303,7 +355303,7 @@
         "company_name": "Goldman Sachs",
         "id": "8f346a45-4490-4243-933e-264e3916e701",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355326,7 +355326,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355490,7 +355490,7 @@
         "company_name": "Goldman Sachs",
         "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373982,7 +373982,7 @@
         "company_name": "Nova-Tech",
         "id": "844f8a1f-7749-49a6-8afe-6eaed5ef5d3b",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -378416,7 +378416,7 @@
         "company_name": "Walmart",
         "id": "5f786704-9f4e-4137-8947-80614fba3b53",
         "title": "Data Science Intern 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385462,7 +385462,7 @@
         "company_name": "Qualcomm",
         "id": "4f3b12a6-0ecd-425c-8959-5b8f1ce9d772",
         "title": "Machine Learning Compiler & Performance Engineering Intern - Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386703,7 +386703,7 @@
         "company_name": "Principal Financial Group",
         "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392722,7 +392722,7 @@
         "company_name": "BlackRock",
         "id": "5ffffd18-94d5-468e-b6dd-6a45307801fe",
         "title": "Quantitative Master's Intern - Investments - Global Capital Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395213,7 +395213,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395546,7 +395546,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395776,7 +395776,7 @@
         "company_name": "Trane Technologies",
         "id": "781b4a1a-f2af-40b2-866b-03dcefc5245b",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397980,5 +397980,97 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Illinois Tool Works",
+        "id": "8fb80f34-572c-4d42-8a99-b0aa189dd044",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789551935,
+        "date_posted": 1789551726,
+        "url": "https://careers.itw.com/global/en/job/JR10112",
+        "locations": [
+            "San Luis Obispo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Illinois-Tool-Works",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RAVE Aerospace",
+        "id": "59143a12-b5c5-4756-adf5-a3376f4b7296",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789552240,
+        "date_posted": 1789551797,
+        "url": "https://apply.workable.com/raveaerospace/j/739753C003/apply",
+        "locations": [
+            "Laramie, WY"
+        ],
+        "company_url": "https://simplify.jobs/c/RAVE-Aerospace",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Antares Nuclear",
+        "id": "9d3deed3-7476-4d1b-ac11-2072ffe638ff",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789551292,
+        "date_posted": 1789550902,
+        "url": "https://jobs.ashbyhq.com/Antares/419ef2df-f0aa-4b68-994a-077e08a959e3/application?embed=true",
+        "locations": [
+            "Torrance, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Antares-Nuclear",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ByteDance",
+        "id": "82ef6fed-e7e8-4860-81dc-834f0cd0e99a",
+        "title": "Research Scientist Intern - Seed Responsible AI",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1789550821,
+        "date_posted": 1789550704,
+        "url": "https://jobs.bytedance.com/en/position/7685504461452577077/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
     }
 ]
