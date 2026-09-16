@@ -179552,7 +179552,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -305586,7 +305586,7 @@
         "company_name": "Copart",
         "id": "1e0b5f98-bf0a-433e-9dda-74853a116f53",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -309403,7 +309403,7 @@
         "company_name": "University of Texas at Austin",
         "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
         "title": "Graduate Assistant - AI-Powered Career Success Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -334784,7 +334784,7 @@
         "company_name": "University of Arkansas",
         "id": "b218bf15-2003-4ac5-96ea-f112ba777c56",
         "title": "Razorback Analytic Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -342776,7 +342776,7 @@
         "company_name": "Intel",
         "id": "ca96c441-d218-4a8a-b6f6-a035b101c51b",
         "title": "Platform Hardware and Systems Engineering Intern - Bachelor's",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -358243,7 +358243,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -360418,7 +360418,7 @@
         "company_name": "Marvell",
         "id": "e2983544-b2c7-4646-833d-b960d39cf290",
         "title": "Functional Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360467,7 +360467,7 @@
         "company_name": "Marvell",
         "id": "2efbdbb6-799e-4b37-8c81-68bf168efb5f",
         "title": "Functional Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385213,7 +385213,7 @@
         "company_name": "Cozey",
         "id": "ff16852d-9fff-4f7a-818e-26728a2ad542",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -392117,7 +392117,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
         "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394434,7 +394434,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "769bec28-a1aa-4a21-854c-4dcde8904154",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
