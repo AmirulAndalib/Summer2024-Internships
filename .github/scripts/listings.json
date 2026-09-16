@@ -1,99 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Nokia",
-        "id": "7d6846fa-a327-4fd8-895b-ea19e267f892",
-        "title": "R&D Radio Software Developer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768835388,
-        "date_posted": 1768835388,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30159",
-        "locations": [
-            "Dallas, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "99e99058-6697-4526-a081-398624f49749",
-        "title": "NLP Research Intern",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768835116,
-        "date_posted": 1768835116,
-        "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/UK-London/NLP-Research-Intern_R106758-1",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "General Dynamics UK",
-        "id": "f2830949-d3f4-46e1-a40b-b21191c4d239",
-        "title": "Co-op - Manufacturing Test Operator",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768836410,
-        "date_posted": 1768836410,
-        "url": "https://jobs.smartrecruiters.com/GDMSI/744000104272295",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/General-Dynamics-UK",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Scottish Water",
-        "id": "ef512049-d6cd-4549-b35e-eac0ca3a525b",
-        "title": "Intern Programme - Net Zero Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2027"
-        ],
-        "date_updated": 1768836304,
-        "date_posted": 1768836304,
-        "url": "https://scottishwater.wd3.myworkdayjobs.com/External_Careers/job/Fairmilehead-Office/Summer-Internship-Programme-2026---Net-Zero-Data-Science_R11430",
-        "locations": [
-            "Edinburgh, UK",
-            "Glasgow, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Scottish-Water",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Genentech",
         "id": "4bab85d2-220b-417c-90c8-b4d153053909",
@@ -5855,30 +5762,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "bdc2d554-4887-4da6-97e5-f379e292b6a8",
-        "title": "NLP Research Intern",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768835116,
-        "date_posted": 1768835116,
-        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/UK-London/NLP-Research-Intern_R106758",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
     },
     {
         "source": "Simplify",
@@ -278535,7 +278418,7 @@
         "company_name": "Zello",
         "id": "ca4a90fa-f101-407e-a127-80abe844feab",
         "title": "Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -385583,7 +385466,7 @@
         "company_name": "Kulicke & Soffa",
         "id": "b8582a90-5a25-4eb5-94b2-aece6f5b9838",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394602,7 +394485,7 @@
         "company_name": "GlobalFoundries",
         "id": "a355d856-ab26-44de-b9eb-81f9bf8b6de7",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
