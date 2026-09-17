@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 725 Inactive Internship Roles by Category
+### Browse 726 Inactive Internship Roles by Category
 
 💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (241)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (38)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (213)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (214)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (129)
 
@@ -2471,6 +2471,13 @@
 <td>↳</td>
 <td>Research Intern - AI Compute 🎓</td>
 <td>Seattle, WA</td>
+<td>🔒</td>
+<td>16d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Compeer-Financial?utm_source=GHList&utm_medium=company">Compeer Financial</a></strong></td>
+<td>Data Analytics Intern</td>
+<td><details><summary><strong>5 locations</strong></summary>Eau Claire, WI<br>Rochester, MN<br>Lakeville, MN<br>Mankato, MN<br>Bloomington, IL</details></td>
 <td>🔒</td>
 <td>16d</td>
 </tr>
