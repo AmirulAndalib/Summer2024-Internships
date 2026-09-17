@@ -1,118 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "TD Bank",
-        "id": "4b7637d2-743a-40aa-86d2-67147be566bd",
-        "title": "Software Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768865593,
-        "date_posted": 1768865593,
-        "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Toronto-Ontario/Software-Engineer-Intern-Co-op_R_1467905",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/TD-Bank",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "D2L",
-        "id": "949cb83d-4574-412f-8f5e-1e9bf9e873d8",
-        "title": "Internal AI Developer \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768866493,
-        "date_posted": 1768866493,
-        "url": "https://www.d2l.com/careers/jobs/?job_id=7547427&gh_jid=7547427",
-        "locations": [
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/D2L",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Allstate Insurance Company",
-        "id": "9ca3cf6b-ca92-4ccb-8bb4-f7ffb00609bf",
-        "title": "Data Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768865649,
-        "date_posted": 1768865649,
-        "url": "https://allstate.wd5.myworkdayjobs.com/allstate_careers/job/USA---IL-Remote/Arity---Data-Analyst-Intern_R25579",
-        "locations": [
-            "Illinois"
-        ],
-        "company_url": "https://simplify.jobs/c/Allstate-Insurance-Company",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "GSD&M",
-        "id": "7649514a-7d74-4d3b-b8bc-c58f9f04cda8",
-        "title": "Media Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768866355,
-        "date_posted": 1768866355,
-        "url": "https://job-boards.greenhouse.io/gsdm/jobs/5076585008",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/GSDAndM",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Hitachi",
-        "id": "e3d2586b-44a3-4396-b64c-c88a86d29e87",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768865583,
-        "date_posted": 1768865583,
-        "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Toronto-Ontario-Canada/Research-Intern---Explainable-AI-and-Reporting-Framework-for-Power-Grid-Machine-Learning-Applications---IA-explicable-et-systme-de-rapport-pour-les-applications-d-apprentissage-automatique-dans-les-rseaux-lectriques_R0116509",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Hitachi",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "4a3e265e-7c94-412a-9d9a-d259e9d7e1ae",
@@ -300469,7 +300357,7 @@
         "company_name": "Capital One",
         "id": "ad150652-4f82-4967-b194-6fa16626a5b6",
         "title": "Mobile Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -359235,7 +359123,7 @@
         "company_name": "Microchip Technology",
         "id": "03f41f5f-8abb-4769-af48-22497157aece",
         "title": "Intern \u2013 Engineering - Device Software and Test",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -382063,7 +381951,7 @@
         "company_name": "Erickson Senior Living",
         "id": "f9812d93-d4c6-499f-ba70-040efdbc9d1e",
         "title": "IT Application Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
