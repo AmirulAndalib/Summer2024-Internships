@@ -300904,7 +300904,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308432,7 +308432,7 @@
         "company_name": "University of Texas at Austin",
         "id": "cc92e86c-fbd6-4ac9-9dd6-416843dc0e27",
         "title": "Graduate Assistant - AI-Powered Career Success Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -361920,7 +361920,7 @@
         "company_name": "Airbus",
         "id": "a22f0440-f1ad-4d06-a98d-fb1e5fd55926",
         "title": "Space Software Engineering Placement - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -373616,7 +373616,7 @@
         "company_name": "D2L",
         "id": "22cc0215-12f0-46a3-9c52-6e369e46da24",
         "title": "Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -377296,7 +377296,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377466,7 +377466,7 @@
         "company_name": "Insulet",
         "id": "bffcea8b-9c12-4f46-b92e-162dc985ab23",
         "title": "R&D Electronics Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -379393,7 +379393,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381694,7 +381694,7 @@
         "company_name": "Fidelity Investments",
         "id": "93e9a550-3500-4f48-a9fa-0b883b696038",
         "title": "Risk Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395274,7 +395274,7 @@
         "company_name": "PerkinElmer",
         "id": "6c2a8e09-efa3-4608-9f96-7b3845760fee",
         "title": "Data Science Intern - Asset Intelligence",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -400602,5 +400602,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Visa",
+        "id": "2f8f7f03-7f64-409a-9edc-6c4c62398221",
+        "title": "Associate Product Manager Intern - APM",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789652945,
+        "date_posted": 1789603200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Associate-Product-Manager--APM--Intern---Summer-2027_REF088603W-1",
+        "locations": [
+            "Foster City, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
