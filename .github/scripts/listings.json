@@ -1,55 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "The Walt Disney Company",
-        "id": "4a3e265e-7c94-412a-9d9a-d259e9d7e1ae",
-        "title": "Marketing Planning & Analytics Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1768875830,
-        "date_posted": 1768875830,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/New-York-NY-USA/Marketing-Planning---Analytics-Intern--Summer-2026_10138901",
-        "locations": [
-            "Santa Monica, CA",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Advanced Energy",
-        "id": "0c1dd732-76c3-4df9-ba74-992c00f7ad17",
-        "title": "Intern \u2013 Data Analyst",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1768875028,
-        "date_posted": 1768875028,
-        "url": "https://jobs.advanced-energy.com/job/Fort-Collins-Intern-Data-Analyst-CO-80525/1354339400/?ats=successfactors",
-        "locations": [
-            "Fort Collins, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Walt Disney Company",
         "id": "25c19c6e-907c-42a8-a092-b51c3f463f92",
@@ -182345,27 +182296,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Invisible Technologies AI",
-        "id": "b84e0329-1f91-422f-ae8f-44df7db7fd47",
-        "title": "AI Generalist Intern",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1776765093,
-        "date_posted": 1768876017,
-        "url": "https://job-boards.eu.greenhouse.io/agency/jobs/4754242101",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Invisible-TechnologiesAI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -369220,7 +369150,7 @@
         "company_name": "EquipmentShare",
         "id": "3368f6fb-6721-44e2-8fe0-f5fb299474b3",
         "title": "Electrical Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
