@@ -236116,7 +236116,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -280349,7 +280349,7 @@
         "company_name": "TikTok",
         "id": "1fb1e49e-1a9d-40ea-9146-1df231b49971",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -361191,7 +361191,7 @@
         "company_name": "Marvell",
         "id": "b72627a2-345c-4008-84ca-772020b7b572",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375065,7 +375065,7 @@
         "company_name": "Amentum",
         "id": "2685ab45-ae6b-465f-9f92-f1a9510a0966",
         "title": "Data Operations Intern - Ssfb",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -379203,7 +379203,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381716,7 +381716,7 @@
         "company_name": "Fidelity Investments",
         "id": "ebf1ebb8-5b9b-4ef9-a965-ff8476d3418e",
         "title": "Machine Learning Co-op - Graph Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -384175,7 +384175,7 @@
         "company_name": "American University",
         "id": "eba00ed8-3e9c-4bab-878a-f40c09762da2",
         "title": "Quantitative Support Programmer - Student",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -400553,6 +400553,51 @@
             "Victoria, BC, Canada"
         ],
         "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "British Columbia Investment",
+        "id": "a1924fb3-cead-47eb-97c9-8fba9c407a20",
+        "title": "Technology Solutions Engineer Co-op/Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789645378,
+        "date_posted": 1789603200,
+        "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Technology-Solutions-Engineer-Co-op-Internship--Winter-2027-_JR101601",
+        "locations": [
+            "Victoria, BC, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CMC Markets",
+        "id": "84931311-02f2-4eda-a858-88b3cd3612e2",
+        "title": "AI Agent Developer Intern - CMC Funded",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789645321,
+        "date_posted": 1789603200,
+        "url": "https://cmcmarkets.wd3.myworkdayjobs.com/CMC_Markets_Careers/job/London/AI-Agent-Developer-Intern---CMC-Funded_CMC5709",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/CMC-Markets",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
