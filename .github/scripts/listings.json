@@ -185815,7 +185815,7 @@
         "company_name": "Tencent",
         "id": "f975268a-bc73-4167-8e73-024443cbc1f2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -299491,7 +299491,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315915,7 +315915,7 @@
         "company_name": "Copart",
         "id": "2a0b4fae-5de5-4ba8-b55d-c4bba930145b",
         "title": "Technology Product Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -331749,7 +331749,7 @@
         "company_name": "RTX",
         "id": "5eec1982-b0e8-4ec2-b9c3-ee8ed6051a4b",
         "title": "Numerical Methods Intern - Advanced Software Development",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -356659,7 +356659,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -360807,7 +360807,7 @@
         "company_name": "Procter & Gamble",
         "id": "f991871e-3a03-45a8-bed8-6e0038e44af8",
         "title": "Analytics & Insights Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371254,7 +371254,7 @@
         "company_name": "Marvell",
         "id": "f110d4a7-32ed-49ae-a14e-357e17fe995a",
         "title": "Test Solutions Engineering Intern - BS - Post-Silicon Hardware Validation",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383480,7 +383480,7 @@
         "company_name": "Amgen",
         "id": "698feec2-81e2-41f9-854b-5a57cc104ace",
         "title": "Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387623,7 +387623,7 @@
         "company_name": "Freddie Mac",
         "id": "49c47091-90b2-468b-9e5c-4879165b0d64",
         "title": "Multifamily Business Analysis Graduate Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395274,7 +395274,7 @@
         "company_name": "PerkinElmer",
         "id": "6c2a8e09-efa3-4608-9f96-7b3845760fee",
         "title": "Data Science Intern - Asset Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -400572,6 +400572,28 @@
         "date_updated": 1789649145,
         "date_posted": 1789603200,
         "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Victoria-BC/Investment-Tech-Data---Analytics----Software-Engineer-Co-op-Internship--Winter-2027-or-Winter---Summer-2027-_JR101596",
+        "locations": [
+            "Victoria, BC, Canada",
+            "Vancouver, BC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/British-Columbia-Investment",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "British Columbia Investment",
+        "id": "19166e9a-cb4f-406a-9b04-ede1c6ee72e4",
+        "title": "Software Engineer Co-op Intern - Winter 2027",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789650624,
+        "date_posted": 1789603200,
+        "url": "https://bci.wd10.myworkdayjobs.com/BCI_Careers/job/Vancouver-BC/Software-Engineer-Co-op-Internship--Winter-2027-_JR101590",
         "locations": [
             "Victoria, BC, Canada",
             "Vancouver, BC, Canada"
