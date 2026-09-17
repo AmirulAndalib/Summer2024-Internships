@@ -373157,7 +373157,7 @@
         "company_name": "D2L",
         "id": "56346e1c-4af8-4325-8e9f-89e677b09533",
         "title": "Business Insights & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380781,7 +380781,7 @@
         "company_name": "Quantinuum",
         "id": "58b0b092-9029-4fcf-b51a-7e1bfe20437b",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
