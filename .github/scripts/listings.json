@@ -325972,7 +325972,7 @@
         "company_name": "Compeer Financial",
         "id": "f4714242-ad4a-4bef-9ee7-8dc639cd7e0f",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338888,7 +338888,7 @@
         "company_name": "Geotab",
         "id": "fb0f6a70-7886-4ed4-a59d-12e6a0e79c9d",
         "title": "DataOps Developer Intern - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
