@@ -300264,7 +300264,7 @@
         "company_name": "Capital One",
         "id": "d8615ef7-6b11-4bac-8d66-7aa71aca3f13",
         "title": "Full Stack Software Engineer Intern - Team Integrated Sprout",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392726,7 +392726,7 @@
         "company_name": "Gulfstream",
         "id": "a0a744e5-dff9-4120-9215-37f5c43107c2",
         "title": "Azure AI Collegiate Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
