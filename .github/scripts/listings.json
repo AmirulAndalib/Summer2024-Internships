@@ -267871,7 +267871,7 @@
         "company_name": "NationGraph",
         "id": "a829ca2b-67d1-4241-b6db-70adc403355e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -342496,7 +342496,7 @@
         "company_name": "Geotab",
         "id": "b72ec140-4c21-4b53-a33b-15a7c285e043",
         "title": "Hardware Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
