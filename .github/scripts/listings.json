@@ -361018,7 +361018,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "fd543f97-1606-43cf-a204-aebdc7cddf32",
         "title": "Developer & IT Specialist Co-op - Global Asset Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -398275,7 +398275,7 @@
         "company_name": "EQT Corporation",
         "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
         "title": "Data Engineering Intern - Completions Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -400724,6 +400724,30 @@
             "Bachelor's",
             "Master's",
             "MBA"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waymo",
+        "id": "ad26d172-59a3-4f93-9750-94d260cfb4e5",
+        "title": "Software Engineering Intern - Maneuvering Tech",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789627008,
+        "date_posted": 1789626800,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8203200",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
