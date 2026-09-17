@@ -280349,7 +280349,7 @@
         "company_name": "TikTok",
         "id": "1fb1e49e-1a9d-40ea-9146-1df231b49971",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -320449,7 +320449,7 @@
         "company_name": "Finastra",
         "id": "55b1bcd7-ce91-4f80-ab43-68598ccff174",
         "title": "AI Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355212,7 +355212,7 @@
         "company_name": "Sierra Nevada Corporation",
         "id": "f455fc61-2abc-42c1-96e2-b19e6f175508",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -359283,7 +359283,7 @@
         "company_name": "Marvell",
         "id": "54dcd1fc-97a6-477a-a5c4-fd602806eaf1",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -375921,7 +375921,7 @@
         "company_name": "L3Harris Technologies",
         "id": "1ce2a613-e411-4a03-a5e2-73ef2a74935a",
         "title": "Integration/Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -379203,7 +379203,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381716,7 +381716,7 @@
         "company_name": "Fidelity Investments",
         "id": "ebf1ebb8-5b9b-4ef9-a965-ff8476d3418e",
         "title": "Machine Learning Co-op - Graph Technology Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384175,7 +384175,7 @@
         "company_name": "American University",
         "id": "eba00ed8-3e9c-4bab-878a-f40c09762da2",
         "title": "Quantitative Support Programmer - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387716,7 +387716,7 @@
         "company_name": "Northrop Grumman",
         "id": "c0f6cecd-813a-49a6-80bb-ab6d59391ec1",
         "title": "Software Engineer Intern - Aeronautics Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396828,7 +396828,7 @@
         "company_name": "Brookfield",
         "id": "dfa6cc37-644b-4ff2-a4cc-73d19c88b20d",
         "title": "Business Management Intern - Tech & Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
