@@ -259879,7 +259879,7 @@
         "company_name": "Jump Trading",
         "id": "03fc254f-2b9e-4967-8b85-06408e320808",
         "title": "Campus Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -360342,7 +360342,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -367371,7 +367371,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -390198,7 +390198,7 @@
         "company_name": "General Motors",
         "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
         "title": "Summer Intern - Performance Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401047,6 +401047,284 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Rothesay",
+        "id": "02b6eecc-ac3c-44e4-9b02-71dde8078aa0",
+        "title": "Quantitative Strategist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789655966,
+        "date_posted": 1789655907,
+        "url": "https://job-boards.greenhouse.io/rothesaygraduates/jobs/8811533002",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Rothesay",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Alayacare",
+        "id": "cc7bbdb7-45d4-40f3-9aa1-658d6ae5a2f9",
+        "title": "Fullstack Developer Intern - Python",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789655722,
+        "date_posted": 1789655275,
+        "url": "https://alayacare.com/open-positions?gh_jid=8811336002",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/AlayaCare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Johns Hopkins Applied Physics Laboratory",
+        "id": "a4df1ba6-a9b3-47cb-ad51-5515e6284b2e",
+        "title": "Maritime Modeling & Control Intern - Maritime Robotics",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789655710,
+        "date_posted": 1789654794,
+        "url": "https://careers.jhuapl.edu/jobs/60031?icims=1",
+        "locations": [
+            "Laurel, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/Johns-Hopkins-Applied-Physics-Laboratory",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Invesco",
+        "id": "b27d3a57-f7d0-4295-b07c-a4538b1846ab",
+        "title": "ETF Product Development Intern - Early Career",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789655525,
+        "date_posted": 1789603200,
+        "url": "https://invesco.wd1.myworkdayjobs.com/en-US/IVZ/job/New-York-New-York/Early-Career-Intern-ETF-Product_R-15572-1",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "cf283809-6474-4e9c-ba5c-e9e82ef23ce2",
+        "title": "Software Engineering Industrial Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789655496,
+        "date_posted": 1789603200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-Cheltenham/Industrial-Placement---Software-Engineer_R10251089",
+        "locations": [
+            "Cheltenham, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Northrop Grumman",
+        "id": "cf896c51-1fa7-4b1d-9833-0c351e056b35",
+        "title": "Software Engineer - Industrial Placement",
+        "active": true,
+        "terms": [
+            "N/A"
+        ],
+        "date_updated": 1789655496,
+        "date_posted": 1789603200,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-Kingdom-New-Malden/Industrial-Placement---Software-Engineer_R10251096",
+        "locations": [
+            "New Malden, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Avis Budget Group",
+        "id": "94de9c2f-79c0-484e-a4c4-f930292172f8",
+        "title": "Data Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789655503,
+        "date_posted": 1789603200,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---Data-Analytics-Intern-Summer-2027_R0190389",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avis Budget Group",
+        "id": "4552c6b4-8bda-4519-9764-dcd28af299cf",
+        "title": "IT Engineering Intern - Accelerate",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789655519,
+        "date_posted": 1789603200,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern-Summer-2027_R0190463",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Invesco",
+        "id": "0a1eb39e-1b36-432c-8c24-333d6d4277ee",
+        "title": "ETF Product Development Intern - Early Career",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789655506,
+        "date_posted": 1789603200,
+        "url": "https://invesco.wd1.myworkdayjobs.com/IVZearlycareers/job/New-York-New-York/Early-Career-Intern-ETF-Product_R-15572",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Invesco",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Avis Budget Group",
+        "id": "23eccfe8-4364-45b3-a8ef-cb8127b89e2c",
+        "title": "IT Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789655515,
+        "date_posted": 1789603200,
+        "url": "https://avisbudget.wd1.myworkdayjobs.com/abg_careers/job/379-Interpace-Pkwy-Parsippany-07054/Accelerate---IT-Engineering-Intern_R0190464",
+        "locations": [
+            "Parsippany-Troy Hills, NJ"
+        ],
+        "company_url": "https://simplify.jobs/c/Avis-Budget-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Autodesk",
+        "id": "07af08ab-906b-43eb-b110-94f0ff3c0dc2",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1789655506,
+        "date_posted": 1789603200,
+        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern--Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD101114-1",
+        "locations": [
+            "Montreal, QC, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Autodesk",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Visa",
+        "id": "d1143c35-1cc7-4e60-a5c6-4e223abab7d0",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027",
+            "Fall 2027",
+            "Winter 2028",
+            "Spring 2028"
+        ],
+        "date_updated": 1789655423,
+        "date_posted": 1789603200,
+        "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Visa",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
