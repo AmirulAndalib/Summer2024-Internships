@@ -175122,7 +175122,7 @@
         "company_name": "Amazon",
         "id": "683c26d5-8306-435d-9738-d85e030935f5",
         "title": "Applied Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302285,7 +302285,7 @@
         "company_name": "By Light Professional IT Services",
         "id": "4404bf6d-28d8-4410-9254-cfbf94a50665",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -354176,7 +354176,7 @@
         "company_name": "Cadence Design Systems",
         "id": "b0e65597-fc48-43a6-a81f-3f20519603ec",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
