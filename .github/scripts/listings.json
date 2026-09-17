@@ -374491,7 +374491,7 @@
         "company_name": "Tradeweb",
         "id": "a5dccfc9-2d23-4297-a215-bdd5dae4a022",
         "title": "Node.js Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393003,7 +393003,7 @@
         "company_name": "Anduril",
         "id": "c7299060-2757-43d9-8414-5e0c2b0433c6",
         "title": "PCB Layout Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -395208,7 +395208,7 @@
         "company_name": "Clearwater Analytics",
         "id": "190e1231-b91c-4162-87ac-687f1db06c05",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
