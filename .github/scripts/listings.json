@@ -12259,7 +12259,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -330580,7 +330580,7 @@
         "company_name": "Hilton Worldwide",
         "id": "44915251-05bb-4109-b902-abd6c8cf811e",
         "title": "Data Management and Analysis Placement - Safety & Security",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -338863,7 +338863,7 @@
         "company_name": "Winsupply",
         "id": "9478b30a-7606-4b7b-bc4b-69c90ce9d0ea",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357740,7 +357740,7 @@
         "company_name": "Principal Financial Group",
         "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360291,7 +360291,7 @@
         "company_name": "Super",
         "id": "3dea76a2-75a6-47bf-baa6-fd8f384271e2",
         "title": "Software Engineer Intern - Full-Stack",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
