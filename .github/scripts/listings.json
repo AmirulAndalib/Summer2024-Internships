@@ -12259,7 +12259,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026"
         ],
@@ -308712,7 +308712,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "194afda8-ace4-46b3-b795-65651541bfd3",
         "title": "Data Analytics Intern - FAR Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -330580,7 +330580,7 @@
         "company_name": "Hilton Worldwide",
         "id": "44915251-05bb-4109-b902-abd6c8cf811e",
         "title": "Data Management and Analysis Placement - Safety & Security",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -338863,7 +338863,7 @@
         "company_name": "Winsupply",
         "id": "9478b30a-7606-4b7b-bc4b-69c90ce9d0ea",
         "title": "Software Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -345676,7 +345676,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "1c09445e-a943-4258-9c49-7bf34a1087dd",
         "title": "Risk Intern - Models and Asset Liability",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357740,7 +357740,7 @@
         "company_name": "Principal Financial Group",
         "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -360204,7 +360204,7 @@
         "company_name": "Super",
         "id": "dc230a97-55fa-420d-92bc-10db2079a26a",
         "title": "Software Engineer in Data Intern - 8 months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -360313,7 +360313,7 @@
         "company_name": "Super",
         "id": "536cacd5-7ba2-4017-93c4-20a10c37fcbe",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Fall 2026"
@@ -360388,7 +360388,7 @@
         "company_name": "AArete",
         "id": "4450e57d-6850-4b61-b0f6-39350674e9d9",
         "title": "Business Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376146,7 +376146,7 @@
         "company_name": "L3Harris Technologies",
         "id": "910b0e07-917b-4b05-9865-591f847be5f6",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378070,7 +378070,7 @@
         "company_name": "Canadian Tire",
         "id": "1b3aec3c-4c0c-4efb-a5bc-1e8fc5416875",
         "title": "Data Analyst Student - Winter Term 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389029,7 +389029,7 @@
         "company_name": "Bank of Montreal",
         "id": "1615c77f-0e8b-4592-93bc-c53595abdb2e",
         "title": "Quantitative Developer Co-op Intern - Alpha Research Team - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394310,7 +394310,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
