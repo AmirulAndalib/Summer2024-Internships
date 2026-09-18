@@ -365415,7 +365415,7 @@
         "company_name": "CIBC",
         "id": "f35f4a97-5475-45ec-8ee6-55a5218c1b89",
         "title": "Capital Markets Analyst - Chief Operating Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -383653,7 +383653,7 @@
         "company_name": "RTX",
         "id": "5888dabd-6d59-4e75-8626-283c075f4f8b",
         "title": "Validation Engineering Intern - Product Safety, Certification & Validation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391637,7 +391637,7 @@
         "company_name": "PerkinElmer",
         "id": "6c2a8e09-efa3-4608-9f96-7b3845760fee",
         "title": "Data Science Intern - Asset Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396904,7 +396904,7 @@
         "company_name": "CMC Markets",
         "id": "84931311-02f2-4eda-a858-88b3cd3612e2",
         "title": "AI Agent Developer Intern - CMC Funded",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
