@@ -325127,7 +325127,7 @@
         "company_name": "Trane Technologies",
         "id": "98540e92-9f57-4fcc-9005-6dc6593e8205",
         "title": "AI Intern - AI Product Management - AI Controls Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328531,7 +328531,7 @@
         "company_name": "Magna",
         "id": "47d95f89-f763-477d-a29f-ec7b46b0f160",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -331533,7 +331533,7 @@
         "company_name": "United Airlines",
         "id": "97b4860b-2ba5-4a16-b270-99e61c276351",
         "title": "Sales Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350517,7 +350517,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350647,7 +350647,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350858,7 +350858,7 @@
         "company_name": "Goldman Sachs",
         "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354435,7 +354435,7 @@
         "company_name": "Invesco",
         "id": "6716499c-74a8-4108-ab04-012b58e19656",
         "title": "Early Career Intern - Corporate Functions Data Office",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365485,7 +365485,7 @@
         "company_name": "Vercel",
         "id": "940140be-314d-40e2-8614-14d3a19bb049",
         "title": "Software Engineer Intern - Summer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -365883,7 +365883,7 @@
         "company_name": "General Motors",
         "id": "10dda9a8-fdca-4b2e-abf9-94844492a2ab",
         "title": "Global Customer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370511,7 +370511,7 @@
         "company_name": "Sun Life",
         "id": "2682b4f1-dbf0-4c6f-baea-d0d66b1c46aa",
         "title": "API Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -380581,7 +380581,7 @@
         "company_name": "Cozey",
         "id": "9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381802,7 +381802,7 @@
         "company_name": "Johnson & Johnson",
         "id": "6380881f-a45a-4afd-9856-5388dbf633d9",
         "title": "Postdoctoral Scientist - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -384060,7 +384060,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
