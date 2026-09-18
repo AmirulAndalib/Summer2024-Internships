@@ -6698,7 +6698,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -295617,7 +295617,7 @@
         "company_name": "RTX",
         "id": "ff1e3da0-fc8d-455a-bed2-9e8912f2fb6f",
         "title": "Quality Project Management and Data Analysis Tool Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -300358,7 +300358,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350139,7 +350139,7 @@
         "company_name": "Hexagon AB",
         "id": "0815e579-731a-4d0f-82d3-3c41aacc6bd8",
         "title": "Sensor Fusion Defence Intern - Aerospace & Defence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -361300,7 +361300,7 @@
         "company_name": "United Airlines",
         "id": "0b6231bf-1510-4b9c-b81b-7dbc9d578158",
         "title": "Operations Strategy Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -371405,7 +371405,7 @@
         "company_name": "Intel",
         "id": "02b45672-64be-4bea-b971-2efafc958466",
         "title": "AI and Compiler Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -378349,7 +378349,7 @@
         "company_name": "Lyft",
         "id": "81848c6b-09e5-4393-a0e2-56bf7063f68c",
         "title": "Software Engineer Intern - Fullstack - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383748,7 +383748,7 @@
         "company_name": "Intel",
         "id": "00477c84-78f9-450f-a8d3-9a9d51505a67",
         "title": "System Technology Research Engineer Intern - Foundry System Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -390697,7 +390697,7 @@
         "company_name": "APEX Analytix",
         "id": "00026218-6b9b-420f-a490-b3b29742cf17",
         "title": "Data Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395671,7 +395671,7 @@
         "company_name": "Intel",
         "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
         "title": "Operations Research Engineering Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
