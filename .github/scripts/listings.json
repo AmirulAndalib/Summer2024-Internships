@@ -345860,7 +345860,7 @@
         "company_name": "Amazon",
         "id": "f85975b2-74c3-4afa-af1a-99b5490dd403",
         "title": "Quantum Applied Science Intern - Center for Quantum Computing",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375352,7 +375352,7 @@
         "company_name": "Daimler Truck",
         "id": "0105235f-dc5b-4cda-b1c6-a3ef6acde3b1",
         "title": "Pricing Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -379176,7 +379176,7 @@
         "company_name": "AstraZeneca",
         "id": "05ca7eec-6d43-4bc4-a436-c0b5934fe1fc",
         "title": "Data and AI Solutions Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
