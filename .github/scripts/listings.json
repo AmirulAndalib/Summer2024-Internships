@@ -337416,7 +337416,7 @@
         "company_name": "RTX",
         "id": "b3addff6-36c0-4149-b127-cf3eba40aee2",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370300,7 +370300,7 @@
         "company_name": "Amperesand",
         "id": "4de22b57-49da-4b2d-8d4b-d292fe7f6a05",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -371218,7 +371218,7 @@
         "company_name": "Tradeweb",
         "id": "16018151-94b6-4172-ab4e-e415056f5970",
         "title": "Data Platform Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396572,7 +396572,7 @@
         "company_name": "Amperesand",
         "id": "0c0ace06-0c5c-415d-8ea4-7c6fedad6324",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -396645,7 +396645,7 @@
         "company_name": "Thales",
         "id": "85438569-5146-4790-a606-8ff4f540dc33",
         "title": "Computer Science Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
