@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 737 Inactive Internship Roles by Category
+### Browse 738 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (241)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (242)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (39)
 
@@ -214,6 +214,13 @@
 <td>8d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>C++ Distributed Systems Developer Intern - C++ Core Services</td>
+<td>Jersey City, NJ</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
 <td>Software Engineer Intern - Client Solutions Group Engineering</td>
 <td>Austin, TX</td>
@@ -365,7 +372,7 @@
 <td>Application Software Engineer Intern</td>
 <td>Niles, IL</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
@@ -883,7 +890,7 @@
 <td>Data & AI Solutions Engineering Summer Scholar Intern</td>
 <td>Atlanta, GA</td>
 <td>🔒</td>
-<td>29d</td>
+<td>30d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -4670,7 +4677,7 @@
 <td>Hardware Developer Intern</td>
 <td>Oakville, ON, Canada</td>
 <td>🔒</td>
-<td>14d</td>
+<td>15d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
