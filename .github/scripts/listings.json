@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Adobe",
-        "id": "24e4fe7a-c158-4858-8d85-2260621e15ac",
-        "title": "Intern - PhD Architecture",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769037571,
-        "date_posted": 1769037571,
-        "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/San-Jose/XMLNAME-2026-Intern---PhD-Architecture_R161662",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Adobe",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Micron Technology",
         "id": "35ead1c3-00a2-4fe3-909f-3e09640530c2",
         "title": "Intern \u2013 Smart Manufacturing and AI Data Science",
@@ -266,75 +242,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Delta Dental",
-        "id": "db13ad71-6d85-471a-ae19-62ea4a72bdda",
-        "title": "Intern-Application Development",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769038220,
-        "date_posted": 1769038220,
-        "url": "https://rhsc.wd5.myworkdayjobs.com/delta_dental_of_michigan/job/Okemos-MI/Internship--Application-Development_JR101123",
-        "locations": [
-            "East Lansing, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Delta-Dental",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Flagship Pioneering",
-        "id": "a43eb693-54af-4940-a5da-f4d87f10a402",
-        "title": "AI Research Scientist Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769038222,
-        "date_posted": 1769038222,
-        "url": "https://boards.greenhouse.io/flagshippioneeringinc/jobs/8373309002",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlagshipPioneering",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Autodesk",
-        "id": "7641f826-a327-44b0-81ea-11c56f5c1689",
-        "title": "Intern Software Developer - Stagiaire en D\u00e9veloppement Logiciel",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769038225,
-        "date_posted": 1769038225,
-        "url": "https://autodesk.wd1.myworkdayjobs.com/Ext/job/Montreal-QC-CAN/Intern-Software-Developer--Stagiaire-en-Dveloppement-Logiciel_26WD94950-1",
-        "locations": [
-            "Montreal, QC, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Oura",
         "id": "1702ddf2-65e2-420c-a09d-fc317a098886",
@@ -356,139 +263,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "NRG Energy",
-        "id": "d0a0fcf3-c70f-46da-a9e7-60c39d332fa0",
-        "title": "Salesforce Developer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769037566,
-        "date_posted": 1769037566,
-        "url": "https://careers.nrgenergy.com/SMARTHOMES/job/Salesforce-Developer-Intern-UT-84043/1358225200/?ats=successfactors",
-        "locations": [
-            "Lehi, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/NRG-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Rheem",
-        "id": "28cf55da-de72-4d62-9de8-acd1c928f46b",
-        "title": "Systems Engineering Intern/Co-Op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769037445,
-        "date_posted": 1769037445,
-        "url": "https://hdde.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX/job/3032",
-        "locations": [
-            "Roswell, GA",
-            "Montgomery, AL"
-        ],
-        "company_url": "https://simplify.jobs/c/Rheem",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Airspace Intelligence",
-        "id": "b7e46cd1-e1c4-4cfb-87fd-db14b3b8ff9e",
-        "title": "Software Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1769037790,
-        "date_posted": 1769037790,
-        "url": "https://jobs.ashbyhq.com/airspace-intelligence.com/c2ef5338-def2-4370-8ab0-0775466d8bf8/application",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Airspace-Intelligence",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Airspace Intelligence",
-        "id": "732340f6-9e9b-43d0-a57e-fab14dd1c648",
-        "title": "Software Engineer Intern - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769037787,
-        "date_posted": 1769037787,
-        "url": "https://jobs.ashbyhq.com/airspace-intelligence.com/8d49943d-197e-4b14-b4cf-3df91c7f8437/application",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Airspace-Intelligence",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "8VC",
-        "id": "4f823d92-e1f8-4a66-984a-ff619249f8f0",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769037692,
-        "date_posted": 1769037692,
-        "url": "https://jobs.ashbyhq.com/8vc/18c38932-7603-4fec-93a1-00cf4ef8acec/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/8VC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analytic Partners",
-        "id": "a9e6c970-319f-4892-b4f1-4425785dfc2b",
-        "title": "Marketing Science Analyst Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769037639,
-        "date_posted": 1769037639,
-        "url": "https://jobs.lever.co/analyticpartners/60df9a63-3970-45cc-8b66-14a5384b486b/apply",
-        "locations": [
-            "Texas",
-            "Dallas, TX",
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytic-Partners",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -949,30 +723,6 @@
             "Toronto, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "ALFA LAVAL",
-        "id": "eee2c33c-123f-4c91-9265-57fe06fb6900",
-        "title": "Digital Service Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769038176,
-        "date_posted": 1769038176,
-        "url": "https://alfalaval.wd3.myworkdayjobs.com/Alfa_Laval_jobs/job/Warrington/Digital-Service-Engineer-Intern_JR0042117",
-        "locations": [
-            "Greenwood, IN",
-            "Chalfont, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/ALFA-LAVAL",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
@@ -19515,30 +19265,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "838ee252-daeb-4f44-9a48-66fb5c9d070a",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769338361,
-        "date_posted": 1769037517,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Patient-Centered-Outcomes-Research-in-Data-Sciences-and-Analytics_202601-101257",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
         ]
     },
     {
