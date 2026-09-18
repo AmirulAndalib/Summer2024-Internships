@@ -349253,7 +349253,7 @@
         "company_name": "Microsoft",
         "id": "a4bb4181-58ef-45f8-8194-7e00cc47ab86",
         "title": "Data Scientist PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368478,7 +368478,7 @@
         "company_name": "CIBC",
         "id": "c59e6e6b-d564-4e9f-89e2-e3749eb142f0",
         "title": "Data Scientist Analyst - GTB",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -378208,7 +378208,7 @@
         "company_name": "University of Arkansas",
         "id": "c5a9d159-8969-4c4a-84ac-0fa8706caa1b",
         "title": "Student Cloud Data Integration and Infrastructure Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393960,7 +393960,7 @@
         "company_name": "Rockwell Automation",
         "id": "baa69c3b-4606-491a-9d5e-c8c2c345e9ca",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
