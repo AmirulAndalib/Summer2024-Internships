@@ -132285,7 +132285,7 @@
         "company_name": "TikTok",
         "id": "d7297bc9-b982-4d12-9a1a-ea5d22b7eba6",
         "title": "Product Manager Project Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -288948,7 +288948,7 @@
         "company_name": "Bank of Montreal",
         "id": "7ffcd789-ef9d-4dfa-a950-34fda3485559",
         "title": "Full Stack Engineer Intern - Data Cognition Team",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
