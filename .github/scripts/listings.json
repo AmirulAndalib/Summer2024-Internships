@@ -313177,7 +313177,7 @@
         "company_name": "Sun Life",
         "id": "b2d3a293-02ed-4860-a76b-6098d2adfcfe",
         "title": "Automation Specialist Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -370560,7 +370560,7 @@
         "company_name": "Entegris",
         "id": "fec06a2b-5901-4de2-b420-d67dde04d674",
         "title": "IT Digital Operations & Supply Chain Data Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -393848,7 +393848,7 @@
         "company_name": "Renesas Electronics",
         "id": "3b47cf45-490b-42f1-9fe1-8fb43bbb2df5",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
