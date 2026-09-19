@@ -302770,7 +302770,7 @@
         "company_name": "RTX",
         "id": "f96bb586-5dba-40b3-ad65-08b6decf9934",
         "title": "Repair & Overhaul Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -350705,7 +350705,7 @@
         "company_name": "RTX",
         "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
         "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -352181,7 +352181,7 @@
         "company_name": "Marvell",
         "id": "aeaa549f-9971-4a44-87a4-e897549cde00",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391789,7 +391789,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -392633,7 +392633,7 @@
         "company_name": "GE Healthcare",
         "id": "f93a68c5-be5c-43a5-9f4c-2deab0e77c2a",
         "title": "Infant Care 5&5 Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392727,7 +392727,7 @@
         "company_name": "Leidos",
         "id": "c378ab68-3965-4a8e-bcab-6b9125680eea",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -395421,7 +395421,7 @@
         "company_name": "OCC",
         "id": "cddeab16-284b-4b09-b61f-5bdb9dac600d",
         "title": "Data Intern - Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400414,6 +400414,29 @@
         "date_updated": 1789818516,
         "date_posted": 1789776000,
         "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12287",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearwater-Analytics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clearwater Analytics",
+        "id": "8ea8fa3a-2934-4575-8fc0-11bc13157037",
+        "title": "Technical Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789821204,
+        "date_posted": 1789776000,
+        "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12288",
         "locations": [
             "NYC"
         ],
