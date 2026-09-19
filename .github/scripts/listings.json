@@ -306749,7 +306749,7 @@
         "company_name": "L3Harris Technologies",
         "id": "8fe0fbae-59cc-4985-8962-d62969501a29",
         "title": "Configuration Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -400420,6 +400420,32 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Citadel",
+        "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
+        "title": "Machine Learning Researcher Intern - PhD",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1788505932,
+        "date_posted": 1782896943,
+        "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
+        "locations": [
+            "Greenwich, CT",
+            "Houston, TX",
+            "Miami, FL",
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Citadel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
         ]
     }
 ]
