@@ -2,78 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Citadel",
-        "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
-        "title": "Machine Learning Researcher \u2013 PhD Intern - US",
-        "active": true,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769066239,
-        "date_posted": 1769066239,
-        "url": "https://www.citadel.com/careers/details/machine-learning-researcher-phd-intern-us/",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Citadel",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Analytical Mechanics Associates",
-        "id": "c31505d8-c315-4479-87da-fe6ca40bdc95",
-        "title": "AI/ML Research Associate",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769066114,
-        "date_posted": 1769066114,
-        "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Hampton-VA/AI-ML-Research-Associate_R-100457",
-        "locations": [
-            "Remote in USA",
-            "Hampton, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/Analytical-Mechanics-Associates",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Westgate Resorts",
-        "id": "7e52c5f8-c50f-4bc3-9561-7da851eda20e",
-        "title": "Mortgage Analytics Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769065663,
-        "date_posted": 1769065663,
-        "url": "https://jobs.smartrecruiters.com/WestgateResorts/744000104839895",
-        "locations": [
-            "Winter Garden, FL"
-        ],
-        "company_url": "https://simplify.jobs/c/Westgate-Resorts",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "APL Logistics",
         "id": "e0fafefb-cdaa-41d6-ac01-53d66afad28a",
         "title": "Apprentice/Intern - Data Science & BI - Wms",
@@ -332695,7 +332623,7 @@
         "company_name": "United Airlines",
         "id": "fee4d0be-1cae-4798-833d-5e33b6f15169",
         "title": "Operations Data & Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354028,7 +353956,7 @@
         "company_name": "Microsoft",
         "id": "60ee867e-4f34-4612-8d71-3c6d969e2c70",
         "title": "Hardware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354052,7 +353980,7 @@
         "company_name": "Microsoft",
         "id": "6315146d-6cf9-4ca7-866f-001a7a9f3ff2",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388561,7 +388489,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "229689bf-b48d-4ba7-876d-c683215799d0",
         "title": "Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
