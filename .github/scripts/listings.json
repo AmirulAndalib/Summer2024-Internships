@@ -2,52 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "7cfbeb0c-af31-4f2f-be63-1929643b91f0",
-        "title": "Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769077919,
-        "date_posted": 1769077919,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556745603",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "American Express",
-        "id": "0019aa00-913b-4393-8edd-61e92809a205",
-        "title": "Software Engineer Internship",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769115848,
-        "date_posted": 1769078091,
-        "url": "https://aexp.eightfold.ai/careers/job/39688514",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/American-Express",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Robert Bosch Venture Capital",
         "id": "377cde1b-3654-44ad-8167-02d579b614f7",
         "title": "Calibration Process Data Science Intern",
@@ -294554,7 +294508,7 @@
         "company_name": "RTX",
         "id": "a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
         "title": "Conversion Systems Engineer 1 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -308831,7 +308785,7 @@
         "company_name": "RTX",
         "id": "a2ab2232-0294-4321-8831-a52bd5488178",
         "title": "Business Intelligence and Governance Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -313954,7 +313908,7 @@
         "company_name": "Deloitte",
         "id": "ec27d2f4-0e82-4c2b-b8c2-fc8a682baed1",
         "title": "AI Innovation Summer Scholar Intern - AI Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -323647,7 +323601,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -335266,7 +335220,7 @@
         "company_name": "RTX",
         "id": "a2193fa7-5d7c-4eca-b922-7990e3b89098",
         "title": "Data Analyst Intern - Global Sales",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -347045,7 +346999,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347068,7 +347022,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -347114,7 +347068,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355368,7 +355322,7 @@
         "company_name": "Airbus",
         "id": "d8a175dc-dacf-4319-b15b-58365b57fa61",
         "title": "Artificial Intelligence Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -358233,7 +358187,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -362690,7 +362644,7 @@
         "company_name": "Marvell",
         "id": "a216895f-9ab3-46c0-a5ed-ff818b0f4334",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371734,7 +371688,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
         "title": "AI & Data Science Intern - Analytic Capabilities",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383184,7 +383138,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385004,7 +384958,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394951,7 +394905,7 @@
         "company_name": "Wellington Management",
         "id": "a5380d17-1b9c-48ba-ada4-ae136e855000",
         "title": "Business Intelligence Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -395979,7 +395933,7 @@
         "company_name": "OCC",
         "id": "9f746496-421c-4ac5-8ac4-b19297427cfc",
         "title": "Quantitative Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397121,7 +397075,7 @@
         "company_name": "RTX",
         "id": "a122ed0c-a472-4787-80bd-a028823e70bc",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397874,7 +397828,7 @@
         "company_name": "NVIDIA",
         "id": "d58843db-952c-4753-94fe-da3da6efaa9d",
         "title": "PhD Research Intern - Circuits",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400422,6 +400376,29 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Centene",
+        "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
+        "title": "Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789814233,
+        "date_posted": 1789689600,
+        "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-FL/Centene-2027-Graduate-Summer-Intern_1660479",
+        "locations": [
+            "Florida"
+        ],
+        "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
