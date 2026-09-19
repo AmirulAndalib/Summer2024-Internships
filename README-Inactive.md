@@ -6,15 +6,15 @@
 
 ---
 
-### Browse 780 Inactive Internship Roles by Category
+### Browse 772 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (251)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (252)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (41)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (232)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (224)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (149)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (148)
 
 🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (107)
 
@@ -701,7 +701,7 @@
 <td>Software Engineering Intern - Technology</td>
 <td><details><summary><strong>6 locations</strong></summary>Austin, TX<br>Westlake, TX<br>Ann Arbor, MI<br>Southlake, TX<br>Omaha, NE<br>Phoenix, AZ</details></td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Booz-Allen?utm_source=GHList&utm_medium=company">Booz Allen</a></strong></td>
@@ -1076,6 +1076,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Goldman-Sachs?utm_source=GHList&utm_medium=company">Goldman Sachs</a></strong></td>
+<td>Summer Analyst Intern - Engineering</td>
+<td>Dallas, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Summer Analyst Intern - Americas - Engineering</td>
 <td>Salt Lake City, UT</td>
 <td>🔒</td>
@@ -2174,13 +2181,6 @@
 </thead>
 <tbody>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/LexisNexis-Legal-And-Professional?utm_source=GHList&utm_medium=company">LexisNexis Legal & Professional</a></strong></td>
-<td>Data Science Intern</td>
-<td>Raleigh, NC</td>
-<td>🔒</td>
-<td>4d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/GlobalFoundries?utm_source=GHList&utm_medium=company">GlobalFoundries</a></strong></td>
 <td>Systems Engineer Intern</td>
 <td>Richardson, TX</td>
@@ -2205,27 +2205,6 @@
 <td>↳</td>
 <td>Commercial Analytics and Optimization Team Intern</td>
 <td>Raleigh, NC</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Motorsports Strategy Intern - Sportscar Motorsports Strategy</td>
-<td>Concord, NC</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Summer Intern - Performance Analysis</td>
-<td>Concord, NC</td>
-<td>🔒</td>
-<td>5d</td>
-</tr>
-<tr>
-<td>↳</td>
-<td>Race Strategy & Analytics Intern - IndyCar</td>
-<td>Concord, NC</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
@@ -2272,13 +2251,6 @@
 <td>8d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Economics Intern 🎓</td>
-<td>Washington, DC<br>Warren, MI</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Allen-Control-Systems?utm_source=GHList&utm_medium=company">Allen Control Systems</a></strong></td>
 <td>Systems Engineering Intern</td>
 <td>Austin, TX</td>
@@ -2314,23 +2286,9 @@
 <td>10d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/AArete?utm_source=GHList&utm_medium=company">AArete</a></strong></td>
-<td>Data Architecture & Engineering Intern</td>
-<td>Chicago, IL</td>
-<td>🔒</td>
-<td>10d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Artificial Intelligence / Machine Learning Methods Intern</td>
 <td>East Hartford, CT</td>
-<td>🔒</td>
-<td>11d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
-<td>Global Customer Research Intern 🎓</td>
-<td>Washington, DC<br>Warren, MI</td>
 <td>🔒</td>
 <td>11d</td>
 </tr>
@@ -2347,13 +2305,6 @@
 <td>Newcastle upon Tyne, UK</td>
 <td>🔒</td>
 <td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/AArete?utm_source=GHList&utm_medium=company">AArete</a></strong></td>
-<td>Business Analytics Intern - Summer 2027</td>
-<td>Chicago, IL</td>
-<td>🔒</td>
-<td>14d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/BMO?utm_source=GHList&utm_medium=company">Bank of Montreal</a></strong></td>
@@ -2759,14 +2710,14 @@
 <td>Supply Chain Data & Analytics Intern</td>
 <td>LA<br>Torrance, CA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Charles-Schwab?utm_source=GHList&utm_medium=company">Charles Schwab</a></strong></td>
 <td>Data Engineering Intern - Data Engineering</td>
 <td>Austin, TX<br>Westlake, TX<br>Southlake, TX</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CSX?utm_source=GHList&utm_medium=company">CSX</a></strong></td>
@@ -3966,13 +3917,6 @@
 <td>19d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Schroders?utm_source=GHList&utm_medium=company">Schroders</a></strong></td>
-<td>Public Markets Quants Intern - Quants (Public Markets)</td>
-<td>London, UK</td>
-<td>🔒</td>
-<td>21d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Citigroup?utm_source=GHList&utm_medium=company">Citi</a></strong></td>
 <td>Quantitative Risk Management Summer Analyst Intern - Functions 🎓</td>
 <td>Getzville, University at Buffalo, NY</td>
@@ -5104,7 +5048,7 @@
 <td>RF Engineer Intern - Summer Internship</td>
 <td>LA<br>Torrance, CA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CesiumAstro?utm_source=GHList&utm_medium=company">CesiumAstro</a></strong></td>
