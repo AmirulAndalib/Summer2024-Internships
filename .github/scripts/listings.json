@@ -292406,7 +292406,7 @@
         "company_name": "SharkNinja",
         "id": "cf68c1ba-7041-4bca-bf76-d41bac3fad43",
         "title": "Performance Data Co-op - Marketplace Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -302572,7 +302572,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "4eebc60e-4321-4b2b-863e-a883806b4375",
         "title": "Data Enablement Co-op - Data Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361688,7 +361688,7 @@
         "company_name": "TJX",
         "id": "4685735f-a237-4659-9634-7269cc04f41c",
         "title": "Merchandise Operations Analyst Co-op Intern - Winter Term",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389864,7 +389864,7 @@
         "company_name": "RTX",
         "id": "6f44a57e-69f3-4a80-91ad-8417c1164dea",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
