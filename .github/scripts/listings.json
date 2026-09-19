@@ -301003,7 +301003,7 @@
         "company_name": "Ontario Teachers' Pension Plan",
         "id": "deafc16b-b9d8-4b84-b748-2dafcb25b2c7",
         "title": "Business Insights and Analytics Intern - Member Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -348388,7 +348388,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "d6df302f-694e-405d-b557-61e18845a0be",
         "title": "Software Engineer Intern - Power Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -352309,7 +352309,7 @@
         "company_name": "Marvell",
         "id": "b187c223-0bc3-4f82-9be4-30a9212be7b4",
         "title": "IC Validation Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -363177,7 +363177,7 @@
         "company_name": "Fasanara",
         "id": "ee7df455-7d62-4d63-a298-d8b4959c809b",
         "title": "Quant Trading Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369655,7 +369655,7 @@
         "company_name": "The MJ Companies",
         "id": "1307add2-6463-4f8d-ba8b-6c10196c7d64",
         "title": "Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -394553,7 +394553,7 @@
         "company_name": "Marvell",
         "id": "5aa227fb-8db0-4113-81ec-a0441660db19",
         "title": "SRAM Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -400395,6 +400395,29 @@
             "Florida"
         ],
         "company_url": "https://simplify.jobs/c/Centene",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "Clearwater Analytics",
+        "id": "382357f2-104c-4cb0-a43a-4a11f0f6e6ab",
+        "title": "Technical Product Manager Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789818516,
+        "date_posted": 1789776000,
+        "url": "https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Product-Management-Intern_R12287",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Clearwater-Analytics",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
