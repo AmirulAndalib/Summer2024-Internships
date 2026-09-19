@@ -2,30 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "APL Logistics",
-        "id": "e0fafefb-cdaa-41d6-ac01-53d66afad28a",
-        "title": "Apprentice/Intern - Data Science & BI - Wms",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769077776,
-        "date_posted": 1769077776,
-        "url": "https://hcut.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3761",
-        "locations": [
-            "Scottsdale, AZ"
-        ],
-        "company_url": "https://simplify.jobs/c/APL-Logistics",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Microsoft",
         "id": "7cfbeb0c-af31-4f2f-be63-1929643b91f0",
         "title": "Research Intern",
@@ -291347,7 +291323,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294578,7 +294554,7 @@
         "company_name": "RTX",
         "id": "a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
         "title": "Conversion Systems Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -308855,7 +308831,7 @@
         "company_name": "RTX",
         "id": "a2ab2232-0294-4321-8831-a52bd5488178",
         "title": "Business Intelligence and Governance Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -312016,7 +311992,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321701,7 +321677,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -323671,7 +323647,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335290,7 +335266,7 @@
         "company_name": "RTX",
         "id": "a2193fa7-5d7c-4eca-b922-7990e3b89098",
         "title": "Data Analyst Intern - Global Sales",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -362083,7 +362059,7 @@
         "company_name": "Vercel",
         "id": "940140be-314d-40e2-8614-14d3a19bb049",
         "title": "Software Engineer Intern - Summer",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -362714,7 +362690,7 @@
         "company_name": "Marvell",
         "id": "a216895f-9ab3-46c0-a5ed-ff818b0f4334",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365857,7 +365833,7 @@
         "company_name": "Collier Aerospace",
         "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
         "title": "Software Engineer Intern - Web Applications - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371758,7 +371734,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ed605070-d6fd-49c3-a4f4-dc442d4fbc15",
         "title": "AI & Data Science Intern - Analytic Capabilities",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374680,7 +374656,7 @@
         "company_name": "Fidelity Investments",
         "id": "71e7a50c-dbfa-43e2-a899-2883fb7c6b5b",
         "title": "Advanced Data Analytics and Insights Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -384478,7 +384454,7 @@
         "company_name": "RTX",
         "id": "8e2ae72c-1197-4234-9ceb-9e8f692add91",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -392410,7 +392386,7 @@
         "company_name": "nVent",
         "id": "8801ee08-2b1c-4858-9978-77ec6600fd87",
         "title": "Engineering Lab Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394975,7 +394951,7 @@
         "company_name": "Wellington Management",
         "id": "a5380d17-1b9c-48ba-ada4-ae136e855000",
         "title": "Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -396003,7 +395979,7 @@
         "company_name": "OCC",
         "id": "9f746496-421c-4ac5-8ac4-b19297427cfc",
         "title": "Quantitative Risk Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
