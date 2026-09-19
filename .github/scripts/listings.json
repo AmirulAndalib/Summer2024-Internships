@@ -5410,7 +5410,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -350655,7 +350655,7 @@
         "company_name": "Principal Financial Group",
         "id": "12e13643-ecc8-42a5-b20c-2c17fd0c17a0",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357898,7 +357898,7 @@
         "company_name": "United Airlines",
         "id": "0b6231bf-1510-4b9c-b81b-7dbc9d578158",
         "title": "Operations Strategy Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -360332,7 +360332,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361639,7 +361639,7 @@
         "company_name": "TJX",
         "id": "066c8aef-359c-430a-a8c6-4a97df74e69a",
         "title": "Business Intelligence & Automation Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -375893,7 +375893,7 @@
         "company_name": "Microsoft",
         "id": "ebc7d1a1-b5b8-4837-b209-d99b4aa18795",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
