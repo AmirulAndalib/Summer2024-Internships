@@ -342011,7 +342011,7 @@
         "company_name": "Nio",
         "id": "da434a40-5732-4900-855f-676aa5cd10e7",
         "title": "AI Robotics Researcher Intern - Dexterous Manipulation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -348388,7 +348388,7 @@
         "company_name": "Schweitzer Engineering Laboratories",
         "id": "d6df302f-694e-405d-b557-61e18845a0be",
         "title": "Software Engineer Intern - Power Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -355322,7 +355322,7 @@
         "company_name": "Airbus",
         "id": "d8a175dc-dacf-4319-b15b-58365b57fa61",
         "title": "Artificial Intelligence Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -358187,7 +358187,7 @@
         "company_name": "Airbus",
         "id": "4dc86313-ac1f-4d5e-a766-6c8629caffcf",
         "title": "Satellite Digital Systems",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -363177,7 +363177,7 @@
         "company_name": "Fasanara",
         "id": "ee7df455-7d62-4d63-a298-d8b4959c809b",
         "title": "Quant Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369655,7 +369655,7 @@
         "company_name": "The MJ Companies",
         "id": "1307add2-6463-4f8d-ba8b-6c10196c7d64",
         "title": "Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -383138,7 +383138,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384958,7 +384958,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -397828,7 +397828,7 @@
         "company_name": "NVIDIA",
         "id": "d58843db-952c-4753-94fe-da3da6efaa9d",
         "title": "PhD Research Intern - Circuits",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
