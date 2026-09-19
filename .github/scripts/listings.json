@@ -302530,7 +302530,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "ebd87bba-2182-484a-a223-57512cd8ca69",
         "title": "Data Enablement Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -317455,7 +317455,7 @@
         "company_name": "GE Aerospace",
         "id": "18b29304-73eb-4fb8-9b9a-8089fb12d1a7",
         "title": "Applied AI Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -321725,7 +321725,7 @@
         "company_name": "Wealthsimple",
         "id": "67340ee9-6aab-4f03-995d-9c97cc144f15",
         "title": "Software Development Intern / Data Science Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -365124,7 +365124,7 @@
         "company_name": "CIBC",
         "id": "a2838a78-bc75-4a6c-8307-5250edd87499",
         "title": "Payments \u2013 Product & Design Cash Management Student Analyst - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -387180,7 +387180,7 @@
         "company_name": "Northrop Grumman",
         "id": "bdfbfca1-ffec-468f-a042-b1fac1c61036",
         "title": "Cyber Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
