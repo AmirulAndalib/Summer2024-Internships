@@ -2170,7 +2170,7 @@
         "company_name": "Boston Consulting Group",
         "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303249,7 +303249,7 @@
         "company_name": "TikTok",
         "id": "63b147f7-67e5-40ea-bf27-906ad1de151c",
         "title": "Product Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
