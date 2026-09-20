@@ -299323,7 +299323,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -350812,7 +350812,7 @@
         "company_name": "Marvell",
         "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
         "title": "Design Verification Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -354395,7 +354395,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -362617,7 +362617,7 @@
         "company_name": "Collier Aerospace",
         "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
         "title": "Software Engineer Intern - Web Applications - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369114,7 +369114,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -373757,7 +373757,7 @@
         "company_name": "Cone Health",
         "id": "60bd3418-218f-4b15-8d31-ef859ef98887",
         "title": "Healthcare Innovation Intern - AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -377418,7 +377418,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -384272,7 +384272,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -385504,7 +385504,7 @@
         "company_name": "NVIDIA",
         "id": "647e0b46-cfaa-46bc-8d91-9aa2103d57d6",
         "title": "Generative AI Research Intern - Fundamental Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390707,7 +390707,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392580,7 +392580,7 @@
         "company_name": "4AG Robotics",
         "id": "5fb2e4f9-0eb7-43f3-8775-1fff0a8a0927",
         "title": "AI Co-op Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -394682,7 +394682,7 @@
         "company_name": "Micron Technology",
         "id": "2e6978bb-ece5-4ba5-9ed6-b6b11bed2627",
         "title": "ASIC Digital Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
