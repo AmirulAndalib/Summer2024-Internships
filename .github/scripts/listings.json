@@ -291315,7 +291315,7 @@
         "company_name": "RTX",
         "id": "a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
         "title": "Conversion Systems Engineer 1 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -299015,7 +299015,7 @@
         "company_name": "Bank of Montreal",
         "id": "e1faa8ac-d3b5-4a76-acfb-818860446711",
         "title": "Data Science Analyst Co-op Intern - Audit AI & Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -371269,7 +371269,7 @@
         "company_name": "Fidelity Investments",
         "id": "fdf294f1-8d5f-4fc0-9d6b-3c418d70afc8",
         "title": "Software Engineer Co-op - Fidelity Center for Applied Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382810,7 +382810,7 @@
         "company_name": "NVIDIA",
         "id": "e4d72b3b-b6d8-46ec-a879-a0f2664ed75d",
         "title": "PhD Research Intern - Generative AI for Physical AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
