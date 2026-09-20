@@ -267396,7 +267396,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -299323,7 +299323,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -309639,7 +309639,7 @@
         "company_name": "Leidos",
         "id": "083cfc54-1c27-4fc6-ab89-6606e06aca1f",
         "title": "Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -350812,7 +350812,7 @@
         "company_name": "Marvell",
         "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354395,7 +354395,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369114,7 +369114,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -373132,7 +373132,7 @@
         "company_name": "Amgen",
         "id": "079b70ee-8105-46b4-9163-319c8610f157",
         "title": "Software Engineer Intern - Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -373757,7 +373757,7 @@
         "company_name": "Cone Health",
         "id": "60bd3418-218f-4b15-8d31-ef859ef98887",
         "title": "Healthcare Innovation Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -392580,7 +392580,7 @@
         "company_name": "4AG Robotics",
         "id": "5fb2e4f9-0eb7-43f3-8775-1fff0a8a0927",
         "title": "AI Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394682,7 +394682,7 @@
         "company_name": "Micron Technology",
         "id": "2e6978bb-ece5-4ba5-9ed6-b6b11bed2627",
         "title": "ASIC Digital Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
