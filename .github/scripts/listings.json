@@ -339847,7 +339847,7 @@
         "company_name": "Bank of Montreal",
         "id": "e0651f34-c8da-4f75-9860-a97bbc100220",
         "title": "Business Analyst Co-op Intern - Data and Change Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -352955,7 +352955,7 @@
         "company_name": "Bank of Montreal",
         "id": "b0c85075-d0b9-467f-82ad-f5c5e06fbaf7",
         "title": "Business Analyst Co-op Intern - Data and Change Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -352978,7 +352978,7 @@
         "company_name": "Bank of Montreal",
         "id": "7e26e1b6-a92e-4f8c-af12-b34b8b03ea21",
         "title": "Climate Risk Reporting Analyst Co-op Intern - Winter 2027 - 4 Months",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -379637,7 +379637,7 @@
         "company_name": "Pace",
         "id": "1a642388-e27f-433e-b8ec-63c5709ac3aa",
         "title": "Forward Deployed Engineer Intern - Applied AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
