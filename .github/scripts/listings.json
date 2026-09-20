@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "SRI International",
-        "id": "e7f7d326-1656-4c3f-ae8d-8bdcfd2739e6",
-        "title": "Research Intern - Computational Design",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769181068,
-        "date_posted": 1769181068,
-        "url": "https://careers-sri.icims.com/jobs/6316/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Menlo Park, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/SRI-International",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Graphcore",
         "id": "c98343bc-6999-4e4b-aebd-f2e8eccc5a7f",
@@ -137,55 +113,6 @@
             "Remote in Canada"
         ],
         "company_url": "https://simplify.jobs/c/Autodesk",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "GE Appliances",
-        "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
-        "title": "Software Engineering Co-op Spring 2027",
-        "active": true,
-        "terms": [
-            "Spring 2027"
-        ],
-        "date_updated": 1769182182,
-        "date_posted": 1769182182,
-        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-Louisville-KY/Software-Engineering-Co-op-Spring-2027_REQ-24832",
-        "locations": [
-            "Louisville, KY"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Appliances",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Varian",
-        "id": "05d7f20e-3a3b-4ef2-9b00-b9b76b83c6f1",
-        "title": "Product Engineering Assistant \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769181742,
-        "date_posted": 1769181742,
-        "url": "https://onehealthineers.wd3.myworkdayjobs.com/SHSJB/job/YOW-B/Product-Engineering-Assistant--Co-op-_R-25864",
-        "locations": [
-            "Ottawa, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/670da3c5-bce0-4621-b519-da7ce7d528e6",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
