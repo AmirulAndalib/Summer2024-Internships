@@ -320431,7 +320431,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350919,7 +350919,7 @@
         "company_name": "Marvell",
         "id": "8dd02cc4-88fb-4046-8f93-5fdfada18ccb",
         "title": "Physical Design Engineer Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362617,7 +362617,7 @@
         "company_name": "Collier Aerospace",
         "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
         "title": "Software Engineer Intern - Web Applications - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377418,7 +377418,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -385504,7 +385504,7 @@
         "company_name": "NVIDIA",
         "id": "647e0b46-cfaa-46bc-8d91-9aa2103d57d6",
         "title": "Generative AI Research Intern - Fundamental Generative AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -389146,7 +389146,7 @@
         "company_name": "Marvell",
         "id": "8ae81b2e-5edf-4abd-a7bb-22ca99648273",
         "title": "IC Validation Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390707,7 +390707,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
