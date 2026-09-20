@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "National Renewable Energy Laboratory",
-        "id": "7a5ca637-f7bb-446f-a991-09783f15e090",
-        "title": "Undergraduate/Graduate \u2013 Intern - Summer - Cyber Mission Assurance",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769153525,
-        "date_posted": 1769153525,
-        "url": "https://nrel.wd5.myworkdayjobs.com/nrel/job/Golden-CO/Undergraduate-Graduate--Summer--Intern---Cyber-Mission-Assurance_R14131",
-        "locations": [
-            "Golden, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/National-Renewable-Energy-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "GE Vernova",
         "id": "1e422945-c4ed-47f7-8b77-f706d6578f73",
         "title": "Data Analyst Intern - Competency Management",
@@ -347488,7 +347463,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "c32cbbd3-747f-429e-9658-bd8464e5e370",
         "title": "Global Investment Banking Analyst",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
