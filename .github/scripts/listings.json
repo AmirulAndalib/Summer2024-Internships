@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Micron Technology",
-        "id": "8a69bb29-9a82-4bb3-bee0-5c0468086d01",
-        "title": "Intern \u2013 IT MFG",
-        "active": false,
-        "terms": [
-            "Fall 2026",
-            "Winter 2026"
-        ],
-        "date_updated": 1769257596,
-        "date_posted": 1769257596,
-        "url": "https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-MFG_JR89122",
-        "locations": [
-            "Boise, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Micron-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "EVgo",
         "id": "d5522ab9-796e-420b-93ad-c03292ff43ee",
@@ -305879,7 +305854,7 @@
         "company_name": "RTX",
         "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
         "title": "Customer Data Management and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -315902,7 +315877,7 @@
         "company_name": "Adobe",
         "id": "c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
         "title": "Machine Learning Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341498,7 +341473,7 @@
         "company_name": "Premier",
         "id": "8301a1da-b9e0-469a-9cb1-ed1913e214ed",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357631,7 +357606,7 @@
         "company_name": "TikTok",
         "id": "a07827a9-ad39-4bc7-ac54-89535faf28db",
         "title": "Product Manager Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -364271,7 +364246,7 @@
         "company_name": "Hudl",
         "id": "d3494dea-dbb5-4557-a1f2-4676143b6cd5",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366735,7 +366710,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "cf4eba84-edd0-4c2e-9bfe-1b438927eba9",
         "title": "Markets Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376397,7 +376372,7 @@
         "company_name": "Marvell",
         "id": "437cd6b5-027a-421a-90aa-3cf4915196c5",
         "title": "Analog Layout Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -376420,7 +376395,7 @@
         "company_name": "Marvell",
         "id": "adb1e815-47fe-4268-911a-3c542a8a5b4e",
         "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -378039,7 +378014,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -379098,7 +379073,7 @@
         "company_name": "CAI",
         "id": "593f743d-dbf9-4e74-97a9-3e11236aaddd",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382663,7 +382638,7 @@
         "company_name": "RTX",
         "id": "d3493d3d-52cf-4bc5-a30a-2f26571b4b4b",
         "title": "Software Developer Intern - Digital Engine Services - Ground Cloud Software Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -383313,7 +383288,7 @@
         "company_name": "NVIDIA",
         "id": "647e0b46-cfaa-46bc-8d91-9aa2103d57d6",
         "title": "Generative AI Research Intern - Fundamental Generative AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
