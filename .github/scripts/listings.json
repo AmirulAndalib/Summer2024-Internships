@@ -282297,7 +282297,7 @@
         "company_name": "Wells Fargo",
         "id": "93ceecd3-ef7a-4e11-a4d0-fb7eb399e7f3",
         "title": "Quantitative Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -305311,7 +305311,7 @@
         "company_name": "L3Harris Technologies",
         "id": "15f5617b-df43-41d3-b529-d1458277c5cd",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389441,7 +389441,7 @@
         "company_name": "Robert Bosch Venture Capital",
         "id": "3f405abf-6caa-4ae6-8c84-3d7c8931051a",
         "title": "AI Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027",
