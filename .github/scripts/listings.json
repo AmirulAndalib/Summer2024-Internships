@@ -353939,7 +353939,7 @@
         "company_name": "John Deere",
         "id": "b1f194a0-7d0c-43a1-8341-064d5e8cb99e",
         "title": "Embedded Robotics Engineering Student - Product Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371418,7 +371418,7 @@
         "company_name": "Commure",
         "id": "6a833744-e49d-4159-a168-e07ab82f981b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
