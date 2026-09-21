@@ -291525,7 +291525,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304415,7 +304415,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1ff986e7-1259-4ef6-be26-7e2bcc66303b",
         "title": "Data & AI Intern - Balance Sheet and Liquidity Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -310281,7 +310281,7 @@
         "company_name": "Charles Schwab",
         "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341522,7 +341522,7 @@
         "company_name": "Premier",
         "id": "018b3915-5456-4f05-b3d3-4f7410a98b0d",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354901,7 +354901,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386080,7 +386080,7 @@
         "company_name": "Barr",
         "id": "79e0f6b0-0ebd-4559-9d9c-88216eb679cb",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
