@@ -289521,7 +289521,7 @@
         "company_name": "Wells Fargo",
         "id": "07139441-d9d3-4130-a236-620296b3a62a",
         "title": "Quantitative Analytics Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -291525,7 +291525,7 @@
         "company_name": "NVIDIA",
         "id": "03f5f454-515c-41f5-b670-e30a0e59a27e",
         "title": "Hardware ASIC Design Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -328064,7 +328064,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "0b2a9c96-185a-485d-bfc8-3ea3fbb8101b",
         "title": "ALM Risk Data & Automation Analyst Intern - Group Risk Management - Balance Sheet and Liquidity Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -348504,7 +348504,7 @@
         "company_name": "ATCO",
         "id": "2391b023-90fd-40d2-80e0-aa9e1f25abe1",
         "title": "Data Analytics Co-op - Customer Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354901,7 +354901,7 @@
         "company_name": "AArete",
         "id": "0ce18659-d44b-4bc1-8341-275eda5c3c69",
         "title": "Data Architecture & Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -365554,7 +365554,7 @@
         "company_name": "Canadian Tire",
         "id": "1b3aec3c-4c0c-4efb-a5bc-1e8fc5416875",
         "title": "Data Analyst Student - Winter Term 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -371906,7 +371906,7 @@
         "company_name": "Blue Robotics",
         "id": "4460b93d-f497-449c-9378-4be985d50e83",
         "title": "Electronics Design Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381794,7 +381794,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386152,7 +386152,7 @@
         "company_name": "RTX",
         "id": "06c5700d-2702-4f7a-a7c1-e713c7de94a4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394953,7 +394953,7 @@
         "company_name": "DatologyAI",
         "id": "f1aa6de1-3a54-4326-ac1b-83233e314a0b",
         "title": "Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
