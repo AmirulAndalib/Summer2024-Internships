@@ -365010,7 +365010,7 @@
         "company_name": "Target",
         "id": "8ee871d8-4385-49e0-9f0d-1f89f3ed0863",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388391,7 +388391,7 @@
         "company_name": "Howmet Aerospace",
         "id": "57ded721-ead9-440b-999c-b6f3861f72ed",
         "title": "Artificial Intelligence Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395874,6 +395874,54 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Boston Consulting Group",
+        "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
+        "title": "Forward Deployed AI Engineer Intern - BCG X",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789985372,
+        "date_posted": 1781474863,
+        "url": "https://careers.bcg.com/global/en/job/56635",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Boston Consulting Group",
+        "id": "128e7ee0-9110-45e1-992d-270f1fa2be3d",
+        "title": "Forward Deployed AI Scientist Intern - United Kingdom - BCG X",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789979405,
+        "date_posted": 1781474867,
+        "url": "https://careers.bcg.com/global/en/job/56634",
+        "locations": [
+            "London, UK"
+        ],
+        "company_url": "https://simplify.jobs/c/Boston-Consulting-Group",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's",
             "PhD"
         ]
