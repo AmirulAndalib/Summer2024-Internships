@@ -288156,7 +288156,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "639d98a3-934b-4fe7-90f6-1fa6f9302286",
         "title": "Software Developer Co-op - Quantitative Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288179,7 +288179,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "84ac928f-e494-4c4c-a38e-48492b213859",
         "title": "Machine Learning Software Engineer Co-op - RBC Borealis",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288941,7 +288941,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "ca2a28c6-6f13-4f6e-a05e-70bbce112fde",
         "title": "Software Developer Co-op - Technology & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -289059,7 +289059,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "97fb51eb-1ac2-4864-ae06-c8f8ac768c62",
         "title": "Technology and Operations Developer Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -289105,7 +289105,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "439d0af1-5764-46b3-9149-0e01018b498d",
         "title": "Developer Co-op - Multiple Roles",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -294311,7 +294311,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "6aaa0178-7e9c-40a4-8a80-18830713936b",
         "title": "Portfolio Risk Data & AI Analyst Intern - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -305386,7 +305386,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "f0439451-18a0-4124-8fb4-61359a23df26",
         "title": "Data Scientist Intern - Ecco",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -306419,7 +306419,7 @@
         "company_name": "Canadian Tire",
         "id": "309c0d81-577f-48b1-b581-ce6643327ae4",
         "title": "Banking Analytics Student - 4 months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308365,7 +308365,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "cc3d43bc-e91d-4fb7-9ec7-e684f60ad268",
         "title": "Data Analyst Developer Intern - 8 Months - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -330569,7 +330569,7 @@
         "company_name": "Mackenzie Investments",
         "id": "6d622ec5-713f-4f07-8fe8-87d5b3d84a8e",
         "title": "Quantitative Developer Intern - Investment Management - Fixed Income Platform Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
