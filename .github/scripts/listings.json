@@ -285733,7 +285733,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -310309,7 +310309,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -314176,7 +314176,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -318191,7 +318191,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341791,7 +341791,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341814,7 +341814,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341838,7 +341838,7 @@
         "company_name": "Goldman Sachs",
         "id": "8f346a45-4490-4243-933e-264e3916e701",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341861,7 +341861,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -352204,7 +352204,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -365463,7 +365463,7 @@
         "company_name": "Garmin",
         "id": "fae66348-df21-4b6a-a2b0-d344bf7543ba",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365486,7 +365486,7 @@
         "company_name": "The Toro Company",
         "id": "1beafc6b-26c4-4dd9-9396-8b9792b26456",
         "title": "Hardware and Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370058,7 +370058,7 @@
         "company_name": "Veeam Software",
         "id": "e6df818f-b6e5-4b99-829a-1caa3b2e180c",
         "title": "Services Portfolio Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371748,7 +371748,7 @@
         "company_name": "Cozey",
         "id": "9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -375227,7 +375227,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -390389,7 +390389,7 @@
         "company_name": "4AG Robotics",
         "id": "5fb2e4f9-0eb7-43f3-8775-1fff0a8a0927",
         "title": "AI Co-op Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -395555,5 +395555,29 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Northrop Grumman",
+        "id": "3f8ecfdc-461f-4732-bf24-79251228640c",
+        "title": "Embedded Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1789984745,
+        "date_posted": 1789948800,
+        "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
+        "locations": [
+            "Camarillo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Northrop-Grumman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
     }
 ]
