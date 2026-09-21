@@ -1,31 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nuro",
-        "id": "a6e4d29a-e90e-4d66-afab-43fbab49ea89",
-        "title": "Systems Engineering Intern - Compliance Coverage ML",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769240207,
-        "date_posted": 1769240207,
-        "url": "https://nuro.ai/careersitem?gh_jid=7562197",
-        "locations": [
-            "Mountain View, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nuro",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Micron Technology",
         "id": "8a69bb29-9a82-4bb3-bee0-5c0468086d01",
@@ -287993,7 +287968,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "192ea991-da08-407c-8609-f30142e9d051",
         "title": "Developer Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -298557,7 +298532,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "30c84bb4-705d-48e7-9877-1e65c271ce11",
         "title": "Data Intern - ECCO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -384288,7 +384263,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "56083f58-d4ed-4ca0-8bd9-321b06f71acc",
         "title": "AI and Autonomous Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
