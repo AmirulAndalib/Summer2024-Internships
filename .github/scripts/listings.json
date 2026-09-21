@@ -288110,7 +288110,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "1babc71b-6886-48e4-9870-7503ec24824f",
         "title": "Technology & Operations Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -288278,7 +288278,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d6b86750-e627-46d2-92a1-90ec653e1238",
         "title": "Technology & Operations Student - Data Specialists",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -308186,7 +308186,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "aff12058-21b0-4489-ba44-3634afe09da9",
         "title": "Global AML Metrics Reporting Analyst Co-op - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -354367,7 +354367,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "ff8aad99-ec87-4706-9cf1-ced821e509ba",
         "title": "Data Analyst Intern - CLAO",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
