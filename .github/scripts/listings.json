@@ -266559,7 +266559,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -308115,7 +308115,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "b273bb27-6dcd-4b3f-9655-1e65dc080ae2",
         "title": "Data Analyst Developer Intern - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -312215,7 +312215,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "a35e806c-4423-4046-bc8f-f81f8e6782c1",
         "title": "Data Analyst Intern - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -318240,7 +318240,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -379597,7 +379597,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381651,7 +381651,7 @@
         "company_name": "APEX Analytix",
         "id": "ca1230ad-cc73-4cd9-a19a-9bfc1d42fb23",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385474,7 +385474,7 @@
         "company_name": "EQT Corporation",
         "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
         "title": "Data Engineering Intern - Completions Services",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -388279,7 +388279,7 @@
         "company_name": "Visa",
         "id": "92807540-7edf-40a4-87d1-ea892d3e44ca",
         "title": "Staff Research Scientist Intern - Foundational AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -395578,6 +395578,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "ABEC",
+        "id": "e4f74430-6399-401d-97ca-da938138aeb3",
+        "title": "Project Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1789987141,
+        "date_posted": 1789364195,
+        "url": "https://recruiting.paylocity.com/Recruiting/Jobs/Details/4500637",
+        "locations": [
+            "Springfield, MO"
+        ],
+        "company_url": "https://simplify.jobs/c/ABEC",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
