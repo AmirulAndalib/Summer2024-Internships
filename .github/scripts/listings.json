@@ -223429,7 +223429,7 @@
         "company_name": "Copart",
         "id": "ecb57e2b-b9a6-4967-9d05-bd9596de3537",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -257173,7 +257173,7 @@
         "company_name": "ROCKWOOL Group",
         "id": "c26b2364-8f05-423f-8def-b6d4e6b8ffd0",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -373897,7 +373897,7 @@
         "company_name": "AWE",
         "id": "4daa1657-29ca-4573-a285-fd3c5bd338d4",
         "title": "Computer Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393080,7 +393080,7 @@
         "company_name": "CME Group",
         "id": "26e8e7c9-e37c-42ee-b931-4f4a447fec2d",
         "title": "Software Engineering Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
