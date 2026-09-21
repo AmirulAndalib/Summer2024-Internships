@@ -295814,7 +295814,7 @@
         "company_name": "Cigna Group",
         "id": "024af855-b60d-44e5-8ca0-8446b24f70e7",
         "title": "Technology Apprentice - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -393706,7 +393706,7 @@
         "company_name": "MetOx International",
         "id": "01adde08-7298-47e1-8394-bb946ac7ec13",
         "title": "Data Science Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
