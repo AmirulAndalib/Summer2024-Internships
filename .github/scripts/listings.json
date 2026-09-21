@@ -290366,7 +290366,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "df4bb554-9de7-42ea-8b4b-3509501873dc",
         "title": "Data Scientist Intern - Group Risk Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -291794,7 +291794,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -312596,7 +312596,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "26d705e5-7d3a-4bba-8fd7-081343f446b0",
         "title": "Strategic Delivery Intern - MCCR",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -355042,7 +355042,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "e72288cb-304c-44c4-8d2b-4a5b03ea5584",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -379597,7 +379597,7 @@
         "company_name": "Tencent",
         "id": "d67121ec-2c8e-4740-9997-3c06b550b498",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -389146,7 +389146,7 @@
         "company_name": "Marvell",
         "id": "79ae0aa0-8312-4d1d-b4b1-4682d51f9ebe",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
