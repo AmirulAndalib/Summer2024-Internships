@@ -288301,7 +288301,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "22a6c4bd-c737-4a92-ae44-074fdfb8affb",
         "title": "Data Analyst Co-op - AI Business Enablement",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -288322,7 +288322,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "a9948cfe-3281-4e0a-a0b4-f8c58b272354",
         "title": "Developer Co-op - Technology & Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -356420,7 +356420,7 @@
         "company_name": "University of Arkansas",
         "id": "d71f9e6c-70f6-4284-9d54-3c7024305290",
         "title": "Marketing and Communications Intern - Web Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383903,7 +383903,7 @@
         "company_name": "CesiumAstro",
         "id": "e594a5ce-1e2e-4e72-97df-2dfbaee88a0e",
         "title": "Electrical Engineer Intern - Hardware",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
