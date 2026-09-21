@@ -271837,7 +271837,7 @@
         "company_name": "NBT Bank",
         "id": "37eb663f-8550-42f6-9494-b03ad65cafdd",
         "title": "Data Warehouse & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300932,7 +300932,7 @@
         "company_name": "Rystad Energy",
         "id": "d98abdd9-48bc-4767-ad87-4f39e8156cba",
         "title": "Analyst Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
