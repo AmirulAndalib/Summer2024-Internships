@@ -381655,7 +381655,7 @@
         "company_name": "Apple",
         "id": "2252913a-6024-4abe-8ce4-7dcb8de927f7",
         "title": "Design for Test Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
