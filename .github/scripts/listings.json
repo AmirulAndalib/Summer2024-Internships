@@ -263518,7 +263518,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -276791,7 +276791,7 @@
         "company_name": "WallStreetQuants",
         "id": "e658540c-4e9e-4242-ae48-0e3059df35a4",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291632,7 +291632,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -298726,7 +298726,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -315988,7 +315988,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -336344,7 +336344,7 @@
         "company_name": "Magna",
         "id": "a7beff09-b326-4679-a544-c614e04aa701",
         "title": "Robotics AI Algorithm Intern - Research and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -346271,7 +346271,7 @@
         "company_name": "Kinaxis",
         "id": "d5e526d4-218c-453d-99d1-8fc6b59a6f06",
         "title": "Software Developer Co-op/Intern - Core Algorithms",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -348973,7 +348973,7 @@
         "company_name": "Marvell",
         "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -359553,7 +359553,7 @@
         "company_name": "Northwestern Mutual",
         "id": "ca58874b-6f7d-4bf4-9ad3-1c79a4cbbd92",
         "title": "Investment Risk Management Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -368918,7 +368918,7 @@
         "company_name": "Fidelity Investments",
         "id": "ebf1ebb8-5b9b-4ef9-a965-ff8476d3418e",
         "title": "Machine Learning Co-op - Graph Technology Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -371490,7 +371490,7 @@
         "company_name": "Cozey",
         "id": "ff16852d-9fff-4f7a-818e-26728a2ad542",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380711,7 +380711,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "769bec28-a1aa-4a21-854c-4dcde8904154",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -383195,7 +383195,7 @@
         "company_name": "Lunar Outpost",
         "id": "ebbd5ceb-60c1-4b21-a374-b64d339e494a",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387130,7 +387130,7 @@
         "company_name": "CoStar Group",
         "id": "78bfe38c-e7ab-4387-af08-28aa2ecf4d6e",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -387881,7 +387881,7 @@
         "company_name": "Great American Insurance Company",
         "id": "ae867875-28c9-4d79-933c-2abd3ae6ef49",
         "title": "Catastrophe Modeling & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -394553,7 +394553,7 @@
         "company_name": "RTX",
         "id": "b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395773,7 +395773,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "Forward Deployed AI Engineer Intern - BCG X",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -397926,7 +397926,7 @@
         "company_name": "GE Healthcare",
         "id": "7d669b5f-60d8-41f2-8c63-353b9b7240a7",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -400188,6 +400188,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lowe's",
+        "id": "8a8f9aee-a750-4b17-a552-e19c07344085",
+        "title": "Store Operations Corporate Facilities Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790073699,
+        "date_posted": 1789516800,
+        "url": "https://lowes.wd5.myworkdayjobs.com/en-US/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Corporate-Facilities---Undergrad-Internship---Summer-2027_JR-02650834-1",
+        "locations": [
+            "Mooresville, NC"
+        ],
+        "company_url": "https://simplify.jobs/c/Lowes",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
