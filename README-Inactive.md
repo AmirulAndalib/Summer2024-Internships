@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 845 Inactive Internship Roles by Category
+### Browse 846 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (274)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (275)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (42)
 
@@ -93,13 +93,6 @@
 <td>Yarmouth, ME<br>Orono, ME<br>Falmouth, ME</td>
 <td>🔒</td>
 <td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
-<td>Software Engineering Intern</td>
-<td>Sterling, VA</td>
-<td>🔒</td>
-<td>4d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Athene?utm_source=GHList&utm_medium=company">Athene</a></strong></td>
@@ -397,6 +390,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Software Engineering Co-op</td>
+<td>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>12d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>State College, PA</td>
 <td>🔒</td>
@@ -581,6 +581,13 @@
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
 <td>Software Engineer Intern</td>
 <td>Linthicum Heights, MD</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/Intel?utm_source=GHList&utm_medium=company">Intel</a></strong></td>
+<td>Software Engineer Intern</td>
+<td><details><summary><strong>5 locations</strong></summary>Austin, TX<br>Santa Clara, CA<br>Hillsboro, OR<br>Folsom, CA<br>Phoenix, AZ</details></td>
 <td>🔒</td>
 <td>20d</td>
 </tr>
