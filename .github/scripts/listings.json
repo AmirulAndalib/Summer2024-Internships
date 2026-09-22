@@ -329625,7 +329625,7 @@
         "company_name": "Qorvo",
         "id": "b62dc133-f821-40c0-a4ac-21be000942cb",
         "title": "RFIC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -398696,7 +398696,7 @@
         "company_name": "Booz Allen",
         "id": "a102db82-0608-4e45-a9d3-ab4fa8963741",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
