@@ -337115,7 +337115,7 @@
         "company_name": "Eulerity",
         "id": "3354c8ef-ad93-4536-af40-a7cd70a9bd65",
         "title": "Digital Marketing Intern - Technical AI & Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -390637,7 +390637,7 @@
         "company_name": "Chemours",
         "id": "a91cdd09-13c9-4dde-a0dd-0bf47b62e67d",
         "title": "Data Visualization Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Fall 2026"
@@ -400067,6 +400067,78 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "e764c6d5-8016-405f-9cf4-3ab1d55828be",
+        "title": "Software Engineer Intern - MS/PhD - Simulation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790041206,
+        "date_posted": 1790041045,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8221851",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Waymo",
+        "id": "e88effb2-7748-41ae-9be2-407af5870c56",
+        "title": "Software Engineer Intern - Simulation Evaluation ML Model",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790041189,
+        "date_posted": 1790041045,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8221795",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Waymo",
+        "id": "28da2a86-9f2e-45b0-98d5-9daf28f8a39d",
+        "title": "Embedded Intern - Software Engineer",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790041186,
+        "date_posted": 1790041044,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8221198",
+        "locations": [
+            "Mountain View, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
