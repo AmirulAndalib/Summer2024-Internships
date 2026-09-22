@@ -327877,7 +327877,7 @@
         "company_name": "Cadence Design Systems",
         "id": "278d3954-0ea8-40bb-8e67-e70da625aec4",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345803,7 +345803,7 @@
         "company_name": "Keysight Technologies",
         "id": "95a461d8-fd13-4557-857f-f23138cd29c4",
         "title": "Full Stack Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
