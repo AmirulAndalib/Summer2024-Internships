@@ -327620,7 +327620,7 @@
         "company_name": "Manulife Financial",
         "id": "4f3e401c-7208-4d5f-9349-638b02652ffa",
         "title": "Reporting Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377495,7 +377495,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387223,7 +387223,7 @@
         "company_name": "Wellington Management",
         "id": "f6e1590f-7f4a-42fc-8d15-05f851dc85e1",
         "title": "Global Risk & Performance Strategy Co-op - Multi-Asset and Hedge Fund Risk - Fixed Income Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -388234,7 +388234,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -388257,7 +388257,7 @@
         "company_name": "Copart",
         "id": "49b31087-1e4c-42c6-8ff8-bf49f6ad3153",
         "title": "Technology Product Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388910,7 +388910,7 @@
         "company_name": "Marvell",
         "id": "5aa227fb-8db0-4113-81ec-a0441660db19",
         "title": "SRAM Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027",
             "Summer 2028"
@@ -389027,7 +389027,7 @@
         "company_name": "NVIDIA",
         "id": "e3878d12-f4a0-4e39-b2e8-322da6bb1115",
         "title": "Architecture Research Intern - Architecture - 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395519,7 +395519,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
