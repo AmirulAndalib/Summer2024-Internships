@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Flock Safety",
-        "id": "73c10cf7-2ce3-481b-b59c-da7038b0c704",
-        "title": "Device Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769383033,
-        "date_posted": 1769383033,
-        "url": "https://jobs.ashbyhq.com/Flock%20Safety/88a80dbf-1627-420a-a087-1bc8edc894e0/application",
-        "locations": [
-            "Atlanta, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/FlockSafety",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "HNTB",
         "id": "47b04ea4-7874-45ad-9f9c-79efe7d6d1ac",
@@ -233180,7 +233156,7 @@
         "company_name": "Figure",
         "id": "25f62594-b3b3-4b3c-940b-794ec8403c9d",
         "title": "Firmware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -300800,7 +300776,7 @@
         "company_name": "Rivet Industries",
         "id": "39309c17-e806-4ea4-ba0d-0d69cfaca27f",
         "title": "Software Engineer Intern - XR Team - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -322088,7 +322064,7 @@
         "company_name": "US Foods",
         "id": "ff540679-724e-400d-914e-3be5549b0166",
         "title": "Data Advisory Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -399391,7 +399367,7 @@
         "company_name": "SingleStore",
         "id": "442f543a-aae1-40c1-bda1-e5d07a00fe43",
         "title": "Software Engineer Intern - Engine",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
