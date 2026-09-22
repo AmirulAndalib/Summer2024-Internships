@@ -173003,7 +173003,7 @@
         "company_name": "Tencent",
         "id": "ba133a6e-7d68-423a-a0ab-6235909272c2",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -217760,7 +217760,7 @@
         "company_name": "ByteDance",
         "id": "f1526646-4e0f-4501-b158-b8d7eb77bf4e",
         "title": "Software Engineer Intern - Applied Machine Learning-Enterprise",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271703,7 +271703,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -321608,7 +321608,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -343837,7 +343837,7 @@
         "company_name": "RTX",
         "id": "4137dd61-de8e-40fd-b3a3-47517a95badf",
         "title": "Business Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345534,7 +345534,7 @@
         "company_name": "Clarios",
         "id": "08308995-881b-41a9-a18e-8212684536cb",
         "title": "Category Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -346512,7 +346512,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -375768,7 +375768,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "37c7d447-a271-4b55-a24d-1c3b10578cf3",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392185,7 +392185,7 @@
         "company_name": "NVIDIA",
         "id": "d58843db-952c-4753-94fe-da3da6efaa9d",
         "title": "PhD Research Intern - Circuits",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394692,7 +394692,7 @@
         "company_name": "Microsoft",
         "id": "c7882e60-9d46-4536-8550-5308e78edb36",
         "title": "Hardware Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
