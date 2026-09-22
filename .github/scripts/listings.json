@@ -280145,7 +280145,7 @@
         "company_name": " CCC Intelligent Solutions",
         "id": "11790ea3-adf1-4805-b706-783322b07491",
         "title": "Data Science Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -378322,7 +378322,7 @@
         "company_name": "Nexthop.ai",
         "id": "d95281cf-98b3-4a5a-95ed-2ad39d2197a1",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392682,7 +392682,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "ffc86709-0a9c-4ead-bc92-0e5c6fbeff7d",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
