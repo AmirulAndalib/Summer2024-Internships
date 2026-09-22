@@ -382426,7 +382426,7 @@
         "company_name": "RTX",
         "id": "ca035415-b41d-4d0c-b07f-571c22ab04bb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384193,7 +384193,7 @@
         "company_name": "Lightmatter",
         "id": "92e0027e-a9c8-4956-82d7-791d98c9d21b",
         "title": "Silicon Intern - Hardware & Photonics Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391383,7 +391383,7 @@
         "company_name": "RTX",
         "id": "273b5a97-9303-4ce1-b5b0-31f437ccfdc7",
         "title": "Electrical Engineer Co-op - Summer/Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
