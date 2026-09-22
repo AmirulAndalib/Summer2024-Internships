@@ -377757,7 +377757,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -388234,7 +388234,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389004,7 +389004,7 @@
         "company_name": "NVIDIA",
         "id": "ea5ee9d4-b9cf-4ed2-b1ab-93db2d16e7bc",
         "title": "Research Intern - Hardware and Systems Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389121,7 +389121,7 @@
         "company_name": "NVIDIA",
         "id": "55a28a09-e8b9-4af7-bec5-c02f4642f6f2",
         "title": "PhD Research Intern - Generalist Embodied Agents Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395519,7 +395519,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397036,7 +397036,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
