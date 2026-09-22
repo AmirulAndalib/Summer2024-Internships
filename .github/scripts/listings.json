@@ -257370,7 +257370,7 @@
         "company_name": "Castleton Commodities International",
         "id": "cab3486c-17b7-4cac-ad2b-49f4007f98e4",
         "title": "Commodities Trading Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329245,7 +329245,7 @@
         "company_name": "Intel",
         "id": "b854fca7-7546-478f-937b-a76b8dbbddae",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -349168,7 +349168,7 @@
         "company_name": "Airbus",
         "id": "a22f0440-f1ad-4d06-a98d-fb1e5fd55926",
         "title": "Space Software Engineering Placement - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -366548,7 +366548,7 @@
         "company_name": "RTX",
         "id": "bc964aa6-3faf-4081-85c0-6e13f1d14e51",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -377757,7 +377757,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384006,7 +384006,7 @@
         "company_name": "Analog Devices",
         "id": "83127520-9aed-4eb4-a7c5-63d711f65e1f",
         "title": "Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -387107,7 +387107,7 @@
         "company_name": "Leidos",
         "id": "be3dadf8-1646-4cc7-926c-77a499228223",
         "title": "Technical Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -397036,7 +397036,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
