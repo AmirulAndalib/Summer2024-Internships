@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 846 Inactive Internship Roles by Category
+### Browse 848 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (274)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (273)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (42)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (253)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (255)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (158)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (119)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (120)
 
 ---
 
@@ -93,13 +93,6 @@
 <td>Yarmouth, ME<br>Orono, ME<br>Falmouth, ME</td>
 <td>🔒</td>
 <td>0d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Fidelity-Investments?utm_source=GHList&utm_medium=company">Fidelity Investments</a></strong></td>
-<td>Undergraduate Internship - Software</td>
-<td>Boston, MA<br>Westlake, TX<br>Durham, NC</td>
-<td>🔒</td>
-<td>1d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Athene?utm_source=GHList&utm_medium=company">Athene</a></strong></td>
@@ -2447,6 +2440,13 @@
 <td>8d</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/General-Motors?utm_source=GHList&utm_medium=company">General Motors</a></strong></td>
+<td>Race Strategy & Analytics Intern - IndyCar</td>
+<td>Concord, NC</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Enact?utm_source=GHList&utm_medium=company">Enact Mortgage Insurance</a></strong></td>
 <td>Commercial Analytics and Optimization Team Intern</td>
 <td>Raleigh, NC</td>
@@ -2961,6 +2961,13 @@
 <td>↳</td>
 <td>Digital Assurance & Transparency Intern - Multiple Teams</td>
 <td><details><summary><strong>6 locations</strong></summary>SF<br>Florham Park, NJ<br>Rosemont, IL<br>Chicago, IL<br>Silicon Valley, CA<br>NYC</details></td>
+<td>🔒</td>
+<td>22d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Manulife-Financial?utm_source=GHList&utm_medium=company">Manulife Financial</a></strong></td>
+<td>Reporting Analyst Intern</td>
+<td>Toronto, ON, Canada</td>
 <td>🔒</td>
 <td>22d</td>
 </tr>
@@ -5271,6 +5278,13 @@
 <td>↳</td>
 <td>FPGA Design Intern</td>
 <td>Cedar Rapids, IA</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
+<td>Architecture Research Intern - Architecture - 2027 🎓</td>
+<td>Seattle, WA<br>Santa Clara, CA<br>Westford, MA</td>
 <td>🔒</td>
 <td>5d</td>
 </tr>
