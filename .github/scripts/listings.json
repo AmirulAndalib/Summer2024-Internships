@@ -165928,7 +165928,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -263518,7 +263518,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -305597,7 +305597,7 @@
         "company_name": "RTX",
         "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
         "title": "Customer Data Management and Analysis Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -329245,7 +329245,7 @@
         "company_name": "Intel",
         "id": "b854fca7-7546-478f-937b-a76b8dbbddae",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -349168,7 +349168,7 @@
         "company_name": "Airbus",
         "id": "a22f0440-f1ad-4d06-a98d-fb1e5fd55926",
         "title": "Space Software Engineering Placement - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359553,7 +359553,7 @@
         "company_name": "Northwestern Mutual",
         "id": "ca58874b-6f7d-4bf4-9ad3-1c79a4cbbd92",
         "title": "Investment Risk Management Intern - Fall 2026",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -366548,7 +366548,7 @@
         "company_name": "RTX",
         "id": "bc964aa6-3faf-4081-85c0-6e13f1d14e51",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -371490,7 +371490,7 @@
         "company_name": "Cozey",
         "id": "ff16852d-9fff-4f7a-818e-26728a2ad542",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -384006,7 +384006,7 @@
         "company_name": "Analog Devices",
         "id": "83127520-9aed-4eb4-a7c5-63d711f65e1f",
         "title": "Test Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387107,7 +387107,7 @@
         "company_name": "Leidos",
         "id": "be3dadf8-1646-4cc7-926c-77a499228223",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -387881,7 +387881,7 @@
         "company_name": "Great American Insurance Company",
         "id": "ae867875-28c9-4d79-933c-2abd3ae6ef49",
         "title": "Catastrophe Modeling & Data Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -394553,7 +394553,7 @@
         "company_name": "RTX",
         "id": "b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
