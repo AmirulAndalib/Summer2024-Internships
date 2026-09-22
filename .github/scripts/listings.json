@@ -395472,7 +395472,7 @@
         "company_name": "RSM",
         "id": "a3c5a65f-8eba-4d2e-a9b8-a50cceb40ad6",
         "title": "Tax Digital Services Intern - AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398584,7 +398584,7 @@
         "company_name": "Symbotic",
         "id": "5292f2d8-70e9-44a6-a50e-aea6724dfacd",
         "title": "Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
