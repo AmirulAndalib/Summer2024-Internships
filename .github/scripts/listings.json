@@ -384103,7 +384103,7 @@
         "company_name": "The Walt Disney Company",
         "id": "ae788081-43a5-43a1-8d08-75ad67a289fe",
         "title": "Costuming Project Analyst Intern - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -391131,7 +391131,7 @@
         "company_name": "RTX",
         "id": "ad98d859-afc4-4aef-8db6-408144477bf4",
         "title": "FPGA Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
