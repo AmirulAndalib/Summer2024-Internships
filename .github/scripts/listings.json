@@ -336722,7 +336722,7 @@
         "company_name": "Tesla",
         "id": "2f047b4c-6c37-4fb9-8a34-dfd635e77089",
         "title": "Robotics Modeling & Simulation Engineer Intern - Optimus",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -396824,7 +396824,7 @@
         "company_name": "Headlands Tech Holdings",
         "id": "d1176ebe-cdcd-4eea-be70-dd3f29f07d24",
         "title": "Deep Learning Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
