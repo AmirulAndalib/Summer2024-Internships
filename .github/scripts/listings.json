@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "74d885bb-888e-4360-8534-623426b9820f",
-        "title": "Artificial Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769308285,
-        "date_posted": 1769308285,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-28877",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "HNTB",
-        "id": "d51c1c86-0bad-4398-8d67-eec37914ba4d",
-        "title": "Artificial Intelligence Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769308164,
-        "date_posted": 1769308164,
-        "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Arlington-VA-Alexandria/Artificial-Intelligence-Intern---Summer-2026_R-28877-2",
-        "locations": [
-            "Arlington, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/HNTB",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Flock Safety",
         "id": "73c10cf7-2ce3-481b-b59c-da7038b0c704",
@@ -328018,7 +327972,7 @@
         "company_name": "Cadence Design Systems",
         "id": "3eae4ee9-4f81-4e22-acf9-eb51f6155f3a",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -342600,7 +342554,7 @@
         "company_name": "Apex",
         "id": "d06c9bca-b6bb-4a9e-88dd-5dc6f0b1a038",
         "title": "Ground Software Intern - Spring or Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -356249,7 +356203,7 @@
         "company_name": "Formlabs",
         "id": "ecf8ac0c-8122-406d-a618-0f8022b19ad8",
         "title": "AI Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
@@ -397924,7 +397878,7 @@
         "company_name": "Sony",
         "id": "c822d683-31a7-405d-9e10-825f0363049f",
         "title": "Audio Processing and Machine Learning Intern - Music Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
