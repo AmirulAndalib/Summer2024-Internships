@@ -216638,7 +216638,7 @@
         "company_name": "Fluxergy",
         "id": "d6f4cdc5-68b7-4f4f-a0af-e69f110a8a31",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -246256,7 +246256,7 @@
         "company_name": "Xsolla",
         "id": "9eeb2878-4b21-43db-94eb-1586edccfa2a",
         "title": "AI-First Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -331035,7 +331035,7 @@
         "company_name": "AltaML",
         "id": "8b395263-c215-4129-b6bc-05ce51b926f7",
         "title": "Associate Software Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345580,7 +345580,7 @@
         "company_name": "AltaML",
         "id": "d57e49c5-62cc-4766-ab93-65e520c6fb9a",
         "title": "Associate Product Manager",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388794,7 +388794,7 @@
         "company_name": "Marvell",
         "id": "d1755914-48f5-47de-bfbd-54ea573f4448",
         "title": "SRAM Circuit Design Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398788,7 +398788,7 @@
         "company_name": "Booz Allen",
         "id": "e5917857-59b3-40b5-b472-7fdb54241da4",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399138,7 +399138,7 @@
         "company_name": "Booz Allen",
         "id": "c9648d41-b780-4e64-bb56-b8b3dd2960d1",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
