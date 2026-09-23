@@ -165696,7 +165696,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -285959,7 +285959,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
         "title": "Analytics Intern - eCommerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -302461,7 +302461,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -361693,7 +361693,7 @@
         "company_name": "Intel",
         "id": "b035a98e-db1a-4187-b55e-8cac0076bc05",
         "title": "Software Solutions Engineer PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -368140,7 +368140,7 @@
         "company_name": "RTX",
         "id": "b0fd8336-e667-4187-901e-5e7d96cbd6bf",
         "title": "Manufacturing & Quality Analyst Intern - Stage 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375906,7 +375906,7 @@
         "company_name": "Marvell",
         "id": "adb1e815-47fe-4268-911a-3c542a8a5b4e",
         "title": "Data Center Silicon Hardware Engineering Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -377214,7 +377214,7 @@
         "company_name": "General Motors",
         "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
         "title": "Summer Intern - Performance Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377525,7 +377525,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386509,7 +386509,7 @@
         "company_name": "Wellington Management",
         "id": "791c260c-253b-4967-b0e8-d6191ffe674a",
         "title": "People Analytics Co-op - Human Resources",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -390336,7 +390336,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
