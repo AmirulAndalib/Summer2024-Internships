@@ -330661,7 +330661,7 @@
         "company_name": "TIAA",
         "id": "9f8e454c-ac7e-450f-9635-1cf73e0c542a",
         "title": "Portfolio Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -384404,7 +384404,7 @@
         "company_name": "RTX",
         "id": "9ddf5d0f-9257-4e4d-988f-f46e80016b8f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390992,7 +390992,7 @@
         "company_name": "RTX",
         "id": "1f34cc09-fcbc-4a27-ac45-7145485d3425",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
