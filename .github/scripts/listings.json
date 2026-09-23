@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "LabCorp",
-        "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
-        "title": "Intern Data Science and Artificial Intelligence",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769434634,
-        "date_posted": 1769434634,
-        "url": "https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Data-Science-and-Artificial-Intelligence_2534702",
-        "locations": [
-            "Durham, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/LabCorp",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Cummins",
         "id": "81314eac-daa5-4ff8-9904-d44600af3a87",
         "title": "Apprenticeship - Data Engineer Level 5",
@@ -227298,7 +227273,7 @@
         "company_name": "The Campbell's Company",
         "id": "d43b31ed-46ea-4c3d-8731-9b123a3e9678",
         "title": "Data Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234660,7 +234635,7 @@
         "company_name": "Palantir",
         "id": "da1074aa-7344-4ad3-9b53-078f1dbd2edc",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2028",
             "Spring 2028",
@@ -236580,7 +236555,7 @@
         "company_name": "Copart",
         "id": "b5e81d8d-839a-4ffb-b147-0a513ffea0a8",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -313754,7 +313729,7 @@
         "company_name": "CACI",
         "id": "1c879a64-7b17-41de-9acd-e88e472d6605",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336814,7 +336789,7 @@
         "company_name": "Brunswick",
         "id": "e6071b93-7dbd-4e00-9f95-3aedd8bda97c",
         "title": "Power BI/Ops Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -340093,7 +340068,7 @@
         "company_name": "RTX",
         "id": "c48914ab-1f0c-4a5e-a350-c3cf1fbdf3a6",
         "title": "Performance Indicator Development and Process and Project Management Internship",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -343559,7 +343534,7 @@
         "company_name": "RTX",
         "id": "4137dd61-de8e-40fd-b3a3-47517a95badf",
         "title": "Business Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -385868,7 +385843,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -386574,7 +386549,7 @@
         "company_name": "NVIDIA",
         "id": "4491adcd-bda4-4c6d-89e8-f5df9b5a197a",
         "title": "Quantum and Chemistry Research Intern - Quantum and AI for Chemistry",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388276,7 +388251,7 @@
         "company_name": "Visa",
         "id": "d1143c35-1cc7-4e60-a5c6-4e223abab7d0",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -396758,7 +396733,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
