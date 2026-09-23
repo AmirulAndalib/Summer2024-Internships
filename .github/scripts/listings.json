@@ -302461,7 +302461,7 @@
         "company_name": "Brunswick",
         "id": "9f7c7e8c-1d6a-4fa5-8877-36b26f0b630a",
         "title": "Product Management Intern - Parts & Accessories",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -315465,7 +315465,7 @@
         "company_name": "RTX",
         "id": "b6296fe8-f9f1-44dd-94f1-590c275ba224",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -339248,7 +339248,7 @@
         "company_name": "Marquee Brands",
         "id": "cc58fac9-b0fa-47d6-8d76-5a9b5e373147",
         "title": "Consumer Insights Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -364312,7 +364312,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -377214,7 +377214,7 @@
         "company_name": "General Motors",
         "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
         "title": "Summer Intern - Performance Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377525,7 +377525,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385308,7 +385308,7 @@
         "company_name": "Collier Aerospace",
         "id": "b6b0bc09-5fc8-4d8e-ad3f-ffdd70e0315e",
         "title": "AI Feature Development Intern - NCSG",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386509,7 +386509,7 @@
         "company_name": "Wellington Management",
         "id": "791c260c-253b-4967-b0e8-d6191ffe674a",
         "title": "People Analytics Co-op - Human Resources",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -389826,7 +389826,7 @@
         "company_name": "Intelliguard",
         "id": "b59a478b-37c7-40b4-af73-c2419fe4d772",
         "title": "Engineering Intern - R&D",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -390336,7 +390336,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -399701,7 +399701,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403006,6 +403006,29 @@
             "Bachelor's",
             "Master's",
             "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "G2",
+        "id": "d1cad4df-ea8d-4208-bdb9-869aa7dab27f",
+        "title": "AI Agent Evaluations Intern",
+        "active": true,
+        "terms": [
+            "Fall 2026"
+        ],
+        "date_updated": 1790161890,
+        "date_posted": 1790029530,
+        "url": "https://jobs.ashbyhq.com/G2/64dcc04a-a0e7-493b-b899-dd4c56e561fd/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/G2",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "MBA"
         ]
     }
 ]
