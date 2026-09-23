@@ -246550,7 +246550,7 @@
         "company_name": "Figure",
         "id": "4c29c5cb-a89e-426b-92f8-09ff54edf5f7",
         "title": "Hardware Reliability Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -398745,7 +398745,7 @@
         "company_name": "Booz Allen",
         "id": "36aae917-4c22-4a80-bbe0-c200b82ee4be",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400966,7 +400966,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "52cacf76-6238-40ce-8d5f-0dc895c11b32",
         "title": "Software Developer Co-op - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
