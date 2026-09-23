@@ -2,53 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "ASSA ABLOY",
-        "id": "3924f93e-81f6-4cf4-b4c9-f160bdb0181b",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769393828,
-        "date_posted": 1769393828,
-        "url": "https://assaabloy.jobs2web.com/job/Salem-Software-Engineering-Intern-VA-24153/1286979601/?ats=successfactors",
-        "locations": [
-            "Roanoke, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/ASSA-ABLOY",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Western Digital",
-        "id": "36a76455-2cdf-483d-822b-c7929c72c68d",
-        "title": "Early Career Talent - Software Engineering - Apps",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769393102,
-        "date_posted": 1769393102,
-        "url": "https://jobs.smartrecruiters.com/WesternDigital/744000105481465",
-        "locations": [
-            "Irvine, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Western-Digital",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Gulfstream",
         "id": "075a3585-2d3e-44b7-9290-9f189d9c4ed9",
         "title": "Software Engineer Intern",
@@ -398649,7 +398602,7 @@
         "company_name": "Booz Allen",
         "id": "ff36849a-9e34-466d-9c8d-c0a2af562ecf",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
