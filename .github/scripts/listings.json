@@ -1,32 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gulfstream",
-        "id": "075a3585-2d3e-44b7-9290-9f189d9c4ed9",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Fall 2026"
-        ],
-        "date_updated": 1769411679,
-        "date_posted": 1769411679,
-        "url": "https://careers.gulfstream.com/job/Savannah-Fall-2026-IEF-Software-Engineering-College-Intern-GA-31401/1354242000/?ats=successfactors",
-        "locations": [
-            "Savannah, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gulfstream",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "The Walt Disney Company",
         "id": "041a1397-3aca-4347-8885-dcda6f30e10f",
@@ -297591,7 +297565,7 @@
         "company_name": "Mastercard",
         "id": "78c03ab4-f50a-445d-9802-fb785330b50f",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338720,7 +338694,7 @@
         "company_name": "Hermeus",
         "id": "3f4c33b9-c619-4c6d-8035-99923055054e",
         "title": "Flight Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
