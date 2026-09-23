@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 840 Inactive Internship Roles by Category
+### Browse 841 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (276)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (277)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (43)
 
@@ -111,6 +111,13 @@
 <tr>
 <td>↳</td>
 <td>Software Developer Intern - University</td>
+<td>McLean, VA</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Developer Intern - Summer Games</td>
 <td>McLean, VA</td>
 <td>🔒</td>
 <td>2d</td>
@@ -596,14 +603,14 @@
 <td>IT Programmer Intern</td>
 <td>Augusta, GA</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/John-Deere?utm_source=GHList&utm_medium=company">John Deere</a></strong></td>
 <td>Product Engineering Intern</td>
 <td>Fargo, ND</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Northrop-Grumman?utm_source=GHList&utm_medium=company">Northrop Grumman</a></strong></td>
