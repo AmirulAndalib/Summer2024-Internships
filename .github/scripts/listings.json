@@ -206734,7 +206734,7 @@
         "company_name": "EV Realty",
         "id": "be6493df-d454-4e77-b102-3eef5e546c99",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -317581,7 +317581,7 @@
         "company_name": "AMD",
         "id": "03a692be-c92c-46ec-92a0-4dc48f6487c1",
         "title": "Software Engineer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -380038,7 +380038,7 @@
         "company_name": "Microsoft",
         "id": "fe3438ed-3bcb-4b2c-8c82-956e0c204732",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
