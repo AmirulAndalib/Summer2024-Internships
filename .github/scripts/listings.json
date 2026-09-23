@@ -75624,7 +75624,7 @@
         "company_name": "AXQ Capital",
         "id": "50b74e7f-6fd6-4664-990a-0cf32bb4f58f",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2026"
@@ -376402,7 +376402,7 @@
         "company_name": "Wex",
         "id": "d6dfcbeb-4029-4aad-bf63-959fcd1680cd",
         "title": "Full-Stack Software Engineer Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377772,7 +377772,7 @@
         "company_name": "Wex",
         "id": "0804979c-4994-46d3-9479-3faeceb0ffbf",
         "title": "Data & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -398212,7 +398212,7 @@
         "company_name": "Booz Allen",
         "id": "ce54ed4c-a8b9-429f-bcbe-f00cc430f8c4",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401254,7 +401254,7 @@
         "company_name": "CACI",
         "id": "084d6f5d-6737-409a-9864-db2d5fb418c4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
