@@ -1,28 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "The Walt Disney Company",
-        "id": "ee798c88-b063-4923-acde-913cc541d801",
-        "title": "Glendale System Software Engineering Internship - Fall 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1769432023,
-        "date_posted": 1769432023,
-        "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Glendale-CA-USA/Glendale-System-Software-Engineering-Internship--Fall-2026_10139800",
-        "locations": [
-            "Glendale, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Disney",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "LabCorp",
         "id": "82620b43-1609-4bf7-8f95-b172054c6cdd",
@@ -269200,7 +269178,7 @@
         "company_name": "Novanta",
         "id": "76024ce1-258c-433e-87c4-2d704c53a61c",
         "title": "Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -291085,7 +291063,7 @@
         "company_name": "NVIDIA",
         "id": "bb48b7b8-29e9-4f8f-8817-54e325180735",
         "title": "Deep Learning Intern - Deep Learning Applications and Algorithms - Deep Learning Frameworks and Libraries",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -370234,7 +370212,7 @@
         "company_name": "Amgen",
         "id": "dc2aebf1-8c3c-4139-937e-f31dfd69950e",
         "title": "Machine Learning Engineer Intern - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370282,7 +370260,7 @@
         "company_name": "Amgen",
         "id": "9eef895c-2727-4ebb-92bc-fda2b10c3d34",
         "title": "Data Scientist Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381932,7 +381910,7 @@
         "company_name": "Analog Devices",
         "id": "f0bd2e8e-c29b-4598-a4f6-712a6741f8d6",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388492,7 +388470,7 @@
         "company_name": "Marvell",
         "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397863,7 +397841,7 @@
         "company_name": "Marvell",
         "id": "7cc624ba-7ee7-48f0-bddc-e6d5e064f6f9",
         "title": "Digital IC Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -397964,7 +397942,7 @@
         "company_name": "The Walt Disney Company",
         "id": "b8a4dd1f-899e-4f11-ba33-deff7cd3aaae",
         "title": "Decision Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
