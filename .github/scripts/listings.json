@@ -231151,7 +231151,7 @@
         "company_name": "Sony",
         "id": "95f67d1a-0c71-458d-a724-50a943e61f90",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -314997,7 +314997,7 @@
         "company_name": "HP IQ",
         "id": "d68ee7e5-b2f8-4b37-a728-6a6a6486d458",
         "title": "Software Engineer Intern - Software Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
