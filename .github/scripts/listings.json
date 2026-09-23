@@ -254262,7 +254262,7 @@
         "company_name": "LightGuide, Inc.",
         "id": "045f6eba-6e94-4fbc-85c8-1ba3affc21d4",
         "title": "Product Innovation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -362058,7 +362058,7 @@
         "company_name": "Intel",
         "id": "02b45672-64be-4bea-b971-2efafc958466",
         "title": "AI and Compiler Engineering Graduate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -384359,7 +384359,7 @@
         "company_name": "RTX",
         "id": "9070ad92-833d-49ce-a066-7df83d236f56",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386324,7 +386324,7 @@
         "company_name": "Intel",
         "id": "02e5128c-f9d6-4224-9ba7-5ab3d06f1352",
         "title": "Operations Research Engineering Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390829,7 +390829,7 @@
         "company_name": "Rivian",
         "id": "04543f6c-1d02-4612-b3ae-e9955fc11ad9",
         "title": "Engineering Intern/Co-op - Test and Validation - Charging Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392356,7 +392356,7 @@
         "company_name": "RTX",
         "id": "bd8058b7-a84d-4dfb-91d8-845c08275253",
         "title": "Digital Hardware Design Engineer Co-op - Summer/Fall 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -394321,7 +394321,7 @@
         "company_name": "RTX",
         "id": "b50df64e-0d8e-4631-a2c7-2da5eb33aaa2",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394722,7 +394722,7 @@
         "company_name": "GE Appliances",
         "id": "025cdbd3-053c-4ae7-a9b6-7b812684f7ce",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -397278,7 +397278,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "052eb803-66af-435a-9f6d-069e2aa8d052",
         "title": "Summer Intern - Data Mesh Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -401451,7 +401451,7 @@
         "company_name": "Rippling",
         "id": "0315cabd-eed9-4fb0-bf72-2770478f6bb9",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402055,7 +402055,7 @@
         "company_name": "Marvell",
         "id": "02e2f469-ae3f-418c-9712-1e786b25ad68",
         "title": "Analog Layout Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
