@@ -283225,7 +283225,7 @@
         "company_name": "TransMarket Group",
         "id": "990a1adb-e945-417c-b734-fb15286f993b",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323792,7 +323792,7 @@
         "company_name": "Rockwell Automation",
         "id": "8d011c08-4f57-4497-bb0b-0237ce363f1f",
         "title": "Content Software Development Intern - Lifecycle Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338368,7 +338368,7 @@
         "company_name": "Microchip Technology",
         "id": "43770cec-4ffd-413c-b934-485a9c10264b",
         "title": "Engineering Intern - MEMS Design",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -376379,7 +376379,7 @@
         "company_name": "Wex",
         "id": "f77b6b5f-ff7d-45d7-9704-b0198ab5cd0d",
         "title": "Backend Software Engineer Intern - C#/Java & AI Workflows - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
