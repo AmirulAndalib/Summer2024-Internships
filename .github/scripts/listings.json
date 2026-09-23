@@ -308988,7 +308988,7 @@
         "company_name": "TIAA",
         "id": "5fb362f5-5857-42ff-923b-348eb5582bc7",
         "title": "Investment Infrastructure & Technology Intern - IIT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -359390,7 +359390,7 @@
         "company_name": "Northwestern Mutual",
         "id": "ca58874b-6f7d-4bf4-9ad3-1c79a4cbbd92",
         "title": "Investment Risk Management Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -392683,7 +392683,7 @@
         "company_name": "RTX",
         "id": "5946c3c7-9377-4d6c-9b0b-f01fc24f1d9d",
         "title": "Digital Hardware Design Engineer Co-op - Winter/Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -397648,7 +397648,7 @@
         "company_name": "Boston Scientific",
         "id": "8e0cf74e-42f4-43d0-a860-c0c76661cd92",
         "title": "Data Science Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
