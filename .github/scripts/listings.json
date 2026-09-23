@@ -398861,7 +398861,7 @@
         "company_name": "Booz Allen",
         "id": "c9a9c28d-b141-4dc7-879d-54c4beab26f2",
         "title": "Software Developer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402912,6 +402912,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Waymo",
+        "id": "7c098c28-9c17-4625-aa37-d2b93cde24f3",
+        "title": "Machine Learning Engineer Intern - MS/PhD - Simulator Realism Evaluation",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790127577,
+        "date_posted": 1790127389,
+        "url": "https://careers.withwaymo.com/jobs?gh_jid=8214350",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Waymo",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's",
+            "PhD"
         ]
     }
 ]
