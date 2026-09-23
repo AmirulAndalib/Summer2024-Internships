@@ -268619,7 +268619,7 @@
         "company_name": "SRI International",
         "id": "0184a4dc-b3d8-4d2b-ab22-6675bc6e4ec3",
         "title": "Embedded Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323629,7 +323629,7 @@
         "company_name": "Rockwell Automation",
         "id": "6dd8231b-af5b-412e-bbe4-d94af163d8f7",
         "title": "Content Software Development Intern - Lifecycle Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365900,7 +365900,7 @@
         "company_name": "Procter & Gamble",
         "id": "44c2aa20-8092-459f-8710-f180c50636b0",
         "title": "Research and Development PhD Intern - Life Cycle Assessment - Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390011,7 +390011,7 @@
         "company_name": "Watts Water",
         "id": "fe51fb9a-73cc-4b16-993a-f6d8191eeaf0",
         "title": "Product Specialist Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
