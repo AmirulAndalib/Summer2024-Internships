@@ -313591,7 +313591,7 @@
         "company_name": "General Motors",
         "id": "c21aecd2-5cf3-49c9-9346-f5295e67281a",
         "title": "Data Engineering Software Developer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -340531,7 +340531,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -354480,7 +354480,7 @@
         "company_name": "RTX",
         "id": "fffa4bdc-f97d-4cc9-9912-6015b38cfd10",
         "title": "Platform System Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -356465,7 +356465,7 @@
         "company_name": "General Motors",
         "id": "10dda9a8-fdca-4b2e-abf9-94844492a2ab",
         "title": "Global Customer Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -366102,7 +366102,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377143,7 +377143,7 @@
         "company_name": "General Motors",
         "id": "e8e4de39-fe79-4cb4-9edf-57780d8a6422",
         "title": "Summer Intern - Performance Analysis",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377192,7 +377192,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377239,7 +377239,7 @@
         "company_name": "General Motors",
         "id": "c7669059-c3a1-48a3-b160-4cd69bf4882f",
         "title": "Motorsports Strategy Intern - Sportscar Motorsports Strategy",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -389426,7 +389426,7 @@
         "company_name": "Tower Research Capital",
         "id": "1dba0295-866c-4e5d-9de1-ecbd8f036a9b",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392211,7 +392211,7 @@
         "company_name": "General Motors",
         "id": "f9a08de0-d633-4b19-b444-8002689fc795",
         "title": "Product Management Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394438,7 +394438,7 @@
         "company_name": "Centene",
         "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396638,7 +396638,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396733,7 +396733,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397785,7 +397785,7 @@
         "company_name": "Marvell",
         "id": "d72a211e-044f-49a3-86c1-7b6b5c9fa66e",
         "title": "Digital IC Design Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -399630,7 +399630,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -403054,6 +403054,487 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "RTX",
+        "id": "d69cc4b1-6d03-4c5e-8430-4c567709546c",
+        "title": "Factory Enablement Digital Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1790175484,
+        "date_posted": 1790121600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876474",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "RTX",
+        "id": "355ed1b0-6a7f-4f62-9f79-2eabc525e9cd",
+        "title": "Factory Enablement Digital Engineer Co-op",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790175485,
+        "date_posted": 1790121600,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Factory-Enablement-Digital-Engineer--Spring-Summer-Co-op-_01876473",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "CACI",
+        "id": "b981ecc6-774f-424a-ab63-513d50a5becc",
+        "title": "Software Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790175293,
+        "date_posted": 1790121600,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Sterling-VA-US/Software-Engineering-Intern---Summer-2027_332372",
+        "locations": [
+            "Sterling, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "CACI",
+        "id": "2afb885b-d426-47bd-9dc0-80b026d499f5",
+        "title": "AI Systems Engineer Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790175300,
+        "date_posted": 1790121600,
+        "url": "https://caci.wd1.myworkdayjobs.com/external/job/Annapolis-Junction-MD-US/AI-Systems-Engineering-Intern----Summer-2027_332506",
+        "locations": [
+            "Annapolis Junction, MD",
+            "Fort Meade, MD"
+        ],
+        "company_url": "https://simplify.jobs/c/CACI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Intel",
+        "id": "65f618f2-09b0-4451-83c9-7110216c541f",
+        "title": "System Simulation Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790175136,
+        "date_posted": 1790121600,
+        "url": "https://intel.wd1.myworkdayjobs.com/en-us/external/job/Virtual-Canada/System-Simulation-Engineering-CO-OP_JR0287122",
+        "locations": [
+            "Remote in Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Intel",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "GreatAmerica Financial Services",
+        "id": "b2ca9bb2-ab81-4103-871c-c472a2cf595c",
+        "title": "Data Governance Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1790175061,
+        "date_posted": 1790121600,
+        "url": "https://greatamerica.wd12.myworkdayjobs.com/en-US/greatamericacareers/job/Cedar-Rapids-IA/Data-Governance-Analyst-Intern_JR1242",
+        "locations": [
+            "Des Moines, IA",
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/GreatAmerica",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Associate's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "ff6acfde-5cfa-48f1-9900-723a0df08069",
+        "title": "Healthcare Analytics Intern - Healthcare Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174601,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Analytics_JR104059-2",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Excellus BCBS",
+        "id": "ba3ab19d-8b8e-45ac-b1b6-788ddc37b1ac",
+        "title": "Software Engineering Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174601,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Software-Engineering--Multiple-Openings-Available-_JR104022-1",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "831cd663-ae9c-4929-bd0b-6c8cf71391fe",
+        "title": "College Intern - Healthcare Statistical Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174521,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Healthcare-Statistical-Analytics_JR104054-1",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "7cbed2dc-96cc-4a07-af63-5f826133f4d3",
+        "title": "College Intern - Research Insights",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174521,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Research-Insights_JR104048-2",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Excellus BCBS",
+        "id": "56176872-3480-423d-9dd5-9d705a881462",
+        "title": "College Intern - Mobile Software Engineering Team",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174521,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Mobile-Software-Engineering-Team_JR104025-3",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "4efd65a5-ab75-4d14-a2df-fe1659f9a1c1",
+        "title": "College Intern - Data Governance & AI Governance",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174521,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Data-Governance---AI-Governance_JR104033-1",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "021ab755-0612-4b89-bce6-f907b348959f",
+        "title": "College Intern - Records and Information Management",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174521,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Records-and-Information-Management_JR104030-2",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Excellus BCBS",
+        "id": "239a42c1-942f-4900-85bb-45486d858a6d",
+        "title": "College Intern - Digital Analytics",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174521,
+        "date_posted": 1790121600,
+        "url": "https://lthc.wd1.myworkdayjobs.com/en-US/ExcellusBCBSCareers/job/Rochester/College-Intern---Summer-2027---Digital-Analytics_JR104050-2",
+        "locations": [
+            "Rochester, NY",
+            "De Witt, NY",
+            "Utica, NY",
+            "Albany, NY",
+            "Binghamton, NY",
+            "Buffalo, NY"
+        ],
+        "company_url": "https://simplify.jobs/c/Excellus-BCBS",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Jefferson Health",
+        "id": "e951f72d-bd40-4561-aac8-f1125960366c",
+        "title": "Analysis Intern Co-op",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790174440,
+        "date_posted": 1790121600,
+        "url": "https://jeffersonhealth.wd5.myworkdayjobs.com/ThomasJeffersonExternal/job/Philadelphia-PA/Student--Drexel-Co-Op_REQ-0037416",
+        "locations": [
+            "Philadelphia, PA"
+        ],
+        "company_url": "https://simplify.jobs/c/Jefferson-Health",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Quant",
+        "company_name": "Neuberger Berman",
+        "id": "d19faef5-69be-4dee-b896-16d292336009",
+        "title": "Quantitative Analyst Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174426,
+        "date_posted": 1790121600,
+        "url": "https://nb.wd1.myworkdayjobs.com/en-US/NBCareers/job/New-York-NY/Quantitative-2027-Summer-Intern_R0012643",
+        "locations": [
+            "NYC"
+        ],
+        "company_url": "https://simplify.jobs/c/Neuberger-Berman",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "The Federal Reserve System",
+        "id": "94633c06-dba7-4588-8490-dce1ed065b8d",
+        "title": "Research Business Survey Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174420,
+        "date_posted": 1790121600,
+        "url": "https://rb.wd5.myworkdayjobs.com/en-US/FRS/job/Richmond-VA/Federal-Reserve-Summer-2027-Research-Business-Survey-Internship_R-0000033218",
+        "locations": [
+            "Richmond, VA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Federal-Reserve-System",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Zipline",
+        "id": "27be24cd-78e1-4eca-9e66-1c1004286831",
+        "title": "Autonomy Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790174257,
+        "date_posted": 1790174091,
+        "url": "https://www.zipline.com/open-roles/8002829003?gh_jid=8002829003",
+        "locations": [
+            "South SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Zipline",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Bedrock Robotics",
+        "id": "cd26cfb9-50c6-440f-8b4a-6d6f97b14d32",
+        "title": "Evaluation Engineer Intern - Metric Prototyping",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790173766,
+        "date_posted": 1790173359,
+        "url": "https://jobs.ashbyhq.com/bedrock-robotics/07b55743-d5c4-4347-bfac-000821317b13/application?embed=true",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Bedrock-Robotics",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
         ]
     }
 ]
