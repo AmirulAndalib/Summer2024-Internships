@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Santander",
-        "id": "b9a48aca-f392-4e3e-b413-0bd563f73348",
-        "title": "Payments Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769472145,
-        "date_posted": 1769472145,
-        "url": "https://santander.wd3.myworkdayjobs.com/SantanderCareers/job/1-Enterprise-Drive-Quincy-Corp/Payments-Technology-Intern_Req1502883-2",
-        "locations": [
-            "Quincy, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Santander",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Kaiser Permanente",
         "id": "ba83ebf6-750a-4ab1-9677-0a9d64d33b5b",
@@ -393898,7 +393875,7 @@
         "company_name": "Booz Allen",
         "id": "f19df324-bb49-4d5d-9fa7-f99eb7b18f20",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396587,7 +396564,7 @@
         "company_name": "Booz Allen",
         "id": "41c23c9e-9fd5-4878-be67-5fe02682c1bf",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398141,7 +398118,7 @@
         "company_name": "Optiver",
         "id": "3a1393eb-1a4c-4277-aa93-46b222c507b8",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
