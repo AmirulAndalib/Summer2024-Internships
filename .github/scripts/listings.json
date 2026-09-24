@@ -329111,7 +329111,7 @@
         "company_name": "Axon",
         "id": "2fe280fe-5031-4477-ba75-3261ae5e81fe",
         "title": "2027 US Electrical Engineering Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374955,7 +374955,7 @@
         "company_name": "CAI",
         "id": "38a9bfa8-336d-4c6f-8f7d-cce0d1dfee77",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376593,7 +376593,7 @@
         "company_name": "Hitachi",
         "id": "95c4918c-cb96-4b7c-afa4-cb0f50c7378e",
         "title": "Onboard Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
