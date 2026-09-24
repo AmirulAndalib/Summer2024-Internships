@@ -272380,7 +272380,7 @@
         "company_name": "Axon",
         "id": "6eff9788-f38e-4357-8646-cd6f5984f3cb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -276331,7 +276331,7 @@
         "company_name": "Deloitte",
         "id": "83d5ce20-ba22-49dc-a345-e4d8c85a7ef8",
         "title": "AI and Data Engineering Summer Scholar Intern - Government & Public Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361723,7 +361723,7 @@
         "company_name": "Canadian Tire",
         "id": "1b3aec3c-4c0c-4efb-a5bc-1e8fc5416875",
         "title": "Data Analyst Student - Winter Term 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
