@@ -1,76 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Kaiser Permanente",
-        "id": "ba83ebf6-750a-4ab1-9677-0a9d64d33b5b",
-        "title": "Process Improvement Master's Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769480251,
-        "date_posted": 1769480251,
-        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1404990",
-        "locations": [
-            "Pasadena, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Kaiser Permanente",
-        "id": "ab526073-6766-4023-80b7-5debcc041ef1",
-        "title": "Application Engineer Bachelor Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769480260,
-        "date_posted": 1769480260,
-        "url": "https://kp.taleo.net/careersection/external/jobdetail.ftl?job=1405215",
-        "locations": [
-            "Pleasanton, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Kaiser-Permanente",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Genentech",
-        "id": "e153219d-abb8-4944-955a-a42042cd6c62",
-        "title": "2026 Summer Intern - Product Development Data Science",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769480052,
-        "date_posted": 1769480052,
-        "url": "https://roche.wd3.myworkdayjobs.com/ROG-A2O-GENE/job/South-San-Francisco/XMLNAME-2026-Summer-Intern---Product-Development-Data-Science_202601-101287-1",
-        "locations": [
-            "San Bruno, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Genentech",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Thales",
         "id": "dfa7399f-945e-4373-ad22-b3ba2a753538",
@@ -134,78 +64,6 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "d-Matrix",
-        "id": "d8db9ea4-a2c3-4993-a998-346e2debc331",
-        "title": "Machine Learning Research Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1769479940,
-        "date_posted": 1769479940,
-        "url": "https://jobs.ashbyhq.com/d-Matrix/7d2b7609-00fb-4a74-aa74-61508434ec93/application",
-        "locations": [
-            "Santa Clara, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/d-Matrix",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Black Box",
-        "id": "c7c7dafc-ce0e-4ed2-92f7-ed3bc461bbb7",
-        "title": "AI Intern USA",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769479929,
-        "date_posted": 1769479929,
-        "url": "https://eoje.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/5523",
-        "locations": [
-            "Plano, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/Black-Box",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "a635593b-ef9a-4963-ae49-acc5db0a9a71",
-        "title": "Research Intern - AI Inference Software & Systems",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769479921,
-        "date_posted": 1769479921,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556748209",
-        "locations": [
-            "Boston, MA",
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
         ]
     },
     {
@@ -275,52 +133,6 @@
         "degrees": [
             "Bachelor's",
             "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Microsoft",
-        "id": "db1d3d76-2d7c-4013-b8e2-439354d371b7",
-        "title": "Research Intern - AI Systems and Tools",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769480263,
-        "date_posted": 1769480263,
-        "url": "https://apply.careers.microsoft.com/careers/job/1970393556748177",
-        "locations": [
-            "Redmond, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Microsoft",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Cartesia",
-        "id": "c40254aa-d26a-4c8e-bcb9-e123195b1101",
-        "title": "Product Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769480100,
-        "date_posted": 1769480100,
-        "url": "https://jobs.ashbyhq.com/cartesia/ebae3ceb-a6a7-4af0-ae3e-c197af14a67a/application",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Cartesia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
