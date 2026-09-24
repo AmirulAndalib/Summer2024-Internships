@@ -302252,7 +302252,7 @@
         "company_name": "Axon",
         "id": "26097b03-bc67-4a75-9a2f-c6281e00319c",
         "title": "Embedded Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387107,7 +387107,7 @@
         "company_name": "JP Morgan Chase",
         "id": "9ef6dc9e-a7d5-4d20-95db-4fb7e6671641",
         "title": "Machine Learning Engineer Summer Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
