@@ -242238,7 +242238,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -262728,7 +262728,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -287963,7 +287963,7 @@
         "company_name": "NVIDIA",
         "id": "3affcaac-d7f9-45d1-8139-19defc762e13",
         "title": "Deep Learning Computer Architecture Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321805,7 +321805,7 @@
         "company_name": "Fenwick & West",
         "id": "20193c4f-2bf1-4b30-a574-750d8d917d92",
         "title": "Forward Deployed Operations Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -340405,7 +340405,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -340971,7 +340971,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -343068,7 +343068,7 @@
         "company_name": "Marvell",
         "id": "704ba07f-0e70-41ce-a17e-face649ad4bc",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367226,7 +367226,7 @@
         "company_name": "Amgen",
         "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
         "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371396,7 +371396,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -374845,7 +374845,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
         "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386996,7 +386996,7 @@
         "company_name": "REV Robotics",
         "id": "f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -388382,7 +388382,7 @@
         "company_name": "Invesco",
         "id": "e4d9c09e-06f3-497e-8b1d-d10e4391744c",
         "title": "ETF Product Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394539,7 +394539,7 @@
         "company_name": "Marvell",
         "id": "d72a211e-044f-49a3-86c1-7b6b5c9fa66e",
         "title": "Digital IC Design Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -398256,7 +398256,7 @@
         "company_name": "RTX",
         "id": "e85fe564-c92c-4c56-b2ce-41f4ca778811",
         "title": "Operations Software Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
