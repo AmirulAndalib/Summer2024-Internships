@@ -390326,7 +390326,7 @@
         "company_name": "Centene",
         "id": "a3df12be-fbf0-4c4f-a784-f55100ad8aaa",
         "title": "Data and Analytics Intern - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396005,7 +396005,7 @@
         "company_name": "Renesas Electronics",
         "id": "c37c68ad-3655-4019-ae26-9ab367691f7a",
         "title": "Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -403138,7 +403138,7 @@
         "company_name": "Atlassian",
         "id": "9db8fac1-1656-4db7-ad48-26ccb11ca2a8",
         "title": "Data Scientist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
