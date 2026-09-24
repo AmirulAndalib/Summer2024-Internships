@@ -329121,7 +329121,7 @@
         "company_name": "Apex",
         "id": "7003357f-7a78-465d-aac0-c6c87c6cf742",
         "title": "Software Engineer Intern - Embedded Systems",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -374777,7 +374777,7 @@
         "company_name": "Wex",
         "id": "d2a2f7eb-19b0-4859-b09e-fefe81a88ceb",
         "title": "Backend Software Engineer Intern - Cloud Security & AI - Undergraduate",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
