@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 916 Inactive Internship Roles by Category
+### Browse 913 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (309)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (308)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (45)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (44)
 
 🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (273)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (160)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (129)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (128)
 
 ---
 
@@ -87,6 +87,13 @@
 </tr>
 </thead>
 <tbody>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Operations Software Engineering Intern - Summer 2027</td>
+<td>Burnsville, MN</td>
+<td>🔒</td>
+<td>2d</td>
+</tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/CACI?utm_source=GHList&utm_medium=company">CACI</a></strong></td>
 <td>Software Engineer Intern</td>
@@ -326,13 +333,6 @@
 <td>9d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Tive?utm_source=GHList&utm_medium=company">Tive</a></strong></td>
-<td>Software Engineer Co-op</td>
-<td>Boston, MA</td>
-<td>🔒</td>
-<td>9d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/Dell-Technologies?utm_source=GHList&utm_medium=company">Dell Technologies</a></strong></td>
 <td>Software Engineering Intern</td>
 <td>Round Rock, TX<br>Hopkinton, MA</td>
@@ -455,13 +455,6 @@
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Software Engineer Co-op - Spring/Summer 2027</td>
 <td>Cedar Rapids, IA</td>
-<td>🔒</td>
-<td>13d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Amgen?utm_source=GHList&utm_medium=company">Amgen</a></strong></td>
-<td>Software Engineer Intern - Amgen’s Technology & Medical Organizations</td>
-<td>Remote in USA</td>
 <td>🔒</td>
 <td>13d</td>
 </tr>
@@ -2279,13 +2272,6 @@
 <td>7d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Invesco?utm_source=GHList&utm_medium=company">Invesco</a></strong></td>
-<td>ETF Product Intern</td>
-<td>Downers Grove, IL</td>
-<td>🔒</td>
-<td>7d</td>
-</tr>
-<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/NVIDIA?utm_source=GHList&utm_medium=company">NVIDIA</a></strong></td>
 <td>Product Management MBA Intern - Data Center GPU 🎓</td>
 <td>Santa Clara, CA</td>
@@ -2753,13 +2739,6 @@
 <td><details><summary><strong>4 locations</strong></summary>Tempe, AZ<br>Dunwoody, GA<br>Richardson, TX<br>Bloomington, IL</details></td>
 <td>🔒</td>
 <td>9d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/Johnson-Johnson?utm_source=GHList&utm_medium=company">Johnson & Johnson</a></strong></td>
-<td>Robotics Controls & Autonomy Intern - Robotics R&D</td>
-<td>Santa Clara, CA</td>
-<td>🔒</td>
-<td>10d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Genworth-Financial?utm_source=GHList&utm_medium=company">Genworth Financial</a></strong></td>
@@ -3828,6 +3807,13 @@
 <tr>
 <td>↳</td>
 <td>Ph.D. Research Graphics and Simulation Intern - Graphics and Simulation 🎓</td>
+<td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Deep Learning Computer Architecture Intern</td>
 <td>Santa Clara, CA</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -5688,23 +5674,9 @@
 <td>2d</td>
 </tr>
 <tr>
-<td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
-<td>Digital IC Design Intern - BS</td>
-<td><details><summary><strong>5 locations</strong></summary>Hudson Valley, NY<br>Austin, TX<br>Irvine, CA<br>Santa Clara, CA<br>Boise, ID</details></td>
-<td>🔒</td>
-<td>3d</td>
-</tr>
-<tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
 <td>Digital Hardware Design Engineer Co-op - Summer/Fall 2027</td>
 <td>Cedar Rapids, IA</td>
-<td>🔒</td>
-<td>6d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/REV-Robotics?utm_source=GHList&utm_medium=company">REV Robotics</a></strong></td>
-<td>Software Engineer Intern</td>
-<td>Carrollton, TX</td>
 <td>🔒</td>
 <td>6d</td>
 </tr>
@@ -5880,6 +5852,13 @@
 <td><strong><a href="https://simplify.jobs/c/Marvell?utm_source=GHList&utm_medium=company">Marvell</a></strong></td>
 <td>Reliability Intern</td>
 <td>Santa Clara, CA</td>
+<td>🔒</td>
+<td>20d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Firmware Engineer Intern</td>
+<td>Santa Clara, CA<br>Westlake Village, CA</td>
 <td>🔒</td>
 <td>20d</td>
 </tr>
