@@ -300524,7 +300524,7 @@
         "company_name": "The Hartford",
         "id": "5f5acc02-520f-43a0-ab78-35753db6131a",
         "title": "Software Engineer Intern - Technology & Data",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338292,7 +338292,7 @@
         "company_name": "Walmart",
         "id": "20632827-008e-4260-aec0-fd4d5db58b42",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397723,7 +397723,7 @@
         "company_name": "Verizon Communications",
         "id": "bf9d65ab-a7af-49de-bde8-5bfd066f1d20",
         "title": "AI Science Intern - Network and Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
