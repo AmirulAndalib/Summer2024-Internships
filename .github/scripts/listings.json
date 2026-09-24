@@ -297106,7 +297106,7 @@
         "company_name": "The Hartford",
         "id": "20879dcb-5369-4c8b-863e-5958207519d6",
         "title": "Data Engineer Intern - Tech & Data Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371539,7 +371539,7 @@
         "company_name": "Sun Life",
         "id": "1152eb49-b54c-4cf5-ac13-01753a599595",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -378092,7 +378092,7 @@
         "company_name": "Cotiviti",
         "id": "28a55e18-a198-4398-a94f-299a32914aaa",
         "title": "Technology Solutions Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392598,7 +392598,7 @@
         "company_name": "Charles Schwab",
         "id": "f6903e96-db33-4663-8233-9bbdef82cba4",
         "title": "Software Engineering Intern - Model Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
