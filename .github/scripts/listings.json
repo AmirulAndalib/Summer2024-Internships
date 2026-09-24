@@ -162568,7 +162568,7 @@
         "company_name": "Pennsylvania State University",
         "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
         "title": "Embedded Systems and Hardware Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -234737,7 +234737,7 @@
         "company_name": "SDSU Research Foundation",
         "id": "eeb53961-7042-4fec-9272-ed291c610f32",
         "title": "NIWC \u2013 Undergraduate Student 2 or 3 - Communications Division Engineering Support",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311911,7 +311911,7 @@
         "company_name": "Merchants Bank of Indiana",
         "id": "7e772e12-bb40-45ce-b4c8-b8905b2dada8",
         "title": "Business Technology Intern - Application Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337807,7 +337807,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337830,7 +337830,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337876,7 +337876,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345619,7 +345619,7 @@
         "company_name": "Airbus",
         "id": "a22f0440-f1ad-4d06-a98d-fb1e5fd55926",
         "title": "Space Software Engineering Placement - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -350672,7 +350672,7 @@
         "company_name": "General Dynamics Mission Systems",
         "id": "cb671a4e-ff11-4624-a824-2b46cbf7a24f",
         "title": "Systems Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384355,7 +384355,7 @@
         "company_name": "American Express",
         "id": "e42c5690-d416-4909-ba3c-fd4eca08295e",
         "title": "Marketing Analyst Intern - Undergraduate ICS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385713,7 +385713,7 @@
         "company_name": "Wellington Management",
         "id": "a5380d17-1b9c-48ba-ada4-ae136e855000",
         "title": "Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386558,7 +386558,7 @@
         "company_name": "4AG Robotics",
         "id": "5fb2e4f9-0eb7-43f3-8775-1fff0a8a0927",
         "title": "AI Co-op Student",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
