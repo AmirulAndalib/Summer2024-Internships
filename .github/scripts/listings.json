@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "IQVIA",
-        "id": "b40d41ce-5c3b-4c58-92a2-99ace68fd7ca",
-        "title": "Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769528466,
-        "date_posted": 1769528466,
-        "url": "https://iqvia.wd1.myworkdayjobs.com/en-US/IQVIA/job/Stafford-United-Kingdom/Intern_R1521191",
-        "locations": [
-            "Stoke-on-Trent, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/IQVIA",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Royal Bank of Canada",
-        "id": "a9643f01-a737-4f12-aeec-66b8551ce2a5",
-        "title": "Product Management Intern - Rbcx - 4 months",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769529653,
-        "date_posted": 1769529653,
-        "url": "https://rbc.wd3.myworkdayjobs.com/rbcglobal1/job/TORONTO-Ontario-Canada/XMLNAME-2026-Summer---RBCx--Product-Management-Intern--4-months-_R-0000157024",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Four Hands",
         "id": "e3d053d4-fb58-4a75-94f0-cce09cc304bb",
@@ -399199,7 +399153,7 @@
         "company_name": "KLA Corporation",
         "id": "b26371db-d53d-469b-b8e0-1f50db3f6004",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -399267,7 +399221,7 @@
         "company_name": "KLA Corporation",
         "id": "2b59526d-a2ea-44bf-bbe9-0d26e2273475",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -402801,5 +402755,49 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Royal Bank of Canada",
+        "id": "58c6dfc7-a9ff-4160-98c9-7f4997ae9ffa",
+        "title": "Data Traceability & Controls Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027"
+        ],
+        "date_updated": 1790263895,
+        "date_posted": 1790208000,
+        "url": "https://rbc.wd3.myworkdayjobs.com/ExternalPrivatePostingStudents/job/HALIFAX-Nova-Scotia-Canada/XMLNAME-2027-Winter---CDO--Data-Traceability---Controls-Intern--4-Months---Bedford--NS-_R-0000186553",
+        "locations": [
+            "Halifax Regional Municipality, NS, Canada"
+        ],
+        "company_url": "https://simplify.jobs/c/Royal-Bank-Of-Canada",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Ciena",
+        "id": "5b58ee77-e8de-4139-8c62-ca2bdc041bb0",
+        "title": "Software Intern - WaveLogic",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790263906,
+        "date_posted": 1790208000,
+        "url": "https://ciena.wd5.myworkdayjobs.com/Careers/job/Atlanta/WaveLogic-Software-Intern-Spring-2027_R031692",
+        "locations": [
+            "Atlanta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Ciena",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
