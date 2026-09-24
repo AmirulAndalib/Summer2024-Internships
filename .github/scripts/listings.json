@@ -299166,7 +299166,7 @@
         "company_name": "Xpansiv",
         "id": "8cf244f2-f67a-4786-b968-74bd6c7aec38",
         "title": "Product Management Intern - AI Products",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371261,7 +371261,7 @@
         "company_name": "Arconic",
         "id": "7ca96c83-d12e-446b-b67f-462fed03bb0f",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
