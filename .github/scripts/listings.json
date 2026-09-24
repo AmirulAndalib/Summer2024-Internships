@@ -292850,7 +292850,7 @@
         "company_name": "Brunswick",
         "id": "c4bfe952-8e9a-4599-966c-127295b128ad",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -297681,7 +297681,7 @@
         "company_name": "Meridian Partners",
         "id": "d7b507c0-bb45-40b2-97e2-575198d7b5c7",
         "title": "Front End Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304031,7 +304031,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326947,7 +326947,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341513,7 +341513,7 @@
         "company_name": "RTX",
         "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
         "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345525,7 +345525,7 @@
         "company_name": "Airbus",
         "id": "bd80c89b-42e4-4c23-a52a-2dd6ab1d67d8",
         "title": "Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -351307,7 +351307,7 @@
         "company_name": "RTX",
         "id": "c083713f-2297-45fc-a2d7-2bc2fc492057",
         "title": "FPGA Electrical Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -376811,7 +376811,7 @@
         "company_name": "NVIDIA",
         "id": "e4d72b3b-b6d8-46ec-a879-a0f2664ed75d",
         "title": "PhD Research Intern - Generative AI for Physical AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
