@@ -162568,7 +162568,7 @@
         "company_name": "Pennsylvania State University",
         "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
         "title": "Embedded Systems and Hardware Co-Op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -170299,7 +170299,7 @@
         "company_name": "Tencent",
         "id": "6e53b9de-07c4-4545-b612-707fca641b88",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -242238,7 +242238,7 @@
         "company_name": "Pylon",
         "id": "f0aadc2c-2a47-404c-bc18-f3863ab3e456",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -262728,7 +262728,7 @@
         "company_name": "k-ID",
         "id": "d1956f60-b9eb-4d52-8da7-ac5ab857772b",
         "title": "Engineering Intern - Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -263325,7 +263325,7 @@
         "company_name": "Obsidian Solutions Group",
         "id": "ee1bc7a8-d82f-4c73-8228-18ce9b38d4b0",
         "title": "Unity 3D Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -276308,7 +276308,7 @@
         "company_name": "Deloitte",
         "id": "ab415b2f-4b79-4996-a204-a63273564c89",
         "title": "Software Engineering Analyst Intern - Government & Public Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -312439,7 +312439,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326621,7 +326621,7 @@
         "company_name": "Northwood Space",
         "id": "ecdb732a-4566-44b5-bb1e-360045df13d9",
         "title": "Electrical Engineer Intern - Summer Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -340405,7 +340405,7 @@
         "company_name": "Prysmian Cables & Systems",
         "id": "7ed5f8a7-365f-4795-bb28-dd68ad3dfbcf",
         "title": "AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -345619,7 +345619,7 @@
         "company_name": "Airbus",
         "id": "a22f0440-f1ad-4d06-a98d-fb1e5fd55926",
         "title": "Space Software Engineering Placement - Months",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -367226,7 +367226,7 @@
         "company_name": "Amgen",
         "id": "5012230e-2a8b-4047-80ec-4b7c9ecbf427",
         "title": "Software Engineer Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371396,7 +371396,7 @@
         "company_name": "Tive",
         "id": "9d613826-b169-4950-9be3-779d329aab98",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -374845,7 +374845,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ca83c527-3aa7-4bc1-b842-d5e57efca6dd",
         "title": "Robotics Controls & Autonomy Intern - Robotics R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380575,7 +380575,7 @@
         "company_name": "Live Oak Bank",
         "id": "94db09b4-4148-4208-acfd-2dcfef6b4a27",
         "title": "Architecture/Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381643,7 +381643,7 @@
         "company_name": "EQT Corporation",
         "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
         "title": "Data Engineering Intern - Completions Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -385713,7 +385713,7 @@
         "company_name": "Wellington Management",
         "id": "a5380d17-1b9c-48ba-ada4-ae136e855000",
         "title": "Business Intelligence Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -386996,7 +386996,7 @@
         "company_name": "REV Robotics",
         "id": "f0da3c1f-2fb8-46f1-b1f7-57c7a9ca092a",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388382,7 +388382,7 @@
         "company_name": "Invesco",
         "id": "e4d9c09e-06f3-497e-8b1d-d10e4391744c",
         "title": "ETF Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394539,7 +394539,7 @@
         "company_name": "Marvell",
         "id": "d72a211e-044f-49a3-86c1-7b6b5c9fa66e",
         "title": "Digital IC Design Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -396384,7 +396384,7 @@
         "company_name": "Tyler Technologies",
         "id": "d6c24595-0dd3-449f-b0ae-d13e256fc740",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
