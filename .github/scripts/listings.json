@@ -358565,7 +358565,7 @@
         "company_name": "Texas Instruments",
         "id": "d6b23fe5-6577-4b69-b13c-acc7b6056405",
         "title": "Web Marketing Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381688,7 +381688,7 @@
         "company_name": "Lightmatter",
         "id": "92e0027e-a9c8-4956-82d7-791d98c9d21b",
         "title": "Silicon Intern - Hardware & Photonics Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -401225,7 +401225,7 @@
         "company_name": "Jefferson Health",
         "id": "e951f72d-bd40-4561-aac8-f1125960366c",
         "title": "Analysis Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -403568,5 +403568,125 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "c3cf0e0c-833f-44df-a0c9-d931121ecb8a",
+        "title": "Systems Engineering Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790213941,
+        "date_posted": 1790213884,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841978002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "2db508b9-8c94-4578-af5c-2e9050a1fc01",
+        "title": "Hardware Platform Development Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790213941,
+        "date_posted": 1790213882,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841941002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's",
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Graphcore",
+        "id": "0c3e33aa-b7f2-43c5-905a-19d5decedeeb",
+        "title": "Firmware Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790213967,
+        "date_posted": 1790213881,
+        "url": "https://job-boards.greenhouse.io/graphcore/jobs/8841894002",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Graphcore",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "a16efc0d-108f-4ae3-81a2-aaf96195f8ce",
+        "title": "Solar Hardware Engineer Intern - PV Cell - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1790213664,
+        "date_posted": 1790213504,
+        "url": "https://www.tesla.com/careers/search/job/284489",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "Tesla",
+        "id": "d0f85828-c8e8-42fb-a47d-3f46e18db9d1",
+        "title": "Software Engineer Industrial Firmware Intern - Energy Engineering",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027"
+        ],
+        "date_updated": 1790213636,
+        "date_posted": 1790213512,
+        "url": "https://www.tesla.com/careers/search/job/284448",
+        "locations": [
+            "Palo Alto, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/Tesla",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
     }
 ]
