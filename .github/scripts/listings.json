@@ -256607,7 +256607,7 @@
         "company_name": "University of Texas at Austin",
         "id": "5a0804d4-f2e3-43ca-8eff-3a2fa46ab2f6",
         "title": "Student Analyst - Data Analytics and Strategy - Career Management and Corporate Relations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -296493,7 +296493,7 @@
         "company_name": "Chick-fil-A",
         "id": "c24fa0b2-9b8e-494c-880d-d33c97076848",
         "title": "Digital Transformation and Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2026"
         ],
@@ -303118,7 +303118,7 @@
         "company_name": "Deloitte",
         "id": "a69da076-e18a-42b5-9a88-0838d7941959",
         "title": "Software Engineering Summer Scholar Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
