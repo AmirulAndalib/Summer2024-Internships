@@ -169681,7 +169681,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -230958,7 +230958,7 @@
         "company_name": "Liberty University",
         "id": "ea053f2a-38d8-4cc1-af0b-e280de37935e",
         "title": "Business Analyst Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -249221,7 +249221,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -287719,7 +287719,7 @@
         "company_name": "NVIDIA",
         "id": "ea8c5ebd-a6c4-49ff-9dac-f3532c41737a",
         "title": "Systems Software Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -311844,7 +311844,7 @@
         "company_name": "Manulife Financial",
         "id": "78fab1c2-9f47-412d-8659-873843843c0a",
         "title": "Quantitative Analyst Co-op Intern - Derivative and Asset Modeling",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -352028,7 +352028,7 @@
         "company_name": "The Federal Reserve System",
         "id": "b18d2ee9-8e92-4db6-91d6-e4e35363850c",
         "title": "Payments Forum Intern - Spring/Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -358207,7 +358207,7 @@
         "company_name": "RTX",
         "id": "757ed4c0-2f8e-4285-a0dd-e82bb8698fb7",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -361141,7 +361141,7 @@
         "company_name": "Polar Semiconductor",
         "id": "9bd16ba6-5f88-4345-9093-de6c410b805b",
         "title": "Industrial Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -364823,7 +364823,7 @@
         "company_name": "RTX",
         "id": "b0fd8336-e667-4187-901e-5e7d96cbd6bf",
         "title": "Manufacturing & Quality Analyst Intern - Stage 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -367012,7 +367012,7 @@
         "company_name": "Amgen",
         "id": "811210da-553e-4d37-b262-9897450dc43d",
         "title": "Data Scientist Intern - Amgen\u2019s Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -367275,7 +367275,7 @@
         "company_name": "Amgen",
         "id": "27460c05-e022-499c-bcc8-2783559d2639",
         "title": "Digital Product Intern - Digital Product - Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -381112,7 +381112,7 @@
         "company_name": "RTX",
         "id": "28e7cce7-67d2-4001-b60a-26951a04ee0e",
         "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384936,7 +384936,7 @@
         "company_name": "Invesco",
         "id": "0a1eb39e-1b36-432c-8c24-333d6d4277ee",
         "title": "ETF Product Development Intern - Early Career",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385524,7 +385524,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "4bde8bc5-067e-4676-9a52-d07891e1cb78",
         "title": "Product Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -402674,7 +402674,7 @@
         "company_name": "Cenovus Energy",
         "id": "6b8dd43f-f7c6-40fc-afb7-915318ecdc76",
         "title": "Information Technology Student - Data Science and Software",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
