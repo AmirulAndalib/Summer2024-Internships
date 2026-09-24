@@ -134148,7 +134148,7 @@
         "company_name": "ByteDance",
         "id": "d1de5351-a1c6-4497-bcfd-241a21eab0c3",
         "title": "Student Researcher - Vision Foundation Model",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -255741,7 +255741,7 @@
         "company_name": "Trillium",
         "id": "82a4d731-9bcd-4a93-8dda-6d7af0e3b64c",
         "title": "Equity Trader Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -281993,7 +281993,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -282085,7 +282085,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -302754,7 +302754,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311028,7 +311028,7 @@
         "company_name": "IGS Energy",
         "id": "04b39002-c856-4b61-96ef-f8e8d00c0001",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -314360,7 +314360,7 @@
         "company_name": "Edison International",
         "id": "77203ce5-b7d4-43d5-a610-f97e1ddee542",
         "title": "Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -314653,7 +314653,7 @@
         "company_name": "AMD",
         "id": "63f022cb-b4f4-4fd9-869e-9bdd55d6fabe",
         "title": "Machine Learning/Artificial Intelligence Intern/Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027",
@@ -337853,7 +337853,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337960,7 +337960,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -337983,7 +337983,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338194,7 +338194,7 @@
         "company_name": "Goldman Sachs",
         "id": "b2b3a7df-bea1-4290-b988-4c3e567814b8",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345571,7 +345571,7 @@
         "company_name": "Micron Technology",
         "id": "11ebfbb3-96f2-4ff0-a652-c2c9f0c85e86",
         "title": "DRAM Test Structure Design and Layout Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -351331,7 +351331,7 @@
         "company_name": "RTX",
         "id": "107f6694-f8a2-45ff-bb58-e77552dc317c",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -363922,7 +363922,7 @@
         "company_name": "Kinaxis",
         "id": "5b07d830-b50d-4cff-a64a-555dad0ea478",
         "title": "Developer Intern - Clients - Front End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -371814,7 +371814,7 @@
         "company_name": "Google",
         "id": "6dd83af2-b361-466c-b194-a7b86e904899",
         "title": "Data Scientist Intern - Product",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380621,7 +380621,7 @@
         "company_name": "Live Oak Bank",
         "id": "32923ef5-9813-4720-ba0f-736ed5febb06",
         "title": "Artificial Intelligence Enablement & Forward-Deployed Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380760,7 +380760,7 @@
         "company_name": "ByteDance",
         "id": "82ef6fed-e7e8-4860-81dc-834f0cd0e99a",
         "title": "Research Scientist Intern - Seed Responsible AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -384355,7 +384355,7 @@
         "company_name": "American Express",
         "id": "e42c5690-d416-4909-ba3c-fd4eca08295e",
         "title": "Marketing Analyst Intern - Undergraduate ICS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385851,7 +385851,7 @@
         "company_name": "Kinaxis",
         "id": "66a61359-31ec-434c-9b02-f8c2802c91b2",
         "title": "AI Quality Co-op Intern - Evaluation & Security",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -386558,7 +386558,7 @@
         "company_name": "4AG Robotics",
         "id": "5fb2e4f9-0eb7-43f3-8775-1fff0a8a0927",
         "title": "AI Co-op Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -393297,7 +393297,7 @@
         "company_name": "RTX",
         "id": "11505c09-a66c-4c86-a39d-81ffbce4b13d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -397372,7 +397372,7 @@
         "company_name": "West Bend Insurance",
         "id": "5b1eb0f8-7bed-43e1-8273-c4c58b2eca9e",
         "title": "IT Data Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -398110,7 +398110,7 @@
         "company_name": "Rippling",
         "id": "2d6b647d-ac44-4539-b4ac-403a696b90b1",
         "title": "Data Science Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -398207,7 +398207,7 @@
         "company_name": "RTX",
         "id": "107197c3-30d5-45c2-b0b2-4a499d03531d",
         "title": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -399792,7 +399792,7 @@
         "company_name": "Ralliant",
         "id": "772904d0-c686-441a-b5dd-5c8e650d5b36",
         "title": "Research and Development Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
