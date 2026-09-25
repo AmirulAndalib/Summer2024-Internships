@@ -1,146 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "19ba5989-b78b-4c97-9f53-175f7e3a41ce",
-        "title": "Software Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769585996,
-        "date_posted": 1769585996,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-TX-RICHARDSON-C17--1717-Cityline-Dr--CITYLINE-C17/Software-Engineering-Intern--Summer-2026---Onsite-_01789887",
-        "locations": [
-            "Richardson, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yes Energy",
-        "id": "da1c45d2-89c1-4ec1-aa35-be75fcbf0325",
-        "title": "Data Systems Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769585679,
-        "date_posted": 1769585679,
-        "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5096137008",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Yes-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Yes Energy",
-        "id": "b168ad0d-0a8c-479f-ab32-067338a37c1d",
-        "title": "AI Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769585680,
-        "date_posted": 1769585680,
-        "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5096124008",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Yes-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yes Energy",
-        "id": "900d4efb-8885-4aa9-abfe-4aee6af7c0ce",
-        "title": "Analytics Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769585679,
-        "date_posted": 1769585679,
-        "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5096108008",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Yes-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yes Energy",
-        "id": "85850fbf-2a29-4fa1-a0be-449c71ceb3ae",
-        "title": "Data Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769585675,
-        "date_posted": 1769585675,
-        "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5096143008",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Yes-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Yes Energy",
-        "id": "05133d7a-f0a6-442c-a281-7ea6b861cb54",
-        "title": "Energy Market Analytics Intern - Encompass",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769585675,
-        "date_posted": 1769585675,
-        "url": "https://job-boards.greenhouse.io/yesenergy/jobs/5098939008",
-        "locations": [
-            "Boulder, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Yes-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Metropolitan Transportation Authority",
         "id": "ccd71198-61f7-4cdd-9be6-a0bfda36060b",
@@ -349253,7 +349113,7 @@
         "company_name": "TD Bank",
         "id": "aa46f291-e4c5-4175-9aec-90324da1cd66",
         "title": "Data Analyst Co-op Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -351860,7 +351720,7 @@
         "company_name": "SpawGlass",
         "id": "415731a4-2387-4e96-8d9d-22e6cc822b1b",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381159,7 +381019,7 @@
         "company_name": "Smith+Nephew",
         "id": "e89448c1-21ee-450a-85e8-84ad429d6f3e",
         "title": "Robotics Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388742,7 +388602,7 @@
         "company_name": "Northrop Grumman",
         "id": "a6f454a8-2bd5-4c59-a968-77237a0c890c",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
