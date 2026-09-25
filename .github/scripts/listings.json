@@ -2,123 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Comcast",
-        "id": "8be884a5-0b4e-4535-b754-158649a19e31",
-        "title": "Software Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026",
-            "Summer 2026",
-            "Fall 2026"
-        ],
-        "date_updated": 1769615481,
-        "date_posted": 1769615481,
-        "url": "https://comcast.wd5.myworkdayjobs.com/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Comcast-Software-Engineer-Co-op_R421854",
-        "locations": [
-            "Philadelphia, PA"
-        ],
-        "company_url": "https://simplify.jobs/c/Comcast",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Manulife Financial",
-        "id": "62ddf41b-fb28-48c0-a0d4-ef12d453eb0b",
-        "title": "Product Documentation Specialist \u2013 Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769615435,
-        "date_posted": 1769615433,
-        "url": "https://manulife.wd3.myworkdayjobs.com/en-US/MFCJH_adminJobs/job/Waterloo-Ontario/Product-Documentation-Specialist---Co-op_JR26010907-1",
-        "locations": [
-            "Toronto, ON, Canada",
-            "Kitchener, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Manulife-Financial",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ginkgo Bioworks",
-        "id": "f19fc366-1b13-4cf5-a10f-75ccd232212d",
-        "title": "Software Intern - Autonomous Lab",
-        "active": true,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1769614520,
-        "date_posted": 1769614520,
-        "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033167007",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ginkgo-Bioworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Ginkgo Bioworks",
-        "id": "a34fd6fd-c9fc-43d2-bff0-d75f752bbed7",
-        "title": "Software Graduate Intern - Autonomous Lab",
-        "active": true,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769614521,
-        "date_posted": 1769614521,
-        "url": "https://job-boards.greenhouse.io/ginkgobioworks/jobs/5033171007",
-        "locations": [
-            "Oakland, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Ginkgo-Bioworks",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "EverCommerce",
-        "id": "87d52ae5-6541-4808-850f-f372c052d638",
-        "title": "Everpro \u2013 Growth and Markets Internship - US",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769614494,
-        "date_posted": 1769614494,
-        "url": "https://evercommerce.wd1.myworkdayjobs.com/evercommerce_careers/job/Remote--US/EverPro---Growth-and-Markets-Internship--Remote--US-_R-105892",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/a1a5e91c-79e8-44ef-a474-3b5b939c9c5c",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Holman",
         "id": "f035ed54-b15f-4f9d-842b-14e1b3f01a4a",
         "title": "Developer Intern/Co-op",
@@ -274518,7 +274401,7 @@
         "company_name": "American Fidelity",
         "id": "5f12771f-a545-4521-ba17-ecb175d4dbcb",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -287547,7 +287430,7 @@
         "company_name": "Micron Technology",
         "id": "afa64b8c-e29c-4c0b-bc7d-fbca02771094",
         "title": "SoC RTL Design Engineer Intern - HBM",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -298882,7 +298765,7 @@
         "company_name": "RTX",
         "id": "6c4b58d2-9722-4496-844f-1f28eef54ff2",
         "title": "Customer Data Management and Analysis Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -387044,7 +386927,7 @@
         "company_name": "Valeo",
         "id": "aa106068-1f24-43ad-ae2c-563b6bd40364",
         "title": "Mechatronics Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
