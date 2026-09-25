@@ -299141,7 +299141,7 @@
         "company_name": "The Hartford",
         "id": "394e0012-c136-47f1-9d1a-1065be754a84",
         "title": "Software Engineer Intern - Technology, Data, AI, and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345319,7 +345319,7 @@
         "company_name": "TD Bank",
         "id": "3045ae32-dfde-4b96-bc39-7e6c6eef2334",
         "title": "Data Science Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345365,7 +345365,7 @@
         "company_name": "TD Bank",
         "id": "73d79b50-25b2-48bc-8d74-c95e069e68c8",
         "title": "Portfolio Analytics Developer Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -346966,7 +346966,7 @@
         "company_name": "Intact",
         "id": "53ec04c7-ae25-4f26-9510-20c8fb42f05b",
         "title": "Software Developer 1 Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -346990,7 +346990,7 @@
         "company_name": "Intact",
         "id": "1f12c834-20d2-4074-b938-f4f23df36e31",
         "title": "Software Developer 1 Co-op - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -358015,7 +358015,7 @@
         "company_name": "Cox",
         "id": "21568f01-2d51-4221-a7e5-9c047abad62d",
         "title": "AI/Automation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
