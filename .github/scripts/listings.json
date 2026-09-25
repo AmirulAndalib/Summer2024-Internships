@@ -245883,7 +245883,7 @@
         "company_name": "Capital One",
         "id": "c630373c-97e1-47cf-a4b8-5348a77da451",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -318624,7 +318624,7 @@
         "company_name": "Eight Sleep",
         "id": "842ded34-df38-49e4-8d21-4a85f457c148",
         "title": "Prototype & Test Engineer Intern - New Product Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -339414,7 +339414,7 @@
         "company_name": "Micron Technology",
         "id": "366373d7-0ede-413a-8466-27171c7abc8a",
         "title": "Photomask Yield Enhancement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -378612,7 +378612,7 @@
         "company_name": "Persona",
         "id": "b3b5a172-409f-4e54-9248-583177d1ac17",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381235,7 +381235,7 @@
         "company_name": "Visa",
         "id": "d3cb9fdb-6b20-49e1-9f4e-9525acbcd327",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388547,7 +388547,7 @@
         "company_name": "Lazard",
         "id": "cd9a9dea-bbcd-4793-b6b4-a65c46522966",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389316,7 +389316,7 @@
         "company_name": "Booz Allen",
         "id": "c3d7feb6-9d19-4d95-a50c-aca69e2aac06",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391979,7 +391979,7 @@
         "company_name": "Booz Allen",
         "id": "f5a57f30-b133-43ba-b8f8-1de07dc17078",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400490,7 +400490,7 @@
         "company_name": "AccuWeather",
         "id": "d9b609ef-0a1c-4b6c-909e-3156ff77bdaa",
         "title": "Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
