@@ -317999,7 +317999,7 @@
         "company_name": "Voltus",
         "id": "0b7d9c7a-6864-4792-846e-e52cf3087746",
         "title": "Energy Markets Intern - Miso",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -389362,7 +389362,7 @@
         "company_name": "Booz Allen",
         "id": "82a9b6d4-6ab6-499d-a373-79b618b18010",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392053,7 +392053,7 @@
         "company_name": "Booz Allen",
         "id": "6dd0e33a-c6c2-49ff-9275-1db9cd952dcd",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
