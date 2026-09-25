@@ -197758,7 +197758,7 @@
         "company_name": "Medpace, Inc.",
         "id": "e484710b-5e00-46ed-bb45-b6b53b1559ac",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -243337,7 +243337,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -273393,7 +273393,7 @@
         "company_name": "Blue Origin",
         "id": "2d12bca6-cc8c-4e3f-877e-0219f82a069b",
         "title": "Software Development Engineer 1 Intern - Corporate Functions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -281618,7 +281618,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323962,7 +323962,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -329810,7 +329810,7 @@
         "company_name": "Magna",
         "id": "a7beff09-b326-4679-a544-c614e04aa701",
         "title": "Robotics AI Algorithm Intern - Research and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -341964,7 +341964,7 @@
         "company_name": "Marvell",
         "id": "c59f85f4-61b5-40c1-886f-14943e17c10e",
         "title": "Physical Design Engineer Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341993,7 +341993,7 @@
         "company_name": "Marvell",
         "id": "bab771b3-ac96-486f-9e4a-e48811b37eab",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342022,7 +342022,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342680,7 +342680,7 @@
         "company_name": "Airbus",
         "id": "f6adfce9-f40a-4ce0-b9bc-d3df07a52328",
         "title": "Flight Physics Data Science Engineer",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -359871,7 +359871,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369934,7 +369934,7 @@
         "company_name": "Charta Health",
         "id": "7f4d2358-707d-4cbf-83b4-694072fbba3e",
         "title": "Forward Deployed AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380689,7 +380689,7 @@
         "company_name": "Wellington Management",
         "id": "f6e1590f-7f4a-42fc-8d15-05f851dc85e1",
         "title": "Global Risk & Performance Strategy Co-op - Multi-Asset and Hedge Fund Risk - Fixed Income Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -391554,7 +391554,7 @@
         "company_name": "Marvell",
         "id": "d72a211e-044f-49a3-86c1-7b6b5c9fa66e",
         "title": "Digital IC Design Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -395680,7 +395680,7 @@
         "company_name": "Marvell",
         "id": "99bffa98-fcc7-41ec-beed-d75d5954991d",
         "title": "Electrical Validation Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
