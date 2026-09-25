@@ -292192,7 +292192,7 @@
         "company_name": "Freddie Mac",
         "id": "7d622bf2-9241-4e85-b72d-dc305db65752",
         "title": "Quantitative Risk Management Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -292551,7 +292551,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -296608,7 +296608,7 @@
         "company_name": "RTX",
         "id": "a2ab2232-0294-4321-8831-a52bd5488178",
         "title": "Business Intelligence and Governance Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -374436,7 +374436,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -377472,7 +377472,7 @@
         "company_name": "Analog Devices",
         "id": "83127520-9aed-4eb4-a7c5-63d711f65e1f",
         "title": "Test Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -381628,7 +381628,7 @@
         "company_name": "Visa",
         "id": "cfd0b2db-69a7-43dd-83d9-656ff55efb00",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381836,7 +381836,7 @@
         "company_name": "Invesco",
         "id": "b27d3a57-f7d0-4295-b07c-a4538b1846ab",
         "title": "ETF Product Development Intern - Early Career",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391883,7 +391883,7 @@
         "company_name": "Fidelity Investments",
         "id": "6177e762-3444-42f7-97c6-b94abf15c039",
         "title": "Quantitative Research Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -394115,7 +394115,7 @@
         "company_name": "GE Healthcare",
         "id": "94701b25-a1e7-43b1-88a6-dba6fef5c0ea",
         "title": "Full-Stack Software Engineer Intern - MIM Commercialized Web Applications",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -397219,7 +397219,7 @@
         "company_name": "Neuberger Berman",
         "id": "d19faef5-69be-4dee-b896-16d292336009",
         "title": "Quantitative Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -400394,7 +400394,7 @@
         "company_name": "Renesas Electronics",
         "id": "44a3090f-4b76-42b8-bfc1-a50326c0fd39",
         "title": "Validation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
