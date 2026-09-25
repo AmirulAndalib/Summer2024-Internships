@@ -298759,7 +298759,7 @@
         "company_name": "The Hartford",
         "id": "d824572c-f3ea-466d-a052-34f4c402149b",
         "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325068,7 +325068,7 @@
         "company_name": "Tesla",
         "id": "de8cb307-6829-4afa-8e31-0fefe60818e7",
         "title": "Software Engineer Intern - Finance Programs",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -345081,7 +345081,7 @@
         "company_name": "TD Bank",
         "id": "0ae8eab8-0ba9-41fd-ada9-5af34d6026a2",
         "title": "Portfolio Analytics Data Analyst Intern/Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -347221,7 +347221,7 @@
         "company_name": "Syntiant",
         "id": "d88cbfd5-185a-4200-8daa-b8222f07e7af",
         "title": "Machine Learning Intern - KWS/AED",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -375703,7 +375703,7 @@
         "company_name": "U.S. Bank",
         "id": "06de0769-fb7b-4a7e-9229-b21b568a3f92",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386996,7 +386996,7 @@
         "company_name": "Rundoo",
         "id": "21ae5c99-91ac-4040-8486-fdad81449835",
         "title": "Marketing Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390383,7 +390383,7 @@
         "company_name": "Boston Scientific",
         "id": "1a872d07-40d8-4b98-8f0f-15127543ae64",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -402655,6 +402655,29 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Highgate",
+        "id": "1641054b-4682-4012-95fb-6d5cf73457ca",
+        "title": "Revenue Management Intern - Summer 2027",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790324421,
+        "date_posted": 1789411439,
+        "url": "https://externalhourly-highgate.icims.com/jobs/82510/job?hub=7&mobile=true&needsRedirect=false",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Highgate",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
