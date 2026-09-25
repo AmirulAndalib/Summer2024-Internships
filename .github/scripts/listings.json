@@ -343479,7 +343479,7 @@
         "company_name": "ICF International",
         "id": "75efacf7-58e1-468e-9621-e23a1444acdf",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345203,7 +345203,7 @@
         "company_name": "TD Bank",
         "id": "f0b88e82-318c-4d88-8b72-7b40d2d7847a",
         "title": "Applied Machine Learning Scientist Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -377571,7 +377571,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "61044b56-5584-4118-b985-879aa9c86501",
         "title": "Product Management Intern - Commercial Tech & Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
