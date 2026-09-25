@@ -325068,7 +325068,7 @@
         "company_name": "Tesla",
         "id": "de8cb307-6829-4afa-8e31-0fefe60818e7",
         "title": "Software Engineer Intern - Finance Programs",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027"
         ],
@@ -345155,7 +345155,7 @@
         "company_name": "TD Bank",
         "id": "89f392a0-3d90-4962-aa65-978cc99f1a66",
         "title": "Product Management Intern/Co-op - Personal Savings & Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -347221,7 +347221,7 @@
         "company_name": "Syntiant",
         "id": "d88cbfd5-185a-4200-8daa-b8222f07e7af",
         "title": "Machine Learning Intern - KWS/AED",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -350444,7 +350444,7 @@
         "company_name": "Marvell",
         "id": "22b78f4a-3df3-419a-9868-20e68b7dbb6f",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362506,7 +362506,7 @@
         "company_name": "Genentech",
         "id": "11ca3bf4-cee5-430d-b716-f25dffb46824",
         "title": "Digital Sciences Intern - Product Technical Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -381042,7 +381042,7 @@
         "company_name": "The Walt Disney Company",
         "id": "bad6cdd5-b63d-4320-a780-2ec8f140ff2d",
         "title": "Show Control Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382866,7 +382866,7 @@
         "company_name": "Kinaxis",
         "id": "66a61359-31ec-434c-9b02-f8c2802c91b2",
         "title": "AI Quality Co-op Intern - Evaluation & Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -386996,7 +386996,7 @@
         "company_name": "Rundoo",
         "id": "21ae5c99-91ac-4040-8486-fdad81449835",
         "title": "Marketing Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -391069,7 +391069,7 @@
         "company_name": "Zimmer Biomet Holdings",
         "id": "62014017-f39b-4e2f-969b-4520e27dc627",
         "title": "Data Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
