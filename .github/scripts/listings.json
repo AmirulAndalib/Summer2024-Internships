@@ -1,166 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Metropolitan Transportation Authority",
-        "id": "ccd71198-61f7-4cdd-9be6-a0bfda36060b",
-        "title": "Product Development - Tech & Engineering Fellow",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769613600,
-        "date_posted": 1769613600,
-        "url": "https://jobs.jobvite.com/metropolitantransportationauthority/job/oyvozfwK?nl=1&nl=1&fr=false",
-        "locations": [
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Metropolitan-Transportation-Authority",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Fiserv",
-        "id": "868e02e4-42c4-4b33-ac1b-9570679b6494",
-        "title": "Technology Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769613692,
-        "date_posted": 1769613692,
-        "url": "https://fiserv.wd5.myworkdayjobs.com/ext/job/Hagerstown-Maryland/Technology---Summer-Intern_R-10385804",
-        "locations": [
-            "Hagerstown, MD"
-        ],
-        "company_url": "https://simplify.jobs/c/Fiserv",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "71f428b3-2ce6-407a-8540-4e867b13dc6c",
-        "title": "Data Intelligence Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769613559,
-        "date_posted": 1769613559,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/30507",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Rocket Companies",
-        "id": "3e9b649c-56d2-4ee6-87a5-5e91fff90254",
-        "title": "Product Development Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769613636,
-        "date_posted": 1769613636,
-        "url": "https://quickenloans.wd5.myworkdayjobs.com/rocket_careers/job/Detroit-MI/Product-Development-Intern---Summer-2026_R-081447-1",
-        "locations": [
-            "Detroit, MI"
-        ],
-        "company_url": "https://simplify.jobs/c/Rocket-Companies",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "LMI ",
-        "id": "6733555f-9ee9-4e61-98d6-6430f675caff",
-        "title": "Data Science-Intern - FIU Students",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769613056,
-        "date_posted": 1769613056,
-        "url": "https://careers-lmi.icims.com/jobs/13576/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA",
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/LMI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "LMI ",
-        "id": "4ed23878-86a7-4eb7-87ca-eb9b001024b6",
-        "title": "Software Development - FIU Students",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769612955,
-        "date_posted": 1769612955,
-        "url": "https://careers-lmi.icims.com/jobs/13575/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Remote in USA",
-            "Vienna, VA"
-        ],
-        "company_url": "https://simplify.jobs/c/LMI",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "SAS",
-        "id": "274cd31a-3f8f-446f-b512-2b0e32fd6959",
-        "title": "Software Engineer Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769613003,
-        "date_posted": 1769613003,
-        "url": "https://careers-sas.icims.com/jobs/40723/job?mobile=true&needsRedirect=false",
-        "locations": [
-            "Morrisville, NC"
-        ],
-        "company_url": "https://simplify.jobs/c/SAS",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Comcast",
         "id": "8be884a5-0b4e-4535-b754-158649a19e31",
@@ -9182,27 +9022,6 @@
             "Master's",
             "PhD"
         ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Virtua Health",
-        "id": "5ee2a623-56ae-4f2b-816e-375a1dbd874e",
-        "title": "IT Informatics Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769860843,
-        "date_posted": 1769613827,
-        "url": "https://virtua.wd1.myworkdayjobs.com/Virtua_Health_External_Career_Site/job/Lippincott---301-Lippincott-Drive/IT-Informatics-Intern_R1059084",
-        "locations": [
-            "Mt Laurel Township, NJ"
-        ],
-        "company_url": "https://simplify.jobs/c/Virtua-Health",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
     },
     {
         "source": "Simplify",
@@ -281085,7 +280904,7 @@
         "company_name": "American Fidelity",
         "id": "53459724-0b30-44d4-92de-1a790c676770",
         "title": "Data Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -331077,7 +330896,7 @@
         "company_name": "Saint Leo University",
         "id": "fb3520c9-bb59-4db2-8a7d-2a2a0333929f",
         "title": "Graduate Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
