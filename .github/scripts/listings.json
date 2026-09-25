@@ -246980,7 +246980,7 @@
         "company_name": "Junior AI",
         "id": "6409dda3-9704-4933-a226-3ae46b43d171",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280721,7 +280721,7 @@
         "company_name": "American Fidelity",
         "id": "d10a9d0d-62b5-4eb6-8218-d01baa84b887",
         "title": "Agentic AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -313962,7 +313962,7 @@
         "company_name": "Johns Hopkins Applied Physics Laboratory",
         "id": "ecc2c90c-04f4-47ed-9368-45700dfe66c6",
         "title": "Software Development Intern - Multi-Mission Planning Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -356615,7 +356615,7 @@
         "company_name": "L3Harris Technologies",
         "id": "607013f4-3235-4510-ab8d-d3638fc67e53",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
