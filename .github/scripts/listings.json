@@ -331140,7 +331140,7 @@
         "company_name": "Regions Bank",
         "id": "3fbde271-db0b-4f32-a74c-aa1682b44994",
         "title": "Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -345490,7 +345490,7 @@
         "company_name": "TD Bank",
         "id": "abc5ee14-163a-428d-b714-7b6216bcae43",
         "title": "One TD Intern Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -355009,7 +355009,7 @@
         "company_name": "Amperesand",
         "id": "4de22b57-49da-4b2d-8d4b-d292fe7f6a05",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -381281,7 +381281,7 @@
         "company_name": "Amperesand",
         "id": "0c0ace06-0c5c-415d-8ea4-7c6fedad6324",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -402989,6 +402989,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Amperesand",
+        "id": "2c3b3ff6-edd3-4cbd-ad8e-c88d6ee94ed8",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790317823,
+        "date_posted": 1788334848,
+        "url": "https://job-boards.greenhouse.io/amperesand/jobs/4392181009",
+        "locations": [
+            "Reno, NV"
+        ],
+        "company_url": "https://simplify.jobs/c/Amperesand",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
