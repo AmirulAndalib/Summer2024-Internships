@@ -370639,7 +370639,7 @@
         "company_name": "Micron Technology",
         "id": "f62f3236-46b8-49f7-b38f-125292434a9c",
         "title": "HBM Design Architect Intern - MS or PhD Student",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382635,7 +382635,7 @@
         "company_name": "Cole Engineering Services",
         "id": "edc2ea63-bda7-420a-a940-c6bbc9fa9764",
         "title": "Training Solutions Drone Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385848,7 +385848,7 @@
         "company_name": "Lazard",
         "id": "6a0a4b4b-9d3e-4132-8217-ea3095340856",
         "title": "Software Engineer Intern - AI & Data Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389456,7 +389456,7 @@
         "company_name": "Booz Allen",
         "id": "703ef4fe-4a27-423d-bef0-7c3e526b6444",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392191,7 +392191,7 @@
         "company_name": "Booz Allen",
         "id": "69a94e8f-fc98-4b1e-a293-67e9d1853c9a",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -399907,7 +399907,7 @@
         "company_name": "GoTo Group",
         "id": "53be118e-994c-4a33-a907-84d5c532ee8c",
         "title": "Front-End Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -400676,7 +400676,7 @@
         "company_name": "Biogen",
         "id": "27432995-a7ea-46b5-84fc-fec2c8b43e06",
         "title": "Data Science Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027"
