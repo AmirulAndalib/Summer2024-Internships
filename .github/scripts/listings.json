@@ -233835,7 +233835,7 @@
         "company_name": "JP Morgan Chase",
         "id": "5971e10c-96c8-4605-9fe5-6b3de66eb784",
         "title": "Machine Learning Center of Excellence Intern - NLP",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -292551,7 +292551,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -357362,7 +357362,7 @@
         "company_name": "CACI",
         "id": "38095de3-b7e5-4f0b-87ca-a9c587ea15fb",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381628,7 +381628,7 @@
         "company_name": "Visa",
         "id": "cfd0b2db-69a7-43dd-83d9-656ff55efb00",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -381836,7 +381836,7 @@
         "company_name": "Invesco",
         "id": "b27d3a57-f7d0-4295-b07c-a4538b1846ab",
         "title": "ETF Product Development Intern - Early Career",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -385957,7 +385957,7 @@
         "company_name": "Invesco",
         "id": "ff910fd9-1784-4c56-8c70-b84c15ba59a8",
         "title": "ETF Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394115,7 +394115,7 @@
         "company_name": "GE Healthcare",
         "id": "94701b25-a1e7-43b1-88a6-dba6fef5c0ea",
         "title": "Full-Stack Software Engineer Intern - MIM Commercialized Web Applications",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -402386,7 +402386,7 @@
         "company_name": "GoTo Group",
         "id": "f2af6a58-c979-43d6-a20b-83d4442bc1a9",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
