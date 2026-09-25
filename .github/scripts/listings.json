@@ -334266,7 +334266,7 @@
         "company_name": "Canadian Tire",
         "id": "8a9a71cf-0026-4870-a88b-5296a4e42c67",
         "title": "Business Operations Analyst Student - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -345273,7 +345273,7 @@
         "company_name": "TD Bank",
         "id": "b1da57a8-b11a-4029-8f52-503434951125",
         "title": "Business Intelligence Co-op Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -349495,7 +349495,7 @@
         "company_name": "TD Bank",
         "id": "7294c5f0-fb5d-4ee7-813b-8fe7e23c3bbb",
         "title": "Data Science Co-op - Analytics Insights & Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -388936,7 +388936,7 @@
         "company_name": "Northrop Grumman",
         "id": "2a319a5b-a682-4c9d-9bc1-e3d5f7393fe9",
         "title": "Digital Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
