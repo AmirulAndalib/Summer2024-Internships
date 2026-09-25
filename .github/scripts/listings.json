@@ -269226,7 +269226,7 @@
         "company_name": "Epic Games",
         "id": "31ab487e-bda7-4337-94b7-bda1786f13f2",
         "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Winter 2027",
@@ -354008,7 +354008,7 @@
         "company_name": "HMH",
         "id": "40461c7f-fc5e-4ce9-b353-ec4eb4746300",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380275,7 +380275,7 @@
         "company_name": "Leidos",
         "id": "be3dadf8-1646-4cc7-926c-77a499228223",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
