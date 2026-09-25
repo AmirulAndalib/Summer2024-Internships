@@ -2,53 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "DraftKings",
-        "id": "fcee1d95-19bb-4aa5-9e38-748db451a479",
-        "title": "Data Science Co-Op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769568463,
-        "date_posted": 1769568463,
-        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Co-Op_JR12775",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/DraftKings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "DraftKings",
-        "id": "40ff8bd0-cf66-4727-a834-b196f4cdfb7c",
-        "title": "Software Engineer Intern/Co-op",
-        "active": false,
-        "terms": [
-            "Winter 2026",
-            "Summer 2026"
-        ],
-        "date_updated": 1769568456,
-        "date_posted": 1769568456,
-        "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/London-UK/Software-Engineer-Co-Op_JR12724",
-        "locations": [
-            "London, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/DraftKings",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Hewlett Packard Enterprise",
         "id": "04703c4b-2fab-4137-b1e3-f18cecf2aad9",
         "title": "Research Associate Intern",
@@ -400540,7 +400493,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "58c6dfc7-a9ff-4160-98c9-7f4997ae9ffa",
         "title": "Data Traceability & Controls Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -402965,6 +402918,30 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "ByteDance",
+        "id": "97e6ece1-7a71-4d9d-a1b3-255d28e56d89",
+        "title": "Software Engineer Project Intern - Security Data",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788456622,
+        "date_posted": 1780610910,
+        "url": "https://jobs.bytedance.com/en/position/7600175469758040325/detail",
+        "locations": [
+            "San Jose, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/ByteDance",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
         ]
     }
 ]
