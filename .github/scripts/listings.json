@@ -281839,7 +281839,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "cf970523-d699-4d91-8a73-ffac3bc9d976",
         "title": "Data Analyst Co-op - Personal Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -286037,7 +286037,7 @@
         "company_name": "Regions Bank",
         "id": "8c04dc52-976b-4e59-af17-e239d9f6fb47",
         "title": "Technology, Operations, Digital, and Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373629,7 +373629,7 @@
         "company_name": "L3Harris Technologies",
         "id": "da2b9416-07ca-4ab3-8feb-562096123698",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374394,7 +374394,7 @@
         "company_name": "Sun Life",
         "id": "5a8c96ae-02f1-4ba5-b312-4b3f0edd6315",
         "title": "Data Governance Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -381424,7 +381424,7 @@
         "company_name": "Visa",
         "id": "c2b22bcb-6acb-4a82-9529-96398b207061",
         "title": "Associate Product Manager Intern - APM",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
