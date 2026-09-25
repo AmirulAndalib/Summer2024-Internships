@@ -269199,7 +269199,7 @@
         "company_name": "Epic Games",
         "id": "9d04080d-0ad1-42fe-b047-599eef0c1fd7",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -292784,7 +292784,7 @@
         "company_name": "Kodiak Robotics",
         "id": "21abe7e3-285d-4817-a48a-557228cb2228",
         "title": "AI/ML Intern - Artificial Intelligence/Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -389502,7 +389502,7 @@
         "company_name": "Booz Allen",
         "id": "1c8c6bac-3c43-4f37-aef3-01425709c4e3",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
