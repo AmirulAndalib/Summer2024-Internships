@@ -156443,7 +156443,7 @@
         "company_name": "Amazon",
         "id": "828fba25-486e-4bd6-9660-ea2f3ee3dd63",
         "title": "Applied Science Intern - PhD Student Science Recruiting",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -297066,7 +297066,7 @@
         "company_name": "L3Harris Technologies",
         "id": "0f01cb2b-2581-4732-869e-88c6354eb358",
         "title": "Image Science Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372738,7 +372738,7 @@
         "company_name": "Nokia",
         "id": "9cc20e06-1bea-49c1-a367-548415ee6284",
         "title": "Software Tools Development Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381354,7 +381354,7 @@
         "company_name": "Visa",
         "id": "cfa3eeec-b62b-4d82-b747-367a111bb184",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387250,7 +387250,7 @@
         "company_name": "ASUS USA",
         "id": "781f87eb-1b67-4312-8612-42cf55bf4154",
         "title": "Product Manager Assistant",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -395020,7 +395020,7 @@
         "company_name": "USAA",
         "id": "bdc9aa7d-8fea-4482-8629-265b77e7818f",
         "title": "AI/ML Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395044,7 +395044,7 @@
         "company_name": "USAA",
         "id": "c3c60bf7-f580-4aaa-ab45-84224b74cdbb",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
