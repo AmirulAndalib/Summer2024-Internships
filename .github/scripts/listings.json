@@ -360913,7 +360913,7 @@
         "company_name": "The Toro Company",
         "id": "689f3f86-89fe-46b9-8d8f-72346df3b0ae",
         "title": "Embedded Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381117,7 +381117,7 @@
         "company_name": "Visa",
         "id": "16eda482-7528-44a9-a9ea-c4c30b42b339",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381188,7 +381188,7 @@
         "company_name": "Visa",
         "id": "72070ff6-860b-4d13-b865-5f6091f53196",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -399135,7 +399135,7 @@
         "company_name": "Atlassian",
         "id": "9db8fac1-1656-4db7-ad48-26ccb11ca2a8",
         "title": "Data Scientist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -400867,7 +400867,7 @@
         "company_name": "NCR Voyix",
         "id": "b02fcae4-ac36-4769-8a28-85242403362c",
         "title": "Software Engineer Fellow",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
