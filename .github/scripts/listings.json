@@ -280766,7 +280766,7 @@
         "company_name": "American Fidelity",
         "id": "69582230-5dee-4f0d-88be-bcd518c6edd5",
         "title": "Software Mobile Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -389408,7 +389408,7 @@
         "company_name": "Booz Allen",
         "id": "09ae562f-b803-436b-bc40-fa95dde013fd",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389571,7 +389571,7 @@
         "company_name": "Booz Allen",
         "id": "d1ab33ae-00ef-4a5c-9f42-af71a13f9f68",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389594,7 +389594,7 @@
         "company_name": "Booz Allen",
         "id": "6c19dbb0-d334-4197-a3b2-1a2b7952b5f0",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -391887,7 +391887,7 @@
         "company_name": "Booz Allen",
         "id": "4c9dd806-b8fb-45f1-902c-57dd9eea449b",
         "title": "Software Developer Intern - University",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392099,7 +392099,7 @@
         "company_name": "Booz Allen",
         "id": "ead230c6-9b31-4e9f-b251-81f5b95992c0",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392260,7 +392260,7 @@
         "company_name": "Booz Allen",
         "id": "10cac31b-231b-4800-b840-58f61912fea4",
         "title": "Systems Engineer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
