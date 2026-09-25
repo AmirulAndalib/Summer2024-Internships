@@ -243337,7 +243337,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -281618,7 +281618,7 @@
         "company_name": "Thomson Reuters",
         "id": "ac5989fe-f0e5-4cd6-a149-b8329eda175c",
         "title": "Applied Research Intern - NLP/ML/GenAI",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -323962,7 +323962,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -342022,7 +342022,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -342680,7 +342680,7 @@
         "company_name": "Airbus",
         "id": "f6adfce9-f40a-4ce0-b9bc-d3df07a52328",
         "title": "Flight Physics Data Science Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -344821,7 +344821,7 @@
         "company_name": "TD Bank",
         "id": "a53c1447-bdf8-4925-91d7-98a79a5ec6c9",
         "title": "Saving & Investing Shopping & Buying Journey Intern Co-op - Saving & Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -359871,7 +359871,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -369934,7 +369934,7 @@
         "company_name": "Charta Health",
         "id": "7f4d2358-707d-4cbf-83b4-694072fbba3e",
         "title": "Forward Deployed AI Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -370961,7 +370961,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375654,7 +375654,7 @@
         "company_name": "Analog Devices",
         "id": "f0bd2e8e-c29b-4598-a4f6-712a6741f8d6",
         "title": "Embedded Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380689,7 +380689,7 @@
         "company_name": "Wellington Management",
         "id": "f6e1590f-7f4a-42fc-8d15-05f851dc85e1",
         "title": "Global Risk & Performance Strategy Co-op - Multi-Asset and Hedge Fund Risk - Fixed Income Risk",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -391554,7 +391554,7 @@
         "company_name": "Marvell",
         "id": "d72a211e-044f-49a3-86c1-7b6b5c9fa66e",
         "title": "Digital IC Design Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -393638,7 +393638,7 @@
         "company_name": "Northrop Grumman",
         "id": "4f096c73-afae-450f-b903-ace71c84d47f",
         "title": "Software Engineer Intern - Navigation Intelligence and Connectivity Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395680,7 +395680,7 @@
         "company_name": "Marvell",
         "id": "99bffa98-fcc7-41ec-beed-d75d5954991d",
         "title": "Electrical Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
