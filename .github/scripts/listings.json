@@ -1,30 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Vivenu",
-        "id": "292a7c90-d3ac-48e1-bc8b-15055b917d43",
-        "title": "Working Student Web Development - d/f/m",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769683150,
-        "date_posted": 1769683150,
-        "url": "https://jobs.lever.co/vivenu/55c891f2-7f8f-4352-9b2a-1537b36e1865/apply",
-        "locations": [
-            "Neukirchen-Vluyn, Germany",
-            "Frankfurt, Germany"
-        ],
-        "company_url": "https://simplify.jobs/c/Vivenu",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Hardware",
         "company_name": "Moog ",
         "id": "9346fc4c-d258-4b9b-9ada-b89a5ede6400",
@@ -133803,30 +133779,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "TikTok",
-        "id": "841e759c-87fe-4c36-97bd-6940efcf988a",
-        "title": "Frontend Engineer Intern - BS/MS",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769683224,
-        "date_posted": 1769683224,
-        "url": "https://lifeattiktok.com/search/7527615375778416914",
-        "locations": [
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/TikTok",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Rogers Behavioral Health",
         "id": "6ee7b98c-ff40-48fa-9739-71119f369879",
         "title": "Therapist \u2013 PHP/Iop",
@@ -228694,7 +228646,7 @@
         "company_name": "Citadel",
         "id": "1f74ca3f-e832-45e6-bc13-b8222034e373",
         "title": "Quantitative Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228720,7 +228672,7 @@
         "company_name": "Citadel",
         "id": "3781fd12-0d4b-4e6f-a890-013b3381c856",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -228745,7 +228697,7 @@
         "company_name": "Citadel",
         "id": "6813e05c-291f-4297-bae8-9e6c59d4a809",
         "title": "Quantitative Researcher \u2013 PhD Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232370,7 +232322,7 @@
         "company_name": "Citadel",
         "id": "48327e8c-a8f7-4339-83a4-019ef774f663",
         "title": "Quantitative Research Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -232443,7 +232395,7 @@
         "company_name": "Citadel",
         "id": "28286b52-4c99-4d00-a870-d919c13d68c6",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233953,7 +233905,7 @@
         "company_name": "Citadel",
         "id": "af41c8d1-6670-4cbb-9111-9204ac3a4da9",
         "title": "Quantitative Trader: Equity Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -237391,7 +237343,7 @@
         "company_name": "Citadel",
         "id": "1ea0ca0e-e61d-4b8d-92fd-4a97c6ba9d82",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -238439,7 +238391,7 @@
         "company_name": "Citadel",
         "id": "bd8719b9-2be8-458c-ad81-df18b03a5ef2",
         "title": "Quantitative Research Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -255188,7 +255140,7 @@
         "company_name": "Citadel",
         "id": "71e539ff-f839-4f08-8c0f-0c7a934bbf05",
         "title": "Sector Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -268596,7 +268548,7 @@
         "company_name": "Citadel",
         "id": "de926b0a-99e7-4dbd-94cd-334ec565be9f",
         "title": "Sector Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -311755,7 +311707,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -330981,7 +330933,7 @@
         "company_name": "Micron Technology",
         "id": "ac51c04c-ef1b-4705-8b2c-8001da135c28",
         "title": "DRAM Design Rules Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -346845,7 +346797,7 @@
         "company_name": "Coinbase",
         "id": "93048763-5a4d-430c-bb12-ed0ad0d9cfa7",
         "title": "Data Science Intern - Strategy, Execution, & Analytics - Platform",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358519,7 +358471,7 @@
         "company_name": "RTX",
         "id": "b0fd8336-e667-4187-901e-5e7d96cbd6bf",
         "title": "Manufacturing & Quality Analyst Intern - Stage 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -373868,7 +373820,7 @@
         "company_name": "Citadel",
         "id": "097e4adf-07db-4666-8e68-29b3364bc0eb",
         "title": "Quantitative Researcher Post-Doctoral Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -376229,7 +376181,7 @@
         "company_name": "Wellington Management",
         "id": "fb9e42a1-ec02-4592-b8f7-c0857d36e7e7",
         "title": "Corporate Access & Research Services Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -377771,7 +377723,7 @@
         "company_name": "TD Bank",
         "id": "f23c59b8-2691-43f7-a310-a6ca54c5b6a1",
         "title": "Product Management Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380715,7 +380667,7 @@
         "company_name": "4AG Robotics",
         "id": "e7670c04-e3a7-4a84-bb97-65416730882a",
         "title": "Robotics Software Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -384862,7 +384814,7 @@
         "company_name": "Citadel",
         "id": "9a900104-2a94-4f83-8db2-d908f008ed99",
         "title": "Machine Learning Researcher Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -394663,7 +394615,7 @@
         "company_name": "Citadel",
         "id": "ecaeb780-1615-4819-b504-9e3106d4d09a",
         "title": "Fixed Income & Macro Trader Intern - US",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
