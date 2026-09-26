@@ -296149,7 +296149,7 @@
         "company_name": "CACI",
         "id": "977a8b34-935b-4585-8f24-2475493e9e9f",
         "title": "Software Developer/Data Scientist Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398389,7 +398389,7 @@
         "company_name": "Genesis Molecular AI",
         "id": "f0bf8593-6290-4c9c-aec1-e0b0187c12c5",
         "title": "Machine Learning Research Intern - PhD",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
