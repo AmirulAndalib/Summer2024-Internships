@@ -268671,7 +268671,7 @@
         "company_name": "Sun Life",
         "id": "765f9438-c57a-4035-9229-8b41b835beeb",
         "title": "Digital Analytics Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -295605,7 +295605,7 @@
         "company_name": "L3Harris Technologies",
         "id": "36060455-fa17-493d-b8ef-d2cd49b8d6fa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305248,7 +305248,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "05012f1b-58b2-4a9c-835f-a5d58cde96ca",
         "title": "Deals Analytics Intern - DTDS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -336701,7 +336701,7 @@
         "company_name": "Kinaxis",
         "id": "d5e526d4-218c-453d-99d1-8fc6b59a6f06",
         "title": "Software Developer Co-op/Intern - Core Algorithms",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341809,7 +341809,7 @@
         "company_name": "TD Bank",
         "id": "f0b88e82-318c-4d88-8b72-7b40d2d7847a",
         "title": "Applied Machine Learning Scientist Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -352257,7 +352257,7 @@
         "company_name": "Intact",
         "id": "62c76451-b1ac-4a6f-9979-b9c587df02e8",
         "title": "AI Developer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357027,7 +357027,7 @@
         "company_name": "Ameriprise Financial",
         "id": "6da14906-288f-4013-8974-f3152731b444",
         "title": "Data Analytics & AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388919,7 +388919,7 @@
         "company_name": "CesiumAstro",
         "id": "fda015fe-4663-46f0-8cdd-5513fb44c7ff",
         "title": "Electrical Engineer Intern - FPGA",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390863,7 +390863,7 @@
         "company_name": "RTX",
         "id": "4259e95a-563f-417d-8577-c3ab43c04d1e",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
