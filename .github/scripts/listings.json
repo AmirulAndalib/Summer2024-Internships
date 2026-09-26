@@ -243380,7 +243380,7 @@
         "company_name": "Capital One",
         "id": "39789fe8-b64d-4aff-bb17-79a513e6a2e7",
         "title": "Master's Data Science Internship",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298413,7 +298413,7 @@
         "company_name": "Excellus BCBS",
         "id": "5a5be475-2555-4da5-a59d-60e578b87650",
         "title": "Telecommunications Intern - Telecommunications Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -329801,7 +329801,7 @@
         "company_name": "TikTok",
         "id": "ad25a8b7-5d28-43f7-97f6-96d0bb99ad40",
         "title": "SMB Operations Specialist Project Intern - Product Led Growth - 2026 Start - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -375399,7 +375399,7 @@
         "company_name": "RTX",
         "id": "28e7cce7-67d2-4001-b60a-26951a04ee0e",
         "title": "Software Engineer Intern - Receiver Exciter and Processing Architecture",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
