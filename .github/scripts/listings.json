@@ -334006,7 +334006,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -358941,7 +358941,7 @@
         "company_name": "Fidelity Investments",
         "id": "f1abd68f-df79-41c3-a0cc-567463dbbf18",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -359115,7 +359115,7 @@
         "company_name": "Fidelity Investments",
         "id": "3c5ec1d9-3e95-424d-92f7-3de232573462",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366191,7 +366191,7 @@
         "company_name": "Marvell",
         "id": "ce1940f7-7c29-4bdd-8e79-4e7c906d46c2",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369325,7 +369325,7 @@
         "company_name": "Guardian Life",
         "id": "1e56dea3-04d3-4da1-afb5-9f0efbf5bd42",
         "title": "Life Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -378847,7 +378847,7 @@
         "company_name": "Marvell",
         "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382474,7 +382474,7 @@
         "company_name": "Bank of Montreal",
         "id": "ef987255-71d8-4891-b632-373f4d72006d",
         "title": "MFE Associate - Global Markets",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -384840,7 +384840,7 @@
         "company_name": "Centene",
         "id": "b1ddd57b-bd0d-4f01-acd3-b803848a6f3f",
         "title": "Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -401499,7 +401499,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "897cf111-754d-4f14-9819-92f0de243bae",
         "title": "Embedded Firmware Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
