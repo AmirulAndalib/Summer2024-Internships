@@ -237512,7 +237512,7 @@
         "company_name": "Akuna Capital University",
         "id": "bc91fbea-a1d8-4e14-8446-6d0df9d7a3f3",
         "title": "Quantitative Development & Strategy Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -244532,7 +244532,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -253712,7 +253712,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -255093,7 +255093,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -256492,7 +256492,7 @@
         "company_name": "Terranova",
         "id": "168be0d0-eff5-4b46-acaf-353e65e445b0",
         "title": "Embedded Systems Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -265485,7 +265485,7 @@
         "company_name": "Terranova",
         "id": "5725405b-6f22-485b-a418-ad3c6148afb4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286084,7 +286084,7 @@
         "company_name": "LPL Financial Holdings",
         "id": "194afda8-ace4-46b3-b795-65651541bfd3",
         "title": "Data Analytics Intern - FAR Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294509,7 +294509,7 @@
         "company_name": "Microsoft",
         "id": "54895a2c-533f-4466-a619-4c4176fde4ff",
         "title": "Silicon Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296188,7 +296188,7 @@
         "company_name": "Chemours",
         "id": "1d3a3cb1-5384-4ce2-848b-1b8a5a69d356",
         "title": "Generative AI and Data Science Intern - AI & Data Science",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -327735,7 +327735,7 @@
         "company_name": "Kinaxis",
         "id": "249847ab-d7a0-4993-a3ae-0dd0e2e831ed",
         "title": "Developer Intern Co-op - Machine Learning",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341906,7 +341906,7 @@
         "company_name": "TD Bank",
         "id": "192e2d14-66ec-4599-b333-b1f244469d60",
         "title": "Summer Analyst - Software Engineering Rotational Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360829,7 +360829,7 @@
         "company_name": "Amgen",
         "id": "079b70ee-8105-46b4-9163-319c8610f157",
         "title": "Software Engineer Intern - Technology & Medical Organizations",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -372946,7 +372946,7 @@
         "company_name": "Alliance Laundry Systems",
         "id": "229689bf-b48d-4ba7-876d-c683215799d0",
         "title": "Data & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -380785,7 +380785,7 @@
         "company_name": "REV Robotics",
         "id": "543a91b1-9042-4e1b-bdb1-91cd53d42f85",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384747,7 +384747,7 @@
         "company_name": "Flex",
         "id": "1ce187ae-c250-4b22-8bee-28e3422d6cba",
         "title": "Manufacturing Data & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387016,7 +387016,7 @@
         "company_name": "RTX",
         "id": "11505c09-a66c-4c86-a39d-81ffbce4b13d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388540,7 +388540,7 @@
         "company_name": "Fidelity Investments",
         "id": "1c5d275f-2e6f-4188-8951-f122d59a4f77",
         "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389470,7 +389470,7 @@
         "company_name": "NVIDIA",
         "id": "0a5aaa9d-f7d9-4898-8c8b-5f43d72e316f",
         "title": "Networking Research Intern - Networking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389752,7 +389752,7 @@
         "company_name": "NVIDIA",
         "id": "1563ef12-a5a1-4ab1-ad3f-d08d9b9a46f1",
         "title": "PhD Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394830,7 +394830,7 @@
         "company_name": "Northrop Grumman",
         "id": "10d3560c-9d4c-4227-9e57-2fd7a62e9f25",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
