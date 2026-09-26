@@ -1,76 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Cox",
-        "id": "2e151594-0e1b-4706-88fd-01e8916d43b0",
-        "title": "Business Strategy/Analytics Intern - Vauto",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769672340,
-        "date_posted": 1769672340,
-        "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Remote---Georgia/Business-Strategy-Analytics-Intern---vAuto---Remote--Summer-2026_R202672230",
-        "locations": [
-            "Georgia"
-        ],
-        "company_url": "https://simplify.jobs/c/Cox",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "c5c4e1be-1c78-4379-bb7b-e9efb3dc5b8d",
-        "title": "Career Exploration Program - 2026 - Seattle",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769671910,
-        "date_posted": 1769671910,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Washington---Seattle-Campus/Career-Exploration-Program---2026---Seattle_R-99747",
-        "locations": [
-            "Seattle, WA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Expedia Group",
-        "id": "b398176e-abc3-4de5-a9d7-94ad6bf0cf3e",
-        "title": "Software Development Engineer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769671903,
-        "date_posted": 1769671903,
-        "url": "https://expedia.wd108.myworkdayjobs.com/private/job/Austin-Domain-11---HomeAway/Software-Development-Engineering-Intern---2026---Austin--San-Jose--Seattle_R-98557",
-        "locations": [
-            "Seattle, WA",
-            "Austin, TX",
-            "San Jose, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Expedia-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Robert Bosch Venture Capital",
         "id": "ce908ac5-9d9d-46ba-8bec-b53f8f0e01f9",
@@ -296471,7 +296401,7 @@
         "company_name": "L3Harris Technologies",
         "id": "57123fb8-44cd-438c-bcd0-f1c97fcd5c9c",
         "title": "Engineering Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -304912,7 +304842,7 @@
         "company_name": "PricewaterhouseCoopers (PwC)",
         "id": "4b6066cd-8c05-4586-80d1-c1500ceb094b",
         "title": "Diligence Analytics Intern - Deals",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -341595,7 +341525,7 @@
         "company_name": "TD Bank",
         "id": "a53c1447-bdf8-4925-91d7-98a79a5ec6c9",
         "title": "Saving & Investing Shopping & Buying Journey Intern Co-op - Saving & Investing",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341689,7 +341619,7 @@
         "company_name": "TD Bank",
         "id": "b1da57a8-b11a-4029-8f52-503434951125",
         "title": "Business Intelligence Co-op Intern - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -341712,7 +341642,7 @@
         "company_name": "TD Bank",
         "id": "6a1673f3-7a6c-4777-9810-69be529274c1",
         "title": "Business Insights & Analytics Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345491,7 +345421,7 @@
         "company_name": "Intact",
         "id": "fbfafe1d-80fc-4e5c-a626-912f00c64fc9",
         "title": "Data Scientist Intern Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -345911,7 +345841,7 @@
         "company_name": "TD Bank",
         "id": "7294c5f0-fb5d-4ee7-813b-8fe7e23c3bbb",
         "title": "Data Science Co-op - Analytics Insights & Artificial Intelligence",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -352043,7 +351973,7 @@
         "company_name": "Intact",
         "id": "1fad44eb-f0f2-4488-b5b5-d2cf14ce2106",
         "title": "Artificial Intelligence Developer Intern Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
