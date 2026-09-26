@@ -2,31 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Tencent",
-        "id": "668c6e0e-ce6a-486a-8084-97131e115197",
-        "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769645248,
-        "date_posted": 1769645248,
-        "url": "https://tencent.wd1.myworkdayjobs.com/OA_Huoshui_Platform/job/US-California-Palo-Alto/Hunyuan-Multimodal-Algorithm-Researcher-Intern-Omni-Modal---_R106830",
-        "locations": [
-            "Palo Alto, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/Tencent",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Hitachi",
         "id": "23fdc562-5150-463c-9db8-6953ed2cadcd",
         "title": "Research Intern",
@@ -234004,7 +233979,7 @@
         "company_name": "TikTok",
         "id": "25c13fde-c469-4623-88ba-38af10053aeb",
         "title": "Product Manager Intern - TikTok Ads Agent-Scaled Growth",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -377916,7 +377891,7 @@
         "company_name": "Leidos",
         "id": "14f1c1b9-53d0-48b1-89bd-7d727f12ae56",
         "title": "Data Pipeline Engineer Intern - Splunk Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
