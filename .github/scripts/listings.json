@@ -237512,7 +237512,7 @@
         "company_name": "Akuna Capital University",
         "id": "bc91fbea-a1d8-4e14-8446-6d0df9d7a3f3",
         "title": "Quantitative Development & Strategy Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -253712,7 +253712,7 @@
         "company_name": "Copart",
         "id": "079e1669-46b8-488f-8297-f7c139a745ec",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -255093,7 +255093,7 @@
         "company_name": "Brio Water Technology",
         "id": "18f9ec09-a50a-4e02-bb0b-47cdeb648ccc",
         "title": "AI Automation & Business Analytics Intern - Rotational Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -256492,7 +256492,7 @@
         "company_name": "Terranova",
         "id": "168be0d0-eff5-4b46-acaf-353e65e445b0",
         "title": "Embedded Systems Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -360829,7 +360829,7 @@
         "company_name": "Amgen",
         "id": "079b70ee-8105-46b4-9163-319c8610f157",
         "title": "Software Engineer Intern - Technology & Medical Organizations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
