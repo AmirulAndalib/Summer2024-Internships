@@ -296613,7 +296613,7 @@
         "company_name": "L3Harris Technologies",
         "id": "fd89ae0c-d315-47fd-910a-9c9b60aefe74",
         "title": "Engineering Operations Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -347338,7 +347338,7 @@
         "company_name": "SECURE",
         "id": "76a239e7-1085-4b5c-93e8-9e0298d866fc",
         "title": "Specialty Chemicals Engineering & Technical Analyst - Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
