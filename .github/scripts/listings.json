@@ -371610,7 +371610,7 @@
         "company_name": "Tyler Technologies",
         "id": "e6d2ca10-47cc-492f-bfc3-51e1c414353b",
         "title": "Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386647,7 +386647,7 @@
         "company_name": "Booz Allen",
         "id": "3b865cc2-227b-4dda-8f33-5c2cae3f3939",
         "title": "Software Developer Intern - Summer Games",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386741,7 +386741,7 @@
         "company_name": "Booz Allen",
         "id": "50204bff-aada-4d6c-9b56-96f727f6bddc",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393844,7 +393844,7 @@
         "company_name": "CACI",
         "id": "b981ecc6-774f-424a-ab63-513d50a5becc",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
