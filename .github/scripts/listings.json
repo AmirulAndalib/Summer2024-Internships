@@ -240530,7 +240530,7 @@
         "company_name": "onsemi",
         "id": "830082c4-7e61-4591-99a3-e37c2e5b2c92",
         "title": "AI & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280558,7 +280558,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "7d9ddaa5-9b5b-4251-b733-33ac0902e143",
         "title": "Quantitative Technology Services Co-op - Multiple Roles",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -377514,7 +377514,7 @@
         "company_name": "Leidos",
         "id": "c378ab68-3965-4a8e-bcab-6b9125680eea",
         "title": "Technical Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -400700,7 +400700,7 @@
         "company_name": "Metropolitan Transportation Authority",
         "id": "78a7d4d4-2ec8-4f04-9922-520c99e31f7a",
         "title": "Software Analyst / Developer Intern - Fall",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -402215,5 +402215,28 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Equifax",
+        "id": "48dd6a63-40af-40ff-9a7d-14897fd0a342",
+        "title": "Data & Analytics Intern",
+        "active": true,
+        "terms": [
+            "Summer 2026"
+        ],
+        "date_updated": 1788507361,
+        "date_posted": 1778941706,
+        "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Georgia---Alpharetta---30005/Data---Analytics-Intern_J00171081",
+        "locations": [
+            "Alpharetta, GA"
+        ],
+        "company_url": "https://simplify.jobs/c/Equifax",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Master's"
+        ]
     }
 ]
