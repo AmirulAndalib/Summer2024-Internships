@@ -345104,7 +345104,7 @@
         "company_name": "RTX",
         "id": "a1c4c9f3-d62d-413d-937e-97b35075c9c6",
         "title": "Systems Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -350613,7 +350613,7 @@
         "company_name": "Barclays",
         "id": "e3d70ac5-dc1d-4c06-b733-8c76af99ef70",
         "title": "Technology Developer Apprentice",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350676,7 +350676,7 @@
         "company_name": "Barclays",
         "id": "999c4ce7-c078-4671-af20-af4781f19526",
         "title": "Technology Developer Apprentice - Digital & Technology Solutions",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350829,7 +350829,7 @@
         "company_name": "Barclays",
         "id": "bc0b7e31-28a3-407d-882f-267df776fbd8",
         "title": "Data and Analytics Intern - Customer and Digital",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356116,7 +356116,7 @@
         "company_name": "Marvell",
         "id": "b993dfd1-18f6-4fe1-97b4-b37792dd18ae",
         "title": "Architecture, DSP & Systems Architecture Ph.D. Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -362627,7 +362627,7 @@
         "company_name": "Guardian Life",
         "id": "8155c07e-de11-481a-ba23-c42178f1189c",
         "title": "Application Development Intern - Digital & Technology",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -378939,7 +378939,7 @@
         "company_name": "Marvell",
         "id": "fb558c48-2236-4414-8b4a-bfdb26b31409",
         "title": "Analog Layout Co-op Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -391904,7 +391904,7 @@
         "company_name": "RTX",
         "id": "e85fe564-c92c-4c56-b2ce-41f4ca778811",
         "title": "Operations Software Engineering Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
