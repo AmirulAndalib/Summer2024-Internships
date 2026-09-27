@@ -199953,7 +199953,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -250412,7 +250412,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -282952,7 +282952,7 @@
         "company_name": "RTX",
         "id": "4c51462d-b2c3-4a43-8b72-30b1c98fdf33",
         "title": "Digital Support & Business Intelligence Intern - Computer Science",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -302514,7 +302514,7 @@
         "company_name": "Adobe",
         "id": "c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -333432,7 +333432,7 @@
         "company_name": "Marvell",
         "id": "aeaa549f-9971-4a44-87a4-e897549cde00",
         "title": "Design for Test Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -341849,7 +341849,7 @@
         "company_name": "RTX",
         "id": "c57e2c6f-2938-4b78-bfba-117161231118",
         "title": "Software Engineering Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -350042,7 +350042,7 @@
         "company_name": "L3Harris Technologies",
         "id": "f4acfdee-2d38-45db-a129-6a8e9671e853",
         "title": "Software Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389081,7 +389081,7 @@
         "company_name": "Marvell",
         "id": "b90ec8c6-62de-4677-9db4-1799997bef9e",
         "title": "Electrical Validation Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Fall 2027",
