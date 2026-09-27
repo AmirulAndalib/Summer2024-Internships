@@ -2,77 +2,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "Idaho National Laboratory",
-        "id": "fac163f7-7192-4515-b949-e4ee50109d06",
-        "title": "DOE-EM University Programs Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769739075,
-        "date_posted": 1769739075,
-        "url": "https://inl.taleo.net/careersection/inl_intern/jobdetail.ftl?job=23660",
-        "locations": [
-            "Idaho Falls, ID"
-        ],
-        "company_url": "https://simplify.jobs/c/Idaho-National-Laboratory",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "4ce32a99-a08d-48fc-8293-bca01ac1db1e",
-        "title": "AI R&D Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769738825,
-        "date_posted": 1769738825,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31308",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Nokia",
-        "id": "48770761-3f0f-4f55-811a-edfc83d2d564",
-        "title": "AI R&D Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769738854,
-        "date_posted": 1769738854,
-        "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/31309",
-        "locations": [
-            "United States"
-        ],
-        "company_url": "https://simplify.jobs/c/Nokia",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "Genentech",
         "id": "d1eb10c3-1441-4c3b-8ec2-f0ab15c7dd87",
         "title": "Intern - Data & Digital Catalysts",
@@ -336620,7 +336549,7 @@
         "company_name": "Airbus",
         "id": "618df15b-bf4c-4cb9-a2a0-1e57c7e7ef9e",
         "title": "Airframe Data Scientist Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
