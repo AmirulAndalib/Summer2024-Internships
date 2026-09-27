@@ -1,141 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CIBC",
-        "id": "aa464af3-c009-455a-80f0-c51d0c27774e",
-        "title": "Technical Systems Analyst Co-op - 8 months",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769732555,
-        "date_posted": 1769732555,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Technical-Systems-Analyst-Co-op--8-months-_2602427",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "CIBC",
-        "id": "125d93c9-3d6d-464e-9f0f-0341694cf9bc",
-        "title": "Data Analyst Co-op",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769732523,
-        "date_posted": 1769732523,
-        "url": "https://cibc.wd3.myworkdayjobs.com/campus/job/Toronto-ON/Data-Analyst-Co-op_2602491",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/CIBC",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "GE Appliances",
-        "id": "f75f4a77-7c64-48b9-bfb5-c96cf96a0f5c",
-        "title": "Engineering Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769731518,
-        "date_posted": 1769731518,
-        "url": "https://haier.wd3.myworkdayjobs.com/ge_appliances/job/USA-LaFayette-GA/Engineering-Co-op-Summer-2026_REQ-23534",
-        "locations": [
-            "Calhoun, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/GE-Appliances",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OLG",
-        "id": "d7b3418e-65ab-44cf-824b-b3c7ba6a0173",
-        "title": "Data Scientist Co-op - 8 Months",
-        "active": false,
-        "terms": [
-            "Winter 2026"
-        ],
-        "date_updated": 1769731517,
-        "date_posted": 1769731517,
-        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Co-op--8-Months-_R26_00064",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OLG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BP",
-        "id": "c7cbcc09-8928-4db0-ac94-ea1017f76bf0",
-        "title": "Intern - Multiple Teams",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769731506,
-        "date_posted": 1769731506,
-        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Summer-Intern---Supply--Trading----Shipping-Finance---Risk---Chicago--IL_RQ099383-1",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/BP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "OLG",
-        "id": "a43d5cd7-0506-400f-b09b-43af806b0d77",
-        "title": "Data Scientist Co-op - 4 Months",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769731521,
-        "date_posted": 1769731521,
-        "url": "https://olg.wd3.myworkdayjobs.com/Careers-Students/job/Toronto-Ontario-Canada/Data-Scientist-Co-op--4-Months-_R26_00063",
-        "locations": [
-            "Toronto, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/OLG",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Roche",
         "id": "8e853a30-7282-45b8-8b0e-a487c01679e1",
@@ -341,29 +206,6 @@
     },
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Canadian Tire",
-        "id": "7f69ba9e-461f-4eca-9c2b-b59f075f1f05",
-        "title": "Product Portfolio Student - 4 months - Summer 2026",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769733076,
-        "date_posted": 1769733076,
-        "url": "https://canadiantirecorporation.wd3.myworkdayjobs.com/Enterprise_External_Careers_Site/job/Oakville-ON/Product-Portfolio-Student--4-months----Summer-2026_JR158136",
-        "locations": [
-            "Oakville, ON, Canada"
-        ],
-        "company_url": "https://simplify.jobs/c/Canadian-Tire",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Jonas Software",
         "id": "5c11e805-2f09-48be-8626-39a2c1b99637",
@@ -382,29 +224,6 @@
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Motorola",
-        "id": "6cb8d1e4-1211-42b8-b178-7934c4d6556a",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769733033,
-        "date_posted": 1769733033,
-        "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/West-Valley-City-UT/Software-Engineering-Intern---2026-Internship-Program_R61435",
-        "locations": [
-            "West Valley City, UT"
-        ],
-        "company_url": "https://simplify.jobs/c/MotorolaSolutions",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's"
-        ]
     },
     {
         "source": "Simplify",
@@ -337074,7 +336893,7 @@
         "company_name": "Airbus",
         "id": "0af1cc0e-a58e-4da3-ba05-773b55177492",
         "title": "Full-Stack Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -337168,7 +336987,7 @@
         "company_name": "Airbus",
         "id": "20329b11-456e-477a-84a1-caec288ed8fe",
         "title": "Optical and Satellite Communications Software Engineering Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -397498,7 +397317,7 @@
         "company_name": "First Citizens BancShares",
         "id": "074a0da6-73e2-402d-90a7-ca4bf302d862",
         "title": "IT Intern - Software Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
