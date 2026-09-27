@@ -253547,7 +253547,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -272516,7 +272516,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -278606,7 +278606,7 @@
         "company_name": "NVIDIA",
         "id": "78faf2f2-9391-4542-b593-468ce69a67b5",
         "title": "Mixed Signal Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -284545,7 +284545,7 @@
         "company_name": "RTX",
         "id": "740d3c67-d925-48d7-995a-410073f010e8",
         "title": "Industrialization Intern - Industrialization Production Readiness",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -289690,7 +289690,7 @@
         "company_name": "Brunswick",
         "id": "45a90628-8af8-4195-9f94-89cb5bbfe029",
         "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -293277,7 +293277,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -304932,7 +304932,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328376,7 +328376,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328506,7 +328506,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333591,7 +333591,7 @@
         "company_name": "Marvell",
         "id": "704ba07f-0e70-41ce-a17e-face649ad4bc",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335530,7 +335530,7 @@
         "company_name": "Marvell",
         "id": "769667d7-3030-4678-96db-9cd5a6787b75",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335751,7 +335751,7 @@
         "company_name": "Marvell",
         "id": "7519dee0-35e8-42b9-ad9c-71201febe2bd",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -341806,7 +341806,7 @@
         "company_name": "RTX",
         "id": "76730cc1-91aa-4e2a-84db-89852233810d",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -351619,7 +351619,7 @@
         "company_name": "Insulet",
         "id": "4488d9e4-5ff9-4041-bb53-54feb6a20ba1",
         "title": "Life Cycle Engineering Co-op - Electrical",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -375018,7 +375018,7 @@
         "company_name": "Visa",
         "id": "42074831-4df6-43c3-a5e6-cd8a61daef56",
         "title": "Staff Research Scientist Intern - Agentic AI",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -377472,7 +377472,7 @@
         "company_name": "Invesco",
         "id": "6f8f96a9-1d7a-4068-b399-2e3d6e8adf77",
         "title": "Early Career Intern - Private Markets Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382747,7 +382747,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "Forward Deployed AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386720,7 +386720,7 @@
         "company_name": "Marvell",
         "id": "42bb8910-fbb6-4347-8dc5-8aeee11d2517",
         "title": "Test Engineering Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -395629,7 +395629,7 @@
         "company_name": "Marvell",
         "id": "6f7bf192-fce8-4fd8-b5b2-80bea38e4c1e",
         "title": "Data Center Silicon Hardware Engineering Intern Co-op - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
