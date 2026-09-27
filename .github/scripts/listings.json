@@ -253547,7 +253547,7 @@
         "company_name": "Medtronic",
         "id": "43929c26-d19b-4057-9543-bf087c4bbf62",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -270413,7 +270413,7 @@
         "company_name": "Composio",
         "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
         "title": "Fullstack Engineer Intern - Product Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -278410,7 +278410,7 @@
         "company_name": "NVIDIA",
         "id": "26db23e0-d70f-49b8-ab98-f6c54330d92b",
         "title": "Hardware Physical Design / VLSI Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -289690,7 +289690,7 @@
         "company_name": "Brunswick",
         "id": "45a90628-8af8-4195-9f94-89cb5bbfe029",
         "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328740,7 +328740,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342715,7 +342715,7 @@
         "company_name": "COUNTRY Financial",
         "id": "26621e42-f0f2-4777-9b7f-f505c5e66a92",
         "title": "Market Analytics Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -343952,7 +343952,7 @@
         "company_name": "Marvell",
         "id": "22b78f4a-3df3-419a-9868-20e68b7dbb6f",
         "title": "Advanced Packaging Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351619,7 +351619,7 @@
         "company_name": "Insulet",
         "id": "4488d9e4-5ff9-4041-bb53-54feb6a20ba1",
         "title": "Life Cycle Engineering Co-op - Electrical",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -353141,7 +353141,7 @@
         "company_name": "Thomson Reuters",
         "id": "25f24729-b8c9-4d4f-9896-76b196fe8aaa",
         "title": "Software Engineer Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -354445,7 +354445,7 @@
         "company_name": "Kinaxis",
         "id": "5b07d830-b50d-4cff-a64a-555dad0ea478",
         "title": "Developer Intern - Clients - Front End Technologies",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -375018,7 +375018,7 @@
         "company_name": "Visa",
         "id": "42074831-4df6-43c3-a5e6-cd8a61daef56",
         "title": "Staff Research Scientist Intern - Agentic AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -376374,7 +376374,7 @@
         "company_name": "Kinaxis",
         "id": "66a61359-31ec-434c-9b02-f8c2802c91b2",
         "title": "AI Quality Co-op Intern - Evaluation & Security",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -386720,7 +386720,7 @@
         "company_name": "Marvell",
         "id": "42bb8910-fbb6-4347-8dc5-8aeee11d2517",
         "title": "Test Engineering Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389659,7 +389659,7 @@
         "company_name": "RTX",
         "id": "26c99824-2530-4ba1-8e76-2b97d10b1e14",
         "title": "Quality Project Management and Data Analysis Tool Development Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -395129,7 +395129,7 @@
         "company_name": "Boston Scientific",
         "id": "521a56a4-f683-4861-8565-e081a72736c1",
         "title": "Software Engineer Intern - R&D",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
