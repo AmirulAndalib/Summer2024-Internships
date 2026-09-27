@@ -335340,7 +335340,7 @@
         "company_name": "Marvell",
         "id": "09fd06f3-ffee-4273-adf4-17b10e35aa2f",
         "title": "Design Verification Intern - BS - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354191,7 +354191,7 @@
         "company_name": "Walmart",
         "id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
         "title": "Software Engineer 2 Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -371798,7 +371798,7 @@
         "company_name": "Wellington Management",
         "id": "cadbb7d8-73c4-4387-91ec-dcd5b6e333a4",
         "title": "Quantitative Trading Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -377424,7 +377424,7 @@
         "company_name": "Invesco",
         "id": "0ce4d977-ead8-46ed-a4c7-aa2b56802591",
         "title": "Early Career Intern - Private Markets Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
