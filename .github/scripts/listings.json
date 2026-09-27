@@ -2,29 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Citi",
-        "id": "ca36fb75-847e-444e-a42d-144a26d6101b",
-        "title": "Technology Apprentice",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769783525,
-        "date_posted": 1769783525,
-        "url": "https://citi.wd5.myworkdayjobs.com/2/job/Belfast--United-Kingdom/Technology-Apprentice_26935330",
-        "locations": [
-            "Belfast, UK"
-        ],
-        "company_url": "https://simplify.jobs/c/Citigroup",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Anduril",
         "id": "7b18d769-83e7-4fac-b679-0c87898f9145",
         "title": "Software Engineer Intern",
@@ -283721,7 +283698,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -294451,7 +294428,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -337451,7 +337428,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
