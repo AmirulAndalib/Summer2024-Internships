@@ -336412,7 +336412,7 @@
         "company_name": "Airbus",
         "id": "1d44d1e2-f534-4ee0-8a24-9a7b78709880",
         "title": "Digital Wing Engineering Placement - Months",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -374103,7 +374103,7 @@
         "company_name": "Wellington Management",
         "id": "5d7e1a8b-2b42-4151-92d3-76ae8cf9bcbd",
         "title": "Investment Strategy Technology Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -374146,7 +374146,7 @@
         "company_name": "Wellington Management",
         "id": "1719d57a-0599-430d-b55e-3fbde7f44abe",
         "title": "Portfolio Reference Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -374608,7 +374608,7 @@
         "company_name": "Wellington Management",
         "id": "16c6ee10-b9bc-4ae6-8b01-a39169c3835e",
         "title": "Portfolio Reference Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Winter 2027"
@@ -375595,7 +375595,7 @@
         "company_name": "Howmet Aerospace",
         "id": "57ded721-ead9-440b-999c-b6f3861f72ed",
         "title": "Artificial Intelligence Intern - AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
