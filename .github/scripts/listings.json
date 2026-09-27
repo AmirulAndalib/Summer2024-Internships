@@ -336783,7 +336783,7 @@
         "company_name": "Airbus",
         "id": "8a15fdc7-b6bd-4b91-8caa-888e24387090",
         "title": "Software Developer Placement",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
