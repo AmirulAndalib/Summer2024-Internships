@@ -323213,7 +323213,7 @@
         "company_name": "Enterprise Holdings",
         "id": "cb9172b5-836c-481a-9635-e6fafea32b62",
         "title": "Management Trainee Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371538,7 +371538,7 @@
         "company_name": "Amperesand",
         "id": "0c0ace06-0c5c-415d-8ea4-7c6fedad6324",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
