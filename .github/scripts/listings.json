@@ -270318,7 +270318,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
         "title": "Analytics Intern - eCommerce",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -353143,7 +353143,7 @@
         "company_name": "Fidelity Investments",
         "id": "3c5ec1d9-3e95-424d-92f7-3de232573462",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364487,7 +364487,7 @@
         "company_name": "NVIDIA",
         "id": "e4d72b3b-b6d8-46ec-a879-a0f2664ed75d",
         "title": "PhD Research Intern - Generative AI for Physical AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389368,7 +389368,7 @@
         "company_name": "NVIDIA",
         "id": "ee431909-7205-4557-aa56-5518cfa74e0e",
         "title": "PhD Research Intern - Quantum Simulation and AI",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395008,7 +395008,7 @@
         "company_name": "Cencora",
         "id": "85ec94f8-b794-406d-b74b-06e49b725a08",
         "title": "Software Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
