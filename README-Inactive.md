@@ -6,17 +6,17 @@
 
 ---
 
-### Browse 1032 Inactive Internship Roles by Category
+### Browse 1042 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (365)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (367)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (49)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (313)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (315)
 
-📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (163)
+📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (168)
 
-🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (142)
+🔧 **[Hardware Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-hardware-engineering-internship-roles-inactive)** (143)
 
 ---
 
@@ -131,6 +131,13 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
+<td>Operations Software Engineering Intern - Summer 2027</td>
+<td>Burnsville, MN</td>
+<td>🔒</td>
+<td>6d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Intern</td>
 <td>Portsmouth, RI</td>
 <td>🔒</td>
@@ -497,13 +504,6 @@
 <td>↳</td>
 <td>Artificial Intelligence Enablement & Forward-Deployed Engineering Intern</td>
 <td>Wilmington, NC</td>
-<td>🔒</td>
-<td>12d</td>
-</tr>
-<tr>
-<td><strong><a href="https://simplify.jobs/c/APEX-Analytix?utm_source=GHList&utm_medium=company">APEX Analytix</a></strong></td>
-<td>Automation Developer Intern</td>
-<td>Greensboro, NC</td>
 <td>🔒</td>
 <td>12d</td>
 </tr>
@@ -1327,6 +1327,13 @@
 <td>27d</td>
 </tr>
 <tr>
+<td>↳</td>
+<td>Software Engineer Intern - Multiple Teams</td>
+<td><details><summary><strong>31 locations</strong></summary>Palo Alto, CA<br>Cambridge, MA<br>Madison, WI<br>Seattle, WA<br>Houston, TX<br>SF<br>Austin, TX<br>LA<br>San Jose, CA<br>Irvine, CA<br>South SF<br>Redwood City, CA<br>Raleigh, NC<br>San Bruno, CA<br>Redmond, WA<br>Durham, NC<br>Santa Cruz, CA<br>Chicago, IL<br>Goleta, CA<br>Pittsburgh, PA<br>Kirkland, WA<br>Reston, VA<br>NYC<br>Bellevue, WA<br>Sunnyvale, CA<br>Mountain View, CA<br>Portland, OR<br>Boulder, CO<br>Atlanta, GA<br>San Diego, CA<br>Santa Barbara, CA</details></td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
 <td><strong><a href="https://simplify.jobs/c/Merchants-Bank-Of-Indiana?utm_source=GHList&utm_medium=company">Merchants Bank of Indiana</a></strong></td>
 <td>Business Technology Intern - Application Development</td>
 <td>Carmel, IN</td>
@@ -1855,6 +1862,13 @@
 <td>↳</td>
 <td>Summer Analyst Intern - Americas - Engineering</td>
 <td>Toronto, ON, Canada</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Summer Analyst Intern - Engineering</td>
+<td>Birmingham, UK</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -3051,6 +3065,13 @@
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company">Hudson River Trading</a></strong></td>
 <td>Data Scientist Intern</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>5d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Data Scientist Intern</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>5d</td>
@@ -3726,6 +3747,13 @@
 <td>Chicago, IL</td>
 <td>🔒</td>
 <td>26d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Edison-International?utm_source=GHList&utm_medium=company">Edison International</a></strong></td>
+<td>Summer Internship - Data Analytics/Science/Applied Math</td>
+<td><details><summary><strong>4 locations</strong></summary>Santa Ana, CA<br>Fullerton, CA<br>Irvine, CA<br>Westminster, CA</details></td>
+<td>🔒</td>
+<td>27d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/JP-Morgan-Chase?utm_source=GHList&utm_medium=company">JP Morgan Chase</a></strong></td>
@@ -5591,6 +5619,13 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Quantitative Strategist Intern - Multiple Teams</td>
 <td>London, UK</td>
 <td>🔒</td>
@@ -5598,8 +5633,29 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>Quantitative Strategist Associate Intern - Asset and Wealth Management 🎓</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Summer Analyst Intern</td>
+<td>NYC</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Quantitative Strats Analyst Intern - Americas - Investment Banking</td>
 <td>Dallas, TX</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Summer Associate Intern 🎓</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>1mo</td>
 </tr>
@@ -5634,6 +5690,13 @@
 <tr>
 <td>↳</td>
 <td>Summer Analyst Intern - FICC & Equities - Sales & Trading</td>
+<td>London, UK</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Quantitative Strategist Associate Intern - The Core Quantitative Strats 🎓</td>
 <td>London, UK</td>
 <td>🔒</td>
 <td>1mo</td>
@@ -6018,14 +6081,14 @@
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company">Hudson River Trading</a></strong></td>
-<td>Algorithm Development Intern - Quant Research</td>
+<td>Algorithm Development Intern - Quant Research 🎓</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>2mo</td>
 </tr>
 <tr>
 <td>↳</td>
-<td>Algorithm Development Intern - Quant Research 🎓</td>
+<td>Algorithm Development Intern - Quant Research</td>
 <td>NYC</td>
 <td>🔒</td>
 <td>2mo</td>
@@ -6797,6 +6860,13 @@
 <td><strong><a href="https://simplify.jobs/c/Aerotech?utm_source=GHList&utm_medium=company">Aerotech</a></strong></td>
 <td>Electrical/Computer Engineering Intern Co-op</td>
 <td>Pittsburgh, PA</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Hudson-River-Trading?utm_source=GHList&utm_medium=company">Hudson River Trading</a></strong></td>
+<td>Hardware Engineer Intern</td>
+<td>NYC</td>
 <td>🔒</td>
 <td>27d</td>
 </tr>
