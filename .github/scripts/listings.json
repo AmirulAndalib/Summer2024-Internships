@@ -335305,7 +335305,7 @@
         "company_name": "Loblaw Companies",
         "id": "3d3b5a16-198d-4293-a320-09dfa9132045",
         "title": "Software Development Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380225,7 +380225,7 @@
         "company_name": "Mastercard",
         "id": "329555bd-4a7e-4ef4-abf7-73122cec8112",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381423,7 +381423,7 @@
         "company_name": "Mastercard",
         "id": "94489f96-61e7-4da6-8cdb-f5b62ee66e96",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382614,7 +382614,7 @@
         "company_name": "Fidelity Investments",
         "id": "695c330c-a16f-4490-93fc-2f34b8d874ce",
         "title": "Quantitative Research Intern - Multi-Asset Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382637,7 +382637,7 @@
         "company_name": "Fidelity Investments",
         "id": "6177e762-3444-42f7-97c6-b94abf15c039",
         "title": "Quantitative Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382660,7 +382660,7 @@
         "company_name": "Fidelity Investments",
         "id": "580bd080-8355-4c59-a6d5-f4d6cc61be55",
         "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382685,7 +382685,7 @@
         "company_name": "Fidelity Investments",
         "id": "3ffeeada-412b-4314-ad45-08e3e40c327f",
         "title": "Quantitative Research Intern - Strategic Advisers",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
