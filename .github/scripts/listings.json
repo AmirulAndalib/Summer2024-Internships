@@ -258935,7 +258935,7 @@
         "company_name": "Samsung Research America",
         "id": "398433b0-f2f4-4367-80dd-7f56b0ee3d6b",
         "title": "Digital Health Algorithms Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -280931,7 +280931,7 @@
         "company_name": "Marsh",
         "id": "2e60bfbc-eba1-46bb-b68b-c273e8465412",
         "title": "Government Health Consulting Informatics Intern - College Program",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -291661,7 +291661,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -334661,7 +334661,7 @@
         "company_name": "Marsh",
         "id": "bf10b85e-3c76-4d76-b8d1-e2e1ed813b56",
         "title": "Data & Analytics Industrial Placement",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -348750,7 +348750,7 @@
         "company_name": "Walmart",
         "id": "5f786704-9f4e-4137-8947-80614fba3b53",
         "title": "Data Science Intern 3",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356098,7 +356098,7 @@
         "company_name": "Axon",
         "id": "f968b448-0edf-43ed-9f4c-8954bef0183b",
         "title": "Software Engineer Intern - R&D Program",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -357181,7 +357181,7 @@
         "company_name": "Robinhood",
         "id": "fff6e751-d777-477e-aef3-17eb3209eedb",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357250,7 +357250,7 @@
         "company_name": "Robinhood",
         "id": "ccb4ec66-4171-4da4-883b-e8d9465464ac",
         "title": "People Insights & Analytics Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357273,7 +357273,7 @@
         "company_name": "Robinhood",
         "id": "648fdae5-8fd2-4e98-a3a7-451746653e9d",
         "title": "Software Engineer Intern - Web",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357319,7 +357319,7 @@
         "company_name": "Robinhood",
         "id": "3e500cc8-2138-4a5d-9b79-6e6400df7599",
         "title": "Software Developer Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -357342,7 +357342,7 @@
         "company_name": "Robinhood",
         "id": "1db1012e-71c6-49b5-9a0e-3399dce55cea",
         "title": "Software Engineer Intern - Android - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -357366,7 +357366,7 @@
         "company_name": "Robinhood",
         "id": "696584bd-7673-4ec0-a9cd-5a5a62e348f8",
         "title": "iOS Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381117,7 +381117,7 @@
         "company_name": "General Motors",
         "id": "837d3ab9-da77-4d10-9ae6-5fa9bc3f5a5d",
         "title": "Software Engineer Intern - Digital Product: Software Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382451,7 +382451,7 @@
         "company_name": "Fidelity Investments",
         "id": "1c5d275f-2e6f-4188-8951-f122d59a4f77",
         "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382475,7 +382475,7 @@
         "company_name": "Fidelity Investments",
         "id": "695c330c-a16f-4490-93fc-2f34b8d874ce",
         "title": "Quantitative Research Intern - Multi-Asset Research Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382521,7 +382521,7 @@
         "company_name": "Fidelity Investments",
         "id": "580bd080-8355-4c59-a6d5-f4d6cc61be55",
         "title": "Quantitative Research Analyst Intern - Equity Quantitative Research Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -391566,7 +391566,7 @@
         "company_name": "Biogen",
         "id": "e899b6b8-554e-4d01-a435-d93721e37430",
         "title": "Data Science & AI Co-op - Portfolio Data & Digital Innovation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
