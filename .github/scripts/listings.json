@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Astranis",
-        "id": "2d42af31-25eb-451a-837e-f73d3ebcbb82",
-        "title": "Radiation Effects Engineer Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769844837,
-        "date_posted": 1769844837,
-        "url": "https://job-boards.greenhouse.io/astranis/jobs/4649397006",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Astranis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Product",
         "company_name": "Acuity",
         "id": "4638175c-de01-4fcd-9e3f-f3ea0b6947d0",
