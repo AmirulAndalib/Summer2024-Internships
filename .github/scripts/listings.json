@@ -267636,7 +267636,7 @@
         "company_name": "Composio",
         "id": "4c0cebd4-5e15-474e-8493-34860927bdfb",
         "title": "Fullstack Engineer Intern - Product Team",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026",
             "Winter 2027"
@@ -269648,7 +269648,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -294224,7 +294224,7 @@
         "company_name": "Charles Schwab",
         "id": "93f4951e-c280-428f-8f6f-a0611c97b96e",
         "title": "Data Engineering Intern - Data Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -298668,7 +298668,7 @@
         "company_name": "Google",
         "id": "956086a7-d67a-4072-93ae-47bf3687b548",
         "title": "Software Engineer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325706,7 +325706,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325776,7 +325776,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325799,7 +325799,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325963,7 +325963,7 @@
         "company_name": "Goldman Sachs",
         "id": "792220f4-3ba1-4cf8-843e-e23208ba8d24",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353188,7 +353188,7 @@
         "company_name": "Fidelity Investments",
         "id": "562a1131-7b05-4ca4-ba15-e968eb30a31a",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363488,7 +363488,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -365663,7 +365663,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371560,7 +371560,7 @@
         "company_name": "Sun Life",
         "id": "4f0081e5-cca3-41af-86ec-243ccb875a25",
         "title": "Data Engineer Student",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -385074,7 +385074,7 @@
         "company_name": "Planview",
         "id": "a864079b-0e66-4231-8198-c3216efa716b",
         "title": "Software Engineer 1 Co-op - Flowplatform Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385097,7 +385097,7 @@
         "company_name": "Planview",
         "id": "a330bca6-01d7-4927-a045-a0acde1f1ca6",
         "title": "Software Engineer 1 Co-op - Portfolio Intelligence Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386531,7 +386531,7 @@
         "company_name": "Bernhard",
         "id": "a8c7b220-4a50-4ef3-a46b-91d557bafff6",
         "title": "Engineering Intern - Emerging Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392113,7 +392113,7 @@
         "company_name": "Leidos",
         "id": "571f8096-0c99-4edd-9680-9daa550e8250",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394537,7 +394537,7 @@
         "company_name": "Epiq Systems",
         "id": "f0c71fa2-9b42-4eeb-a40b-2887c469a8ce",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
