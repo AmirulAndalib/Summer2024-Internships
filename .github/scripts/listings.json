@@ -1,76 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Product",
-        "company_name": "Acuity",
-        "id": "4638175c-de01-4fcd-9e3f-f3ea0b6947d0",
-        "title": "Intern - Product Operations",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769857923,
-        "date_posted": 1769857923,
-        "url": "https://careers.acuityinc.com/job/Decatur-Summer-Internship-Product-Operations-(Hybrid-Decatur,-GA)-GA-30035/1360879400/?ats=successfactors",
-        "locations": [
-            "Decatur, GA"
-        ],
-        "company_url": "https://simplify.jobs/c/Acuity",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Seagate Technology ",
-        "id": "317838ca-c784-4a2a-b2b1-be0014d9b2bf",
-        "title": "Test Process & Firmware Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769857838,
-        "date_posted": 1769857838,
-        "url": "https://seagatecareers.com/job/Shakopee-Test-Process-&-Firmware-Engineering-Intern-Summer-2026-MN/1360709400/?ats=successfactors",
-        "locations": [
-            "Shakopee, MN"
-        ],
-        "company_url": "https://simplify.jobs/c/Seagate-Technology",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Advanced Energy",
-        "id": "130594fc-6223-4f0a-bc47-69042e358577",
-        "title": "Firmware Engineer Intern",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769857889,
-        "date_posted": 1769857889,
-        "url": "https://jobs.advanced-energy.com/job/Wilmington-Intern-Firmware-Engineer-Spring-2026-(Wilmington,-MA)-MA-01887/1360891400/?ats=successfactors",
-        "locations": [
-            "Burlington, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Advanced-Energy",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Master's",
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Quant",
         "company_name": "BP",
         "id": "f6fc5b8d-73a3-45d2-b1ef-acb113ac95ef",
@@ -197256,7 +197186,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -291777,7 +291707,7 @@
         "company_name": "Marsh",
         "id": "d51eb451-9f91-449d-8c96-b84c35fbfb16",
         "title": "Summer Analyst - Data and Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299817,7 +299747,7 @@
         "company_name": "Adobe",
         "id": "c7b1d381-c5d1-4080-8d2b-531342e2c8a8",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -355687,7 +355617,7 @@
         "company_name": "Cozey",
         "id": "ff16852d-9fff-4f7a-818e-26728a2ad542",
         "title": "Data Science Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -360289,7 +360219,7 @@
         "company_name": "Marvell",
         "id": "ce1940f7-7c29-4bdd-8e79-4e7c906d46c2",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -365167,7 +365097,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -382262,7 +382192,7 @@
         "company_name": "The Walt Disney Company",
         "id": "febbb3a1-f9d6-4592-a921-af46705f885e",
         "title": "Consumer Insight Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -385759,7 +385689,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -393440,7 +393370,7 @@
         "company_name": "Exclusive Networks",
         "id": "b0c9e4b5-a514-4447-bdd1-08645209e8f3",
         "title": "Data Quality & Business Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395078,7 +395008,7 @@
         "company_name": "Cencora",
         "id": "85ec94f8-b794-406d-b74b-06e49b725a08",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
