@@ -334377,7 +334377,7 @@
         "company_name": "NXP Semiconductors",
         "id": "9c1a295f-b430-40a7-98b1-38bcf2816a4e",
         "title": "Device Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -355571,7 +355571,7 @@
         "company_name": "Cozey",
         "id": "ff16852d-9fff-4f7a-818e-26728a2ad542",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
