@@ -295140,7 +295140,7 @@
         "company_name": "Qorvo",
         "id": "a3f9cf12-ead2-4b32-9846-ee58ffd925f7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -350935,7 +350935,7 @@
         "company_name": "Repsol",
         "id": "34c61ac0-a95c-4e5f-bad7-37c788933151",
         "title": "Middle Office Risk and Valuation Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -366483,7 +366483,7 @@
         "company_name": "RTX",
         "id": "825ddc18-52db-497b-a5b3-68807da12886",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
