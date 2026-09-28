@@ -278010,7 +278010,7 @@
         "company_name": "Excellus BCBS",
         "id": "a7c15b5b-5f80-4eef-9a00-30c5aac8f28a",
         "title": "College Intern - AI Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -352497,7 +352497,7 @@
         "company_name": "Quantinuum",
         "id": "d7120b72-0c14-449e-a095-53e75c52eb34",
         "title": "Quantum Compiler Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -369455,7 +369455,7 @@
         "company_name": "AEG",
         "id": "f342cbdc-50f4-44cf-91e0-9abf3c8e19c8",
         "title": "Global Partnerships Intern - Data & Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -372407,7 +372407,7 @@
         "company_name": "Alayacare",
         "id": "cc7bbdb7-45d4-40f3-9aa1-658d6ae5a2f9",
         "title": "Fullstack Developer Intern - Python",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
