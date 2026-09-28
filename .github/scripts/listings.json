@@ -298069,7 +298069,7 @@
         "company_name": "CIBC",
         "id": "a04b1b01-afb1-4aaf-befe-19ac47bca940",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -335442,7 +335442,7 @@
         "company_name": "Loblaw Companies",
         "id": "ab99a605-a566-4425-b53c-7bd28c399832",
         "title": "Insights Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -337339,7 +337339,7 @@
         "company_name": "Buildertrend",
         "id": "c2c6db10-5836-4c07-a30a-b82ff757db89",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
