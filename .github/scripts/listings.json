@@ -348185,7 +348185,7 @@
         "company_name": "Mackenzie Investments",
         "id": "2da1b9a8-c42c-4490-ab77-7b152c46c02e",
         "title": "Winter Intern - Investment Management - Multi-Asset",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -353879,7 +353879,7 @@
         "company_name": "Kinaxis",
         "id": "50dd36b1-ed7f-406b-ae19-55d27afb19b1",
         "title": "Software Engineer Co-op/Intern - Data Modeling & Integration",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -376595,7 +376595,7 @@
         "company_name": "Bank of Montreal",
         "id": "ef987255-71d8-4891-b632-373f4d72006d",
         "title": "MFE Associate - Global Markets",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
