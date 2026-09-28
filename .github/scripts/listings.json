@@ -335484,7 +335484,7 @@
         "company_name": "Loblaw Companies",
         "id": "50d1f877-b643-482b-b35b-dc03572708d0",
         "title": "Technology Transformation Co-op - Technology Transformation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -382590,7 +382590,7 @@
         "company_name": "Fidelity Investments",
         "id": "1c5d275f-2e6f-4188-8951-f122d59a4f77",
         "title": "Quantitative Research Intern - Multi-Asset Systematic Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383078,7 +383078,7 @@
         "company_name": "Philips",
         "id": "b298f4dc-5584-4fa5-a4b3-3a813272714b",
         "title": "AI Engineer Intern - Enterprise AI & Workflow Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393648,7 +393648,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "271bbb75-6699-403d-9363-90cbdfc87142",
         "title": "Capital Markets Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
