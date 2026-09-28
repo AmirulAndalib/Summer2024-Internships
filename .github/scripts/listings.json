@@ -335169,7 +335169,7 @@
         "company_name": "Loblaw Companies",
         "id": "f4caefa0-f993-41dc-bd3e-ad42225e3e77",
         "title": "Product Analyst Co-op - Digital Pharmacy",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335482,7 +335482,7 @@
         "company_name": "Loblaw Companies",
         "id": "4314d719-c57c-456b-bd28-c4f8d0cd575d",
         "title": "Replenishment Optimization Data & Analytics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -335505,7 +335505,7 @@
         "company_name": "Loblaw Companies",
         "id": "270784f8-dc55-49f4-a7d6-34c920ec696d",
         "title": "Supply Chain Business Intelligence Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
