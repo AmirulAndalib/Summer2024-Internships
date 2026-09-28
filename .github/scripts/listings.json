@@ -1113,29 +1113,6 @@
     {
         "source": "Simplify",
         "category": "AI/ML/Data",
-        "company_name": "City of Austin",
-        "id": "73e35e78-0b99-4f25-a948-171e61e4adbe",
-        "title": "Intern - Systems Planning for Water/Wastewater/Reclaimed Water",
-        "active": false,
-        "terms": [
-            "Spring 2026"
-        ],
-        "date_updated": 1769951835,
-        "date_posted": 1769869551,
-        "url": "https://austintexas.wd5.myworkdayjobs.com/COA_Careers/job/Waller-Creek-Center/Internship---Undergraduate---Systems-Planning-for-Water-Wastewater-Reclaimed-Water--Austin-Water-_JR102577",
-        "locations": [
-            "Austin, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/City-Of-Austin",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "cf11cd8f-dc7a-455f-a905-4da8c2819193",
         "title": "Content & Brand Insights Social Media Analytics Intern - Summer/Fall 2026",
@@ -243227,7 +243204,7 @@
         "company_name": "Appian",
         "id": "31b95070-c5a6-4523-b7d4-54fbaa062677",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026",
             "Summer 2027"
@@ -269620,7 +269597,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269787,7 +269764,7 @@
         "company_name": "Goldman Sachs",
         "id": "443c0a68-63ca-4026-94b7-cf3e555f2d0f",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -269813,7 +269790,7 @@
         "company_name": "Goldman Sachs",
         "id": "439c65c1-64f2-461c-8ca1-ca36969ef10a",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -315590,7 +315567,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -325752,7 +325729,7 @@
         "company_name": "Goldman Sachs",
         "id": "5bdec003-2a02-42a4-a602-467541840552",
         "title": "Summer Analyst Intern - Americas - Engineering",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325846,7 +325823,7 @@
         "company_name": "Goldman Sachs",
         "id": "1949c912-65b2-42ac-9836-c110baed0ef6",
         "title": "Summer Analyst Intern - Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329189,7 +329166,7 @@
         "company_name": "RTX",
         "id": "b93f4f27-8809-4c89-b68d-0c388c5948e1",
         "title": "Digital Transformation of Aeronautic Manufacturing Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -332466,7 +332443,7 @@
         "company_name": "Marvell",
         "id": "2f6cedc3-6aa5-4caa-825b-45cf2ac41248",
         "title": "Design Verification Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -344453,7 +344430,7 @@
         "company_name": "Pomerleau",
         "id": "1901df38-e301-4347-959f-59d13dac228e",
         "title": "HR Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350532,7 +350509,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364838,7 +364815,7 @@
         "company_name": "LexisNexis Legal & Professional",
         "id": "769bec28-a1aa-4a21-854c-4dcde8904154",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -369949,7 +369926,7 @@
         "company_name": "D3 Embedded",
         "id": "3bb083e3-bf43-47f8-93e3-a775afddd966",
         "title": "Computer Vision / AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -374600,7 +374577,7 @@
         "company_name": "Boston Scientific",
         "id": "30a813fa-60dd-46e6-b380-c00124f3422a",
         "title": "Data Science Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -379854,7 +379831,7 @@
         "company_name": "First Citizens BancShares",
         "id": "3950ec12-b960-4a36-b3d6-f1c4799d409a",
         "title": "Quantitative Analysis Intern - Quantitative Analysis",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381068,7 +381045,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389087,7 +389064,7 @@
         "company_name": "RTX",
         "id": "d43122fd-1543-4f5c-b6de-ecd3c255484d",
         "title": "Engine Control System Simulation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -394134,7 +394111,7 @@
         "company_name": "RRS Group",
         "id": "d750fe7b-cab1-448d-87f7-d9cc9f2ad969",
         "title": "Associate Software Engineer Intern - Sophomore Only",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
