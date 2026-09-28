@@ -294196,7 +294196,7 @@
         "company_name": "Charles Schwab",
         "id": "09239b96-d26a-4691-b9ab-9b8b442caa9f",
         "title": "Software Engineering Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -308637,7 +308637,7 @@
         "company_name": "Michelin",
         "id": "10e5e95c-8b55-4510-9620-5c7cf27c7589",
         "title": "R&D Performance Measurement Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -311293,7 +311293,7 @@
         "company_name": "Edison International",
         "id": "344f9541-1bdc-41ab-8c57-ba63a9e11517",
         "title": "Computer Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325221,7 +325221,7 @@
         "company_name": "Hexagon AB",
         "id": "0815e579-731a-4d0f-82d3-3c41aacc6bd8",
         "title": "Sensor Fusion Defence Intern - Aerospace & Defence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -339077,7 +339077,7 @@
         "company_name": "RTX",
         "id": "107f6694-f8a2-45ff-bb58-e77552dc317c",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -340965,7 +340965,7 @@
         "company_name": "General Motors",
         "id": "10dda9a8-fdca-4b2e-abf9-94844492a2ab",
         "title": "Global Customer Research Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372500,7 +372500,7 @@
         "company_name": "Rothesay",
         "id": "02b6eecc-ac3c-44e4-9b02-71dde8078aa0",
         "title": "Quantitative Strategist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385187,7 +385187,7 @@
         "company_name": "Hudson River Trading",
         "id": "10410298-5914-4739-a1e4-898dbd865b17",
         "title": "Data Scientist Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385953,7 +385953,7 @@
         "company_name": "RTX",
         "id": "107197c3-30d5-45c2-b0b2-4a499d03531d",
         "title": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388689,7 +388689,7 @@
         "company_name": "Coram AI",
         "id": "32bbadd3-4610-4b76-b333-00b404c82faa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
