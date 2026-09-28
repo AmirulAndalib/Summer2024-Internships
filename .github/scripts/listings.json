@@ -297769,7 +297769,7 @@
         "company_name": "CIBC",
         "id": "e9bbbfe9-e9ad-44fd-9576-86518357ea97",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -337483,7 +337483,7 @@
         "company_name": "Loblaw Companies",
         "id": "479b278f-e672-4869-9d76-6d2885801675",
         "title": "Associate Product Manager Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -381892,7 +381892,7 @@
         "company_name": "Sanofi",
         "id": "f3b98ad2-775f-49d5-9a53-90a4dd71ee7b",
         "title": "mRNA Drug Substance Process Characterization Data Analytics and Visualization Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -382415,7 +382415,7 @@
         "company_name": "Fidelity Investments",
         "id": "dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
         "title": "Quantitative Analyst Intern - Fixed Income Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389203,7 +389203,7 @@
         "company_name": "Royal Bank of Canada",
         "id": "d0e04d2e-32c8-45f4-8b27-b9d28326a191",
         "title": "Software Developer Co-op - Technology and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
