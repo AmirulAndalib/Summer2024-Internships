@@ -342860,7 +342860,7 @@
         "company_name": "Pomerleau",
         "id": "831e3b5f-e77f-4237-8a89-6d6a6f1b3643",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355547,7 +355547,7 @@
         "company_name": "Cozey",
         "id": "9b456cb3-5f2b-4380-9ecc-9b0e2767ce3a",
         "title": "Data Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
