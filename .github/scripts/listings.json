@@ -302496,7 +302496,7 @@
         "company_name": "The Federal Reserve System",
         "id": "5f2c7c6d-c1f1-4837-b1af-3ba25b7c6a00",
         "title": "Statistics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361885,7 +361885,7 @@
         "company_name": "CIBC",
         "id": "43942487-1905-4f16-b4f3-82eafb81e332",
         "title": "Global Markets Analyst - Electronic Trading",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
