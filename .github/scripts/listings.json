@@ -365858,7 +365858,7 @@
         "company_name": "Intelcom | Dragonfly",
         "id": "1b017444-92b2-429c-9a15-d59c6b92aa96",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392834,7 +392834,7 @@
         "company_name": "Snowflake",
         "id": "ec40080b-e1ed-4756-a8ef-b3c9f2011f41",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
