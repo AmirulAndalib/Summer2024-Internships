@@ -150176,7 +150176,7 @@
         "company_name": "Pennsylvania State University",
         "id": "9b3a298c-8894-407e-bb7b-b72434713c39",
         "title": "Embedded Systems and Hardware Co-Op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -236805,7 +236805,7 @@
         "company_name": "GE Healthcare",
         "id": "f09f0a56-4999-4d19-afb4-894ea819d401",
         "title": "Engineering Development Program Intern - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -255738,7 +255738,7 @@
         "company_name": "PNC Financial Services",
         "id": "8d9b8a71-2379-496c-bfbe-ba06bd67f73e",
         "title": "Data and Analytics Intern - Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -275643,7 +275643,7 @@
         "company_name": "NVIDIA",
         "id": "c61cdf4f-3d6a-41b3-90d6-c83ad103fffd",
         "title": "Hardware Design for Test Intern - DFT",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -286751,7 +286751,7 @@
         "company_name": "Brunswick",
         "id": "45a90628-8af8-4195-9f94-89cb5bbfe029",
         "title": "Advanced Manufacturing/Operations Analytics Engineering Co-op - Global Operations Excellence",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -292461,7 +292461,7 @@
         "company_name": "Tencent",
         "id": "275b40b6-35f1-4ef6-9c1b-741a35b72c1f",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -305643,7 +305643,7 @@
         "company_name": "Tencent",
         "id": "de610830-2f60-4805-baf7-ae776ebdaeb4",
         "title": "Communications Platform as a Service Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -311655,7 +311655,7 @@
         "company_name": "Manulife Financial",
         "id": "4f3e401c-7208-4d5f-9349-638b02652ffa",
         "title": "Reporting Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -313170,7 +313170,7 @@
         "company_name": "Intel",
         "id": "4ba241d0-99b3-4fa5-a8cc-38e1bc93ce59",
         "title": "Silicon Hardware Engineering Intern - Bachelor's",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -314392,7 +314392,7 @@
         "company_name": "Magna",
         "id": "604dd172-892e-44a4-b56d-bb1dd2f776c3",
         "title": "Software Engineer Intern - Engineering Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -314531,7 +314531,7 @@
         "company_name": "Amgen",
         "id": "3b323906-0f7b-4f16-ad94-c2ca7c17d499",
         "title": "Business Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -315498,7 +315498,7 @@
         "company_name": "Copart",
         "id": "3975a833-570a-4c3b-bbe6-af2ed466f0f7",
         "title": "Software Engineer Intern - JavaScript/Frontend Developer",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -316869,7 +316869,7 @@
         "company_name": "GE Appliances",
         "id": "259c0c7d-c60b-40ad-936e-d5aef95bbb9f",
         "title": "Electrical Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2027"
         ],
@@ -324360,7 +324360,7 @@
         "company_name": "RTX",
         "id": "7e9c7b98-067d-40e0-9691-2aa31d3e7464",
         "title": "Data Analyst Intern - Spare Parts Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -326302,7 +326302,7 @@
         "company_name": "GE Vernova",
         "id": "4209c5e8-720b-4527-aed6-1d5b57782d05",
         "title": "Hardware Engineer Co-op - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -330573,7 +330573,7 @@
         "company_name": "Marvell",
         "id": "aeaa549f-9971-4a44-87a4-e897549cde00",
         "title": "Design for Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -333008,7 +333008,7 @@
         "company_name": "Marvell",
         "id": "56f40262-c4cd-4b41-a304-a541df7d38a7",
         "title": "Advanced Packaging Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027",
@@ -333155,7 +333155,7 @@
         "company_name": "Micron Technology",
         "id": "11ebfbb3-96f2-4ff0-a652-c2c9f0c85e86",
         "title": "DRAM Test Structure Design and Layout Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -338990,7 +338990,7 @@
         "company_name": "RTX",
         "id": "c57e2c6f-2938-4b78-bfba-117161231118",
         "title": "Software Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Spring 2027"
@@ -339612,7 +339612,7 @@
         "company_name": "The Federal Reserve System",
         "id": "b18d2ee9-8e92-4db6-91d6-e4e35363850c",
         "title": "Payments Forum Intern - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -348579,7 +348579,7 @@
         "company_name": "Marvell",
         "id": "9c3c759c-4a1c-4b6f-8f1c-51e5c4fdb90d",
         "title": "Ph.D. Intern - AI/ML & Design Automation",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -349469,7 +349469,7 @@
         "company_name": "Magna",
         "id": "3b8054b4-b834-4716-8fec-1a92b82af807",
         "title": "Engineering Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350202,7 +350202,7 @@
         "company_name": "Thomson Reuters",
         "id": "25f24729-b8c9-4d4f-9896-76b196fe8aaa",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -352525,7 +352525,7 @@
         "company_name": "RTX",
         "id": "295a1d3e-132c-464b-a13d-c5e7b2d9b722",
         "title": "Business & Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -352877,7 +352877,7 @@
         "company_name": "Fidelity Investments",
         "id": "f1abd68f-df79-41c3-a0cc-567463dbbf18",
         "title": "Data Analyst Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -355248,7 +355248,7 @@
         "company_name": "GE Healthcare",
         "id": "e5c8303e-444a-4707-bf65-53bb4b87042b",
         "title": "Software Engineering Co-op - LSS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -357040,7 +357040,7 @@
         "company_name": "Fidelity Investments",
         "id": "b782df7f-0b0d-40a2-8207-adf593cc2b9c",
         "title": "Alternative Data Operations Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363261,7 +363261,7 @@
         "company_name": "Guardian Life",
         "id": "1e56dea3-04d3-4da1-afb5-9f0efbf5bd42",
         "title": "Life Product Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -370660,7 +370660,7 @@
         "company_name": "AspenTech",
         "id": "f1ef6d6c-618e-4935-8928-f02675833955",
         "title": "Software Development Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -372783,7 +372783,7 @@
         "company_name": "Marvell",
         "id": "f096d22d-931f-4963-b87a-f425d5e8c161",
         "title": "Design for Test Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -377769,7 +377769,7 @@
         "company_name": "Central Hudson",
         "id": "4df28339-408f-45f0-8a26-bbaef8413cca",
         "title": "GIS Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -382278,7 +382278,7 @@
         "company_name": "The Walt Disney Company",
         "id": "98542c78-9908-4834-8553-78653a603ed3",
         "title": "Decision Science Graduate Associate - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -382382,7 +382382,7 @@
         "company_name": "The Walt Disney Company",
         "id": "3de26aa9-16da-475d-b04a-27308364c92f",
         "title": "Decision Science Graduate Associate - Spring 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -388602,7 +388602,7 @@
         "company_name": "Brunswick",
         "id": "c5f567d9-027e-4207-b6d3-80f5a9566861",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -389815,7 +389815,7 @@
         "company_name": "Mondelez International",
         "id": "ba20a0de-d82d-4d5b-8c1d-c9e68e0d9741",
         "title": "Promotions Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -389836,7 +389836,7 @@
         "company_name": "Mondelez International",
         "id": "3fa14192-2a32-445c-adeb-9ffe9446fa86",
         "title": "Promotions Analyst Intern - Revenue Growth Management",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -393631,7 +393631,7 @@
         "company_name": "GE Healthcare",
         "id": "5cfd0cc4-fb8d-400a-8048-c690831418ad",
         "title": "Software Engineer Intern - Workflow Platform",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -394747,7 +394747,7 @@
         "company_name": "RTX",
         "id": "6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395459,7 +395459,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "6f1236f3-5a1c-4bb1-998f-e7b8fca40550",
         "title": "Embedded Hardware Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
