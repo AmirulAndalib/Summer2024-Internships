@@ -263962,7 +263962,7 @@
         "company_name": "Blue Origin",
         "id": "2d12bca6-cc8c-4e3f-877e-0219f82a069b",
         "title": "Software Development Engineer 1 Intern - Corporate Functions",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -269669,7 +269669,7 @@
         "company_name": "Goldman Sachs",
         "id": "ea185fae-1828-4e79-9bfa-34dc512cce8c",
         "title": "Quantitative Strategist Associate Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -299077,7 +299077,7 @@
         "company_name": "Brunswick",
         "id": "85b3e408-7ae2-4096-98fa-2eac99fa020a",
         "title": "Software Controls Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -300023,7 +300023,7 @@
         "company_name": "Trane Technologies",
         "id": "a3a30f46-fe3b-48db-8f94-28a5b0a06d39",
         "title": "AI & Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -301993,7 +301993,7 @@
         "company_name": "Edison International",
         "id": "eac0d398-9f96-4736-880f-8b8bd6a17886",
         "title": "Summer Internship - Data Analytics/Science/Applied Math",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325391,7 +325391,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3cb1e27-85ef-4529-9ba5-6fb9462c60e9",
         "title": "Quantitative Strategist Intern - Asset and Wealth Management - Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325414,7 +325414,7 @@
         "company_name": "Goldman Sachs",
         "id": "f3fffaac-34e8-4f3e-aa74-fb1928331995",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325460,7 +325460,7 @@
         "company_name": "Goldman Sachs",
         "id": "f6b73d49-ad99-40ba-844a-4f885a901a91",
         "title": "Quantitative Strats Analyst Intern - Americas - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -344179,7 +344179,7 @@
         "company_name": "Collier Aerospace",
         "id": "a023874d-88f4-4e6c-a29a-681d54bc45f9",
         "title": "Software Engineer Intern - Web Applications - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356991,7 +356991,7 @@
         "company_name": "Principal Financial Group",
         "id": "b0f8239a-22cb-4ff6-8e56-f1c8cfd9ae87",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -358597,7 +358597,7 @@
         "company_name": "Highgate",
         "id": "fecb09fe-d423-4ee4-8ccd-9aa8b90dfd73",
         "title": "Revenue Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361792,7 +361792,7 @@
         "company_name": "Marvell",
         "id": "a72db9eb-aa2e-404c-8da4-e7916b173f94",
         "title": "Architecture Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365834,7 +365834,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -369227,7 +369227,7 @@
         "company_name": "EQT Corporation",
         "id": "f7d09a94-8bd0-4131-bc32-287f419b5e98",
         "title": "Data Engineering Intern - Completions Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372405,7 +372405,7 @@
         "company_name": "Invesco",
         "id": "b27d3a57-f7d0-4295-b07c-a4538b1846ab",
         "title": "ETF Product Development Intern - Early Career",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373594,7 +373594,7 @@
         "company_name": "Fidelity National Information Services",
         "id": "6c46682a-cd5d-4600-9417-d7b43d3afe1f",
         "title": "Software Engineer Intern - FIS University Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379554,7 +379554,7 @@
         "company_name": "Fidelity Investments",
         "id": "9cada06b-51c0-417f-8863-1c0468182c31",
         "title": "Undergraduate Internship - Software",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -379808,7 +379808,7 @@
         "company_name": "Boston Consulting Group",
         "id": "aba3cf97-4ffd-4dce-876d-ab3305231512",
         "title": "Forward Deployed AI Engineer Intern - BCG X",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -381214,7 +381214,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "9c40bb4c-e181-478f-94f6-bbb35c085b3b",
         "title": "Data Science Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2027"
         ],
@@ -384515,7 +384515,7 @@
         "company_name": "Marvell",
         "id": "8ce088a5-0a5d-4469-9b3f-d8a196162728",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -386605,7 +386605,7 @@
         "company_name": "Garmin",
         "id": "cd4e5539-0fd0-4b45-b76c-0ece4db32125",
         "title": "EMC Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387186,7 +387186,7 @@
         "company_name": "KLA",
         "id": "2e670f26-fa85-4586-a044-ad138d073cf3",
         "title": "Software Engineering Intern - C++ - Unix",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -388744,7 +388744,7 @@
         "company_name": "Super",
         "id": "8dc19272-2833-4254-bc11-07d090e9ce14",
         "title": "Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -388787,7 +388787,7 @@
         "company_name": "Illinois Tool Works",
         "id": "9e770238-e3ff-491f-baa6-08a85518e661",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -392237,7 +392237,7 @@
         "company_name": "Susquehanna International Group",
         "id": "b60dd607-5a1b-423f-a318-f333734e8063",
         "title": "Machine Learning Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -393299,7 +393299,7 @@
         "company_name": "Highgate",
         "id": "e7bcc39a-7fdd-453f-b556-1ee9c411c5c9",
         "title": "Revenue Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393322,7 +393322,7 @@
         "company_name": "Highgate",
         "id": "ed6d741a-4749-4428-a9e6-418e0beeee88",
         "title": "Revenue Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -394916,7 +394916,7 @@
         "company_name": "Cencora",
         "id": "85ec94f8-b794-406d-b74b-06e49b725a08",
         "title": "Software Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396667,6 +396667,52 @@
         "degrees": [
             "Bachelor's",
             "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "AI/ML/Data",
+        "company_name": "Lyft",
+        "id": "c7c17455-a74b-4c94-b5fd-3e46dc9867de",
+        "title": "Applied Scientist Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790678702,
+        "date_posted": 1790633873,
+        "url": "https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002",
+        "locations": [
+            "SF"
+        ],
+        "company_url": "https://simplify.jobs/c/Lyft",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "PhD"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "RTX",
+        "id": "9ab13260-bac2-4bc2-9334-a6f0d248d8be",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790679275,
+        "date_posted": 1788220800,
+        "url": "https://globalhr.wd5.myworkdayjobs.com/fr-CA/Private_Posting_No_TMP/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Intern--Systems-Engineer--Onsite-_01868477",
+        "locations": [
+            "Cedar Rapids, IA"
+        ],
+        "company_url": "https://simplify.jobs/c/RTX",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
         ]
     }
 ]
