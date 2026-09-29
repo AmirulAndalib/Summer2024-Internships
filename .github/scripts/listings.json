@@ -269461,7 +269461,7 @@
         "company_name": "Abridge",
         "id": "7b78baf6-f74f-4d7b-924f-a68d5e0e0dbf",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -296952,7 +296952,7 @@
         "company_name": "Waymo",
         "id": "fdd27f5d-3719-4023-91c8-62b14a0de7f4",
         "title": "Data Science Intern - Commercialization Testing",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -388951,7 +388951,7 @@
         "company_name": "Boston Properties",
         "id": "40cca647-9aaa-4058-b971-a19c004a3b42",
         "title": "IT Data Services Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
