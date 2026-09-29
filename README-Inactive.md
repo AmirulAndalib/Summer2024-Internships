@@ -6959,7 +6959,7 @@
 <td>Software Engineer Intern - Embedded Systems</td>
 <td>LA</td>
 <td>🔒</td>
-<td>25d</td>
+<td>26d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Geotab?utm_source=GHList&utm_medium=company">Geotab</a></strong></td>
