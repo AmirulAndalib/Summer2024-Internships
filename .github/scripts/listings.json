@@ -174978,7 +174978,7 @@
         "company_name": "Salesforce",
         "id": "452daa00-79b9-40ff-902b-6a5c3ddc4357",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -247553,7 +247553,7 @@
         "company_name": "Copart",
         "id": "c63937cc-49b3-4672-b316-c4e35731c6af",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -270774,7 +270774,7 @@
         "company_name": "KeyBank",
         "id": "530c60b3-3de0-4a8e-bb7c-5f32553939ac",
         "title": "Data Intern - Key Technology & Services - Data Track",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -283120,7 +283120,7 @@
         "company_name": "Freddie Mac",
         "id": "f9295e59-0d52-4f80-8bcb-f16c1b4fc75d",
         "title": "Multifamily Software Development Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -318107,7 +318107,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -321301,7 +321301,7 @@
         "company_name": "GE Vernova",
         "id": "4b982322-5cf7-44e2-bedc-ef603ee2bcd2",
         "title": "GridOS Project Engineer Intern Co-op - GridOS",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -327942,7 +327942,7 @@
         "company_name": "Pennsylvania State University",
         "id": "93e325b1-07c2-48a6-97eb-affa3dd10b6a",
         "title": "AI/ML Research Support Intern - Visualization and Decision Support Division",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -330599,7 +330599,7 @@
         "company_name": "Marvell",
         "id": "f0664bf2-ffd2-483a-90dd-8d16a1040261",
         "title": "Analog Design Intern - MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332090,7 +332090,7 @@
         "company_name": "Procter & Gamble",
         "id": "f991871e-3a03-45a8-bed8-6e0038e44af8",
         "title": "Analytics & Insights Intern/Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -338818,7 +338818,7 @@
         "company_name": "RTX",
         "id": "fffa4bdc-f97d-4cc9-9912-6015b38cfd10",
         "title": "Platform System Engineering Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -350440,7 +350440,7 @@
         "company_name": "General Motors",
         "id": "83e7c9e2-bf5a-4e4c-8a81-fd1bfc739cd4",
         "title": "Economics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -353002,7 +353002,7 @@
         "company_name": "Fidelity Investments",
         "id": "71e7a50c-dbfa-43e2-a899-2883fb7c6b5b",
         "title": "Advanced Data Analytics and Insights Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -360127,7 +360127,7 @@
         "company_name": "Marvell",
         "id": "ce1940f7-7c29-4bdd-8e79-4e7c906d46c2",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -363326,7 +363326,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -370181,7 +370181,7 @@
         "company_name": "KBR",
         "id": "f95d545d-29da-4c64-bed3-f979beb5bd61",
         "title": "Image Processing Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -372269,7 +372269,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -380976,7 +380976,7 @@
         "company_name": "General Motors",
         "id": "ee7c7524-9f03-4556-a197-bdf877a10f55",
         "title": "Embedded and Systems Engineering Intern - Digital Product",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -389439,7 +389439,7 @@
         "company_name": "Vertiv",
         "id": "d9f1e414-b254-48f5-8e45-37a9a6b883cf",
         "title": "Product Management Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -390258,7 +390258,7 @@
         "company_name": "Cenovus Energy",
         "id": "6b8dd43f-f7c6-40fc-afb7-915318ecdc76",
         "title": "Information Technology Student - Data Science and Software",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
