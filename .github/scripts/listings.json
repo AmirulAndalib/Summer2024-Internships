@@ -260139,7 +260139,7 @@
         "company_name": "Epic Games",
         "id": "31ab487e-bda7-4337-94b7-bda1786f13f2",
         "title": "Machine Learning Intern - Special Projects - Epic Research Group",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026",
             "Winter 2027",
@@ -365880,7 +365880,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -396264,6 +396264,78 @@
         "sponsorship": "Other",
         "degrees": [
             "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "Cloudflare",
+        "id": "adc756c8-eec3-41e4-b9a6-a13e34b5768f",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2027",
+            "Spring 2027",
+            "Summer 2027"
+        ],
+        "date_updated": 1790645761,
+        "date_posted": 1790645643,
+        "url": "https://boards.greenhouse.io/cloudflare/jobs/8199958",
+        "locations": [
+            "Austin, TX"
+        ],
+        "company_url": "https://simplify.jobs/c/Cloudflare",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GITAI",
+        "id": "04f47176-b9d7-4738-a924-cce1e8696df9",
+        "title": "Software Engineer Intern",
+        "active": true,
+        "terms": [
+            "Winter 2026"
+        ],
+        "date_updated": 1790645779,
+        "date_posted": 1790645639,
+        "url": "https://job-boards.greenhouse.io/gitai/jobs/5437128008",
+        "locations": [
+            "LA"
+        ],
+        "company_url": "https://simplify.jobs/c/GITAI",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's",
+            "Master's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "The Aerospace Corporation",
+        "id": "57bebd99-f029-4628-b0dc-3532c4f03181",
+        "title": "Software Engineering Intern - Software Tools and Assurance",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790645306,
+        "date_posted": 1790553600,
+        "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+        "locations": [
+            "El Segundo, CA"
+        ],
+        "company_url": "https://simplify.jobs/c/The-Aerospace-Corporation",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
             "Master's"
         ]
     }
