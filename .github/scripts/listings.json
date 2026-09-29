@@ -1,52 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BP",
-        "id": "f6fc5b8d-73a3-45d2-b1ef-acb113ac95ef",
-        "title": "Early Talent Program - Supply - Trading",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769931019,
-        "date_posted": 1769931019,
-        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Illinois---Chicago/Early-Talent-Program---Supply--Trading--and-Shipping---Chicago--IL_RQ105876",
-        "locations": [
-            "Chicago, IL"
-        ],
-        "company_url": "https://simplify.jobs/c/BP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Quant",
-        "company_name": "BP",
-        "id": "7f448d15-e5b9-4936-93a2-e8eae31eb14c",
-        "title": "Early Talent Program - Supply - Trading",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769931017,
-        "date_posted": 1769931017,
-        "url": "https://bpinternational.wd3.myworkdayjobs.com/bpEarlyCareers/job/United-States-of-America---Texas---Houston/Early-Talent-Program---Supply--Trading--and-Shipping---Houston--TX_RQ105880",
-        "locations": [
-            "Houston, TX"
-        ],
-        "company_url": "https://simplify.jobs/c/BP",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Empower",
         "id": "b6f276b1-e348-4c1e-a17d-6c451056fecc",
@@ -380998,7 +380952,7 @@
         "company_name": "Boston Scientific",
         "id": "1a872d07-40d8-4b98-8f0f-15127543ae64",
         "title": "Data Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
