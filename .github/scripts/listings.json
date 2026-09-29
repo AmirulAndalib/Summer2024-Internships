@@ -289540,7 +289540,7 @@
         "company_name": "Microchip Technology",
         "id": "4e4aff22-f8af-490d-93bd-7ac439065d71",
         "title": "Verification Intern - Verification",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -361433,7 +361433,7 @@
         "company_name": "Samsung Research America",
         "id": "c6aad417-8a37-46d9-bd72-d1053a268ea8",
         "title": "SoC Modeling Intern - SOC Modeling",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -371684,7 +371684,7 @@
         "company_name": "Waymo",
         "id": "ad26d172-59a3-4f93-9750-94d260cfb4e5",
         "title": "Software Engineering Intern - Maneuvering Tech",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373667,7 +373667,7 @@
         "company_name": "Geneva Trading",
         "id": "b2cc2a88-efd8-4b00-b346-0f29ab47dc4f",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -383687,7 +383687,7 @@
         "company_name": "Marvell",
         "id": "9cb80a43-fcfd-473d-8145-5aba8bb71782",
         "title": "Test Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
