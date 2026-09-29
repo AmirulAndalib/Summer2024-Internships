@@ -229181,7 +229181,7 @@
         "company_name": "Hone Health",
         "id": "8990370a-d091-498f-98bb-082a18262cfa",
         "title": "Data Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -229454,7 +229454,7 @@
         "company_name": "Flow Traders",
         "id": "95a232c5-f611-4960-ab8f-79fcd25db5f2",
         "title": "Quantitative Trading Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -384182,7 +384182,7 @@
         "company_name": "Trane Technologies",
         "id": "0d66888f-3087-4b82-a258-71b1163d8461",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -385483,7 +385483,7 @@
         "company_name": "Vantor",
         "id": "2cab3734-dc04-47db-9723-18dd85d92c39",
         "title": "AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -387902,7 +387902,7 @@
         "company_name": "Bedrock Robotics",
         "id": "cd26cfb9-50c6-440f-8b4a-6d6f97b14d32",
         "title": "Evaluation Engineer Intern - Metric Prototyping",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
