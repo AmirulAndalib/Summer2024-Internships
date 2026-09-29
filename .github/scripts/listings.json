@@ -321443,7 +321443,7 @@
         "company_name": "Advanced Energy",
         "id": "c5da6b87-0952-4236-b69e-12b197a82b7a",
         "title": "Electrical Engineer Intern - Fall 2026",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -357867,7 +357867,7 @@
         "company_name": "Waymo",
         "id": "1cc5a15c-471f-4ae7-8c32-bbed52f939f6",
         "title": "Software Engineer Intern - BS/MS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360057,7 +360057,7 @@
         "company_name": "GSK",
         "id": "122163eb-f8fc-4d87-afa5-e5738e524ae6",
         "title": "Web App Developer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -375915,7 +375915,7 @@
         "company_name": "Microsoft",
         "id": "f17e1a25-2872-42d0-90f6-3e3dbb14c8fa",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
