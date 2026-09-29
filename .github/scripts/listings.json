@@ -65273,7 +65273,7 @@
         "company_name": "PennState University",
         "id": "f9bd3523-3160-485e-9a7a-8d91620b01d0",
         "title": "Research and Development Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2026",
             "Fall 2026",
@@ -70748,7 +70748,7 @@
         "company_name": "Tencent",
         "id": "f682356d-55da-4f90-987d-77f140cc652d",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -110071,7 +110071,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -149987,7 +149987,7 @@
         "company_name": "University of Arkansas",
         "id": "e4f4a19a-0777-4687-9441-b8f377f86167",
         "title": "Graduate Research Assistant Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -157289,7 +157289,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -174551,7 +174551,7 @@
         "company_name": "Salesforce",
         "id": "3cb45823-f475-44c7-aaca-4a1335faf6ff",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -197094,7 +197094,7 @@
         "company_name": "Magna",
         "id": "d507cff6-5d9b-45f2-a806-de4fe7b2e699",
         "title": "Engineering ADAS Perception Features Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2026"
         ],
@@ -236729,7 +236729,7 @@
         "company_name": "Xsolla",
         "id": "9e8ca483-fab3-4b31-8a1a-bcc2e1db15ef",
         "title": "AI-First Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -320379,7 +320379,7 @@
         "company_name": "Magna",
         "id": "a7beff09-b326-4679-a544-c614e04aa701",
         "title": "Robotics AI Algorithm Intern - Research and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -325345,7 +325345,7 @@
         "company_name": "Waymo",
         "id": "107e54c4-e35f-4131-8faf-6a6ab9998ca9",
         "title": "Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -328240,7 +328240,7 @@
         "company_name": "Barclays",
         "id": "db7ca646-e2f6-4a10-bc6b-1d67f5ffcddf",
         "title": "Quantitative Finance Associate Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -374556,7 +374556,7 @@
         "company_name": "Abridge",
         "id": "6ed0b949-935d-4322-93b3-8acbe09cda9e",
         "title": "Software Engineer Intern - Spring",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -390820,7 +390820,7 @@
         "company_name": "CVS Health",
         "id": "3ebd187d-832e-4667-83aa-850719abfd1b",
         "title": "Software Engineer Intern - Analytics & Behavior Change",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
