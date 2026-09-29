@@ -157289,7 +157289,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -218424,7 +218424,7 @@
         "company_name": "Copart",
         "id": "26ca5f88-4aa3-47dd-b7c2-3d192287ce69",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -233906,7 +233906,7 @@
         "company_name": "Copart",
         "id": "b8a3808e-1eee-4b31-a9ed-c8790b1c82b9",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -272900,7 +272900,7 @@
         "company_name": "RTX",
         "id": "a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
         "title": "Conversion Systems Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -275036,7 +275036,7 @@
         "company_name": "Tencent",
         "id": "eb14174f-2e4d-4c27-90c6-67df2ddef557",
         "title": "Multimodal Algorithm Researcher Intern - Omni-Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -328555,7 +328555,7 @@
         "company_name": "RTX",
         "id": "81abb668-54a5-4399-998b-383a36dba872",
         "title": "Aerospace Engineering Intern - APU Programs Support",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -330547,7 +330547,7 @@
         "company_name": "Marvell",
         "id": "4d5f11db-f4d3-45a0-aaa1-9a429091be83",
         "title": "Design for Test Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -332428,7 +332428,7 @@
         "company_name": "Marvell",
         "id": "b72627a2-345c-4008-84ca-772020b7b572",
         "title": "Physical Design Engineer Intern - MS - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -335957,7 +335957,7 @@
         "company_name": "Micron Technology",
         "id": "366e5594-f4cf-486f-b2e7-0c33b41e8b18",
         "title": "DRAM Customer Enablement Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -350676,7 +350676,7 @@
         "company_name": "RTX",
         "id": "36518220-e089-4427-b9c1-8e0b42abf389",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -351252,7 +351252,7 @@
         "company_name": "Walmart",
         "id": "f00e8399-0777-4e56-b2cb-0fd0631a0655",
         "title": "Software Engineer 2 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -354717,7 +354717,7 @@
         "company_name": "Amgen",
         "id": "6e4f094f-682c-4e8f-b9a8-f1ee44c201d3",
         "title": "Digital Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -361530,7 +361530,7 @@
         "company_name": "General Motors",
         "id": "d83eb43c-fb28-4eb5-ba2f-dac7c1033fa4",
         "title": "Race Strategy & Analytics Intern - IndyCar",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -365005,7 +365005,7 @@
         "company_name": "Altar'd State",
         "id": "72d33ab0-b1cb-4f35-8044-370ecc2c7009",
         "title": "Store Operations Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -373108,7 +373108,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "4bde8bc5-067e-4676-9a52-d07891e1cb78",
         "title": "Product Management Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375442,7 +375442,7 @@
         "company_name": "RTX",
         "id": "d1b58794-f4e7-4d28-af0d-73a29d2fd9b6",
         "title": "Electrical Firmware Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026",
             "Spring 2027"
@@ -375966,7 +375966,7 @@
         "company_name": "Invesco",
         "id": "e4d9c09e-06f3-497e-8b1d-d10e4391744c",
         "title": "ETF Product Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382230,7 +382230,7 @@
         "company_name": "Fidelity Investments",
         "id": "dabb4ebf-ba8a-4eab-bd00-4c63117ca5d1",
         "title": "Quantitative Analyst Intern - Fixed Income Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382301,7 +382301,7 @@
         "company_name": "Marvell",
         "id": "8d331a2d-b001-4caa-8b4b-d156010085c0",
         "title": "Digital IC Design Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -382429,7 +382429,7 @@
         "company_name": "Fidelity Investments",
         "id": "695c330c-a16f-4490-93fc-2f34b8d874ce",
         "title": "Quantitative Research Intern - Multi-Asset Research Team",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385116,7 +385116,7 @@
         "company_name": "Johnson & Johnson",
         "id": "ef0f8da4-098a-4b01-9a26-27f477d959c3",
         "title": "Commercial Data Science & AI Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -385597,7 +385597,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -385646,7 +385646,7 @@
         "company_name": "Rippling",
         "id": "93ae3a0d-e1e0-4d7a-ad67-4adba9311b49",
         "title": "Machine Learning Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386173,7 +386173,7 @@
         "company_name": "Marvell",
         "id": "7057ee1a-132c-421d-9f99-5d1d07c307f8",
         "title": "Analog Layout Intern - BS",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387400,7 +387400,7 @@
         "company_name": "RTX",
         "id": "d69cc4b1-6d03-4c5e-8430-4c567709546c",
         "title": "Factory Enablement Digital Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -387497,7 +387497,7 @@
         "company_name": "Intel",
         "id": "65f618f2-09b0-4451-83c9-7110216c541f",
         "title": "System Simulation Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -388995,7 +388995,7 @@
         "company_name": "RTX",
         "id": "d43122fd-1543-4f5c-b6de-ecd3c255484d",
         "title": "Engine Control System Simulation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
