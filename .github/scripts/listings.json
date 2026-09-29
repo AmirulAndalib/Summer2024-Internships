@@ -384182,7 +384182,7 @@
         "company_name": "Trane Technologies",
         "id": "0d66888f-3087-4b82-a258-71b1163d8461",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -392665,7 +392665,7 @@
         "company_name": "Radiance Technologies",
         "id": "9a22b713-73b1-4482-866d-cf1543e650e4",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
