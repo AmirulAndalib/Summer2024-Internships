@@ -2,27 +2,6 @@
     {
         "source": "Simplify",
         "category": "Software",
-        "company_name": "Empower",
-        "id": "b6f276b1-e348-4c1e-a17d-6c451056fecc",
-        "title": "Summer 2026 Intern-Software Engineer; API Strategy",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769988342,
-        "date_posted": 1769988342,
-        "url": "https://empower.wd12.myworkdayjobs.com/empower/job/CO-Greenwood-Village/Summer-2026-Intern--Software-Engineer--API-Strategy_R0056263",
-        "locations": [
-            "Greenwood Village, CO"
-        ],
-        "company_url": "https://simplify.jobs/c/Empower-Advisory-Group",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
         "company_name": "Sigma Computing",
         "id": "a57d979a-0ff3-47c1-914b-d1db23e52574",
         "title": "Software Engineering Intern",
@@ -137,73 +116,6 @@
         "sponsorship": "Other",
         "degrees": [
             "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "RTX",
-        "id": "c6c0d77d-778d-426f-8d67-87b9011a5a0d",
-        "title": "2026 Software Engineering Intern - Gen4 Radar - Onsite/CA",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769988527,
-        "date_posted": 1769988527,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CA-EL-SEGUNDO-R01--2000-E-Imperial-Hwy--BLDG-R01/XMLNAME-2026-Software-Engineering-Intern---Gen4-Radar---Onsite--CA-_01820704",
-        "locations": [
-            "El Segundo, CA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Formlabs",
-        "id": "59a881ee-08f5-45f5-a4c4-deeb3e6cafeb",
-        "title": "Hardware R&D Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769988458,
-        "date_posted": 1769988458,
-        "url": "https://careers.formlabs.com/job/7230844/apply/?gh_jid=7230844",
-        "locations": [
-            "Cambridge, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/Formlabs",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "InterSystems",
-        "id": "07df9103-e761-40a3-972a-97306359ef68",
-        "title": "Core Development Program",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769988479,
-        "date_posted": 1769988479,
-        "url": "https://www.intersystems.com/careers/careers-search/?gh_jid=6667825003",
-        "locations": [
-            "Boston, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/InterSystems",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
         ]
     },
     {
@@ -392808,7 +392720,7 @@
         "company_name": "Snowflake",
         "id": "af7ae639-a887-435b-9b79-1edc4e0c680d",
         "title": "Software Engineer Intern - Database Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -392859,7 +392771,7 @@
         "company_name": "Snowflake",
         "id": "8b7eafbe-423b-46f9-8bf5-ef164bb2b9bc",
         "title": "Software Engineer Intern - Core, Infrastructure & Security",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -397143,7 +397055,7 @@
         "company_name": "Invesco",
         "id": "d29e1b26-6366-4790-a9fb-5c7c87927b69",
         "title": "Early Career Intern - Technology",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
