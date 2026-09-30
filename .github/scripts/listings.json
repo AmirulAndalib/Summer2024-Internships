@@ -1,97 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Regal Rexnord",
-        "id": "f167d7f6-f21b-4812-ab7c-f17397856f8b",
-        "title": "Engineering Technology Co-op - Summer",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770047336,
-        "date_posted": 1770047336,
-        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Engineering-Technology-Co-op--Summer-_R26_00461-1",
-        "locations": [
-            "Vandalia, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Associate's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Hardware",
-        "company_name": "Regal Rexnord",
-        "id": "d2d69eaf-763e-47f9-aebd-e6c4469d7a55",
-        "title": "Application Engineer Co-op",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770047329,
-        "date_posted": 1770047329,
-        "url": "https://regalrexnord.wd1.myworkdayjobs.com/careers/job/Tipp-City-Ohio-United-States/Application-Engineer-Co-op--Summer-_R26_00431-1",
-        "locations": [
-            "Vandalia, OH"
-        ],
-        "company_url": "https://simplify.jobs/c/37e0cd83-539e-4474-a63a-abc8ce7b4694",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "AtkinsR\u00e9alis",
-        "id": "f4c892b6-2245-434d-934a-c22e6af17920",
-        "title": "Nuclear Engineering Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770047191,
-        "date_posted": 1770047191,
-        "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USTNOak-Ridge545-Oak-Ridge-Turnpike/Nuclear-Engineering-Intern---Summer-2026_R-147583-1",
-        "locations": [
-            "Oak Ridge, TN"
-        ],
-        "company_url": "https://simplify.jobs/c/AtkinsRealis",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Gametime",
-        "id": "e12a36f1-d4f2-48aa-b1af-f70d7c44a06c",
-        "title": "Full Stack Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770047136,
-        "date_posted": 1770047136,
-        "url": "https://job-boards.greenhouse.io/gametimeunited/jobs/5104951008",
-        "locations": [
-            "Remote in USA"
-        ],
-        "company_url": "https://simplify.jobs/c/Gametime",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "Software",
         "company_name": "Warner Bros.",
         "id": "f712cfc8-6139-4746-9840-11fbd74bcbeb",
@@ -230995,7 +230904,7 @@
         "company_name": "Heron Power",
         "id": "864fb857-973c-4041-8f03-889fcffa79c2",
         "title": "Electronics Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Spring 2027"
@@ -350784,7 +350693,7 @@
         "company_name": "Quantinuum",
         "id": "e786530f-a166-4c4d-8e6a-a97d02405c85",
         "title": "Layout Automation Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -366727,7 +366636,7 @@
         "company_name": "PressW",
         "id": "2ce45287-9550-4c52-9713-3ca4f1c8fc39",
         "title": "Applied AI Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
