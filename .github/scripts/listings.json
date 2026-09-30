@@ -108799,7 +108799,7 @@
         "company_name": "University of Arkansas",
         "id": "613121a0-b6ea-469c-bf10-9bb507ad6f4c",
         "title": "Cosmos Graduate Research Assistant - ML/AI",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -156017,7 +156017,7 @@
         "company_name": "Tencent",
         "id": "ebfbd4aa-1575-4433-ae61-19d71eac1f5d",
         "title": "Game Research & Development Intern - Engine Research",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -268954,7 +268954,7 @@
         "company_name": "Levi Strauss & Co.",
         "id": "2d31a59a-d33d-49cb-be61-428d92dfb81f",
         "title": "Analytics Intern - eCommerce",
-        "active": false,
+        "active": true,
         "terms": [
             "Fall 2026"
         ],
@@ -319107,7 +319107,7 @@
         "company_name": "Magna",
         "id": "a7beff09-b326-4679-a544-c614e04aa701",
         "title": "Robotics AI Algorithm Intern - Research and Development",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -327799,7 +327799,7 @@
         "company_name": "GE Vernova",
         "id": "67f739d1-47a4-421e-9fa1-0976b7342bc5",
         "title": "AI Digitization Co-op - HDNU Global Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -337595,7 +337595,7 @@
         "company_name": "RTX",
         "id": "76730cc1-91aa-4e2a-84db-89852233810d",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -370997,7 +370997,7 @@
         "company_name": "Visa",
         "id": "5f405c1a-fcc4-4c61-996b-826be17bfb30",
         "title": "Research Scientist Intern - Quantum",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -380882,7 +380882,7 @@
         "company_name": "Marvell",
         "id": "7cc624ba-7ee7-48f0-bddc-e6d5e064f6f9",
         "title": "Digital IC Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396416,7 +396416,7 @@
         "company_name": "Moderna",
         "id": "b3f22d24-703f-4c3e-b73f-e2f5fbc6c23c",
         "title": "Biometrics Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -396713,7 +396713,7 @@
         "company_name": "Marvell",
         "id": "5320306e-8189-42da-8f41-5a76a8501c36",
         "title": "AMS Validation Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
