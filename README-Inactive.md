@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 1149 Inactive Internship Roles by Category
+### Browse 1151 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (415)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (416)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (55)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (353)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (354)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (172)
 
@@ -462,6 +462,13 @@
 <td>🔥 <strong><a href="https://simplify.jobs/c/AMD?utm_source=GHList&utm_medium=company">AMD</a></strong></td>
 <td>PhD HPC & Sovereign AI Intern/Co-op 🎓</td>
 <td>San Jose, CA<br>Santa Clara, CA</td>
+<td>🔒</td>
+<td>11d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/CoBank?utm_source=GHList&utm_medium=company">CoBank</a></strong></td>
+<td>Software Engineer Intern</td>
+<td>Greenwood Village, CO</td>
 <td>🔒</td>
 <td>11d</td>
 </tr>
@@ -1387,14 +1394,14 @@
 <td>IT Programmer Intern</td>
 <td>Augusta, GA</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/John-Deere?utm_source=GHList&utm_medium=company">John Deere</a></strong></td>
 <td>Product Engineering Intern</td>
 <td>Fargo, ND</td>
 <td>🔒</td>
-<td>27d</td>
+<td>28d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/RTX?utm_source=GHList&utm_medium=company">RTX</a></strong></td>
@@ -3956,7 +3963,7 @@
 <td>Data Science Intern - Summer 2027</td>
 <td>SF</td>
 <td>🔒</td>
-<td>20d</td>
+<td>21d</td>
 </tr>
 <tr>
 <td><strong><a href="https://simplify.jobs/c/Allen-Control-Systems?utm_source=GHList&utm_medium=company">Allen Control Systems</a></strong></td>
@@ -4410,6 +4417,13 @@
 <td><strong><a href="https://simplify.jobs/c/POET?utm_source=GHList&utm_medium=company">POET</a></strong></td>
 <td>Process Engineering Intern</td>
 <td>Sioux Falls, SD</td>
+<td>🔒</td>
+<td>29d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Northern-Trust?utm_source=GHList&utm_medium=company">Northern Trust</a></strong></td>
+<td>Technology Intern - Data Science and Analytics</td>
+<td>Chicago, IL</td>
 <td>🔒</td>
 <td>29d</td>
 </tr>
