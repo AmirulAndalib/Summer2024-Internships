@@ -308359,7 +308359,7 @@
         "company_name": "Northern Trust",
         "id": "718e86ed-b134-4e25-90b7-974bd8a5d12b",
         "title": "Technology Intern - Data Science and Analytics",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -371285,7 +371285,7 @@
         "company_name": "Amperesand",
         "id": "0c0ace06-0c5c-415d-8ea4-7c6fedad6324",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -376274,7 +376274,7 @@
         "company_name": "CoBank",
         "id": "edd61cb3-1077-4e8f-96ef-4862eaefa5b8",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -387885,7 +387885,7 @@
         "company_name": "Hitachi Energy",
         "id": "24a9cba0-5e83-4939-9bb9-61f405471d4b",
         "title": "Electrical Component Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026",
             "Winter 2027"
