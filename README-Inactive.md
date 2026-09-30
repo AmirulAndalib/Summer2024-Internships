@@ -6,13 +6,13 @@
 
 ---
 
-### Browse 1147 Inactive Internship Roles by Category
+### Browse 1152 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (423)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (426)
 
-📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (56)
+📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (57)
 
-🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (355)
+🤖 **[Data Science, AI & Machine Learning](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-data-science-ai--machine-learning-internship-roles-inactive)** (356)
 
 📈 **[Quantitative Finance](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-quantitative-finance-internship-roles-inactive)** (153)
 
@@ -533,7 +533,7 @@
 <td>Software Engineering Intern - Maneuvering Tech</td>
 <td>SF</td>
 <td>🔒</td>
-<td>12d</td>
+<td>13d</td>
 </tr>
 <tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/Visa?utm_source=GHList&utm_medium=company">Visa</a></strong></td>
@@ -1419,7 +1419,28 @@
 </tr>
 <tr>
 <td>↳</td>
+<td>CIC Systems Engineer Co-op</td>
+<td>Rochester, NY</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td>↳</td>
 <td>Software Engineer Co-op - Critical Infrastructure Communication</td>
+<td>Rochester, NY</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Engineering Co-op - Critical Infrastructure Communication Engineering</td>
+<td>Rochester, NY</td>
+<td>🔒</td>
+<td>27d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>CIC Systems Engineer Co-op</td>
 <td>Rochester, NY</td>
 <td>🔒</td>
 <td>27d</td>
@@ -3371,6 +3392,13 @@
 <td>1mo</td>
 </tr>
 <tr>
+<td><strong><a href="https://simplify.jobs/c/American-Express?utm_source=GHList&utm_medium=company">American Express</a></strong></td>
+<td>Product Innovation Intern - Credit & Fraud Risk</td>
+<td>Phoenix, AZ</td>
+<td>🔒</td>
+<td>1mo</td>
+</tr>
+<tr>
 <td>🔥 <strong><a href="https://simplify.jobs/c/TikTok?utm_source=GHList&utm_medium=company">TikTok</a></strong></td>
 <td>AI Product Manager Intern - Content Ecosystem</td>
 <td>San Jose, CA</td>
@@ -3591,6 +3619,13 @@
 <td>↳</td>
 <td>Data Scientist Intern</td>
 <td>Plano, TX</td>
+<td>🔒</td>
+<td>8d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Daimler-Truck?utm_source=GHList&utm_medium=company">Daimler Truck</a></strong></td>
+<td>Reliability Engineer Intern</td>
+<td>Fort Mill, SC</td>
 <td>🔒</td>
 <td>8d</td>
 </tr>
