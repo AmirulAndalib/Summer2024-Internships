@@ -285640,7 +285640,7 @@
         "company_name": "Brunswick",
         "id": "bbd6e777-012d-4311-bbee-2f7372acaa9d",
         "title": "Product Management Intern - Oils & Lubricants",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -300540,7 +300540,7 @@
         "company_name": "BlueCross BlueShield of Nebraska",
         "id": "67c1b95e-7d8e-429c-8252-51543316efbd",
         "title": "Data Intern - Data Science - Data Analytics",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -380689,7 +380689,7 @@
         "company_name": "Watts Water",
         "id": "dfd5c151-a070-47ba-8591-89baeb1e6e35",
         "title": "B2C E-Commerce Analytics & Website Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -381142,7 +381142,7 @@
         "company_name": "The Walt Disney Company",
         "id": "e22ac220-417d-4d05-b7ab-cdb425c9710b",
         "title": "Decision Science Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -383450,7 +383450,7 @@
         "company_name": "Marvell",
         "id": "8ce088a5-0a5d-4469-9b3f-d8a196162728",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -383474,7 +383474,7 @@
         "company_name": "Marvell",
         "id": "4f8c6168-84ff-40db-9f17-9413fdaa3a68",
         "title": "Software/Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -384532,7 +384532,7 @@
         "company_name": "Rippling",
         "id": "fff73d24-2557-417b-a791-58567415f245",
         "title": "Software Engineer Intern - Backend Focused",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -386075,7 +386075,7 @@
         "company_name": "KLA",
         "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
         "title": "Algorithm Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395656,7 +395656,7 @@
         "company_name": "Marvell",
         "id": "3c74c48a-effb-4e1e-bd1e-1f4993bc2e98",
         "title": "Board Product Engineer Intern - BS",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -396316,7 +396316,7 @@
         "company_name": "RTX",
         "id": "ec00eac5-4585-4280-840e-de9a25fe6595",
         "title": "Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -398212,7 +398212,7 @@
         "company_name": "RTX",
         "id": "e6eed6a3-2c62-4035-8952-30b4577d84e3",
         "title": "Software Engineer Co-op - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -398769,6 +398769,29 @@
             "Ottawa, ON, Canada"
         ],
         "company_url": "https://simplify.jobs/c/Qualcomm",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Software",
+        "company_name": "POET",
+        "id": "cfd65384-8de0-4673-9086-3e19b4843b5e",
+        "title": "Software Developer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790766941,
+        "date_posted": 1790553600,
+        "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1",
+        "locations": [
+            "Sioux Falls, SD"
+        ],
+        "company_url": "https://simplify.jobs/c/POET",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
