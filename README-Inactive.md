@@ -6,9 +6,9 @@
 
 ---
 
-### Browse 1126 Inactive Internship Roles by Category
+### Browse 1128 Inactive Internship Roles by Category
 
-💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (412)
+💻 **[Software Engineering](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-software-engineering-internship-roles-inactive)** (414)
 
 📱 **[Product Management](https://github.com/SimplifyJobs/Summer2027-Internships/blob/dev/README-Inactive.md#-product-management-internship-roles-inactive)** (55)
 
@@ -308,6 +308,13 @@
 <td>↳</td>
 <td>Software Developer Intern - University</td>
 <td>McLean, VA</td>
+<td>🔒</td>
+<td>9d</td>
+</tr>
+<tr>
+<td>↳</td>
+<td>Software Developer Intern</td>
+<td>Huntsville, AL</td>
 <td>🔒</td>
 <td>9d</td>
 </tr>
@@ -637,6 +644,13 @@
 <td>↳</td>
 <td>Artificial Intelligence Enablement & Forward-Deployed Engineering Intern</td>
 <td>Wilmington, NC</td>
+<td>🔒</td>
+<td>14d</td>
+</tr>
+<tr>
+<td><strong><a href="https://simplify.jobs/c/Elire?utm_source=GHList&utm_medium=company">Elire</a></strong></td>
+<td>AI Software Developer Intern - Multiple Teams</td>
+<td>Remote in USA<br>Minneapolis, MN</td>
 <td>🔒</td>
 <td>14d</td>
 </tr>
