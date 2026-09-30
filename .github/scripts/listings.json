@@ -1,125 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "a57d979a-0ff3-47c1-914b-d1db23e52574",
-        "title": "Software Engineering Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769988826,
-        "date_posted": 1769988826,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7614004003",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "Software",
-        "company_name": "Sigma Computing",
-        "id": "9abb3a2c-d33b-43d6-a003-2cade7acb3a0",
-        "title": "Software Engineer \u2013 New Grad Program",
-        "active": false,
-        "terms": [
-            "N/A"
-        ],
-        "date_updated": 1769988820,
-        "date_posted": 1769988820,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7614005003",
-        "locations": [
-            "SF",
-            "NYC"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sigma Computing",
-        "id": "63043788-7d45-421f-8979-3be79bdbd535",
-        "title": "Data Platform Graduate Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769988816,
-        "date_posted": 1769988816,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7613979003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": []
-    },
-    {
-        "source": "Simplify",
-        "category": "Product",
-        "company_name": "Sigma Computing",
-        "id": "58244b30-28fd-40c4-aee2-5544cb427b35",
-        "title": "Product Management Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769988819,
-        "date_posted": 1769988819,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7613994003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's",
-            "Master's",
-            "MBA"
-        ]
-    },
-    {
-        "source": "Simplify",
-        "category": "AI/ML/Data",
-        "company_name": "Sigma Computing",
-        "id": "39f0fc29-a71e-4f85-aad3-f6679c5f4029",
-        "title": "AI/ML PhD Intern - Summer 2026",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1769988817,
-        "date_posted": 1769988817,
-        "url": "https://job-boards.greenhouse.io/sigmacomputing/jobs/7613965003",
-        "locations": [
-            "SF"
-        ],
-        "company_url": "https://simplify.jobs/c/Sigma-Computing",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "PhD"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "Freese and Nichols",
         "id": "565290cd-4a2d-43ea-bcaa-59d042a8c459",
@@ -265586,7 +265467,7 @@
         "company_name": "VWH Capital Management",
         "id": "6b7c7758-8a11-4b2a-abf8-4612ddc26c7a",
         "title": "Quantitative Researcher Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -342425,7 +342306,7 @@
         "company_name": "CACI",
         "id": "418c3798-31ed-4e61-ae84-88b7627eee40",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -360486,7 +360367,7 @@
         "company_name": "DEKA Research & Development Corp.",
         "id": "c3b80bc0-1511-438e-8199-f0f8dd88037a",
         "title": "Software Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -375194,7 +375075,7 @@
         "company_name": "Insperity",
         "id": "479be071-1ee4-4c93-8232-d2a91264024d",
         "title": "Rotational AI Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -390759,7 +390640,7 @@
         "company_name": "CHS",
         "id": "3987bb53-087a-4ba7-8495-a8dd4ff2f912",
         "title": "Data Analyst Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
