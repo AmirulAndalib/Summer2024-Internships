@@ -146437,7 +146437,7 @@
         "company_name": "Tencent",
         "id": "5d7f71ac-5019-4377-9a96-d95b20a6befe",
         "title": "Hunyuan Multimodal Algorithm Researcher Intern - Omni Modal",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -271835,7 +271835,7 @@
         "company_name": "RTX",
         "id": "a167d0aa-3bb9-4b88-84a5-ee03be6a494f",
         "title": "Conversion Systems Engineer 1 Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -323154,7 +323154,7 @@
         "company_name": "RTX",
         "id": "4fb34804-5a77-473d-9fdf-a34420e9e45b",
         "title": "Advanced Analytics Products & Change Management Intern - Advanced Analytics AI Evolution Project",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -370851,7 +370851,7 @@
         "company_name": "Great American Insurance Company",
         "id": "ae867875-28c9-4d79-933c-2abd3ae6ef49",
         "title": "Catastrophe Modeling & Data Analytics Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -383450,7 +383450,7 @@
         "company_name": "Marvell",
         "id": "8ce088a5-0a5d-4469-9b3f-d8a196162728",
         "title": "Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -383474,7 +383474,7 @@
         "company_name": "Marvell",
         "id": "4f8c6168-84ff-40db-9f17-9413fdaa3a68",
         "title": "Software/Firmware Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -384076,7 +384076,7 @@
         "company_name": "Allegion",
         "id": "87fb4399-48fd-4035-854a-817a133804a7",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -386075,7 +386075,7 @@
         "company_name": "KLA",
         "id": "6e2407ba-f462-4baa-ac0f-a0c48ac50816",
         "title": "Algorithm Engineering Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -389992,7 +389992,7 @@
         "company_name": "Marvell",
         "id": "18954c30-3dc4-4123-9a43-7c0b011c16e6",
         "title": "Analog and Mixed Signal Layout Engineer Intern Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -398212,7 +398212,7 @@
         "company_name": "RTX",
         "id": "e6eed6a3-2c62-4035-8952-30b4577d84e3",
         "title": "Software Engineer Co-op - Spring/Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -398792,6 +398792,29 @@
             "Sioux Falls, SD"
         ],
         "company_url": "https://simplify.jobs/c/POET",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Hardware",
+        "company_name": "GE Healthcare",
+        "id": "864cc8b9-b420-476e-a6a6-b9bb048c678d",
+        "title": "Systems Engineer Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790767840,
+        "date_posted": 1789948800,
+        "url": "https://gehc.wd5.myworkdayjobs.com/GEHC_ExternalSite/job/Salt-Lake-City/Summer-2027-Systems-Engineering-Internship_R4046627-1",
+        "locations": [
+            "Salt Lake City, UT"
+        ],
+        "company_url": "https://simplify.jobs/c/GE-Healthcare",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
