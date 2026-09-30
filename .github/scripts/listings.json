@@ -273892,7 +273892,7 @@
         "company_name": "American Express",
         "id": "b5d64ce3-a598-47f7-8195-48153775de70",
         "title": "Software Engineer Intern - Enterprise Technology Services",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -283278,7 +283278,7 @@
         "company_name": "The Hartford",
         "id": "113452f5-8851-4266-8cfa-6e8ba357281e",
         "title": "Software Engineer Intern - Tech & Data Program",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325680,7 +325680,7 @@
         "company_name": "GE Vernova",
         "id": "124b21b2-cf3e-4f05-b00b-9a085a704bbe",
         "title": "Hardware Engineer Intern - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -326393,7 +326393,7 @@
         "company_name": "GE Vernova",
         "id": "1c3658f7-3aa0-4dec-aa4f-9663af8dc0ab",
         "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -342824,7 +342824,7 @@
         "company_name": "GE Vernova",
         "id": "15a70935-29b0-4bac-a7eb-3475f8522af0",
         "title": "Hardware Automation and Test Engineering Intern - Critical Infrastructure Communications",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027",
             "Fall 2027"
@@ -342892,7 +342892,7 @@
         "company_name": "GE Vernova",
         "id": "2d3a8372-1fa2-4437-b7fe-7dc9b1d570c1",
         "title": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
@@ -385144,7 +385144,7 @@
         "company_name": "RTX",
         "id": "107197c3-30d5-45c2-b0b2-4a499d03531d",
         "title": "Methods Engineering Intern - Aftermarket & Sustainment Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
