@@ -255137,7 +255137,7 @@
         "company_name": "American Express",
         "id": "b4947a2f-6ea5-4d4a-8cb0-1e08e351d0e9",
         "title": "Product Innovation Intern - Credit & Fraud Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -325630,7 +325630,7 @@
         "company_name": "GE Vernova",
         "id": "adc00b6f-fe39-46b8-a7d1-0f4ea72504eb",
         "title": "CIC Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -325727,7 +325727,7 @@
         "company_name": "GE Vernova",
         "id": "90873fc6-265d-4b32-9cdf-b4ce1e206cca",
         "title": "Software Engineering Co-op - Critical Infrastructure Communication Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -326345,7 +326345,7 @@
         "company_name": "GE Vernova",
         "id": "2e4bf0b0-1d1f-403f-8ce3-50abbbf8a9ee",
         "title": "CIC Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -386401,7 +386401,7 @@
         "company_name": "Daimler Truck",
         "id": "8e3aee20-3ff0-4201-ae08-fa0473f79831",
         "title": "Reliability Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
