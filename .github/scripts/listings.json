@@ -268512,7 +268512,7 @@
         "company_name": "Goldman Sachs",
         "id": "bc2e9762-a592-48ef-9e42-21dfdec88ec4",
         "title": "Quantitative Strategist Associate Intern - Asset and Wealth Management",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -268559,7 +268559,7 @@
         "company_name": "Dedalus Labs",
         "id": "8c8c7d2c-0377-4609-87fb-df719e4b5165",
         "title": "Design Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286440,7 +286440,7 @@
         "company_name": "North Atlantic Industries",
         "id": "9d4cf71d-6b40-40ca-8cb0-f26b01ceccc2",
         "title": "Full Stack Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Fall 2026"
         ],
@@ -286559,7 +286559,7 @@
         "company_name": "Brunswick",
         "id": "87b11195-7636-4d15-98ef-a30cea2dff16",
         "title": "Systems Engineer Co-op - Software Engineering",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Summer 2027"
@@ -289273,7 +289273,7 @@
         "company_name": "Goldman Sachs",
         "id": "bec41fe0-ae4c-44d3-bddd-15ca4a245c18",
         "title": "Summer Associate Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317042,7 +317042,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324372,7 +324372,7 @@
         "company_name": "Goldman Sachs",
         "id": "b6a6b28f-c858-4ef8-b6b4-aeda2206e9ad",
         "title": "Summer Analyst Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324479,7 +324479,7 @@
         "company_name": "Goldman Sachs",
         "id": "9d3e4916-4e1e-4317-83a1-92d2664ed59b",
         "title": "Quantitative Strategist Intern - Americas",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324502,7 +324502,7 @@
         "company_name": "Goldman Sachs",
         "id": "a815c1a3-823d-405a-99ea-e82fbbb247cd",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -351861,7 +351861,7 @@
         "company_name": "Gilead Sciences",
         "id": "8938f71a-17d2-4a94-9a97-7a4c3d974bd2",
         "title": "Kite Development Intern - Tech Ops - Process Development",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2026"
         ],
@@ -351961,7 +351961,7 @@
         "company_name": "Fidelity Investments",
         "id": "562a1131-7b05-4ca4-ba15-e968eb30a31a",
         "title": "Data Scientist Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -356641,7 +356641,7 @@
         "company_name": "CoStar Group",
         "id": "85d55295-0c76-4133-880c-055ce402b526",
         "title": "Technology Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -356710,7 +356710,7 @@
         "company_name": "CoStar Group",
         "id": "54109f9e-2999-4211-9273-b6d34bc06e25",
         "title": "Technology Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -362261,7 +362261,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -364436,7 +364436,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -379961,7 +379961,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "bfd666d6-eb74-40ca-8595-5c0e16820216",
         "title": "Data Operations Engineer AI Co-op - Winter 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -380033,7 +380033,7 @@
         "company_name": "Rodan Energy Solutions",
         "id": "c0b22f53-3c47-45f3-8c12-a94866f7f461",
         "title": "AI Solutions Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -387654,7 +387654,7 @@
         "company_name": "Qumulo",
         "id": "c2cbd149-9096-42ca-b785-b8ab7d96e3cf",
         "title": "Software Development Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -392782,7 +392782,7 @@
         "company_name": "Kinaxis",
         "id": "d3e5ba1e-a291-46e1-a4b3-7da47159deb3",
         "title": "Developer Intern - Back End Technologies",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -394370,7 +394370,7 @@
         "company_name": "Zurn Elkay Water Solutions",
         "id": "897cf111-754d-4f14-9819-92f0de243bae",
         "title": "Embedded Firmware Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -395844,7 +395844,7 @@
         "company_name": "RTX",
         "id": "51b8b3e7-e7d0-4727-9f90-91917bc88230",
         "title": "Software Engineer Intern",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -398722,6 +398722,30 @@
             "Beverly, MA"
         ],
         "company_url": "https://simplify.jobs/c/Axcelis-Technologies",
+        "is_visible": true,
+        "sponsorship": "Other",
+        "degrees": [
+            "Bachelor's"
+        ]
+    },
+    {
+        "source": "Simplify",
+        "category": "Product",
+        "company_name": "UL Solutions",
+        "id": "a273034e-3b57-4e7a-9eaa-23b7e5d751d3",
+        "title": "Product Management Intern",
+        "active": true,
+        "terms": [
+            "Summer 2027"
+        ],
+        "date_updated": 1790763265,
+        "date_posted": 1790633170,
+        "url": "https://fa-eups-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/ULSolutionsCareers/job/10625",
+        "locations": [
+            "Northbrook, IL",
+            "Chicago, IL"
+        ],
+        "company_url": "https://simplify.jobs/c/UL-Solutions",
         "is_visible": true,
         "sponsorship": "Other",
         "degrees": [
