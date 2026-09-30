@@ -227115,7 +227115,7 @@
         "company_name": "Jane Street",
         "id": "4b968d7d-6734-4e0b-b21f-d1b8a7968640",
         "title": "Trading Desk Operations Engineer",
-        "active": false,
+        "active": true,
         "terms": [
             "N/A"
         ],
@@ -268421,7 +268421,7 @@
         "company_name": "Goldman Sachs",
         "id": "8540d9e9-5a90-4ecb-a7f6-b854e696fb8e",
         "title": "Quantitative Strategist Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -268463,7 +268463,7 @@
         "company_name": "Goldman Sachs",
         "id": "629fac72-4880-42e9-b648-cdfa036a00ac",
         "title": "Summer Associate Intern - Multiple Teams",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -317042,7 +317042,7 @@
         "company_name": "NVIDIA",
         "id": "51a4a857-a381-433e-a84a-c418a90df692",
         "title": "Digital Circuit Design Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -324437,7 +324437,7 @@
         "company_name": "Goldman Sachs",
         "id": "60f69f38-4cc3-4dbd-a041-e8208a00725c",
         "title": "Summer Analyst Intern - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324549,7 +324549,7 @@
         "company_name": "Goldman Sachs",
         "id": "814b873c-2c4e-4173-85d1-c90cf9ccc964",
         "title": "Quantitative Strategist Intern - Investment Banking",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -324572,7 +324572,7 @@
         "company_name": "Goldman Sachs",
         "id": "765bb91e-34d7-4746-8e11-8598e700e845",
         "title": "Quantitative Strategist Intern - Americas - The Core Quantitative Strats",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -325902,7 +325902,7 @@
         "company_name": "GE Vernova",
         "id": "420db91a-0b29-457e-8186-9f5dc7eba131",
         "title": "CIC Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027",
             "Spring 2027",
@@ -351961,7 +351961,7 @@
         "company_name": "Fidelity Investments",
         "id": "562a1131-7b05-4ca4-ba15-e968eb30a31a",
         "title": "Data Scientist Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -356710,7 +356710,7 @@
         "company_name": "CoStar Group",
         "id": "54109f9e-2999-4211-9273-b6d34bc06e25",
         "title": "Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -362261,7 +362261,7 @@
         "company_name": "Tencent",
         "id": "560fa8e4-f2ef-44db-b497-9f4c239819fa",
         "title": "Machine Learning Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -364436,7 +364436,7 @@
         "company_name": "APEX Analytix",
         "id": "81f7768f-10a0-4ecd-bed1-3e66d96f5cdb",
         "title": "Automation Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -364482,7 +364482,7 @@
         "company_name": "APEX Analytix",
         "id": "45fec14d-2001-41b9-802c-251d000290e1",
         "title": "Data Engineering Intern - Summer 2027",
-        "active": false,
+        "active": true,
         "terms": [
             "Summer 2027"
         ],
@@ -364769,7 +364769,7 @@
         "company_name": "bioM\u00e9rieux",
         "id": "6b921b31-d209-48f8-a6ae-12349aed6e6b",
         "title": "Hardware Co-op",
-        "active": false,
+        "active": true,
         "terms": [
             "Winter 2026"
         ],
@@ -365112,7 +365112,7 @@
         "company_name": "United Parcel Service",
         "id": "7f81dd9c-a647-4b5b-9e15-0f2ff4bc7fa0",
         "title": "Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -395844,7 +395844,7 @@
         "company_name": "RTX",
         "id": "51b8b3e7-e7d0-4727-9f90-91917bc88230",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -396439,7 +396439,7 @@
         "company_name": "RTX",
         "id": "e2be6625-d7ef-4d57-849c-79d9b8f382c0",
         "title": "Production Hardware Electrical Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
