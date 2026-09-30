@@ -237309,7 +237309,7 @@
         "company_name": "Gitar, Inc.",
         "id": "c8b23aef-956a-4e8f-bf36-9f747b2a67ef",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -313489,7 +313489,7 @@
         "company_name": "Repsol",
         "id": "4d7f5496-acc2-4000-91f7-f4a4fbd5a5b8",
         "title": "Subsurface Engineering Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -393682,7 +393682,7 @@
         "company_name": "RTX",
         "id": "6ea50b0f-5bb0-46f9-9acf-2cb906b4da62",
         "title": "Software Engineer Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
