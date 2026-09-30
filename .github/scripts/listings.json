@@ -239570,7 +239570,7 @@
         "company_name": "GE Aerospace",
         "id": "ceffdfc7-2794-424e-836b-524a7a195428",
         "title": "Embedded Systems Engineer Co-op",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027"
         ],
@@ -250404,7 +250404,7 @@
         "company_name": "American Express",
         "id": "05ab114c-f9d4-45b3-ac84-20227b44db3f",
         "title": "Product Management Intern - Product Innovation - Credit & Fraud Risk",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -280515,7 +280515,7 @@
         "company_name": "RTX",
         "id": "f96bb586-5dba-40b3-ad65-08b6decf9934",
         "title": "Repair & Overhaul Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2027"
         ],
@@ -338030,7 +338030,7 @@
         "company_name": "ABB",
         "id": "06a6fa65-37c0-461f-be1e-748f50cdf55c",
         "title": "Application Engineering Intern - Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
