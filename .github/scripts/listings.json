@@ -356515,7 +356515,7 @@
         "company_name": "Johnson & Johnson",
         "id": "6380881f-a45a-4afd-9856-5388dbf633d9",
         "title": "Postdoctoral Scientist - AI/ML",
-        "active": true,
+        "active": false,
         "terms": [
             "N/A"
         ],
@@ -365577,7 +365577,7 @@
         "company_name": "Elire",
         "id": "575cff72-551d-4520-b574-ee32f9252195",
         "title": "AI Software Developer Intern - Multiple Teams",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -375052,7 +375052,7 @@
         "company_name": "Insperity",
         "id": "59c4465f-c0d4-4d19-b808-988e46c72c88",
         "title": "Rotational Technology Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Winter 2026"
         ],
@@ -382874,7 +382874,7 @@
         "company_name": "Booz Allen",
         "id": "64b4e84b-a833-403e-81dc-0e503d734f8c",
         "title": "Software Developer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
