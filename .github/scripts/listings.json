@@ -1,29 +1,6 @@
 [
     {
         "source": "Simplify",
-        "category": "Software",
-        "company_name": "RTX",
-        "id": "7f67b268-c96b-4731-beaf-df10e4c0ab36",
-        "title": "Intern \u2013 Software Development Intern",
-        "active": false,
-        "terms": [
-            "Summer 2026"
-        ],
-        "date_updated": 1770017982,
-        "date_posted": 1770017982,
-        "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-MA-TEWKSBURY-TB3--50-Apple-Hill-Dr--CONCORD-BLDG-Tewksbury-Tb3-300-Concord/XMLNAME-2026-Intern---Software-Development-Intern---Onsite--MA-_01820700",
-        "locations": [
-            "Tewksbury, MA"
-        ],
-        "company_url": "https://simplify.jobs/c/RTX",
-        "is_visible": true,
-        "sponsorship": "Other",
-        "degrees": [
-            "Bachelor's"
-        ]
-    },
-    {
-        "source": "Simplify",
         "category": "AI/ML/Data",
         "company_name": "The Walt Disney Company",
         "id": "cf11cd8f-dc7a-455f-a905-4da8c2819193",
@@ -237355,7 +237332,7 @@
         "company_name": "Gitar, Inc.",
         "id": "53fcaec4-0e49-4a63-94d1-c52a5741cef0",
         "title": "Software Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2025"
         ],
@@ -282907,7 +282884,7 @@
         "company_name": "The Hartford",
         "id": "82866724-4ab4-4955-9baf-42d63ab200e3",
         "title": "Data Engineer Intern - Technology, Data, AI, and Operations",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -329610,7 +329587,7 @@
         "company_name": "Marvell",
         "id": "704ba07f-0e70-41ce-a17e-face649ad4bc",
         "title": "Firmware Engineer Intern",
-        "active": true,
+        "active": false,
         "terms": [
             "Summer 2027"
         ],
@@ -342404,7 +342381,7 @@
         "company_name": "GE Vernova",
         "id": "c1c9e27d-7a15-4243-bdbe-34a2bc4aa3da",
         "title": "Hardware Automation and Test Engineering Intern - Spring/Summer 2027",
-        "active": true,
+        "active": false,
         "terms": [
             "Spring 2027",
             "Summer 2027"
